@@ -1,0 +1,6 @@
+[2004/06/25][16:23:50][sys_SaveFiles][バックアップ処理開始] 
+[2004/06/25][16:23:50][sys_SaveFiles][イベントログのテキスト化開始] 
+[2004/06/25][16:23:51][sys_SaveFiles][イベントログのテキスト化終了] 
+[2004/06/25][16:23:53][sys_SaveFiles][ISAPIフィルタのログをC:\gunma\logs\isapiに退避] 
+[2004/06/25][16:23:53][sys_SaveFiles][ISAPIフィルタのログを削除C:\jrun4\lib\wsconfig\1\jrun*.log] 
+[2004/06/25][16:23:53][sys_SaveFiles][C:\Documents and Settings\history\Local Settings\Application Data\Microsoft\Windows NT\NTBackup\data*.log→C:\gunma\logs\ntbackupへコピー開始] 

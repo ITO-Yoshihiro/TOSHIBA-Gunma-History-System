@@ -1,0 +1,12 @@
+Macromedia JRun 4 (ビルド 61650)、admin サーバーの開始中
+06/23 20:43:04 info JRun Naming Service は *:2910 上でリスン中
+06/23 20:43:04 info JDBC データソースはこのサーバー用に設定されました (jrun-resources.xml を参照)
+06/23 20:43:05 info JRun Web サーバー は *:8000 上でリスン中
+サーバー admin は準備済み (起動時間: 3 秒)
+06/23 20:43:05 info エンタープライズアプリケーション "JRun Management Console" を file:/C:/JRun4/servers/admin/jmc-app.ear からデプロイ中
+06/23 20:43:05 info Web アプリケーション "JRun Management Console" を file:/C:/JRun4/servers/admin/jmc-app.ear からデプロイ中
+06/23 20:43:05 user JSPServlet: init
+06/24 12:02:25 user FileServlet: init
+06/24 12:02:29 user JMCSession: init
+06/24 12:02:31 user JSTServlet: init
+06/24 12:02:35 user ServerChecker: init

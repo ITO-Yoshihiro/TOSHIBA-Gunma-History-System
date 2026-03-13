@@ -1,0 +1,13 @@
+SERVICE,IISADMIN
+SERVICE,W3SVC
+SERVICE,JRun Admin
+SERVICE,JRun Default
+@SERVICE,hoge
+
+PROCESS,inetinfo.exe
+PROCESS,jrunsvc.exe
+@PROCESS,CMD.EXE
+
+HTTP,http://172.24.91.226,æˆø—š—ğŒŸõƒVƒXƒeƒ€
+@HTTP,http://www.yahoo.co.jp,google
+

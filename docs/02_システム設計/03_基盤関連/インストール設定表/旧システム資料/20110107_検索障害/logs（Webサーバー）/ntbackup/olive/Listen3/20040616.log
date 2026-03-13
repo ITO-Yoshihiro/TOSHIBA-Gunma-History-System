@@ -1,0 +1,64 @@
+2004/06/16 13:58:00 QueueListeners3: 
+jm2.common.UnexpectedException: java.sql.SQLException: ORA-01090: shutdown in progress - connection is not permitted
+
+直接接続に切替え時にエラー[GiveUp]
+	at jm2.dbproxy.BaseDbProxy.getDirectConnection(BaseDbProxy.java:225)
+	at jm2.dbproxy.BaseDbProxy.getConnection(BaseDbProxy.java:201)
+	at jm2.dbproxy.DbTransaction.<init>(DbTransaction.java:56)
+	at history.listener.PDFCreateListener.subOperate(PDFCreateListener.java:77)
+	at history.listener.BaseListener.run(BaseListener.java:248)
+
+2004/06/16 13:58:02 スレッド PDFCREATE の停止を検出しました。処理を終了します。
+2004/06/16 13:58:02 ListenerSupervisor は正常終了しました。
+2004/06/16 14:12:49 ListenerSupervisor は正常に起動しました。
+2004/06/16 14:13:59 ListenerSupervisor は正常に起動しました。
+2004/06/16 14:15:29 ListenerSupervisor は正常に起動しました。
+2004/06/16 14:15:30 QueueListeners3: 
+jm2.common.UnexpectedException: java.sql.SQLException: I/O例外です。: The Network Adapter could not establish the connection
+直接接続に切替え時にエラー[GiveUp]
+	at jm2.dbproxy.BaseDbProxy.getDirectConnection(BaseDbProxy.java:225)
+	at jm2.dbproxy.BaseDbProxy.getConnection(BaseDbProxy.java:201)
+	at jm2.dbproxy.DbTransaction.<init>(DbTransaction.java:56)
+	at history.listener.PDFCreateListener.subOperate(PDFCreateListener.java:77)
+	at history.listener.BaseListener.run(BaseListener.java:248)
+
+2004/06/16 14:15:39 スレッド PDFCREATE の停止を検出しました。処理を終了します。
+2004/06/16 14:15:39 ListenerSupervisor は正常終了しました。
+2004/06/16 14:16:34 ListenerSupervisor は正常に起動しました。
+2004/06/16 14:16:35 QueueListeners3: 
+jm2.common.UnexpectedException: java.sql.SQLException: I/O例外です。: The Network Adapter could not establish the connection
+直接接続に切替え時にエラー[GiveUp]
+	at jm2.dbproxy.BaseDbProxy.getDirectConnection(BaseDbProxy.java:225)
+	at jm2.dbproxy.BaseDbProxy.getConnection(BaseDbProxy.java:201)
+	at jm2.dbproxy.DbTransaction.<init>(DbTransaction.java:56)
+	at history.listener.PDFCreateListener.subOperate(PDFCreateListener.java:77)
+	at history.listener.BaseListener.run(BaseListener.java:248)
+
+2004/06/16 14:16:44 スレッド PDFCREATE の停止を検出しました。処理を終了します。
+2004/06/16 14:16:44 ListenerSupervisor は正常終了しました。
+2004/06/16 15:05:38 ListenerSupervisor は正常に起動しました。
+2004/06/16 15:38:28 ListenerSupervisor は正常に起動しました。
+2004/06/16 15:38:56 ListenerSupervisor は正常に起動しました。
+2004/06/16 15:39:54 ListenerSupervisor は正常に起動しました。
+2004/06/16 15:40:43 ListenerSupervisor は正常に起動しました。
+2004/06/16 15:41:48 ListenerSupervisor は正常に起動しました。
+2004/06/16 15:42:02 ListenerSupervisor は正常に起動しました。
+2004/06/16 15:46:30 ListenerSupervisor は正常に起動しました。
+2004/06/16 15:47:52 ListenerSupervisor は正常に起動しました。
+2004/06/16 15:48:23 ListenerSupervisor は正常に起動しました。
+2004/06/16 15:49:13 スレッド PDFCREATE の停止を検出しました。処理を終了します。
+2004/06/16 15:49:13 ListenerSupervisor は正常終了しました。
+2004/06/16 15:53:37 ListenerSupervisor は正常に起動しました。
+2004/06/16 15:54:37 QueueListeners3: 
+jm2.common.UnexpectedException: java.sql.SQLException: ORA-01017: invalid username/password; logon denied
+
+直接接続に切替え時にエラー[GiveUp]
+	at jm2.dbproxy.BaseDbProxy.getDirectConnection(BaseDbProxy.java:225)
+	at jm2.dbproxy.BaseDbProxy.getConnection(BaseDbProxy.java:201)
+	at jm2.dbproxy.DbTransaction.<init>(DbTransaction.java:56)
+	at history.listener.PDFCreateListener.subOperate(PDFCreateListener.java:77)
+	at history.listener.BaseListener.run(BaseListener.java:248)
+
+2004/06/16 15:54:47 スレッド PDFCREATE の停止を検出しました。処理を終了します。
+2004/06/16 15:54:47 ListenerSupervisor は正常終了しました。
+2004/06/16 15:55:28 ListenerSupervisor は正常に起動しました。

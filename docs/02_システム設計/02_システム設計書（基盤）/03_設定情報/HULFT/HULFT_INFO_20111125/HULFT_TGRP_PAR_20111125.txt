@@ -1,0 +1,33 @@
+#
+# ID=denso01
+#
+
+GRP=denso01
+SERVER DEF
+ trnsv1
+DEFEND
+COMMENT=Kanjyou Kei (data densou server) honban
+END
+
+#
+# ID=denso02
+#
+
+GRP=denso02
+SERVER DEF
+ trnsv2
+DEFEND
+COMMENT=Kanjyou Kei (data densou server) kaihatsu
+END
+
+#
+# ID=neoss01
+#
+
+GRP=neoss01
+SERVER DEF
+ NEOSHAP1
+DEFEND
+COMMENT=denshi chyouhyou server (gaiji henkan)
+END
+

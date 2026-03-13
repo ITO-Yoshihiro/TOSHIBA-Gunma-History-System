@@ -1,0 +1,19 @@
+#Software: Microsoft Internet Information Services 5.0
+#Version: 1.0
+#Date: 2011-01-02 02:03:17
+#Fields: date time c-ip cs-method cs-uri-stem cs-uri-query sc-status sc-win32-status 
+2011-01-02 02:03:17 10.0.25.234 POST /gunma/control - 200 0
+2011-01-02 02:03:17 10.0.25.234 GET /gunma/script/common/btnLock.js - 200 0
+2011-01-02 02:03:17 10.0.25.234 GET /gunma/script/common/goSubmit.js - 200 0
+2011-01-02 02:03:17 10.0.25.234 GET /gunma/script/history/common/funckey.js - 200 0
+2011-01-02 02:03:53 10.0.25.234 POST /gunma/control - 200 0
+2011-01-02 02:03:53 10.0.25.234 GET /gunma/script/common/btnLock.js - 200 0
+2011-01-02 02:03:53 10.0.25.234 GET /gunma/script/common/goSubmit.js - 200 0
+2011-01-02 02:03:53 10.0.25.234 GET /gunma/script/history/common/funckey.js - 200 0
+2011-01-02 02:20:30 127.0.0.1 GET /gunma/control executer=maintenance.prop_chg&name=operation.mode&value=3 200 0
+#Software: Microsoft Internet Information Services 5.0
+#Version: 1.0
+#Date: 2011-01-02 02:29:12
+#Fields: date time c-ip cs-method cs-uri-stem cs-uri-query sc-status sc-win32-status 
+2011-01-02 02:29:12 127.0.0.1 GET /gunma/control executer=maintenance.prop_chg&name=operation.mode&value=0 200 0
+2011-01-02 02:29:43 127.0.0.1 GET /gunma/control executer=maintenance.prop_chg&name=operation.mode&value=1 200 0

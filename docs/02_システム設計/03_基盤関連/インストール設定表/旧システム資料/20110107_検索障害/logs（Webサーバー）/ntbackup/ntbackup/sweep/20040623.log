@@ -1,0 +1,60 @@
+[2004/06/23][19:22:33][sys_Sweep_Daily][sys_Sweep_Daily開始] 
+[2004/06/23][19:22:33][sys_Sweep_Daily][ログ削除開始] 
+ntbackup  
+Deleted file = 1
+strup  
+Deleted file = 1
+w3svc1  
+Deleted file = 0
+svf  
+Deleted file = 0
+sweep  
+Deleted file = 1
+isapi  
+Deleted file = 0
+C:\gunma\logs\olive\.  
+Deleted file = 0
+C:\gunma\logs\olive\control\.  
+Deleted file = 0
+C:\gunma\logs\olive\csv\.  
+Deleted file = 0
+C:\gunma\logs\olive\Listen3\.  
+Deleted file = 0
+C:\gunma\logs\olive\svf\.  
+Deleted file = 1
+D:\gunma\data\pdf  
+Deleted file = 0
+D:\gunma\data\xml  
+Deleted file = 0
+[2004/06/23][19:22:37][sys_Sweep_Daily][ログ削除終了] 
+[2004/06/23][19:22:37][sys_Sweep_Daily][sys_Sweep_Daily終了] 
+[2004/06/23][23:30:00][sys_Sweep_Daily][sys_Sweep_Daily開始] 
+[2004/06/23][23:30:00][sys_Sweep_Daily][ログ削除開始] 
+ntbackup  
+Deleted file = 0
+strup  
+Deleted file = 0
+w3svc1  
+Deleted file = 0
+svf  
+Deleted file = 0
+sweep  
+Deleted file = 0
+isapi  
+Deleted file = 0
+C:\gunma\logs\olive\.  
+Deleted file = 0
+C:\gunma\logs\olive\control\.  
+Deleted file = 0
+C:\gunma\logs\olive\csv\.  
+Deleted file = 0
+C:\gunma\logs\olive\Listen3\.  
+Deleted file = 0
+C:\gunma\logs\olive\svf\.  
+Deleted file = 0
+D:\gunma\data\pdf  
+Deleted file = 0
+D:\gunma\data\xml  
+Deleted file = 0
+[2004/06/23][23:30:04][sys_Sweep_Daily][ログ削除終了] 
+[2004/06/23][23:30:04][sys_Sweep_Daily][sys_Sweep_Daily終了] 

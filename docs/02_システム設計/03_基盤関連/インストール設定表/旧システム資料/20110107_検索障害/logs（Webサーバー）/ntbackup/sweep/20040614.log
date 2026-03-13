@@ -1,0 +1,28 @@
+[2004/06/14][23:30:00][sys_Sweep_Daily][sys_Sweep_Daily開始] 
+[2004/06/14][23:30:00][sys_Sweep_Daily][ログ削除開始] 
+ntbackup  
+Deleted file = 0
+strup  
+Deleted file = 0
+w3svc1  
+Deleted file = 0
+svf  
+Deleted file = 0
+sweep  
+Deleted file = 0
+isapi  
+Deleted file = 0
+C:\gunma\logs\olive\.  
+Deleted file = 0
+C:\gunma\logs\olive\control\.  
+Deleted file = 0
+C:\gunma\logs\olive\csv\.  
+Deleted file = 0
+C:\gunma\logs\olive\Listen3\.  
+Deleted file = 0
+C:\gunma\logs\olive\svf\.  
+Deleted file = 0
+D:\gunma\data\pdf  
+Deleted file = 0
+[2004/06/14][23:30:03][sys_Sweep_Daily][ログ削除終了] 
+[2004/06/14][23:30:03][sys_Sweep_Daily][sys_Sweep_Daily終了] 

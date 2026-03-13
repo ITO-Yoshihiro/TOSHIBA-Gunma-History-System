@@ -1,0 +1,33 @@
+#
+# ID=callreg
+#
+
+JOB=callreg
+JOB DEF
+ /export/home/hist/dbserver/COM/RecMv.sh $FILENM
+DEFEND
+COMMENT=Touroku Syori Yobidashi Syori
+END
+
+#
+# ID=hulmsg0
+#
+
+JOB=hulmsg0
+JOB DEF
+ /export/home/hist/dbserver/COM/hulmsg 1 $STATUS $FILENM
+DEFEND
+COMMENT=Normal End
+END
+
+#
+# ID=hulmsg9
+#
+
+JOB=hulmsg9
+JOB DEF
+ /export/home/hist/dbserver/COM/hulmsg 2 $STATUS $FILENM
+DEFEND
+COMMENT=Abnormal End
+END
+

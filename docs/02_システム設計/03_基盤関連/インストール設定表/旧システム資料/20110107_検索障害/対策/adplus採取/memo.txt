@@ -1,0 +1,22 @@
+■使い方
+　①任意のフォルダに以下を配置する。
+　　[adplus.bat]
+　　[Debugging Tools for Windows (x86)]
+
+　②[adplus.bat]をエディタで開き、以下を編集する。
+　　[set OUT_PATH="C:\temp"]
+　　→dumpファイルの出力先
+　　[set BIN_PATH="C:\temp\Debugging Tools for Windows (x86)"]
+　　→[Debugging Tools for Windows (x86)]の配置パス
+
+　③現象再発時に[adplus.bat]を実行する。
+　　実行後、ウィンドウが新規で開き（２つ）dump採取される。
+　　採取時間は環境に依存、多少時間がかかる。（保守環境では1分程度）
+
+　　採取されたdumpは上記で指定されたパスに以下の命名のディレクトリで保存される。
+　　[Hang_Mode__Date_<MM>-<DD>-<YYYY>__Time_<HH>-<MM>-<SSSS>]
+　　例：[Hang_Mode__Date_01-12-2011__Time_17-16-0101]
+　　採取ファイルサイズも環境に依存。（保守環境では30～40MB）
+
+
+

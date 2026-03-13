@@ -1,0 +1,39 @@
+[2004/06/16][15:53:13][sys_WebStart][sys_WebStart開始] 
+[2004/06/16][15:53:13][sys_WebStart][個別終了ファイル削除(D:\gunma\data\exitfile\*.*)] 
+[2004/06/16][15:53:14][sys_WebStart]["Macromedia JRun Admin Server"サービスを起動中] 
+[2004/06/16][15:53:15][sys_WebStart]["Macromedia JRun Admin Server"サービス起動完了] 
+[2004/06/16][15:53:16][sys_WebStart]["Macromedia JRun Default Server"サービスを起動中] 
+[2004/06/16][15:53:18][sys_WebStart]["Macromedia JRun Default Server"サービス起動完了] 
+[2004/06/16][15:53:29][sys_WebStart][運用モードを「サービス開始中：'0'」に設定開始] 
+OK
+
+
+<!--
+//
+// システム: 取引履歴検索システム
+//
+// File Name: PropChg.jsp
+//
+// Copyright (c) 2003 TOSHIBA IT-SOLUTIONS Co.All Rights Reserved.
+//
+//
+-->
+[2004/06/16][15:53:32][sys_WebStart][運用モードを「サービス開始中：'0'」に設定完了] 
+[2004/06/16][15:53:35][sys_WebStart][リスナーの起動開始] 
+[2004/06/16][15:53:36][sys_WebStart][リスナーの起動完了] 
+[2004/06/16][15:53:40][sys_WebStart][運用モードを「サービス開始：'1'」に設定開始] 
+OK
+
+
+<!--
+//
+// システム: 取引履歴検索システム
+//
+// File Name: PropChg.jsp
+//
+// Copyright (c) 2003 TOSHIBA IT-SOLUTIONS Co.All Rights Reserved.
+//
+//
+-->
+[2004/06/16][15:53:42][sys_WebStart][運用モードを「サービス開始：'1'」に設定完了] 
+[2004/06/16][15:53:46][sys_WebStart][sys_WebStart終了] 

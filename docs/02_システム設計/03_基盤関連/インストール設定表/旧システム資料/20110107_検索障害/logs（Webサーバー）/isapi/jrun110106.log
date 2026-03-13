@@ -1,0 +1,5 @@
+2011-01-06 13:28:22 jrISAPI[7664:1140] command error: Connection reset by peer <- [1976]
+2011-01-06 13:28:22 jrISAPI[7000:1140] command error: Connection reset by peer <- [1792]
+2011-01-06 13:28:22 jrISAPI[7664:1140] returning error page for Connection reset by peer
+2011-01-06 13:28:22 jrISAPI[7000:1140] returning error page for Connection reset by peer
+2011-01-06 13:28:23 jrISAPI[8328:1140] returning error page for Connection refused

@@ -1,0 +1,11 @@
+2004/06/22 11:55:19 QueueListeners3: 
+jm2.common.UnexpectedException: java.sql.SQLException: ソケットから読み込むデータはこれ以上ありません。
+getbyCorreId CorrID[null] OracleErrCode[17410]
+	at jm2.aqproxy.BaseAqProxy.getbyCorreId(BaseAqProxy.java:298)
+	at history.aqproxy.PDFCreateResProxy.receiveMessage(PDFCreateResProxy.java:78)
+	at history.listener.PDFCreateListener.subOperate(PDFCreateListener.java:82)
+	at history.listener.BaseListener.run(BaseListener.java:248)
+
+2004/06/22 11:55:23 スレッド PDFCREATE の停止を検出しました。処理を終了します。
+2004/06/22 11:55:23 ListenerSupervisor は正常終了しました。
+2004/06/22 12:04:42 ListenerSupervisor は正常に起動しました。

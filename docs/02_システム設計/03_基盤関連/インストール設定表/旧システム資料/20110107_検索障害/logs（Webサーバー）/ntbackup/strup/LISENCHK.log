@@ -1,0 +1,302 @@
+
+
+
+
+
+
+
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
+<html>
+<head>
+<META http-equiv="Content-Type" content="text/html; charset=Shift_JIS">
+<title>Exception Page</title>
+<!-- <link rel=stylesheet href="/gunma/historystyle.css" type="text/css"> -->
+<STYLE TYPE="text/css">
+A:link{
+	color:#0000ff;
+}
+A:visited{
+	color:#8000080;
+}
+<!-- 入力TAG -->
+<!--	ime-mode: inactive; -->
+INPUT{
+	font-size: 9pt;
+	font-family:"ＭＳ Ｐゴシック";
+}
+<!-- リストボックス -->
+SELECT{
+	font-size: 9pt;
+	font-family:"ＭＳ Ｐゴシック";
+}
+<!-- テーブル見出し -->
+TH{
+	background: #fff2d9;
+}
+<!-- 時刻 -->
+.datetime{
+	text-align:right;
+	font-size:11pt;
+	font-family:"ＭＳ Ｐゴシック";
+}
+<!-- 画面見出し -->
+.midashi{
+	text-align:center;
+	font-size:18pt;
+	font-family:"ＭＳ Ｐゴシック";
+}
+<!-- ヘルプ見出し -->
+.helpmidashi{
+	text-align:center;
+	font-size:12pt;
+	color:#0000ff;
+	font-family:"ＭＳ Ｐゴシック";
+}
+<!-- 共通ヘッダ情報 -->
+.menuinfo{
+	font-size:10pt;
+	font-family:"ＭＳ Ｐゴシック";
+}
+<!-- 単数ラベル -->
+.komoku{
+	font-size:10pt;
+	font-weight: bold;
+	font-family:"ＭＳ Ｐゴシック";
+}
+<!-- 凡例 -->
+.komoku1{
+	font-size:10pt;
+	font-family:"ＭＳ Ｐゴシック";
+}
+<!-- 一括ラベル -->
+.komoku2{
+	text-align:center;
+	font-size:10pt;
+	font-weight: bold;
+	font-family:"ＭＳ Ｐゴシック";
+}
+<!-- ディレード・テキスト -->
+.komoku4{
+	text-align:center;
+	font-size:9pt;
+	font-family:"ＭＳ Ｐゴシック";
+}
+<!-- アスタリスク・その他赤文字 -->
+.asterisk{
+	font-size:10pt;
+	font-weight: bold;
+	color:#CC0000;
+	font-family:"ＭＳ Ｐゴシック";
+}
+<!-- 科目リスト -->
+.kmksel{
+	font-size:10pt;
+	width:60;
+	font-family:"ＭＳ Ｐゴシック";
+}
+<!-- メニューボタン右寄せ -->
+.menubutton_right{
+	align:center;
+	float:right;
+	font-size:14.0pt;
+	width:325;
+	background:#CCCCCC;
+	font-family:"ＭＳ Ｐゴシック";
+}
+<!-- メニューボタン左寄せ -->
+.menubutton_left{
+	align:center;
+	float:left;
+	font-size:14.0pt;
+	width:325;
+	background:#CCCCCC;
+	font-family:"ＭＳ Ｐゴシック";
+}
+<!-- メニューボタン中央 -->
+.menubutton_center{
+	align:center;
+	float:center;
+	font-size:14.0pt;
+	width:150;
+	background:#CCCCCC;
+	font-family:"ＭＳ Ｐゴシック";
+}
+<!-- ボタン -->
+.button{
+	align:center;
+	width:60;
+	font-size:10pt;
+	background:#CCCCCC;
+	font-family:"ＭＳ Ｐゴシック";
+}
+<!-- コピーボタン -->
+.copy_button{
+	align:center;
+	width:40;
+	font-size:10pt;
+	background:#CCCCCC;
+	font-family:"ＭＳ Ｐゴシック";
+}
+<!-- ログイン画面ボタン -->
+.login_button{
+	align:center;
+	width:80;
+	font-size:10pt;
+	background:#CCCCCC;
+	font-family:"ＭＳ Ｐゴシック";
+}
+<!-- その他ボタン -->
+.button_other{
+	align:center;
+	font-size:10pt;
+	background:#CCCCCC;
+	font-family:"ＭＳ Ｐゴシック";
+}
+<!-- エラーメッセージ -->
+.errMsg{
+	border-style:outset;
+	text-align:center;
+	background-color:#ffddcc;
+	font-size:10pt;
+	font-family:"ＭＳ Ｐゴシック";
+	font-weight:bold;
+}
+<!-- ボディー -->
+BODY{
+	background:#fff2d9;
+	font-size: 11pt;
+	font-family:"ＭＳ Ｐゴシック";
+}
+
+<!--
+@MEDIA screen{
+	.nodisp {display: none;}
+}
+@MEDIA print{
+	.noprint {display: none;}
+}
+-->
+
+</STYLE>
+
+
+<!--
+//
+// システム: 取引履歴検索システム
+//
+// File Name: style.jsp
+//
+// Copyright (c) 2003 TOSHIBA IT-SOLUTIONS Co.All Rights Reserved.
+//
+// @version V1.0.0 2003/09/04 東芝 ヒストリ共通化対応<BR>
+//          V1.0.1 2003/10/01 東芝 北陸銀行対応<BR>
+//          V2.0.0 2004/01/05 東芝 科目リスト追加<BR>
+//          V2.0.1 2004/05/10 東芝 科目リスト幅変更(width:80→60)<BR>
+//
+-->
+
+<SCRIPT SRC="/gunma/script/common/btnLock.js"></SCRIPT>
+<SCRIPT SRC="/gunma/script/common/goSubmit.js"></SCRIPT>
+<SCRIPT SRC="/gunma/script/history/common/funckey.js"></SCRIPT>
+<SCRIPT LANG="JavaScript">
+<!--
+function BackDisp(p_form) {
+putButton = 1;
+	goSubmit(p_form, "history.logout");
+}
+document.onkeydown = funcKey;
+document.onkeypress = funcKey;
+document.onkeyup = funcKey;
+document.onmousedown = funcMouse;
+window.onbeforeunload = clWin;
+// -->
+</SCRIPT>
+</head>
+<BODY>
+
+<div class="midashi">【エラー】</div>
+<div class="datetime">2004/06/15 20:38:03</div>
+<center>
+<h3>
+エラーが発生しました。<br>
+再度メニューから「取引履歴システム」の選択から行ってください。
+</h3>
+<table border>
+<tr>
+<td>java.io.FileNotFoundException: /jsp/maintenance/Disp.jsp
+N/A</td>
+</tr>
+</table>
+<form method="POST" action="/gunma/control" name="main">
+<input type="hidden" name="executer" value="history.logout">
+
+<table>
+<tr>
+<TD><BUTTON class="button_other" TYPE="button" onClick="BackDisp(this.form)">取引履歴システム　終了</BUTTON></TD>
+<TD><BUTTON class="button_other" TYPE="button" onClick='print()'>画面印刷</TD>
+</tr>
+</table>
+</form>
+
+
+
+
+
+
+
+<TABLE BORDER>
+<CAPTION>パラメータ情報</CAPTION>
+<TR><TH>Name</TH><TH>Parameter</TH></TR>
+
+<TR><TH ALIGN="left">value</TH><TD>3</TD></TR>
+
+<TR><TH ALIGN="left">name</TH><TD>operation.mode</TD></TR>
+
+<TR><TH ALIGN="left">executer</TH><TD>maintenance.Disp</TD></TR>
+
+</TABLE>
+<P>
+<TABLE BORDER>
+<CAPTION>リクエスト情報</CAPTION>
+<TR><TH>Name</TH><TH>Attribute</TH></TR>
+
+<TR><TH ALIGN="left">jm2.errmsg</TH><TD>size=0</TD></TR>
+
+<TR><TH ALIGN="left">javax.servlet.jsp.jspException</TH><TD>jm2.common.UnexpectedException</TD></TR>
+
+<TR><TH ALIGN="left">jm2.result</TH><TD>java.util.TreeMap</TD></TR>
+
+</TABLE>
+<P>
+<TABLE BORDER>
+<CAPTION>セッション情報</CAPTION>
+<TR><TH>Name</TH><TH>Attribute</TH></TR>
+
+
+<!--
+//
+// システム: 取引履歴検索システム
+//
+// File Name: Dump.jsp
+//
+// Copyright (c) 2003 TOSHIBA IT-SOLUTIONS Co.All Rights Reserved.
+//
+//
+-->
+
+
+</center>
+</body>
+<BR><BR>
+</html>
+
+<!--
+//
+// システム: 取引履歴検索システム
+//
+// File Name: Error.jsp
+//
+// Copyright (c) 2003 TOSHIBA IT-SOLUTIONS Co.All Rights Reserved.
+//
+//
+-->

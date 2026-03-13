@@ -1,0 +1,22 @@
+2004-06-08 18:32:30 jrISAPI[init:1132] JRun ISAPI Extension DLL Detaching (FreeLibrary)
+2004-06-08 18:32:33 jrISAPI[init:1132] JRun 4.0 (Build 61650) JRun ISAPI Extension - May 29 2003 09:37:45
+2004-06-08 18:32:33 jrISAPI[init:1132] JRun ISAPI Extension DLL Attaching
+2004-06-08 18:32:33 jrISAPI[init:1132] JRun 4.0 (Build 61650) JRun ISAPI Filter - May 29 2003 09:37:47
+2004-06-08 18:35:32 jrISAPI[init:1132] JRun ISAPI Extension DLL Detaching (FreeLibrary)
+2004-06-08 18:35:35 jrISAPI[init:1132] JRun 4.0 (Build 61650) JRun ISAPI Extension - May 29 2003 09:37:45
+2004-06-08 18:35:35 jrISAPI[init:1132] JRun ISAPI Extension DLL Attaching
+2004-06-08 18:35:35 jrISAPI[init:1132] JRun 4.0 (Build 61650) JRun ISAPI Filter - May 29 2003 09:37:47
+2004-06-08 18:36:45 jrISAPI[init:1132] JRun ISAPI Extension DLL Detaching (FreeLibrary)
+2004-06-08 18:40:40 jrISAPI[init:1036] JRun 4.0 (Build 61650) JRun ISAPI Extension - May 29 2003 09:37:45
+2004-06-08 18:40:41 jrISAPI[init:1036] could not initialize Server_1:127.0.0.1:51000
+2004-06-08 18:40:41 jrISAPI[init:1036] Couldn't initialize from remote server, JRun server(s) probably down.
+2004-06-08 18:40:41 jrISAPI[init:1036] JRun ISAPI Extension DLL Attaching
+2004-06-08 18:40:41 jrISAPI[init:1036] JRun 4.0 (Build 61650) JRun ISAPI Filter - May 29 2003 09:37:47
+2004-06-08 18:57:49 jrISAPI[init:1036] JRun ISAPI Extension DLL Detaching (FreeLibrary)
+2004-06-08 19:03:42 jrISAPI[init:1628] JRun 4.0 (Build 61650) JRun ISAPI Extension - May 29 2003 09:37:45
+2004-06-08 19:03:42 jrISAPI[init:1628] JRun ISAPI Extension DLL Attaching
+2004-06-08 19:03:42 jrISAPI[init:1628] JRun 4.0 (Build 61650) JRun ISAPI Filter - May 29 2003 09:37:47
+2004-06-08 19:04:54 jrISAPI[init:1628] JRun ISAPI Extension DLL Detaching (FreeLibrary)
+2004-06-08 19:05:52 jrISAPI[init:1628] JRun 4.0 (Build 61650) JRun ISAPI Extension - May 29 2003 09:37:45
+2004-06-08 19:05:52 jrISAPI[init:1628] JRun ISAPI Extension DLL Attaching
+2004-06-08 19:05:52 jrISAPI[init:1628] JRun 4.0 (Build 61650) JRun ISAPI Filter - May 29 2003 09:37:47

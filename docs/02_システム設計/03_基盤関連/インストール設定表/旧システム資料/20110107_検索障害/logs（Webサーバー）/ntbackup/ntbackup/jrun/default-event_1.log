@@ -1,0 +1,928 @@
+# 06/24 12:05:12 JRun により作成
+06/24 12:05:12 info Web アプリケーション "KENSE" を file:/C:/JRun4/servers/default/kense.war からデプロイ中
+06/24 12:05:12 user JSPServlet: init
+06/24 12:05:12 user HistoryServlet: init
+06/24 12:05:23 info デプロイヤサービスは監視する URL file:/C:/JRun4/servers/default/kense.war をアンデプロイしています
+06/24 12:05:23 user HistoryServlet: destroy
+06/24 12:05:23 info サーブレットエンジンサービスから Web アプリケーションサービスを削除中: kense.war
+06/24 12:05:23 info Web アプリケーション "KENSE" を file:/C:/JRun4/servers/default/kense.war からデプロイ中
+06/24 12:05:24 user JSPServlet: init
+06/24 12:05:24 user HistoryServlet: init
+06/24 12:05:36 user HistoryServlet: destroy
+06/24 12:05:36 user FileServlet: destroy
+06/24 12:05:36 user HistoryServlet: destroy
+06/24 12:05:36 user Context 破棄
+06/24 12:05:43 info JRunDataSource は HISTORA という名で JNDI にバインドされました
+06/24 12:05:43 info JRun DataSourceService: HISTORA という名前の JDBC XA 接続プールを作成しました
+06/24 12:05:43 info "DefaultDataSource" からデフォルトデータソース "HISTORA" への LinkRef  をバインドしました
+06/24 12:05:43 info JRun プロキシサーバー は *:51000 上でリスン中
+06/24 12:05:43 info Web アプリケーション "GUNMA" を file:/C:/JRun4/servers/default/gunma.war からデプロイ中
+06/24 12:05:43 user JSPServlet: init
+06/24 12:05:43 user HistoryServlet: init
+06/24 12:05:43 user Context 初期化: Version=2.3
+06/24 12:05:43 user Context 初期化 ログインユーザテーブル初期化完了
+06/24 12:05:43 info Web アプリケーション "KENSE" を file:/C:/JRun4/servers/default/kense.war からデプロイ中
+06/24 12:05:43 user JSPServlet: init
+06/24 12:05:44 user HistoryServlet: init
+06/24 12:05:50 user start [ 172.24.91.117 N/A ] executer: history.login
+06/24 12:05:50 user end [ 172.24.91.117 N/A ] executer: history.login elapse: 234 executer_class: history.login.LoginExecuter sts: OK jsp: /jsp/history/menu/menu.jsp
+06/24 12:05:51 user FileServlet: init
+06/24 12:05:55 user start [ 172.24.91.117 76301339781088046350328 ] executer: history.logout
+06/24 12:05:55 user end [ 172.24.91.117 76301339781088046350328 ] executer: history.logout elapse: 0 executer_class: history.logout.LogoutExecuter sts: OK jsp: /jsp/history/logout/logout.jsp
+06/24 12:06:01 user start [ 172.24.91.117 N/A ] executer: history.logout.close
+06/24 12:06:01 user end [ 172.24.91.117 N/A ] executer: history.logout.close elapse: 15 executer_class: history.logout.LogoutExecuter sts: OK jsp: /jsp/history/logout/logoutClose.jsp
+06/24 12:10:43 user FileServlet: destroy
+06/24 12:10:43 user HistoryServlet: destroy
+06/24 12:10:43 user HistoryServlet: destroy
+06/24 12:10:43 user Context 破棄
+06/24 12:10:49 info JRunDataSource は HISTORA という名で JNDI にバインドされました
+06/24 12:10:49 info JRun DataSourceService: HISTORA という名前の JDBC XA 接続プールを作成しました
+06/24 12:10:49 info "DefaultDataSource" からデフォルトデータソース "HISTORA" への LinkRef  をバインドしました
+06/24 12:10:49 info JRun プロキシサーバー は *:51000 上でリスン中
+06/24 12:10:50 info Web アプリケーション "GUNMA" を file:/C:/JRun4/servers/default/gunma.war からデプロイ中
+06/24 12:10:50 user JSPServlet: init
+06/24 12:10:50 user HistoryServlet: init
+06/24 12:10:50 user Context 初期化: Version=2.3
+06/24 12:10:50 user Context 初期化 ログインユーザテーブル初期化完了
+06/24 12:10:50 info Web アプリケーション "KENSE" を file:/C:/JRun4/servers/default/kense.war からデプロイ中
+06/24 12:10:50 user JSPServlet: init
+06/24 12:10:51 user HistoryServlet: init
+06/24 12:11:06 user start [ 172.24.91.117 N/A ] executer: history.login
+06/24 12:11:06 user end [ 172.24.91.117 N/A ] executer: history.login elapse: 219 executer_class: history.login.LoginExecuter sts: OK jsp: /jsp/history/menu/menu.jsp
+06/24 12:13:09 user HistoryServlet: destroy
+06/24 12:13:09 user HistoryServlet: destroy
+06/24 12:13:09 user Context 破棄
+06/24 12:13:16 info JRunDataSource は HISTORA という名で JNDI にバインドされました
+06/24 12:13:16 info JRun DataSourceService: HISTORA という名前の JDBC XA 接続プールを作成しました
+06/24 12:13:16 info "DefaultDataSource" からデフォルトデータソース "HISTORA" への LinkRef  をバインドしました
+06/24 12:13:16 info JRun プロキシサーバー は *:51000 上でリスン中
+06/24 12:13:16 info Web アプリケーション "GUNMA" を file:/C:/JRun4/servers/default/gunma.war からデプロイ中
+06/24 12:13:16 user JSPServlet: init
+06/24 12:13:16 user HistoryServlet: init
+06/24 12:13:16 user Context 初期化: Version=2.3
+06/24 12:13:17 user Context 初期化 ログインユーザテーブル初期化完了
+06/24 12:13:17 info Web アプリケーション "KENSE" を file:/C:/JRun4/servers/default/kense.war からデプロイ中
+06/24 12:13:17 user JSPServlet: init
+06/24 12:13:17 user HistoryServlet: init
+06/24 12:13:21 user start [ 172.24.91.117 N/A ] executer: history.login
+06/24 12:13:21 user end [ 172.24.91.117 N/A ] executer: history.login elapse: 187 executer_class: history.login.LoginExecuter sts: OK jsp: /jsp/history/menu/menu.jsp
+06/24 12:14:20 user start [ 172.24.91.117 N/A ] executer: history.login
+06/24 12:14:20 user end [ 172.24.91.117 N/A ] executer: history.login elapse: 63 executer_class: history.login.LoginExecuter sts: OK jsp: /jsp/history/menu/menu.jsp
+06/24 12:14:21 user FileServlet: init
+06/24 12:14:25 user start [ 172.24.91.117 76301346571088046860421 ] executer: history.enquirylist.form
+06/24 12:14:26 user end [ 172.24.91.117 76301346571088046860421 ] executer: history.enquirylist.form elapse: 563 executer_class: history.enquirylist.EnquiryListHeadExecuter sts: OK jsp: /jsp/history/enquirylist/EnquiryListHead.jsp
+06/24 12:14:27 user FileServlet: init
+06/24 12:14:32 user start [ 172.24.91.117 76301346571088046860421 ] executer: history.menu.form
+06/24 12:14:32 user end [ 172.24.91.117 76301346571088046860421 ] executer: history.menu.form elapse: 32 executer_class: history.menu.MenuFormExecuter sts: OK jsp: /jsp/history/menu/menu.jsp
+06/24 12:14:36 user start [ 172.24.91.117 76301346571088046860421 ] executer: history.logout
+06/24 12:14:36 user end [ 172.24.91.117 76301346571088046860421 ] executer: history.logout elapse: 15 executer_class: history.logout.LogoutExecuter sts: OK jsp: /jsp/history/logout/logout.jsp
+06/24 12:14:41 user start [ 172.24.91.117 N/A ] executer: history.logout.close
+06/24 12:14:41 user end [ 172.24.91.117 N/A ] executer: history.logout.close elapse: 16 executer_class: history.logout.LogoutExecuter sts: OK jsp: /jsp/history/logout/logoutClose.jsp
+06/24 12:19:53 user FileServlet: destroy
+06/24 12:19:53 user HistoryServlet: destroy
+06/24 12:19:53 user FileServlet: destroy
+06/24 12:19:53 user HistoryServlet: destroy
+06/24 12:19:53 user Context 破棄
+06/24 12:19:59 info JRunDataSource は HISTORA という名で JNDI にバインドされました
+06/24 12:19:59 info JRun DataSourceService: HISTORA という名前の JDBC XA 接続プールを作成しました
+06/24 12:19:59 info "DefaultDataSource" からデフォルトデータソース "HISTORA" への LinkRef  をバインドしました
+06/24 12:19:59 info JRun プロキシサーバー は *:51000 上でリスン中
+06/24 12:20:00 info Web アプリケーション "GUNMA" を file:/C:/JRun4/servers/default/gunma.war からデプロイ中
+06/24 12:20:00 user JSPServlet: init
+06/24 12:20:00 user HistoryServlet: init
+06/24 12:20:00 user Context 初期化: Version=2.3
+06/24 12:20:00 user Context 初期化 ログインユーザテーブル初期化完了
+06/24 12:20:00 info Web アプリケーション "KENSE" を file:/C:/JRun4/servers/default/kense.war からデプロイ中
+06/24 12:20:00 user JSPServlet: init
+06/24 12:20:01 user HistoryServlet: init
+06/24 12:20:02 user start [ 172.24.91.117 N/A ] executer: history.login
+06/24 12:20:03 user end [ 172.24.91.117 N/A ] executer: history.login elapse: 203 executer_class: history.login.LoginExecuter sts: OK jsp: /jsp/history/menu/menu.jsp
+06/24 12:20:04 user FileServlet: init
+06/24 12:20:06 user start [ 172.24.91.117 76302491991088047202890 ] executer: history.enquirylist.form
+06/24 12:20:06 user end [ 172.24.91.117 76302491991088047202890 ] executer: history.enquirylist.form elapse: 203 executer_class: history.enquirylist.EnquiryListHeadExecuter sts: NG jsp: /jsp/history/enquirylist/EnquiryListHead.jsp
+06/24 12:20:36 user start [ 172.24.91.117 76302491991088047202890 ] executer: history.enquirylist.form
+06/24 12:20:37 user end [ 172.24.91.117 76302491991088047202890 ] executer: history.enquirylist.form elapse: 218 executer_class: history.enquirylist.EnquiryListHeadExecuter sts: NG jsp: /jsp/history/enquirylist/EnquiryListHead.jsp
+06/24 12:20:41 user start [ 172.24.91.117 76302491991088047202890 ] executer: history.menu.form
+06/24 12:20:41 user end [ 172.24.91.117 76302491991088047202890 ] executer: history.menu.form elapse: 31 executer_class: history.menu.MenuFormExecuter sts: OK jsp: /jsp/history/menu/menu.jsp
+06/24 12:20:42 user start [ 172.24.91.117 76302491991088047202890 ] executer: history.logout
+06/24 12:20:42 user end [ 172.24.91.117 76302491991088047202890 ] executer: history.logout elapse: 0 executer_class: history.logout.LogoutExecuter sts: OK jsp: /jsp/history/logout/logout.jsp
+06/24 12:20:48 user start [ 172.24.91.117 N/A ] executer: history.logout.close
+06/24 12:20:48 user end [ 172.24.91.117 N/A ] executer: history.logout.close elapse: 16 executer_class: history.logout.LogoutExecuter sts: OK jsp: /jsp/history/logout/logoutClose.jsp
+06/24 12:21:15 user start [ 172.24.91.117 N/A ] executer: history.login
+06/24 12:21:16 user end [ 172.24.91.117 N/A ] executer: history.login elapse: 62 executer_class: history.login.LoginExecuter sts: OK jsp: /jsp/history/menu/menu.jsp
+06/24 12:21:17 user start [ 172.24.91.117 76303364431088047275953 ] executer: history.enquirylist.form
+06/24 12:21:17 user end [ 172.24.91.117 76303364431088047275953 ] executer: history.enquirylist.form elapse: 78 executer_class: history.enquirylist.EnquiryListHeadExecuter sts: OK jsp: /jsp/history/enquirylist/EnquiryListHead.jsp
+06/24 12:21:18 error リクエストされたリソース /kense/XML/0000222.xml は見つかりませんでした
+06/24 12:21:22 user start [ 172.24.91.117 76303364431088047275953 ] executer: history.enquirylist.form
+06/24 12:21:22 user end [ 172.24.91.117 76303364431088047275953 ] executer: history.enquirylist.form elapse: 187 executer_class: history.enquirylist.EnquiryListHeadExecuter sts: OK jsp: /jsp/history/enquirylist/EnquiryListHead.jsp
+06/24 12:21:23 error リクエストされたリソース /kense/XML/0000223.xml は見つかりませんでした
+06/24 12:21:32 user start [ 172.24.91.117 76303364431088047275953 ] executer: history.menu.form
+06/24 12:21:32 user end [ 172.24.91.117 76303364431088047275953 ] executer: history.menu.form elapse: 32 executer_class: history.menu.MenuFormExecuter sts: OK jsp: /jsp/history/menu/menu.jsp
+06/24 12:21:33 user start [ 172.24.91.117 76303364431088047275953 ] executer: history.logout
+06/24 12:21:33 user end [ 172.24.91.117 76303364431088047275953 ] executer: history.logout elapse: 16 executer_class: history.logout.LogoutExecuter sts: OK jsp: /jsp/history/logout/logout.jsp
+06/24 12:21:38 user start [ 172.24.91.117 N/A ] executer: history.logout.close
+06/24 12:21:38 user end [ 172.24.91.117 N/A ] executer: history.logout.close elapse: 16 executer_class: history.logout.LogoutExecuter sts: OK jsp: /jsp/history/logout/logoutClose.jsp
+06/24 12:21:43 user FileServlet: destroy
+06/24 12:21:43 user HistoryServlet: destroy
+06/24 12:21:43 user HistoryServlet: destroy
+06/24 12:21:43 user Context 破棄
+06/24 12:21:49 info JRunDataSource は HISTORA という名で JNDI にバインドされました
+06/24 12:21:49 info JRun DataSourceService: HISTORA という名前の JDBC XA 接続プールを作成しました
+06/24 12:21:49 info "DefaultDataSource" からデフォルトデータソース "HISTORA" への LinkRef  をバインドしました
+06/24 12:21:49 info JRun プロキシサーバー は *:51000 上でリスン中
+06/24 12:21:49 info Web アプリケーション "GUNMA" を file:/C:/JRun4/servers/default/gunma.war からデプロイ中
+06/24 12:21:49 user JSPServlet: init
+06/24 12:21:49 user HistoryServlet: init
+06/24 12:21:50 user Context 初期化: Version=2.3
+06/24 12:21:50 user Context 初期化 ログインユーザテーブル初期化完了
+06/24 12:21:50 info Web アプリケーション "KENSE" を file:/C:/JRun4/servers/default/kense.war からデプロイ中
+06/24 12:21:50 user JSPServlet: init
+06/24 12:21:50 user HistoryServlet: init
+06/24 12:22:00 user start [ 172.24.91.117 N/A ] executer: history.login
+06/24 12:22:00 user end [ 172.24.91.117 N/A ] executer: history.login elapse: 188 executer_class: history.login.LoginExecuter sts: OK jsp: /jsp/history/menu/menu.jsp
+06/24 12:22:01 user FileServlet: init
+06/24 12:22:02 user start [ 172.24.91.117 7630457511088047320531 ] executer: history.enquirylist.form
+06/24 12:22:02 user end [ 172.24.91.117 7630457511088047320531 ] executer: history.enquirylist.form elapse: 219 executer_class: history.enquirylist.EnquiryListHeadExecuter sts: OK jsp: /jsp/history/enquirylist/EnquiryListHead.jsp
+06/24 12:22:03 error リクエストされたリソース /kense/XML/0000224.xml は見つかりませんでした
+06/24 12:22:06 user start [ 172.24.91.117 7630457511088047320531 ] executer: history.enquirylist.form
+06/24 12:22:07 user end [ 172.24.91.117 7630457511088047320531 ] executer: history.enquirylist.form elapse: 172 executer_class: history.enquirylist.EnquiryListHeadExecuter sts: OK jsp: /jsp/history/enquirylist/EnquiryListHead.jsp
+06/24 12:22:07 error リクエストされたリソース /kense/XML/0000225.xml は見つかりませんでした
+06/24 12:22:10 user start [ 172.24.91.117 7630457511088047320531 ] executer: history.menu.form
+06/24 12:22:10 user end [ 172.24.91.117 7630457511088047320531 ] executer: history.menu.form elapse: 31 executer_class: history.menu.MenuFormExecuter sts: OK jsp: /jsp/history/menu/menu.jsp
+06/24 12:22:11 user start [ 172.24.91.117 7630457511088047320531 ] executer: history.logout
+06/24 12:22:11 user end [ 172.24.91.117 7630457511088047320531 ] executer: history.logout elapse: 15 executer_class: history.logout.LogoutExecuter sts: OK jsp: /jsp/history/logout/logout.jsp
+06/24 12:22:17 user start [ 172.24.91.117 N/A ] executer: history.logout.close
+06/24 12:22:17 user end [ 172.24.91.117 N/A ] executer: history.logout.close elapse: 15 executer_class: history.logout.LogoutExecuter sts: OK jsp: /jsp/history/logout/logoutClose.jsp
+06/24 12:23:16 user start [ 172.24.91.117 N/A ] executer: history.login
+06/24 12:23:16 user end [ 172.24.91.117 N/A ] executer: history.login elapse: 63 executer_class: history.login.LoginExecuter sts: OK jsp: /jsp/history/menu/menu.jsp
+06/24 12:23:18 user start [ 172.24.91.117 76301023701088047396921 ] executer: history.enquirylist.form
+06/24 12:23:19 user end [ 172.24.91.117 76301023701088047396921 ] executer: history.enquirylist.form elapse: 94 executer_class: history.enquirylist.EnquiryListHeadExecuter sts: OK jsp: /jsp/history/enquirylist/EnquiryListHead.jsp
+06/24 12:23:19 error リクエストされたリソース /kense/XML/0000226.xml は見つかりませんでした
+06/24 12:23:33 user start [ 172.24.91.117 76301023701088047396921 ] executer: history.enquirylist.form
+06/24 12:23:33 user end [ 172.24.91.117 76301023701088047396921 ] executer: history.enquirylist.form elapse: 156 executer_class: history.enquirylist.EnquiryListHeadExecuter sts: OK jsp: /jsp/history/enquirylist/EnquiryListHead.jsp
+06/24 12:23:33 error リクエストされたリソース /kense/XML/0000227.xml は見つかりませんでした
+06/24 12:24:13 user start [ 172.24.91.117 76301023701088047396921 ] executer: history.menu.form
+06/24 12:24:13 user end [ 172.24.91.117 76301023701088047396921 ] executer: history.menu.form elapse: 32 executer_class: history.menu.MenuFormExecuter sts: OK jsp: /jsp/history/menu/menu.jsp
+06/24 12:24:15 user start [ 172.24.91.117 76301023701088047396921 ] executer: history.logout
+06/24 12:24:15 user end [ 172.24.91.117 76301023701088047396921 ] executer: history.logout elapse: 16 executer_class: history.logout.LogoutExecuter sts: OK jsp: /jsp/history/logout/logout.jsp
+06/24 12:24:21 user start [ 172.24.91.117 N/A ] executer: history.logout.close
+06/24 12:24:21 user end [ 172.24.91.117 N/A ] executer: history.logout.close elapse: 15 executer_class: history.logout.LogoutExecuter sts: OK jsp: /jsp/history/logout/logoutClose.jsp
+06/24 12:26:21 user FileServlet: destroy
+06/24 12:26:22 info jrun:service/default/JRunServer-Domain はバインド解除されました
+06/24 12:26:22 info JNDI サーバーは停止されました
+06/24 12:26:22 info サーブレットエンジンサービスから Web アプリケーションサービスを削除中: kense.war
+06/24 12:26:21 user HistoryServlet: destroy
+06/24 12:26:21 user HistoryServlet: destroy
+06/24 12:26:21 user Context 破棄
+06/24 12:26:28 info JRunDataSource は HISTORA という名で JNDI にバインドされました
+06/24 12:26:28 info JRun DataSourceService: HISTORA という名前の JDBC XA 接続プールを作成しました
+06/24 12:26:28 info "DefaultDataSource" からデフォルトデータソース "HISTORA" への LinkRef  をバインドしました
+06/24 12:26:28 info JRun プロキシサーバー は *:51000 上でリスン中
+06/24 12:26:28 info Web アプリケーション "GUNMA" を file:/C:/JRun4/servers/default/gunma.war からデプロイ中
+06/24 12:26:28 user JSPServlet: init
+06/24 12:26:29 user HistoryServlet: init
+06/24 12:26:29 user Context 初期化: Version=2.3
+06/24 12:26:29 user Context 初期化 ログインユーザテーブル初期化完了
+06/24 12:26:29 info Web アプリケーション "KENSE" を file:/C:/JRun4/servers/default/kense.war からデプロイ中
+06/24 12:26:29 user JSPServlet: init
+06/24 12:26:29 user HistoryServlet: init
+06/24 12:26:31 user start [ 172.24.91.117 N/A ] executer: history.login
+06/24 12:26:31 user end [ 172.24.91.117 N/A ] executer: history.login elapse: 188 executer_class: history.login.LoginExecuter sts: OK jsp: /jsp/history/menu/menu.jsp
+06/24 12:26:32 user FileServlet: init
+06/24 12:26:33 user start [ 172.24.91.117 763093811088047591656 ] executer: history.enquirylist.form
+06/24 12:26:34 user end [ 172.24.91.117 763093811088047591656 ] executer: history.enquirylist.form elapse: 203 executer_class: history.enquirylist.EnquiryListHeadExecuter sts: OK jsp: /jsp/history/enquirylist/EnquiryListHead.jsp
+06/24 12:26:38 user start [ 172.24.91.117 763093811088047591656 ] executer: 
+06/24 12:26:38 user end [ 172.24.91.117 763093811088047591656 ] executer: history.logout.close elapse: 31 executer_class: history.logout.LogoutExecuter sts: OK jsp: /jsp/history/logout/logoutClose.jsp
+06/24 12:26:42 user start [ 172.24.91.117 N/A ] executer: history.login
+06/24 12:26:42 user end [ 172.24.91.117 N/A ] executer: history.login elapse: 63 executer_class: history.login.LoginExecuter sts: OK jsp: /jsp/history/menu/menu.jsp
+06/24 12:26:44 user start [ 172.24.91.117 7630364841088047602515 ] executer: history.enquirylist.form
+06/24 12:26:44 user end [ 172.24.91.117 7630364841088047602515 ] executer: history.enquirylist.form elapse: 78 executer_class: history.enquirylist.EnquiryListHeadExecuter sts: OK jsp: /jsp/history/enquirylist/EnquiryListHead.jsp
+06/24 12:26:52 user start [ 172.24.91.117 7630364841088047602515 ] executer: history.enquirylist.form
+06/24 12:26:52 user end [ 172.24.91.117 7630364841088047602515 ] executer: history.enquirylist.form elapse: 157 executer_class: history.enquirylist.EnquiryListHeadExecuter sts: OK jsp: /jsp/history/enquirylist/EnquiryListHead.jsp
+06/24 12:27:22 user start [ 172.24.91.117 7630364841088047602515 ] executer: history.menu.form
+06/24 12:27:22 user end [ 172.24.91.117 7630364841088047602515 ] executer: history.menu.form elapse: 31 executer_class: history.menu.MenuFormExecuter sts: OK jsp: /jsp/history/menu/menu.jsp
+06/24 12:27:23 user start [ 172.24.91.117 7630364841088047602515 ] executer: history.logout
+06/24 12:27:23 user end [ 172.24.91.117 7630364841088047602515 ] executer: history.logout elapse: 15 executer_class: history.logout.LogoutExecuter sts: OK jsp: /jsp/history/logout/logout.jsp
+06/24 12:27:29 user start [ 172.24.91.117 N/A ] executer: history.logout.close
+06/24 12:27:29 user end [ 172.24.91.117 N/A ] executer: history.logout.close elapse: 15 executer_class: history.logout.LogoutExecuter sts: OK jsp: /jsp/history/logout/logoutClose.jsp
+06/24 12:27:33 user start [ 172.24.91.117 N/A ] executer: history.login
+06/24 12:27:33 user Session 生成: ID=76302171461088047653828
+06/24 12:27:33 user end [ 172.24.91.117 N/A ] executer: history.login elapse: 156 executer_class: history.login.LoginExecuter sts: OK jsp: /jsp/history/menu/menu.jsp
+06/24 12:27:34 user FileServlet: init
+06/24 12:27:36 user start [ 172.24.91.117 76302171461088047653828 ] executer: history.person.form
+06/24 12:27:36 user end [ 172.24.91.117 76302171461088047653828 ] executer: history.person.form elapse: 31 executer_class: history.person.PersonFormExecuter sts: OK jsp: /jsp/history/person/PersonSrch.jsp
+06/24 12:27:39 user start [ 172.24.91.117 76302171461088047653828 ] executer: history.menu.form
+06/24 12:27:39 user end [ 172.24.91.117 76302171461088047653828 ] executer: history.menu.form elapse: 32 executer_class: history.menu.MenuFormExecuter sts: OK jsp: /jsp/history/menu/menu.jsp
+06/24 12:27:41 user start [ 172.24.91.117 76302171461088047653828 ] executer: history.batch.person.form
+06/24 12:27:41 user end [ 172.24.91.117 76302171461088047653828 ] executer: history.batch.person.form elapse: 31 executer_class: history.person.BatchPersonFormExecuter sts: OK jsp: /jsp/history/person/BatchPersonSrch.jsp
+06/24 12:27:44 user start [ 172.24.91.117 76302171461088047653828 ] executer: history.menu.form
+06/24 12:27:44 user end [ 172.24.91.117 76302171461088047653828 ] executer: history.menu.form elapse: 47 executer_class: history.menu.MenuFormExecuter sts: OK jsp: /jsp/history/menu/menu.jsp
+06/24 12:27:46 user start [ 172.24.91.117 76302171461088047653828 ] executer: history.account.form
+06/24 12:27:46 user end [ 172.24.91.117 76302171461088047653828 ] executer: history.account.form elapse: 47 executer_class: history.account.AccountFormExecuter sts: OK jsp: /jsp/history/account/AccountSrch.jsp
+06/24 12:27:50 user start [ 172.24.91.117 76302171461088047653828 ] executer: history.menu.form
+06/24 12:27:50 user end [ 172.24.91.117 76302171461088047653828 ] executer: history.menu.form elapse: 16 executer_class: history.menu.MenuFormExecuter sts: OK jsp: /jsp/history/menu/menu.jsp
+06/24 12:27:52 user start [ 172.24.91.117 76302171461088047653828 ] executer: history.logout
+06/24 12:27:52 user end [ 172.24.91.117 76302171461088047653828 ] executer: history.logout elapse: 0 executer_class: history.logout.LogoutExecuter sts: OK jsp: /jsp/history/logout/logout.jsp
+06/24 12:27:52 user Session 破棄: ID=76302171461088047653828
+06/24 12:27:58 user start [ 172.24.91.117 N/A ] executer: history.logout.close
+06/24 12:27:58 user end [ 172.24.91.117 N/A ] executer: history.logout.close elapse: 16 executer_class: history.logout.LogoutExecuter sts: OK jsp: /jsp/history/logout/logoutClose.jsp
+06/24 12:27:58 user Session 生成: ID=76302171461088047653828
+06/24 12:27:58 user Session 破棄: ID=76302171461088047653828
+06/24 12:36:26 metrics Threads(b,d,i,ttl): 0,0,0,1, Requests(hd,dl,dr): 120,0,0, Heap(fr,ttl): 27692,32640 Sessions: 0
+06/24 12:46:26 metrics Threads(b,d,i,ttl): 0,0,0,1, Requests(hd,dl,dr): 0,0,0, Heap(fr,ttl): 27698,32640 Sessions: 0
+06/24 12:56:26 metrics Threads(b,d,i,ttl): 0,0,0,1, Requests(hd,dl,dr): 0,0,0, Heap(fr,ttl): 27698,32640 Sessions: 0
+06/24 13:06:22 user start [ 172.24.91.117 N/A ] executer: history.login
+06/24 13:06:23 user end [ 172.24.91.117 N/A ] executer: history.login elapse: 47 executer_class: history.login.LoginExecuter sts: OK jsp: /jsp/history/menu/menu.jsp
+06/24 13:06:26 metrics Threads(b,d,i,ttl): 0,0,1,2, Requests(hd,dl,dr): 6,0,0, Heap(fr,ttl): 27029,32640 Sessions: 1
+06/24 13:06:29 user start [ 172.24.91.117 76301572551088049982953 ] executer: history.logout
+06/24 13:06:29 user end [ 172.24.91.117 76301572551088049982953 ] executer: history.logout elapse: 0 executer_class: history.logout.LogoutExecuter sts: OK jsp: /jsp/history/logout/logout.jsp
+06/24 13:06:35 user start [ 172.24.91.117 N/A ] executer: history.logout.close
+06/24 13:06:35 user end [ 172.24.91.117 N/A ] executer: history.logout.close elapse: 16 executer_class: history.logout.LogoutExecuter sts: OK jsp: /jsp/history/logout/logoutClose.jsp
+06/24 13:10:12 user start [ 172.24.91.117 N/A ] executer: history.login
+06/24 13:10:12 user end [ 172.24.91.117 N/A ] executer: history.login elapse: 47 executer_class: history.login.LoginExecuter sts: OK jsp: /jsp/history/menu/menu.jsp
+06/24 13:10:19 user start [ 172.24.91.117 76301703341088050212718 ] executer: history.enquirylist.form
+06/24 13:10:19 user end [ 172.24.91.117 76301703341088050212718 ] executer: history.enquirylist.form elapse: 78 executer_class: history.enquirylist.EnquiryListHeadExecuter sts: OK jsp: /jsp/history/enquirylist/EnquiryListHead.jsp
+06/24 13:10:25 user start [ 172.24.91.117 76301703341088050212718 ] executer: history.menu.form
+06/24 13:10:25 user end [ 172.24.91.117 76301703341088050212718 ] executer: history.menu.form elapse: 16 executer_class: history.menu.MenuFormExecuter sts: OK jsp: /jsp/history/menu/menu.jsp
+06/24 13:10:27 user start [ 172.24.91.117 76301703341088050212718 ] executer: history.enquirylist.form
+06/24 13:10:27 user end [ 172.24.91.117 76301703341088050212718 ] executer: history.enquirylist.form elapse: 94 executer_class: history.enquirylist.EnquiryListHeadExecuter sts: OK jsp: /jsp/history/enquirylist/EnquiryListHead.jsp
+06/24 13:10:30 user start [ 172.24.91.117 76301703341088050212718 ] executer: history.menu.form
+06/24 13:10:30 user end [ 172.24.91.117 76301703341088050212718 ] executer: history.menu.form elapse: 15 executer_class: history.menu.MenuFormExecuter sts: OK jsp: /jsp/history/menu/menu.jsp
+06/24 13:10:32 user start [ 172.24.91.117 76301703341088050212718 ] executer: history.enquirylist.form
+06/24 13:10:32 user end [ 172.24.91.117 76301703341088050212718 ] executer: history.enquirylist.form elapse: 78 executer_class: history.enquirylist.EnquiryListHeadExecuter sts: OK jsp: /jsp/history/enquirylist/EnquiryListHead.jsp
+06/24 13:10:34 user start [ 172.24.91.117 76301703341088050212718 ] executer: history.menu.form
+06/24 13:10:34 user end [ 172.24.91.117 76301703341088050212718 ] executer: history.menu.form elapse: 31 executer_class: history.menu.MenuFormExecuter sts: OK jsp: /jsp/history/menu/menu.jsp
+06/24 13:10:36 user start [ 172.24.91.117 76301703341088050212718 ] executer: history.logout
+06/24 13:10:36 user end [ 172.24.91.117 76301703341088050212718 ] executer: history.logout elapse: 16 executer_class: history.logout.LogoutExecuter sts: OK jsp: /jsp/history/logout/logout.jsp
+06/24 13:10:41 user start [ 172.24.91.117 N/A ] executer: history.logout.close
+06/24 13:10:41 user end [ 172.24.91.117 N/A ] executer: history.logout.close elapse: 15 executer_class: history.logout.LogoutExecuter sts: OK jsp: /jsp/history/logout/logoutClose.jsp
+06/24 13:16:26 metrics Threads(b,d,i,ttl): 0,0,0,1, Requests(hd,dl,dr): 71,0,0, Heap(fr,ttl): 27640,32640 Sessions: 0
+06/24 13:24:00 user FileServlet: destroy
+06/24 13:24:00 user HistoryServlet: destroy
+06/24 13:24:00 user FileServlet: destroy
+06/24 13:24:00 user HistoryServlet: destroy
+06/24 13:24:00 user Context 破棄
+06/24 13:24:06 info JRunDataSource は HISTORA という名で JNDI にバインドされました
+06/24 13:24:06 info JRun DataSourceService: HISTORA という名前の JDBC XA 接続プールを作成しました
+06/24 13:24:06 info "DefaultDataSource" からデフォルトデータソース "HISTORA" への LinkRef  をバインドしました
+06/24 13:24:06 info JRun プロキシサーバー は *:51000 上でリスン中
+06/24 13:24:06 info Web アプリケーション "GUNMA" を file:/C:/JRun4/servers/default/gunma.war からデプロイ中
+06/24 13:24:06 user JSPServlet: init
+06/24 13:24:07 user HistoryServlet: init
+06/24 13:24:07 user Context 初期化: Version=2.3
+06/24 13:24:07 user Context 初期化 ログインユーザテーブル初期化完了
+06/24 13:24:07 info Web アプリケーション "KENSE" を file:/C:/JRun4/servers/default/kense.war からデプロイ中
+06/24 13:24:07 user JSPServlet: init
+06/24 13:24:07 user HistoryServlet: init
+06/24 13:24:11 user start [ 172.24.91.117 N/A ] executer: history.login
+06/24 13:24:11 user end [ 172.24.91.117 N/A ] executer: history.login elapse: 203 executer_class: history.login.LoginExecuter sts: OK jsp: /jsp/history/menu/menu.jsp
+06/24 13:24:11 user FileServlet: init
+06/24 13:24:13 user start [ 172.24.91.117 76301485841088051051000 ] executer: history.enquirylistf.form
+06/24 13:24:13 user end [ 172.24.91.117 76301485841088051051000 ] executer: history.enquirylistf.form elapse: 62 executer_class: history.enquirylistf.EnquirylistExecuter sts: OK jsp: /jsp/history/enquirylistf/EnquiryList.jsp
+06/24 13:24:14 user start [ 172.24.91.117 76301485841088051051000 ] executer: history.enquirylistf.head
+06/24 13:24:14 user end [ 172.24.91.117 76301485841088051051000 ] executer: history.enquirylistf.head elapse: 203 executer_class: history.enquirylistf.EnquiryListHeadExecuter sts: OK jsp: /jsp/history/enquirylistf/EnquiryListHead.jsp
+06/24 13:24:26 user start [ 172.24.91.117 76301485841088051051000 ] executer: history.menu.form
+06/24 13:24:26 user end [ 172.24.91.117 76301485841088051051000 ] executer: history.menu.form elapse: 47 executer_class: history.menu.MenuFormExecuter sts: OK jsp: /jsp/history/menu/menu.jsp
+06/24 13:24:29 user start [ 172.24.91.117 76301485841088051051000 ] executer: history.logout
+06/24 13:24:29 user end [ 172.24.91.117 76301485841088051051000 ] executer: history.logout elapse: 0 executer_class: history.logout.LogoutExecuter sts: OK jsp: /jsp/history/logout/logout.jsp
+06/24 13:24:35 user start [ 172.24.91.117 N/A ] executer: history.logout.close
+06/24 13:24:35 user end [ 172.24.91.117 N/A ] executer: history.logout.close elapse: 0 executer_class: history.logout.LogoutExecuter sts: OK jsp: /jsp/history/logout/logoutClose.jsp
+06/24 13:26:06 user start [ 172.24.91.117 N/A ] executer: history.login
+06/24 13:26:07 user end [ 172.24.91.117 N/A ] executer: history.login elapse: 63 executer_class: history.login.LoginExecuter sts: OK jsp: /jsp/history/menu/menu.jsp
+06/24 13:26:08 user start [ 172.24.91.117 76302286181088051166968 ] executer: history.enquirylistf.form
+06/24 13:26:08 user end [ 172.24.91.117 76302286181088051166968 ] executer: history.enquirylistf.form elapse: 46 executer_class: history.enquirylistf.EnquirylistExecuter sts: OK jsp: /jsp/history/enquirylistf/EnquiryList.jsp
+06/24 13:26:08 user start [ 172.24.91.117 76302286181088051166968 ] executer: history.enquirylistf.head
+06/24 13:26:09 user end [ 172.24.91.117 76302286181088051166968 ] executer: history.enquirylistf.head elapse: 94 executer_class: history.enquirylistf.EnquiryListHeadExecuter sts: OK jsp: /jsp/history/enquirylistf/EnquiryListHead.jsp
+06/24 13:26:20 user start [ 172.24.91.117 76302286181088051166968 ] executer: history.menu.form
+06/24 13:26:21 user end [ 172.24.91.117 76302286181088051166968 ] executer: history.menu.form elapse: 31 executer_class: history.menu.MenuFormExecuter sts: OK jsp: /jsp/history/menu/menu.jsp
+06/24 13:26:22 user start [ 172.24.91.117 76302286181088051166968 ] executer: history.logout
+06/24 13:26:22 user end [ 172.24.91.117 76302286181088051166968 ] executer: history.logout elapse: 16 executer_class: history.logout.LogoutExecuter sts: OK jsp: /jsp/history/logout/logout.jsp
+06/24 13:26:28 user start [ 172.24.91.117 N/A ] executer: history.logout.close
+06/24 13:26:28 user end [ 172.24.91.117 N/A ] executer: history.logout.close elapse: 0 executer_class: history.logout.LogoutExecuter sts: OK jsp: /jsp/history/logout/logoutClose.jsp
+06/24 13:29:07 user FileServlet: destroy
+06/24 13:29:07 user HistoryServlet: destroy
+06/24 13:29:07 user HistoryServlet: destroy
+06/24 13:29:07 user Context 破棄
+06/24 13:29:13 info JRunDataSource は HISTORA という名で JNDI にバインドされました
+06/24 13:29:13 info JRun DataSourceService: HISTORA という名前の JDBC XA 接続プールを作成しました
+06/24 13:29:13 info "DefaultDataSource" からデフォルトデータソース "HISTORA" への LinkRef  をバインドしました
+06/24 13:29:13 info JRun プロキシサーバー は *:51000 上でリスン中
+06/24 13:29:13 info Web アプリケーション "GUNMA" を file:/C:/JRun4/servers/default/gunma.war からデプロイ中
+06/24 13:29:13 user JSPServlet: init
+06/24 13:29:14 user HistoryServlet: init
+06/24 13:29:14 user Context 初期化: Version=2.3
+06/24 13:29:14 user Context 初期化 ログインユーザテーブル初期化完了
+06/24 13:29:14 info Web アプリケーション "KENSE" を file:/C:/JRun4/servers/default/kense.war からデプロイ中
+06/24 13:29:14 user JSPServlet: init
+06/24 13:29:14 user HistoryServlet: init
+06/24 13:29:15 user start [ 172.24.91.117 N/A ] executer: history.login
+06/24 13:29:15 user end [ 172.24.91.117 N/A ] executer: history.login elapse: 188 executer_class: history.login.LoginExecuter sts: OK jsp: /jsp/history/menu/menu.jsp
+06/24 13:29:15 user FileServlet: init
+06/24 13:29:17 user start [ 172.24.91.117 76302972671088051355156 ] executer: history.enquirylistf.form
+06/24 13:29:17 user end [ 172.24.91.117 76302972671088051355156 ] executer: history.enquirylistf.form elapse: 47 executer_class: history.enquirylistf.EnquirylistExecuter sts: OK jsp: /jsp/history/enquirylistf/EnquiryList.jsp
+06/24 13:29:17 user start [ 172.24.91.117 76302972671088051355156 ] executer: history.enquirylistf.head
+06/24 13:29:17 user end [ 172.24.91.117 76302972671088051355156 ] executer: history.enquirylistf.head elapse: 187 executer_class: history.enquirylistf.EnquiryListHeadExecuter sts: OK jsp: /jsp/history/enquirylistf/EnquiryListHead.jsp
+06/24 13:29:28 user start [ 172.24.91.117 76302972671088051355156 ] executer: history.menu.form
+06/24 13:29:28 user end [ 172.24.91.117 76302972671088051355156 ] executer: history.menu.form elapse: 31 executer_class: history.menu.MenuFormExecuter sts: OK jsp: /jsp/history/menu/menu.jsp
+06/24 13:29:30 user start [ 172.24.91.117 76302972671088051355156 ] executer: history.logout
+06/24 13:29:30 user end [ 172.24.91.117 76302972671088051355156 ] executer: history.logout elapse: 15 executer_class: history.logout.LogoutExecuter sts: OK jsp: /jsp/history/logout/logout.jsp
+06/24 13:29:36 user start [ 172.24.91.117 N/A ] executer: history.logout.close
+06/24 13:29:36 user end [ 172.24.91.117 N/A ] executer: history.logout.close elapse: 16 executer_class: history.logout.LogoutExecuter sts: OK jsp: /jsp/history/logout/logoutClose.jsp
+06/24 13:30:14 user start [ 172.24.91.117 N/A ] executer: history.login
+06/24 13:30:14 user end [ 172.24.91.117 N/A ] executer: history.login elapse: 63 executer_class: history.login.LoginExecuter sts: OK jsp: /jsp/history/menu/menu.jsp
+06/24 13:30:16 user start [ 172.24.91.117 76301003431088051414171 ] executer: history.enquirylistf.form
+06/24 13:30:16 user end [ 172.24.91.117 76301003431088051414171 ] executer: history.enquirylistf.form elapse: 31 executer_class: history.enquirylistf.EnquirylistExecuter sts: OK jsp: /jsp/history/enquirylistf/EnquiryList.jsp
+06/24 13:30:16 user start [ 172.24.91.117 76301003431088051414171 ] executer: history.enquirylistf.head
+06/24 13:30:16 user end [ 172.24.91.117 76301003431088051414171 ] executer: history.enquirylistf.head elapse: 94 executer_class: history.enquirylistf.EnquiryListHeadExecuter sts: OK jsp: /jsp/history/enquirylistf/EnquiryListHead.jsp
+06/24 13:30:54 user start [ 172.24.91.117 76301003431088051414171 ] executer: history.menu.form
+06/24 13:30:54 user end [ 172.24.91.117 76301003431088051414171 ] executer: history.menu.form elapse: 31 executer_class: history.menu.MenuFormExecuter sts: OK jsp: /jsp/history/menu/menu.jsp
+06/24 13:30:56 user start [ 172.24.91.117 76301003431088051414171 ] executer: history.logout
+06/24 13:30:56 user end [ 172.24.91.117 76301003431088051414171 ] executer: history.logout elapse: 0 executer_class: history.logout.LogoutExecuter sts: OK jsp: /jsp/history/logout/logout.jsp
+06/24 13:31:01 user start [ 172.24.91.117 N/A ] executer: history.logout.close
+06/24 13:31:01 user end [ 172.24.91.117 N/A ] executer: history.logout.close elapse: 16 executer_class: history.logout.LogoutExecuter sts: OK jsp: /jsp/history/logout/logoutClose.jsp
+06/24 13:33:29 user start [ 172.24.91.117 N/A ] executer: history.login
+06/24 13:33:29 user end [ 172.24.91.117 N/A ] executer: history.login elapse: 62 executer_class: history.login.LoginExecuter sts: OK jsp: /jsp/history/menu/menu.jsp
+06/24 13:33:33 user start [ 172.24.91.117 7630374161088051609234 ] executer: history.enquirylistf.form
+06/24 13:33:33 user end [ 172.24.91.117 7630374161088051609234 ] executer: history.enquirylistf.form elapse: 31 executer_class: history.enquirylistf.EnquirylistExecuter sts: OK jsp: /jsp/history/enquirylistf/EnquiryList.jsp
+06/24 13:33:33 user start [ 172.24.91.117 7630374161088051609234 ] executer: history.enquirylistf.head
+06/24 13:33:33 user end [ 172.24.91.117 7630374161088051609234 ] executer: history.enquirylistf.head elapse: 94 executer_class: history.enquirylistf.EnquiryListHeadExecuter sts: OK jsp: /jsp/history/enquirylistf/EnquiryListHead.jsp
+06/24 13:33:43 user start [ 172.24.91.117 7630374161088051609234 ] executer: history.menu.form
+06/24 13:33:43 user end [ 172.24.91.117 7630374161088051609234 ] executer: history.menu.form elapse: 31 executer_class: history.menu.MenuFormExecuter sts: OK jsp: /jsp/history/menu/menu.jsp
+06/24 13:33:46 user start [ 172.24.91.117 7630374161088051609234 ] executer: history.logout
+06/24 13:33:46 user end [ 172.24.91.117 7630374161088051609234 ] executer: history.logout elapse: 0 executer_class: history.logout.LogoutExecuter sts: OK jsp: /jsp/history/logout/logout.jsp
+06/24 13:33:51 user start [ 172.24.91.117 N/A ] executer: history.logout.close
+06/24 13:33:51 user end [ 172.24.91.117 N/A ] executer: history.logout.close elapse: 16 executer_class: history.logout.LogoutExecuter sts: OK jsp: /jsp/history/logout/logoutClose.jsp
+06/24 13:34:24 user start [ 172.24.91.117 N/A ] executer: history.login
+06/24 13:34:24 user end [ 172.24.91.117 N/A ] executer: history.login elapse: 47 executer_class: history.login.LoginExecuter sts: OK jsp: /jsp/history/menu/menu.jsp
+06/24 13:34:27 user start [ 172.24.91.117 76301801451088051664109 ] executer: history.enquirylistf.form
+06/24 13:34:27 user end [ 172.24.91.117 76301801451088051664109 ] executer: history.enquirylistf.form elapse: 31 executer_class: history.enquirylistf.EnquirylistExecuter sts: OK jsp: /jsp/history/enquirylistf/EnquiryList.jsp
+06/24 13:34:27 user start [ 172.24.91.117 76301801451088051664109 ] executer: history.enquirylistf.head
+06/24 13:34:27 user end [ 172.24.91.117 76301801451088051664109 ] executer: history.enquirylistf.head elapse: 109 executer_class: history.enquirylistf.EnquiryListHeadExecuter sts: OK jsp: /jsp/history/enquirylistf/EnquiryListHead.jsp
+06/24 13:34:36 user start [ 172.24.91.117 76301801451088051664109 ] executer: history.menu.form
+06/24 13:34:36 user end [ 172.24.91.117 76301801451088051664109 ] executer: history.menu.form elapse: 31 executer_class: history.menu.MenuFormExecuter sts: OK jsp: /jsp/history/menu/menu.jsp
+06/24 13:34:38 user start [ 172.24.91.117 76301801451088051664109 ] executer: history.logout
+06/24 13:34:38 user end [ 172.24.91.117 76301801451088051664109 ] executer: history.logout elapse: 15 executer_class: history.logout.LogoutExecuter sts: OK jsp: /jsp/history/logout/logout.jsp
+06/24 13:34:44 user start [ 172.24.91.117 N/A ] executer: history.logout.close
+06/24 13:34:44 user end [ 172.24.91.117 N/A ] executer: history.logout.close elapse: 15 executer_class: history.logout.LogoutExecuter sts: OK jsp: /jsp/history/logout/logoutClose.jsp
+06/24 13:36:55 user start [ 172.24.91.117 N/A ] executer: history.login
+06/24 13:36:55 user end [ 172.24.91.117 N/A ] executer: history.login elapse: 62 executer_class: history.login.LoginExecuter sts: OK jsp: /jsp/history/menu/menu.jsp
+06/24 13:36:57 user start [ 172.24.91.117 7630588691088051815125 ] executer: history.enquirylistf.form
+06/24 13:36:57 user end [ 172.24.91.117 7630588691088051815125 ] executer: history.enquirylistf.form elapse: 47 executer_class: history.enquirylistf.EnquirylistExecuter sts: OK jsp: /jsp/history/enquirylistf/EnquiryList.jsp
+06/24 13:36:57 user start [ 172.24.91.117 7630588691088051815125 ] executer: history.enquirylistf.head
+06/24 13:36:57 user end [ 172.24.91.117 7630588691088051815125 ] executer: history.enquirylistf.head elapse: 110 executer_class: history.enquirylistf.EnquiryListHeadExecuter sts: OK jsp: /jsp/history/enquirylistf/EnquiryListHead.jsp
+06/24 13:37:05 user start [ 172.24.91.117 7630588691088051815125 ] executer: history.enquirylist.form
+06/24 13:37:05 user end [ 172.24.91.117 7630588691088051815125 ] executer: history.enquirylist.form elapse: 188 executer_class: history.enquirylist.EnquiryListHeadExecuter sts: OK jsp: /jsp/history/enquirylist/EnquiryListHead.jsp
+06/24 13:37:18 user start [ 172.24.91.117 7630588691088051815125 ] executer: history.menu.form
+06/24 13:37:18 user end [ 172.24.91.117 7630588691088051815125 ] executer: history.menu.form elapse: 31 executer_class: history.menu.MenuFormExecuter sts: OK jsp: /jsp/history/menu/menu.jsp
+06/24 13:37:21 user start [ 172.24.91.117 7630588691088051815125 ] executer: history.logout
+06/24 13:37:21 user end [ 172.24.91.117 7630588691088051815125 ] executer: history.logout elapse: 16 executer_class: history.logout.LogoutExecuter sts: OK jsp: /jsp/history/logout/logout.jsp
+06/24 13:37:26 user start [ 172.24.91.117 N/A ] executer: history.logout.close
+06/24 13:37:26 user end [ 172.24.91.117 N/A ] executer: history.logout.close elapse: 15 executer_class: history.logout.LogoutExecuter sts: OK jsp: /jsp/history/logout/logoutClose.jsp
+06/24 13:37:56 user start [ 172.24.91.117 N/A ] executer: history.login
+06/24 13:37:56 user end [ 172.24.91.117 N/A ] executer: history.login elapse: 47 executer_class: history.login.LoginExecuter sts: OK jsp: /jsp/history/menu/menu.jsp
+06/24 13:37:59 user start [ 172.24.91.117 76303435481088051876812 ] executer: history.enquirylistf.form
+06/24 13:37:59 user end [ 172.24.91.117 76303435481088051876812 ] executer: history.enquirylistf.form elapse: 47 executer_class: history.enquirylistf.EnquirylistExecuter sts: OK jsp: /jsp/history/enquirylistf/EnquiryList.jsp
+06/24 13:37:59 user start [ 172.24.91.117 76303435481088051876812 ] executer: history.enquirylistf.head
+06/24 13:37:59 user end [ 172.24.91.117 76303435481088051876812 ] executer: history.enquirylistf.head elapse: 94 executer_class: history.enquirylistf.EnquiryListHeadExecuter sts: OK jsp: /jsp/history/enquirylistf/EnquiryListHead.jsp
+06/24 13:38:08 user start [ 172.24.91.117 76303435481088051876812 ] executer: history.enquirylist.form
+06/24 13:38:08 user end [ 172.24.91.117 76303435481088051876812 ] executer: history.enquirylist.form elapse: 188 executer_class: history.enquirylist.EnquiryListHeadExecuter sts: OK jsp: /jsp/history/enquirylist/EnquiryListHead.jsp
+06/24 13:38:35 user start [ 172.24.91.117 76303435481088051876812 ] executer: history.menu.form
+06/24 13:38:35 user end [ 172.24.91.117 76303435481088051876812 ] executer: history.menu.form elapse: 16 executer_class: history.menu.MenuFormExecuter sts: OK jsp: /jsp/history/menu/menu.jsp
+06/24 13:38:37 user start [ 172.24.91.117 76303435481088051876812 ] executer: history.enquirylist.form
+06/24 13:38:37 user end [ 172.24.91.117 76303435481088051876812 ] executer: history.enquirylist.form elapse: 94 executer_class: history.enquirylist.EnquiryListHeadExecuter sts: OK jsp: /jsp/history/enquirylist/EnquiryListHead.jsp
+06/24 13:38:40 user start [ 172.24.91.117 76303435481088051876812 ] executer: history.menu.form
+06/24 13:38:40 user end [ 172.24.91.117 76303435481088051876812 ] executer: history.menu.form elapse: 31 executer_class: history.menu.MenuFormExecuter sts: OK jsp: /jsp/history/menu/menu.jsp
+06/24 13:38:43 user start [ 172.24.91.117 76303435481088051876812 ] executer: history.logout
+06/24 13:38:43 user end [ 172.24.91.117 76303435481088051876812 ] executer: history.logout elapse: 16 executer_class: history.logout.LogoutExecuter sts: OK jsp: /jsp/history/logout/logout.jsp
+06/24 13:38:48 user start [ 172.24.91.117 N/A ] executer: history.logout.close
+06/24 13:38:48 user end [ 172.24.91.117 N/A ] executer: history.logout.close elapse: 16 executer_class: history.logout.LogoutExecuter sts: OK jsp: /jsp/history/logout/logoutClose.jsp
+06/24 13:39:12 metrics Threads(b,d,i,ttl): 0,0,1,2, Requests(hd,dl,dr): 218,0,0, Heap(fr,ttl): 27344,32640 Sessions: 0
+06/24 13:40:14 user start [ 172.24.91.117 N/A ] executer: history.login
+06/24 13:40:14 user end [ 172.24.91.117 N/A ] executer: history.login elapse: 62 executer_class: history.login.LoginExecuter sts: OK jsp: /jsp/history/menu/menu.jsp
+06/24 13:40:17 user start [ 172.24.91.117 76301666771088052014890 ] executer: history.enquirylistf.form
+06/24 13:40:17 user end [ 172.24.91.117 76301666771088052014890 ] executer: history.enquirylistf.form elapse: 31 executer_class: history.enquirylistf.EnquirylistExecuter sts: OK jsp: /jsp/history/enquirylistf/EnquiryList.jsp
+06/24 13:40:17 user start [ 172.24.91.117 76301666771088052014890 ] executer: history.enquirylistf.head
+06/24 13:40:17 user end [ 172.24.91.117 76301666771088052014890 ] executer: history.enquirylistf.head elapse: 94 executer_class: history.enquirylistf.EnquiryListHeadExecuter sts: OK jsp: /jsp/history/enquirylistf/EnquiryListHead.jsp
+06/24 13:40:23 user start [ 172.24.91.117 76301666771088052014890 ] executer: history.enquirylist.form
+06/24 13:40:24 user end [ 172.24.91.117 76301666771088052014890 ] executer: history.enquirylist.form elapse: 141 executer_class: history.enquirylist.EnquiryListHeadExecuter sts: OK jsp: /jsp/history/enquirylist/EnquiryListHead.jsp
+06/24 13:41:00 user start [ 172.24.91.117 76301666771088052014890 ] executer: history.menu.form
+06/24 13:41:00 user end [ 172.24.91.117 76301666771088052014890 ] executer: history.menu.form elapse: 31 executer_class: history.menu.MenuFormExecuter sts: OK jsp: /jsp/history/menu/menu.jsp
+06/24 13:41:02 user start [ 172.24.91.117 76301666771088052014890 ] executer: history.logout
+06/24 13:41:02 user end [ 172.24.91.117 76301666771088052014890 ] executer: history.logout elapse: 15 executer_class: history.logout.LogoutExecuter sts: OK jsp: /jsp/history/logout/logout.jsp
+06/24 13:41:07 user start [ 172.24.91.117 N/A ] executer: history.logout.close
+06/24 13:41:07 user end [ 172.24.91.117 N/A ] executer: history.logout.close elapse: 15 executer_class: history.logout.LogoutExecuter sts: OK jsp: /jsp/history/logout/logoutClose.jsp
+06/24 13:41:37 user start [ 172.24.91.117 N/A ] executer: history.login
+06/24 13:41:37 user end [ 172.24.91.117 N/A ] executer: history.login elapse: 62 executer_class: history.login.LoginExecuter sts: OK jsp: /jsp/history/menu/menu.jsp
+06/24 13:41:38 user start [ 172.24.91.117 76303036061088052097000 ] executer: history.enquirylistf.form
+06/24 13:41:38 user end [ 172.24.91.117 76303036061088052097000 ] executer: history.enquirylistf.form elapse: 32 executer_class: history.enquirylistf.EnquirylistExecuter sts: OK jsp: /jsp/history/enquirylistf/EnquiryList.jsp
+06/24 13:41:38 user start [ 172.24.91.117 76303036061088052097000 ] executer: history.enquirylistf.head
+06/24 13:41:38 user end [ 172.24.91.117 76303036061088052097000 ] executer: history.enquirylistf.head elapse: 93 executer_class: history.enquirylistf.EnquiryListHeadExecuter sts: OK jsp: /jsp/history/enquirylistf/EnquiryListHead.jsp
+06/24 13:41:50 user start [ 172.24.91.117 76303036061088052097000 ] executer: history.enquirylistf.form
+06/24 13:41:50 user end [ 172.24.91.117 76303036061088052097000 ] executer: history.enquirylistf.form elapse: 47 executer_class: history.enquirylistf.EnquirylistExecuter sts: OK jsp: /jsp/history/enquirylistf/EnquiryList.jsp
+06/24 13:41:50 user start [ 172.24.91.117 76303036061088052097000 ] executer: history.enquirylistf.head
+06/24 13:41:50 user end [ 172.24.91.117 76303036061088052097000 ] executer: history.enquirylistf.head elapse: 141 executer_class: history.enquirylistf.EnquiryListHeadExecuter sts: OK jsp: /jsp/history/enquirylistf/EnquiryListHead.jsp
+06/24 13:42:01 user start [ 172.24.91.117 76303036061088052097000 ] executer: history.enquirylistf.form
+06/24 13:42:01 user end [ 172.24.91.117 76303036061088052097000 ] executer: history.enquirylistf.form elapse: 46 executer_class: history.enquirylistf.EnquirylistExecuter sts: OK jsp: /jsp/history/enquirylistf/EnquiryList.jsp
+06/24 13:42:01 user start [ 172.24.91.117 76303036061088052097000 ] executer: history.enquirylistf.head
+06/24 13:42:01 user end [ 172.24.91.117 76303036061088052097000 ] executer: history.enquirylistf.head elapse: 125 executer_class: history.enquirylistf.EnquiryListHeadExecuter sts: OK jsp: /jsp/history/enquirylistf/EnquiryListHead.jsp
+06/24 13:42:27 user start [ 172.24.91.117 76303036061088052097000 ] executer: history.menu.form
+06/24 13:42:27 user end [ 172.24.91.117 76303036061088052097000 ] executer: history.menu.form elapse: 31 executer_class: history.menu.MenuFormExecuter sts: OK jsp: /jsp/history/menu/menu.jsp
+06/24 13:42:29 user start [ 172.24.91.117 76303036061088052097000 ] executer: history.logout
+06/24 13:42:29 user end [ 172.24.91.117 76303036061088052097000 ] executer: history.logout elapse: 0 executer_class: history.logout.LogoutExecuter sts: OK jsp: /jsp/history/logout/logout.jsp
+06/24 13:42:34 user start [ 172.24.91.117 N/A ] executer: history.logout.close
+06/24 13:42:34 user end [ 172.24.91.117 N/A ] executer: history.logout.close elapse: 0 executer_class: history.logout.LogoutExecuter sts: OK jsp: /jsp/history/logout/logoutClose.jsp
+06/24 13:42:52 user start [ 172.24.91.117 N/A ] executer: history.login
+06/24 13:42:52 user end [ 172.24.91.117 N/A ] executer: history.login elapse: 62 executer_class: history.login.LoginExecuter sts: OK jsp: /jsp/history/menu/menu.jsp
+06/24 13:42:54 user start [ 172.24.91.117 76303163541088052172921 ] executer: history.enquirylistf.form
+06/24 13:42:54 user end [ 172.24.91.117 76303163541088052172921 ] executer: history.enquirylistf.form elapse: 31 executer_class: history.enquirylistf.EnquirylistExecuter sts: OK jsp: /jsp/history/enquirylistf/EnquiryList.jsp
+06/24 13:42:54 user start [ 172.24.91.117 76303163541088052172921 ] executer: history.enquirylistf.head
+06/24 13:42:54 user end [ 172.24.91.117 76303163541088052172921 ] executer: history.enquirylistf.head elapse: 78 executer_class: history.enquirylistf.EnquiryListHeadExecuter sts: OK jsp: /jsp/history/enquirylistf/EnquiryListHead.jsp
+06/24 13:43:03 user start [ 172.24.91.117 76303163541088052172921 ] executer: history.enquirylistf.form
+06/24 13:43:03 user end [ 172.24.91.117 76303163541088052172921 ] executer: history.enquirylistf.form elapse: 47 executer_class: history.enquirylistf.EnquirylistExecuter sts: OK jsp: /jsp/history/enquirylistf/EnquiryList.jsp
+06/24 13:43:03 user start [ 172.24.91.117 76303163541088052172921 ] executer: history.enquirylistf.head
+06/24 13:43:03 user end [ 172.24.91.117 76303163541088052172921 ] executer: history.enquirylistf.head elapse: 125 executer_class: history.enquirylistf.EnquiryListHeadExecuter sts: OK jsp: /jsp/history/enquirylistf/EnquiryListHead.jsp
+06/24 13:43:13 user start [ 172.24.91.117 76303163541088052172921 ] executer: history.menu.form
+06/24 13:43:13 user end [ 172.24.91.117 76303163541088052172921 ] executer: history.menu.form elapse: 31 executer_class: history.menu.MenuFormExecuter sts: OK jsp: /jsp/history/menu/menu.jsp
+06/24 13:43:15 user start [ 172.24.91.117 76303163541088052172921 ] executer: history.logout
+06/24 13:43:15 user end [ 172.24.91.117 76303163541088052172921 ] executer: history.logout elapse: 16 executer_class: history.logout.LogoutExecuter sts: OK jsp: /jsp/history/logout/logout.jsp
+06/24 13:43:20 user start [ 172.24.91.117 N/A ] executer: history.logout.close
+06/24 13:43:21 user end [ 172.24.91.117 N/A ] executer: history.logout.close elapse: 16 executer_class: history.logout.LogoutExecuter sts: OK jsp: /jsp/history/logout/logoutClose.jsp
+06/24 13:48:09 user FileServlet: destroy
+06/24 13:48:09 user HistoryServlet: destroy
+06/24 13:48:09 user HistoryServlet: destroy
+06/24 13:48:09 user Context 破棄
+06/24 13:48:15 info JRunDataSource は HISTORA という名で JNDI にバインドされました
+06/24 13:48:15 info JRun DataSourceService: HISTORA という名前の JDBC XA 接続プールを作成しました
+06/24 13:48:15 info "DefaultDataSource" からデフォルトデータソース "HISTORA" への LinkRef  をバインドしました
+06/24 13:48:15 info JRun プロキシサーバー は *:51000 上でリスン中
+06/24 13:48:15 info Web アプリケーション "GUNMA" を file:/C:/JRun4/servers/default/gunma.war からデプロイ中
+06/24 13:48:15 user JSPServlet: init
+06/24 13:48:16 user HistoryServlet: init
+06/24 13:48:16 user Context 初期化: Version=2.3
+06/24 13:48:16 user Context 初期化 ログインユーザテーブル初期化完了
+06/24 13:48:16 info Web アプリケーション "KENSE" を file:/C:/JRun4/servers/default/kense.war からデプロイ中
+06/24 13:48:16 user JSPServlet: init
+06/24 13:48:16 user HistoryServlet: init
+06/24 13:49:13 user start [ 172.24.91.117 N/A ] executer: history.login
+06/24 13:49:14 user end [ 172.24.91.117 N/A ] executer: history.login elapse: 172 executer_class: history.login.LoginExecuter sts: OK jsp: /jsp/history/menu/menu.jsp
+06/24 13:49:14 user FileServlet: init
+06/24 13:49:16 user start [ 172.24.91.117 7630471321088052553937 ] executer: history.enquirylists.form
+06/24 13:49:16 user end [ 172.24.91.117 7630471321088052553937 ] executer: history.enquirylists.form elapse: 187 executer_class: history.enquirylists.EnquiryListHeadExecuter sts: OK jsp: /jsp/history/enquirylists/EnquiryListHead.jsp
+06/24 13:49:25 user start [ 172.24.91.117 7630471321088052553937 ] executer: history.menu.form
+06/24 13:49:25 user end [ 172.24.91.117 7630471321088052553937 ] executer: history.menu.form elapse: 32 executer_class: history.menu.MenuFormExecuter sts: OK jsp: /jsp/history/menu/menu.jsp
+06/24 13:49:27 user start [ 172.24.91.117 7630471321088052553937 ] executer: history.logout
+06/24 13:49:27 user end [ 172.24.91.117 7630471321088052553937 ] executer: history.logout elapse: 16 executer_class: history.logout.LogoutExecuter sts: OK jsp: /jsp/history/logout/logout.jsp
+06/24 13:49:33 user start [ 172.24.91.117 N/A ] executer: history.logout.close
+06/24 13:49:33 user end [ 172.24.91.117 N/A ] executer: history.logout.close elapse: 15 executer_class: history.logout.LogoutExecuter sts: OK jsp: /jsp/history/logout/logoutClose.jsp
+06/24 13:50:03 user FileServlet: destroy
+06/24 13:50:03 user HistoryServlet: destroy
+06/24 13:50:03 user HistoryServlet: destroy
+06/24 13:50:03 user Context 破棄
+06/24 13:50:10 info JRunDataSource は HISTORA という名で JNDI にバインドされました
+06/24 13:50:10 info JRun DataSourceService: HISTORA という名前の JDBC XA 接続プールを作成しました
+06/24 13:50:10 info "DefaultDataSource" からデフォルトデータソース "HISTORA" への LinkRef  をバインドしました
+06/24 13:50:10 info JRun プロキシサーバー は *:51000 上でリスン中
+06/24 13:50:10 info Web アプリケーション "GUNMA" を file:/C:/JRun4/servers/default/gunma.war からデプロイ中
+06/24 13:50:10 user JSPServlet: init
+06/24 13:50:10 user HistoryServlet: init
+06/24 13:50:10 user Context 初期化: Version=2.3
+06/24 13:50:10 user Context 初期化 ログインユーザテーブル初期化完了
+06/24 13:50:10 info Web アプリケーション "KENSE" を file:/C:/JRun4/servers/default/kense.war からデプロイ中
+06/24 13:50:10 user JSPServlet: init
+06/24 13:50:11 user HistoryServlet: init
+06/24 13:50:15 user start [ 172.24.91.117 N/A ] executer: history.login
+06/24 13:50:15 user end [ 172.24.91.117 N/A ] executer: history.login elapse: 187 executer_class: history.login.LoginExecuter sts: OK jsp: /jsp/history/menu/menu.jsp
+06/24 13:50:15 user FileServlet: init
+06/24 13:50:17 user start [ 172.24.91.117 76302835911088052615046 ] executer: history.enquirylists.form
+06/24 13:50:18 user end [ 172.24.91.117 76302835911088052615046 ] executer: history.enquirylists.form elapse: 171 executer_class: history.enquirylists.EnquiryListHeadExecuter sts: OK jsp: /jsp/history/enquirylists/EnquiryListHead.jsp
+06/24 13:50:27 user start [ 172.24.91.117 76302835911088052615046 ] executer: history.enquirylistf.form
+06/24 13:50:27 user end [ 172.24.91.117 76302835911088052615046 ] executer: history.enquirylistf.form elapse: 47 executer_class: history.enquirylistf.EnquirylistExecuter sts: OK jsp: /jsp/history/enquirylistf/EnquiryList.jsp
+06/24 13:50:27 user start [ 172.24.91.117 76302835911088052615046 ] executer: history.enquirylistf.head
+06/24 13:50:27 user end [ 172.24.91.117 76302835911088052615046 ] executer: history.enquirylistf.head elapse: 171 executer_class: history.enquirylistf.EnquiryListHeadExecuter sts: OK jsp: /jsp/history/enquirylistf/EnquiryListHead.jsp
+06/24 13:50:32 user start [ 172.24.91.117 76302835911088052615046 ] executer: history.menu.form
+06/24 13:50:32 user end [ 172.24.91.117 76302835911088052615046 ] executer: history.menu.form elapse: 31 executer_class: history.menu.MenuFormExecuter sts: OK jsp: /jsp/history/menu/menu.jsp
+06/24 13:50:34 user start [ 172.24.91.117 76302835911088052615046 ] executer: history.logout
+06/24 13:50:34 user end [ 172.24.91.117 76302835911088052615046 ] executer: history.logout elapse: 0 executer_class: history.logout.LogoutExecuter sts: OK jsp: /jsp/history/logout/logout.jsp
+06/24 13:50:39 user start [ 172.24.91.117 N/A ] executer: history.logout.close
+06/24 13:50:39 user end [ 172.24.91.117 N/A ] executer: history.logout.close elapse: 16 executer_class: history.logout.LogoutExecuter sts: OK jsp: /jsp/history/logout/logoutClose.jsp
+06/24 13:50:54 user start [ 172.24.91.117 N/A ] executer: history.login
+06/24 13:50:54 user end [ 172.24.91.117 N/A ] executer: history.login elapse: 46 executer_class: history.login.LoginExecuter sts: OK jsp: /jsp/history/menu/menu.jsp
+06/24 13:50:56 user start [ 172.24.91.117 76302517061088052654750 ] executer: history.enquirylists.form
+06/24 13:50:56 user end [ 172.24.91.117 76302517061088052654750 ] executer: history.enquirylists.form elapse: 94 executer_class: history.enquirylists.EnquiryListHeadExecuter sts: OK jsp: /jsp/history/enquirylists/EnquiryListHead.jsp
+06/24 13:51:03 user start [ 172.24.91.117 76302517061088052654750 ] executer: history.enquirylists.form
+06/24 13:51:04 user end [ 172.24.91.117 76302517061088052654750 ] executer: history.enquirylists.form elapse: 156 executer_class: history.enquirylists.EnquiryListHeadExecuter sts: OK jsp: /jsp/history/enquirylists/EnquiryListHead.jsp
+06/24 13:51:09 user start [ 172.24.91.117 76302517061088052654750 ] executer: history.menu.form
+06/24 13:51:09 user end [ 172.24.91.117 76302517061088052654750 ] executer: history.menu.form elapse: 32 executer_class: history.menu.MenuFormExecuter sts: OK jsp: /jsp/history/menu/menu.jsp
+06/24 13:51:10 user start [ 172.24.91.117 76302517061088052654750 ] executer: history.enquirylist.form
+06/24 13:51:10 user end [ 172.24.91.117 76302517061088052654750 ] executer: history.enquirylist.form elapse: 94 executer_class: history.enquirylist.EnquiryListHeadExecuter sts: OK jsp: /jsp/history/enquirylist/EnquiryListHead.jsp
+06/24 13:51:15 user start [ 172.24.91.117 76302517061088052654750 ] executer: history.enquirylist.form
+06/24 13:51:15 user end [ 172.24.91.117 76302517061088052654750 ] executer: history.enquirylist.form elapse: 141 executer_class: history.enquirylist.EnquiryListHeadExecuter sts: OK jsp: /jsp/history/enquirylist/EnquiryListHead.jsp
+06/24 13:51:18 user start [ 172.24.91.117 76302517061088052654750 ] executer: history.menu.form
+06/24 13:51:18 user end [ 172.24.91.117 76302517061088052654750 ] executer: history.menu.form elapse: 32 executer_class: history.menu.MenuFormExecuter sts: OK jsp: /jsp/history/menu/menu.jsp
+06/24 13:51:20 user start [ 172.24.91.117 76302517061088052654750 ] executer: history.enquirylistf.form
+06/24 13:51:20 user end [ 172.24.91.117 76302517061088052654750 ] executer: history.enquirylistf.form elapse: 47 executer_class: history.enquirylistf.EnquirylistExecuter sts: OK jsp: /jsp/history/enquirylistf/EnquiryList.jsp
+06/24 13:51:20 user start [ 172.24.91.117 76302517061088052654750 ] executer: history.enquirylistf.head
+06/24 13:51:20 user end [ 172.24.91.117 76302517061088052654750 ] executer: history.enquirylistf.head elapse: 109 executer_class: history.enquirylistf.EnquiryListHeadExecuter sts: OK jsp: /jsp/history/enquirylistf/EnquiryListHead.jsp
+06/24 13:51:25 user start [ 172.24.91.117 76302517061088052654750 ] executer: history.enquirylistf.form
+06/24 13:51:25 user end [ 172.24.91.117 76302517061088052654750 ] executer: history.enquirylistf.form elapse: 47 executer_class: history.enquirylistf.EnquirylistExecuter sts: OK jsp: /jsp/history/enquirylistf/EnquiryList.jsp
+06/24 13:51:25 user start [ 172.24.91.117 76302517061088052654750 ] executer: history.enquirylistf.head
+06/24 13:51:25 user end [ 172.24.91.117 76302517061088052654750 ] executer: history.enquirylistf.head elapse: 140 executer_class: history.enquirylistf.EnquiryListHeadExecuter sts: OK jsp: /jsp/history/enquirylistf/EnquiryListHead.jsp
+06/24 13:51:29 user start [ 172.24.91.117 76302517061088052654750 ] executer: history.menu.form
+06/24 13:51:29 user end [ 172.24.91.117 76302517061088052654750 ] executer: history.menu.form elapse: 31 executer_class: history.menu.MenuFormExecuter sts: OK jsp: /jsp/history/menu/menu.jsp
+06/24 13:51:32 user start [ 172.24.91.117 76302517061088052654750 ] executer: history.logout
+06/24 13:51:32 user end [ 172.24.91.117 76302517061088052654750 ] executer: history.logout elapse: 0 executer_class: history.logout.LogoutExecuter sts: OK jsp: /jsp/history/logout/logout.jsp
+06/24 13:51:37 user start [ 172.24.91.117 N/A ] executer: history.logout.close
+06/24 13:51:37 user end [ 172.24.91.117 N/A ] executer: history.logout.close elapse: 16 executer_class: history.logout.LogoutExecuter sts: OK jsp: /jsp/history/logout/logoutClose.jsp
+06/24 14:00:08 metrics Threads(b,d,i,ttl): 0,0,0,1, Requests(hd,dl,dr): 151,0,0, Heap(fr,ttl): 27807,32640 Sessions: 0
+06/24 14:06:06 user start [ 172.24.91.117 N/A ] executer: history.login
+06/24 14:06:06 user end [ 172.24.91.117 N/A ] executer: history.login elapse: 47 executer_class: history.login.LoginExecuter sts: OK jsp: /jsp/history/menu/menu.jsp
+06/24 14:06:08 user start [ 172.24.91.117 76302405211088053566265 ] executer: history.enquirylists.form
+06/24 14:06:08 user end [ 172.24.91.117 76302405211088053566265 ] executer: history.enquirylists.form elapse: 79 executer_class: history.enquirylists.EnquiryListHeadExecuter sts: OK jsp: /jsp/history/enquirylists/EnquiryListHead.jsp
+06/24 14:06:14 user start [ 172.24.91.117 76302405211088053566265 ] executer: history.enquirylists.form
+06/24 14:06:15 user end [ 172.24.91.117 76302405211088053566265 ] executer: history.enquirylists.form elapse: 140 executer_class: history.enquirylists.EnquiryListHeadExecuter sts: OK jsp: /jsp/history/enquirylists/EnquiryListHead.jsp
+06/24 14:06:26 user start [ 172.24.91.117 76302405211088053566265 ] executer: history.menu.form
+06/24 14:06:26 user end [ 172.24.91.117 76302405211088053566265 ] executer: history.menu.form elapse: 16 executer_class: history.menu.MenuFormExecuter sts: OK jsp: /jsp/history/menu/menu.jsp
+06/24 14:06:29 user start [ 172.24.91.117 76302405211088053566265 ] executer: history.logout
+06/24 14:06:29 user end [ 172.24.91.117 76302405211088053566265 ] executer: history.logout elapse: 16 executer_class: history.logout.LogoutExecuter sts: OK jsp: /jsp/history/logout/logout.jsp
+06/24 14:06:34 user start [ 172.24.91.117 N/A ] executer: history.logout.close
+06/24 14:06:34 user end [ 172.24.91.117 N/A ] executer: history.logout.close elapse: 15 executer_class: history.logout.LogoutExecuter sts: OK jsp: /jsp/history/logout/logoutClose.jsp
+06/24 14:07:39 user start [ 172.24.91.117 N/A ] executer: history.login
+06/24 14:07:40 user end [ 172.24.91.117 N/A ] executer: history.login elapse: 62 executer_class: history.login.LoginExecuter sts: OK jsp: /jsp/history/menu/menu.jsp
+06/24 14:07:43 user start [ 172.24.91.117 76301771461088053659984 ] executer: history.enquirylists.form
+06/24 14:07:43 user end [ 172.24.91.117 76301771461088053659984 ] executer: history.enquirylists.form elapse: 78 executer_class: history.enquirylists.EnquiryListHeadExecuter sts: OK jsp: /jsp/history/enquirylists/EnquiryListHead.jsp
+06/24 14:07:51 user start [ 172.24.91.117 76301771461088053659984 ] executer: history.menu.form
+06/24 14:07:51 user end [ 172.24.91.117 76301771461088053659984 ] executer: history.menu.form elapse: 32 executer_class: history.menu.MenuFormExecuter sts: OK jsp: /jsp/history/menu/menu.jsp
+06/24 14:07:53 user start [ 172.24.91.117 76301771461088053659984 ] executer: history.logout
+06/24 14:07:53 user end [ 172.24.91.117 76301771461088053659984 ] executer: history.logout elapse: 16 executer_class: history.logout.LogoutExecuter sts: OK jsp: /jsp/history/logout/logout.jsp
+06/24 14:07:59 user start [ 172.24.91.117 N/A ] executer: history.logout.close
+06/24 14:07:59 user end [ 172.24.91.117 N/A ] executer: history.logout.close elapse: 16 executer_class: history.logout.LogoutExecuter sts: OK jsp: /jsp/history/logout/logoutClose.jsp
+06/24 14:09:45 user start [ 172.24.91.117 N/A ] executer: history.login
+06/24 14:09:45 user end [ 172.24.91.117 N/A ] executer: history.login elapse: 47 executer_class: history.login.LoginExecuter sts: OK jsp: /jsp/history/menu/menu.jsp
+06/24 14:09:47 user start [ 172.24.91.117 76301938371088053785281 ] executer: history.enquirylists.form
+06/24 14:09:47 user end [ 172.24.91.117 76301938371088053785281 ] executer: history.enquirylists.form elapse: 78 executer_class: history.enquirylists.EnquiryListHeadExecuter sts: OK jsp: /jsp/history/enquirylists/EnquiryListHead.jsp
+06/24 14:10:00 user start [ 172.24.91.117 76301938371088053785281 ] executer: history.menu.form
+06/24 14:10:00 user end [ 172.24.91.117 76301938371088053785281 ] executer: history.menu.form elapse: 15 executer_class: history.menu.MenuFormExecuter sts: OK jsp: /jsp/history/menu/menu.jsp
+06/24 14:10:02 user start [ 172.24.91.117 76301938371088053785281 ] executer: history.logout
+06/24 14:10:02 user end [ 172.24.91.117 76301938371088053785281 ] executer: history.logout elapse: 0 executer_class: history.logout.LogoutExecuter sts: OK jsp: /jsp/history/logout/logout.jsp
+06/24 14:10:08 user start [ 172.24.91.117 N/A ] executer: history.logout.close
+06/24 14:10:08 user end [ 172.24.91.117 N/A ] executer: history.logout.close elapse: 16 executer_class: history.logout.LogoutExecuter sts: OK jsp: /jsp/history/logout/logoutClose.jsp
+06/24 14:10:08 metrics Threads(b,d,i,ttl): 0,0,1,2, Requests(hd,dl,dr): 94,0,0, Heap(fr,ttl): 27274,32640 Sessions: 0
+06/24 14:10:19 user start [ 172.24.91.117 N/A ] executer: history.login
+06/24 14:10:19 user end [ 172.24.91.117 N/A ] executer: history.login elapse: 63 executer_class: history.login.LoginExecuter sts: OK jsp: /jsp/history/menu/menu.jsp
+06/24 14:10:22 user start [ 172.24.91.117 76302928371088053819390 ] executer: history.enquirylists.form
+06/24 14:10:22 user end [ 172.24.91.117 76302928371088053819390 ] executer: history.enquirylists.form elapse: 94 executer_class: history.enquirylists.EnquiryListHeadExecuter sts: OK jsp: /jsp/history/enquirylists/EnquiryListHead.jsp
+06/24 14:10:29 user start [ 172.24.91.117 76302928371088053819390 ] executer: history.enquirylists.form
+06/24 14:10:29 user end [ 172.24.91.117 76302928371088053819390 ] executer: history.enquirylists.form elapse: 141 executer_class: history.enquirylists.EnquiryListHeadExecuter sts: OK jsp: /jsp/history/enquirylists/EnquiryListHead.jsp
+06/24 14:10:44 user start [ 172.24.91.117 76302928371088053819390 ] executer: history.menu.form
+06/24 14:10:45 user end [ 172.24.91.117 76302928371088053819390 ] executer: history.menu.form elapse: 31 executer_class: history.menu.MenuFormExecuter sts: OK jsp: /jsp/history/menu/menu.jsp
+06/24 14:10:48 user start [ 172.24.91.117 76302928371088053819390 ] executer: history.logout
+06/24 14:10:48 user end [ 172.24.91.117 76302928371088053819390 ] executer: history.logout elapse: 0 executer_class: history.logout.LogoutExecuter sts: OK jsp: /jsp/history/logout/logout.jsp
+06/24 14:10:53 user start [ 172.24.91.117 N/A ] executer: history.logout.close
+06/24 14:10:53 user end [ 172.24.91.117 N/A ] executer: history.logout.close elapse: 16 executer_class: history.logout.LogoutExecuter sts: OK jsp: /jsp/history/logout/logoutClose.jsp
+06/24 14:15:25 user start [ 172.24.91.117 N/A ] executer: history.login
+06/24 14:15:25 user end [ 172.24.91.117 N/A ] executer: history.login elapse: 63 executer_class: history.login.LoginExecuter sts: OK jsp: /jsp/history/menu/menu.jsp
+06/24 14:15:27 user start [ 172.24.91.117 763095141088054125390 ] executer: history.enquirylists.form
+06/24 14:15:27 user end [ 172.24.91.117 763095141088054125390 ] executer: history.enquirylists.form elapse: 78 executer_class: history.enquirylists.EnquiryListHeadExecuter sts: OK jsp: /jsp/history/enquirylists/EnquiryListHead.jsp
+06/24 14:15:52 user start [ 172.24.91.117 763095141088054125390 ] executer: history.menu.form
+06/24 14:15:52 user end [ 172.24.91.117 763095141088054125390 ] executer: history.menu.form elapse: 32 executer_class: history.menu.MenuFormExecuter sts: OK jsp: /jsp/history/menu/menu.jsp
+06/24 14:15:56 user start [ 172.24.91.117 763095141088054125390 ] executer: history.logout
+06/24 14:15:56 user end [ 172.24.91.117 763095141088054125390 ] executer: history.logout elapse: 16 executer_class: history.logout.LogoutExecuter sts: OK jsp: /jsp/history/logout/logout.jsp
+06/24 14:16:01 user start [ 172.24.91.117 N/A ] executer: history.logout.close
+06/24 14:16:01 user end [ 172.24.91.117 N/A ] executer: history.logout.close elapse: 16 executer_class: history.logout.LogoutExecuter sts: OK jsp: /jsp/history/logout/logoutClose.jsp
+06/24 14:20:08 metrics Threads(b,d,i,ttl): 0,0,1,2, Requests(hd,dl,dr): 68,0,0, Heap(fr,ttl): 27664,32640 Sessions: 0
+06/24 14:30:08 metrics Threads(b,d,i,ttl): 0,0,0,1, Requests(hd,dl,dr): 0,0,0, Heap(fr,ttl): 27708,32640 Sessions: 0
+06/24 14:36:25 user start [ 172.24.91.117 N/A ] executer: history.login
+06/24 14:36:25 user end [ 172.24.91.117 N/A ] executer: history.login elapse: 63 executer_class: history.login.LoginExecuter sts: OK jsp: /jsp/history/menu/menu.jsp
+06/24 14:36:27 user start [ 172.24.91.117 76302209261088055385484 ] executer: history.enquirylists.form
+06/24 14:36:28 user end [ 172.24.91.117 76302209261088055385484 ] executer: history.enquirylists.form elapse: 78 executer_class: history.enquirylists.EnquiryListHeadExecuter sts: OK jsp: /jsp/history/enquirylists/EnquiryListHead.jsp
+06/24 14:36:36 user start [ 172.24.91.117 76302209261088055385484 ] executer: history.enquirylists.form
+06/24 14:36:36 user end [ 172.24.91.117 76302209261088055385484 ] executer: history.enquirylists.form elapse: 125 executer_class: history.enquirylists.EnquiryListHeadExecuter sts: OK jsp: /jsp/history/enquirylists/EnquiryListHead.jsp
+06/24 14:38:48 user start [ 172.24.91.117 76302209261088055385484 ] executer: history.menu.form
+06/24 14:38:48 user end [ 172.24.91.117 76302209261088055385484 ] executer: history.menu.form elapse: 31 executer_class: history.menu.MenuFormExecuter sts: OK jsp: /jsp/history/menu/menu.jsp
+06/24 14:38:51 user start [ 172.24.91.117 76302209261088055385484 ] executer: history.enquirylists.form
+06/24 14:38:51 user end [ 172.24.91.117 76302209261088055385484 ] executer: history.enquirylists.form elapse: 78 executer_class: history.enquirylists.EnquiryListHeadExecuter sts: OK jsp: /jsp/history/enquirylists/EnquiryListHead.jsp
+06/24 14:38:57 user start [ 172.24.91.117 76302209261088055385484 ] executer: history.enquirylists.form
+06/24 14:38:58 user end [ 172.24.91.117 76302209261088055385484 ] executer: history.enquirylists.form elapse: 141 executer_class: history.enquirylists.EnquiryListHeadExecuter sts: OK jsp: /jsp/history/enquirylists/EnquiryListHead.jsp
+06/24 14:39:35 user start [ 172.24.91.117 76302209261088055385484 ] executer: history.enquirylists.form
+06/24 14:39:35 user end [ 172.24.91.117 76302209261088055385484 ] executer: history.enquirylists.form elapse: 125 executer_class: history.enquirylists.EnquiryListHeadExecuter sts: OK jsp: /jsp/history/enquirylists/EnquiryListHead.jsp
+06/24 14:39:40 user start [ 172.24.91.117 76302209261088055385484 ] executer: history.enquirylists.form
+06/24 14:39:40 user end [ 172.24.91.117 76302209261088055385484 ] executer: history.enquirylists.form elapse: 125 executer_class: history.enquirylists.EnquiryListHeadExecuter sts: OK jsp: /jsp/history/enquirylists/EnquiryListHead.jsp
+06/24 14:40:08 metrics Threads(b,d,i,ttl): 0,0,1,2, Requests(hd,dl,dr): 90,0,0, Heap(fr,ttl): 26073,32640 Sessions: 1
+06/24 14:40:24 user start [ 172.24.91.117 76302209261088055385484 ] executer: history.enquirylists.form
+06/24 14:40:24 user end [ 172.24.91.117 76302209261088055385484 ] executer: history.enquirylists.form elapse: 125 executer_class: history.enquirylists.EnquiryListHeadExecuter sts: OK jsp: /jsp/history/enquirylists/EnquiryListHead.jsp
+06/24 14:40:27 user start [ 172.24.91.117 76302209261088055385484 ] executer: history.enquirylists.form
+06/24 14:40:27 user end [ 172.24.91.117 76302209261088055385484 ] executer: history.enquirylists.form elapse: 140 executer_class: history.enquirylists.EnquiryListHeadExecuter sts: OK jsp: /jsp/history/enquirylists/EnquiryListHead.jsp
+06/24 14:40:54 user start [ 172.24.91.117 76302209261088055385484 ] executer: history.enquirylists.form
+06/24 14:40:54 user end [ 172.24.91.117 76302209261088055385484 ] executer: history.enquirylists.form elapse: 141 executer_class: history.enquirylists.EnquiryListHeadExecuter sts: OK jsp: /jsp/history/enquirylists/EnquiryListHead.jsp
+06/24 14:40:58 user start [ 172.24.91.117 76302209261088055385484 ] executer: history.enquirylists.form
+06/24 14:40:58 user end [ 172.24.91.117 76302209261088055385484 ] executer: history.enquirylists.form elapse: 141 executer_class: history.enquirylists.EnquiryListHeadExecuter sts: OK jsp: /jsp/history/enquirylists/EnquiryListHead.jsp
+06/24 14:41:38 user start [ 172.24.91.117 76302209261088055385484 ] executer: history.enquirylists.form
+06/24 14:41:38 user end [ 172.24.91.117 76302209261088055385484 ] executer: history.enquirylists.form elapse: 140 executer_class: history.enquirylists.EnquiryListHeadExecuter sts: OK jsp: /jsp/history/enquirylists/EnquiryListHead.jsp
+06/24 14:41:42 user start [ 172.24.91.117 76302209261088055385484 ] executer: history.enquirylists.form
+06/24 14:41:42 user end [ 172.24.91.117 76302209261088055385484 ] executer: history.enquirylists.form elapse: 141 executer_class: history.enquirylists.EnquiryListHeadExecuter sts: OK jsp: /jsp/history/enquirylists/EnquiryListHead.jsp
+06/24 14:42:05 user start [ 172.24.91.117 76302209261088055385484 ] executer: history.enquirylists.form
+06/24 14:42:05 user end [ 172.24.91.117 76302209261088055385484 ] executer: history.enquirylists.form elapse: 125 executer_class: history.enquirylists.EnquiryListHeadExecuter sts: OK jsp: /jsp/history/enquirylists/EnquiryListHead.jsp
+06/24 14:42:09 user start [ 172.24.91.117 76302209261088055385484 ] executer: history.enquirylists.form
+06/24 14:42:09 user end [ 172.24.91.117 76302209261088055385484 ] executer: history.enquirylists.form elapse: 141 executer_class: history.enquirylists.EnquiryListHeadExecuter sts: OK jsp: /jsp/history/enquirylists/EnquiryListHead.jsp
+06/24 14:42:19 user start [ 172.24.91.117 76302209261088055385484 ] executer: history.menu.form
+06/24 14:42:19 user end [ 172.24.91.117 76302209261088055385484 ] executer: history.menu.form elapse: 31 executer_class: history.menu.MenuFormExecuter sts: OK jsp: /jsp/history/menu/menu.jsp
+06/24 14:42:21 user start [ 172.24.91.117 76302209261088055385484 ] executer: history.logout
+06/24 14:42:21 user end [ 172.24.91.117 76302209261088055385484 ] executer: history.logout elapse: 0 executer_class: history.logout.LogoutExecuter sts: OK jsp: /jsp/history/logout/logout.jsp
+06/24 14:42:26 user start [ 172.24.91.117 N/A ] executer: history.logout.close
+06/24 14:42:26 user end [ 172.24.91.117 N/A ] executer: history.logout.close elapse: 15 executer_class: history.logout.LogoutExecuter sts: OK jsp: /jsp/history/logout/logoutClose.jsp
+06/24 14:43:12 user start [ 172.24.91.117 N/A ] executer: history.login
+06/24 14:43:12 user end [ 172.24.91.117 N/A ] executer: history.login elapse: 47 executer_class: history.login.LoginExecuter sts: OK jsp: /jsp/history/menu/menu.jsp
+06/24 14:43:14 user start [ 172.24.91.117 76301682851088055792890 ] executer: history.enquirylists.form
+06/24 14:43:14 user end [ 172.24.91.117 76301682851088055792890 ] executer: history.enquirylists.form elapse: 62 executer_class: history.enquirylists.EnquiryListHeadExecuter sts: NG jsp: /jsp/history/enquirylists/EnquiryListHead.jsp
+06/24 14:43:22 user start [ 172.24.91.117 76301682851088055792890 ] executer: history.enquirylists.form
+06/24 14:43:22 user end [ 172.24.91.117 76301682851088055792890 ] executer: history.enquirylists.form elapse: 125 executer_class: history.enquirylists.EnquiryListHeadExecuter sts: OK jsp: /jsp/history/enquirylists/EnquiryListHead.jsp
+06/24 14:43:26 user start [ 172.24.91.117 76301682851088055792890 ] executer: history.enquirylists.form
+06/24 14:43:26 user end [ 172.24.91.117 76301682851088055792890 ] executer: history.enquirylists.form elapse: 125 executer_class: history.enquirylists.EnquiryListHeadExecuter sts: OK jsp: /jsp/history/enquirylists/EnquiryListHead.jsp
+06/24 14:45:56 user start [ 172.24.91.117 76301682851088055792890 ] executer: history.enquirylists.form
+06/24 14:45:57 user end [ 172.24.91.117 76301682851088055792890 ] executer: history.enquirylists.form elapse: 125 executer_class: history.enquirylists.EnquiryListHeadExecuter sts: OK jsp: /jsp/history/enquirylists/EnquiryListHead.jsp
+06/24 14:46:01 user start [ 172.24.91.117 76301682851088055792890 ] executer: history.enquirylists.form
+06/24 14:46:01 user end [ 172.24.91.117 76301682851088055792890 ] executer: history.enquirylists.form elapse: 125 executer_class: history.enquirylists.EnquiryListHeadExecuter sts: OK jsp: /jsp/history/enquirylists/EnquiryListHead.jsp
+06/24 14:46:15 user start [ 172.24.91.117 76301682851088055792890 ] executer: history.enquirylists.form
+06/24 14:46:15 user end [ 172.24.91.117 76301682851088055792890 ] executer: history.enquirylists.form elapse: 125 executer_class: history.enquirylists.EnquiryListHeadExecuter sts: OK jsp: /jsp/history/enquirylists/EnquiryListHead.jsp
+06/24 14:46:19 user start [ 172.24.91.117 76301682851088055792890 ] executer: history.enquirylists.form
+06/24 14:46:19 user end [ 172.24.91.117 76301682851088055792890 ] executer: history.enquirylists.form elapse: 125 executer_class: history.enquirylists.EnquiryListHeadExecuter sts: OK jsp: /jsp/history/enquirylists/EnquiryListHead.jsp
+06/24 14:46:24 user start [ 172.24.91.117 76301682851088055792890 ] executer: history.enquirylists.form
+06/24 14:46:24 user end [ 172.24.91.117 76301682851088055792890 ] executer: history.enquirylists.form elapse: 125 executer_class: history.enquirylists.EnquiryListHeadExecuter sts: OK jsp: /jsp/history/enquirylists/EnquiryListHead.jsp
+06/24 14:46:28 user start [ 172.24.91.117 76301682851088055792890 ] executer: history.enquirylists.form
+06/24 14:46:28 user end [ 172.24.91.117 76301682851088055792890 ] executer: history.enquirylists.form elapse: 125 executer_class: history.enquirylists.EnquiryListHeadExecuter sts: OK jsp: /jsp/history/enquirylists/EnquiryListHead.jsp
+06/24 14:46:32 user start [ 172.24.91.117 76301682851088055792890 ] executer: history.enquirylists.form
+06/24 14:46:32 user end [ 172.24.91.117 76301682851088055792890 ] executer: history.enquirylists.form elapse: 125 executer_class: history.enquirylists.EnquiryListHeadExecuter sts: OK jsp: /jsp/history/enquirylists/EnquiryListHead.jsp
+06/24 14:46:34 user start [ 172.24.91.117 76301682851088055792890 ] executer: history.enquirylists.form
+06/24 14:46:34 user end [ 172.24.91.117 76301682851088055792890 ] executer: history.enquirylists.form elapse: 110 executer_class: history.enquirylists.EnquiryListHeadExecuter sts: OK jsp: /jsp/history/enquirylists/EnquiryListHead.jsp
+06/24 14:47:33 user start [ 172.24.91.117 76301682851088055792890 ] executer: history.enquirylists.form
+06/24 14:47:33 user end [ 172.24.91.117 76301682851088055792890 ] executer: history.enquirylists.form elapse: 125 executer_class: history.enquirylists.EnquiryListHeadExecuter sts: OK jsp: /jsp/history/enquirylists/EnquiryListHead.jsp
+06/24 14:47:37 user start [ 172.24.91.117 76301682851088055792890 ] executer: history.enquirylists.form
+06/24 14:47:37 user end [ 172.24.91.117 76301682851088055792890 ] executer: history.enquirylists.form elapse: 125 executer_class: history.enquirylists.EnquiryListHeadExecuter sts: OK jsp: /jsp/history/enquirylists/EnquiryListHead.jsp
+06/24 14:48:27 user start [ 172.24.91.117 76301682851088055792890 ] executer: history.enquirylists.form
+06/24 14:48:27 user end [ 172.24.91.117 76301682851088055792890 ] executer: history.enquirylists.form elapse: 125 executer_class: history.enquirylists.EnquiryListHeadExecuter sts: OK jsp: /jsp/history/enquirylists/EnquiryListHead.jsp
+06/24 14:48:30 user start [ 172.24.91.117 76301682851088055792890 ] executer: history.enquirylists.form
+06/24 14:48:30 user end [ 172.24.91.117 76301682851088055792890 ] executer: history.enquirylists.form elapse: 140 executer_class: history.enquirylists.EnquiryListHeadExecuter sts: OK jsp: /jsp/history/enquirylists/EnquiryListHead.jsp
+06/24 14:48:58 user start [ 172.24.91.117 76301682851088055792890 ] executer: history.enquirylists.form
+06/24 14:48:58 user end [ 172.24.91.117 76301682851088055792890 ] executer: history.enquirylists.form elapse: 125 executer_class: history.enquirylists.EnquiryListHeadExecuter sts: OK jsp: /jsp/history/enquirylists/EnquiryListHead.jsp
+06/24 14:49:02 user start [ 172.24.91.117 76301682851088055792890 ] executer: history.enquirylists.form
+06/24 14:49:02 user end [ 172.24.91.117 76301682851088055792890 ] executer: history.enquirylists.form elapse: 140 executer_class: history.enquirylists.EnquiryListHeadExecuter sts: OK jsp: /jsp/history/enquirylists/EnquiryListHead.jsp
+06/24 14:49:26 user start [ 172.24.91.117 76301682851088055792890 ] executer: history.enquirylists.form
+06/24 14:49:26 user end [ 172.24.91.117 76301682851088055792890 ] executer: history.enquirylists.form elapse: 125 executer_class: history.enquirylists.EnquiryListHeadExecuter sts: OK jsp: /jsp/history/enquirylists/EnquiryListHead.jsp
+06/24 14:49:32 user start [ 172.24.91.117 76301682851088055792890 ] executer: history.enquirylists.form
+06/24 14:49:32 user end [ 172.24.91.117 76301682851088055792890 ] executer: history.enquirylists.form elapse: 141 executer_class: history.enquirylists.EnquiryListHeadExecuter sts: OK jsp: /jsp/history/enquirylists/EnquiryListHead.jsp
+06/24 14:49:39 user start [ 172.24.91.117 76301682851088055792890 ] executer: history.enquirylists.form
+06/24 14:49:39 user end [ 172.24.91.117 76301682851088055792890 ] executer: history.enquirylists.form elapse: 125 executer_class: history.enquirylists.EnquiryListHeadExecuter sts: OK jsp: /jsp/history/enquirylists/EnquiryListHead.jsp
+06/24 14:49:45 user start [ 172.24.91.117 76301682851088055792890 ] executer: history.enquirylists.form
+06/24 14:49:45 user end [ 172.24.91.117 76301682851088055792890 ] executer: history.enquirylists.form elapse: 140 executer_class: history.enquirylists.EnquiryListHeadExecuter sts: OK jsp: /jsp/history/enquirylists/EnquiryListHead.jsp
+06/24 14:50:08 metrics Threads(b,d,i,ttl): 0,0,2,3, Requests(hd,dl,dr): 390,0,0, Heap(fr,ttl): 24697,32640 Sessions: 1
+06/24 14:50:12 user start [ 172.24.91.117 76301682851088055792890 ] executer: history.enquirylists.form
+06/24 14:50:12 user end [ 172.24.91.117 76301682851088055792890 ] executer: history.enquirylists.form elapse: 125 executer_class: history.enquirylists.EnquiryListHeadExecuter sts: OK jsp: /jsp/history/enquirylists/EnquiryListHead.jsp
+06/24 14:50:15 user start [ 172.24.91.117 76301682851088055792890 ] executer: history.enquirylists.form
+06/24 14:50:15 user end [ 172.24.91.117 76301682851088055792890 ] executer: history.enquirylists.form elapse: 125 executer_class: history.enquirylists.EnquiryListHeadExecuter sts: OK jsp: /jsp/history/enquirylists/EnquiryListHead.jsp
+06/24 14:50:38 user start [ 172.24.91.117 76301682851088055792890 ] executer: history.enquirylists.form
+06/24 14:50:38 user end [ 172.24.91.117 76301682851088055792890 ] executer: history.enquirylists.form elapse: 125 executer_class: history.enquirylists.EnquiryListHeadExecuter sts: OK jsp: /jsp/history/enquirylists/EnquiryListHead.jsp
+06/24 14:50:44 user start [ 172.24.91.117 76301682851088055792890 ] executer: history.enquirylists.form
+06/24 14:50:44 user end [ 172.24.91.117 76301682851088055792890 ] executer: history.enquirylists.form elapse: 125 executer_class: history.enquirylists.EnquiryListHeadExecuter sts: OK jsp: /jsp/history/enquirylists/EnquiryListHead.jsp
+06/24 14:50:52 user start [ 172.24.91.117 76301682851088055792890 ] executer: history.enquirylists.form
+06/24 14:50:52 user end [ 172.24.91.117 76301682851088055792890 ] executer: history.enquirylists.form elapse: 140 executer_class: history.enquirylists.EnquiryListHeadExecuter sts: OK jsp: /jsp/history/enquirylists/EnquiryListHead.jsp
+06/24 14:51:24 user start [ 172.24.91.117 76301682851088055792890 ] executer: history.menu.form
+06/24 14:51:24 user end [ 172.24.91.117 76301682851088055792890 ] executer: history.menu.form elapse: 31 executer_class: history.menu.MenuFormExecuter sts: OK jsp: /jsp/history/menu/menu.jsp
+06/24 14:51:28 user start [ 172.24.91.117 76301682851088055792890 ] executer: history.enquirylists.form
+06/24 14:51:28 user end [ 172.24.91.117 76301682851088055792890 ] executer: history.enquirylists.form elapse: 63 executer_class: history.enquirylists.EnquiryListHeadExecuter sts: NG jsp: /jsp/history/enquirylists/EnquiryListHead.jsp
+06/24 14:51:34 user start [ 172.24.91.117 76301682851088055792890 ] executer: history.enquirylists.form
+06/24 14:51:34 user end [ 172.24.91.117 76301682851088055792890 ] executer: history.enquirylists.form elapse: 125 executer_class: history.enquirylists.EnquiryListHeadExecuter sts: OK jsp: /jsp/history/enquirylists/EnquiryListHead.jsp
+06/24 14:51:37 user start [ 172.24.91.117 76301682851088055792890 ] executer: history.enquirylists.form
+06/24 14:51:38 user end [ 172.24.91.117 76301682851088055792890 ] executer: history.enquirylists.form elapse: 156 executer_class: history.enquirylists.EnquiryListHeadExecuter sts: OK jsp: /jsp/history/enquirylists/EnquiryListHead.jsp
+06/24 14:51:47 user start [ 172.24.91.117 76301682851088055792890 ] executer: history.menu.form
+06/24 14:51:47 user end [ 172.24.91.117 76301682851088055792890 ] executer: history.menu.form elapse: 15 executer_class: history.menu.MenuFormExecuter sts: OK jsp: /jsp/history/menu/menu.jsp
+06/24 14:51:58 user start [ 172.24.91.117 76301682851088055792890 ] executer: history.enquirylists.form
+06/24 14:51:58 user end [ 172.24.91.117 76301682851088055792890 ] executer: history.enquirylists.form elapse: 63 executer_class: history.enquirylists.EnquiryListHeadExecuter sts: NG jsp: /jsp/history/enquirylists/EnquiryListHead.jsp
+06/24 14:52:03 user start [ 172.24.91.117 76301682851088055792890 ] executer: history.enquirylists.form
+06/24 14:52:03 user end [ 172.24.91.117 76301682851088055792890 ] executer: history.enquirylists.form elapse: 140 executer_class: history.enquirylists.EnquiryListHeadExecuter sts: OK jsp: /jsp/history/enquirylists/EnquiryListHead.jsp
+06/24 14:52:06 user start [ 172.24.91.117 76301682851088055792890 ] executer: history.enquirylists.form
+06/24 14:52:07 user end [ 172.24.91.117 76301682851088055792890 ] executer: history.enquirylists.form elapse: 141 executer_class: history.enquirylists.EnquiryListHeadExecuter sts: OK jsp: /jsp/history/enquirylists/EnquiryListHead.jsp
+06/24 14:52:41 user start [ 172.24.91.117 76301682851088055792890 ] executer: history.menu.form
+06/24 14:52:41 user end [ 172.24.91.117 76301682851088055792890 ] executer: history.menu.form elapse: 31 executer_class: history.menu.MenuFormExecuter sts: OK jsp: /jsp/history/menu/menu.jsp
+06/24 14:52:42 user start [ 172.24.91.117 76301682851088055792890 ] executer: history.enquirylists.form
+06/24 14:52:42 user end [ 172.24.91.117 76301682851088055792890 ] executer: history.enquirylists.form elapse: 47 executer_class: history.enquirylists.EnquiryListHeadExecuter sts: NG jsp: /jsp/history/enquirylists/EnquiryListHead.jsp
+06/24 14:52:47 user start [ 172.24.91.117 76301682851088055792890 ] executer: history.enquirylists.form
+06/24 14:52:47 user end [ 172.24.91.117 76301682851088055792890 ] executer: history.enquirylists.form elapse: 125 executer_class: history.enquirylists.EnquiryListHeadExecuter sts: OK jsp: /jsp/history/enquirylists/EnquiryListHead.jsp
+06/24 14:52:54 user start [ 172.24.91.117 76301682851088055792890 ] executer: history.enquirylists.form
+06/24 14:52:54 user end [ 172.24.91.117 76301682851088055792890 ] executer: history.enquirylists.form elapse: 125 executer_class: history.enquirylists.EnquiryListHeadExecuter sts: OK jsp: /jsp/history/enquirylists/EnquiryListHead.jsp
+06/24 14:53:09 user start [ 172.24.91.117 76301682851088055792890 ] executer: history.menu.form
+06/24 14:53:09 user end [ 172.24.91.117 76301682851088055792890 ] executer: history.menu.form elapse: 16 executer_class: history.menu.MenuFormExecuter sts: OK jsp: /jsp/history/menu/menu.jsp
+06/24 14:53:14 user start [ 172.24.91.117 76301682851088055792890 ] executer: history.enquirylists.form
+06/24 14:53:14 user end [ 172.24.91.117 76301682851088055792890 ] executer: history.enquirylists.form elapse: 63 executer_class: history.enquirylists.EnquiryListHeadExecuter sts: NG jsp: /jsp/history/enquirylists/EnquiryListHead.jsp
+06/24 14:53:19 user start [ 172.24.91.117 76301682851088055792890 ] executer: history.enquirylists.form
+06/24 14:53:19 user end [ 172.24.91.117 76301682851088055792890 ] executer: history.enquirylists.form elapse: 125 executer_class: history.enquirylists.EnquiryListHeadExecuter sts: OK jsp: /jsp/history/enquirylists/EnquiryListHead.jsp
+06/24 14:53:22 user start [ 172.24.91.117 76301682851088055792890 ] executer: history.enquirylists.form
+06/24 14:53:22 user end [ 172.24.91.117 76301682851088055792890 ] executer: history.enquirylists.form elapse: 125 executer_class: history.enquirylists.EnquiryListHeadExecuter sts: OK jsp: /jsp/history/enquirylists/EnquiryListHead.jsp
+06/24 14:53:33 user start [ 172.24.91.117 76301682851088055792890 ] executer: history.enquirylists.form
+06/24 14:53:33 user end [ 172.24.91.117 76301682851088055792890 ] executer: history.enquirylists.form elapse: 125 executer_class: history.enquirylists.EnquiryListHeadExecuter sts: OK jsp: /jsp/history/enquirylists/EnquiryListHead.jsp
+06/24 14:53:41 user start [ 172.24.91.117 76301682851088055792890 ] executer: history.enquirylists.form
+06/24 14:53:41 user end [ 172.24.91.117 76301682851088055792890 ] executer: history.enquirylists.form elapse: 125 executer_class: history.enquirylists.EnquiryListHeadExecuter sts: OK jsp: /jsp/history/enquirylists/EnquiryListHead.jsp
+06/24 14:53:56 user start [ 172.24.91.117 76301682851088055792890 ] executer: history.menu.form
+06/24 14:53:56 user end [ 172.24.91.117 76301682851088055792890 ] executer: history.menu.form elapse: 31 executer_class: history.menu.MenuFormExecuter sts: OK jsp: /jsp/history/menu/menu.jsp
+06/24 14:53:58 user start [ 172.24.91.117 76301682851088055792890 ] executer: history.logout
+06/24 14:53:58 user end [ 172.24.91.117 76301682851088055792890 ] executer: history.logout elapse: 0 executer_class: history.logout.LogoutExecuter sts: OK jsp: /jsp/history/logout/logout.jsp
+06/24 14:54:04 user start [ 172.24.91.117 N/A ] executer: history.logout.close
+06/24 14:54:04 user end [ 172.24.91.117 N/A ] executer: history.logout.close elapse: 0 executer_class: history.logout.LogoutExecuter sts: OK jsp: /jsp/history/logout/logoutClose.jsp
+06/24 14:59:27 user start [ 172.24.91.117 N/A ] executer: history.login
+06/24 14:59:27 user end [ 172.24.91.117 N/A ] executer: history.login elapse: 47 executer_class: history.login.LoginExecuter sts: OK jsp: /jsp/history/menu/menu.jsp
+06/24 14:59:29 user start [ 172.24.91.117 7630779371088056767328 ] executer: history.enquirylists.form
+06/24 14:59:29 user end [ 172.24.91.117 7630779371088056767328 ] executer: history.enquirylists.form elapse: 63 executer_class: history.enquirylists.EnquiryListHeadExecuter sts: NG jsp: /jsp/history/enquirylists/EnquiryListHead.jsp
+06/24 14:59:33 user start [ 172.24.91.117 7630779371088056767328 ] executer: history.enquirylists.form
+06/24 14:59:33 user end [ 172.24.91.117 7630779371088056767328 ] executer: history.enquirylists.form elapse: 125 executer_class: history.enquirylists.EnquiryListHeadExecuter sts: OK jsp: /jsp/history/enquirylists/EnquiryListHead.jsp
+06/24 14:59:37 user start [ 172.24.91.117 7630779371088056767328 ] executer: history.enquirylists.form
+06/24 14:59:37 user end [ 172.24.91.117 7630779371088056767328 ] executer: history.enquirylists.form elapse: 125 executer_class: history.enquirylists.EnquiryListHeadExecuter sts: OK jsp: /jsp/history/enquirylists/EnquiryListHead.jsp
+06/24 14:59:51 user start [ 172.24.91.117 7630779371088056767328 ] executer: history.enquirylists.form
+06/24 14:59:51 user end [ 172.24.91.117 7630779371088056767328 ] executer: history.enquirylists.form elapse: 187 executer_class: history.enquirylists.EnquiryListHeadExecuter sts: OK jsp: /jsp/history/enquirylists/EnquiryListHead.jsp
+06/24 14:59:55 user start [ 172.24.91.117 7630779371088056767328 ] executer: history.enquirylists.form
+06/24 14:59:55 user end [ 172.24.91.117 7630779371088056767328 ] executer: history.enquirylists.form elapse: 125 executer_class: history.enquirylists.EnquiryListHeadExecuter sts: OK jsp: /jsp/history/enquirylists/EnquiryListHead.jsp
+06/24 15:00:08 metrics Threads(b,d,i,ttl): 0,0,1,2, Requests(hd,dl,dr): 337,0,0, Heap(fr,ttl): 25391,32640 Sessions: 1
+06/24 15:00:39 user start [ 172.24.91.117 7630779371088056767328 ] executer: history.menu.form
+06/24 15:00:39 user end [ 172.24.91.117 7630779371088056767328 ] executer: history.menu.form elapse: 32 executer_class: history.menu.MenuFormExecuter sts: OK jsp: /jsp/history/menu/menu.jsp
+06/24 15:00:41 user start [ 172.24.91.117 7630779371088056767328 ] executer: history.enquirylists.form
+06/24 15:00:41 user end [ 172.24.91.117 7630779371088056767328 ] executer: history.enquirylists.form elapse: 47 executer_class: history.enquirylists.EnquiryListHeadExecuter sts: NG jsp: /jsp/history/enquirylists/EnquiryListHead.jsp
+06/24 15:00:46 user start [ 172.24.91.117 7630779371088056767328 ] executer: history.enquirylists.form
+06/24 15:00:46 user end [ 172.24.91.117 7630779371088056767328 ] executer: history.enquirylists.form elapse: 141 executer_class: history.enquirylists.EnquiryListHeadExecuter sts: OK jsp: /jsp/history/enquirylists/EnquiryListHead.jsp
+06/24 15:00:49 user start [ 172.24.91.117 7630779371088056767328 ] executer: history.enquirylists.form
+06/24 15:00:49 user end [ 172.24.91.117 7630779371088056767328 ] executer: history.enquirylists.form elapse: 109 executer_class: history.enquirylists.EnquiryListHeadExecuter sts: OK jsp: /jsp/history/enquirylists/EnquiryListHead.jsp
+06/24 15:01:14 user start [ 172.24.91.117 7630779371088056767328 ] executer: history.menu.form
+06/24 15:01:14 user end [ 172.24.91.117 7630779371088056767328 ] executer: history.menu.form elapse: 31 executer_class: history.menu.MenuFormExecuter sts: OK jsp: /jsp/history/menu/menu.jsp
+06/24 15:01:15 user start [ 172.24.91.117 7630779371088056767328 ] executer: history.enquirylists.form
+06/24 15:01:15 user end [ 172.24.91.117 7630779371088056767328 ] executer: history.enquirylists.form elapse: 63 executer_class: history.enquirylists.EnquiryListHeadExecuter sts: NG jsp: /jsp/history/enquirylists/EnquiryListHead.jsp
+06/24 15:01:19 user start [ 172.24.91.117 7630779371088056767328 ] executer: history.enquirylists.form
+06/24 15:01:19 user end [ 172.24.91.117 7630779371088056767328 ] executer: history.enquirylists.form elapse: 125 executer_class: history.enquirylists.EnquiryListHeadExecuter sts: OK jsp: /jsp/history/enquirylists/EnquiryListHead.jsp
+06/24 15:01:22 user start [ 172.24.91.117 7630779371088056767328 ] executer: history.enquirylists.form
+06/24 15:01:22 user end [ 172.24.91.117 7630779371088056767328 ] executer: history.enquirylists.form elapse: 156 executer_class: history.enquirylists.EnquiryListHeadExecuter sts: OK jsp: /jsp/history/enquirylists/EnquiryListHead.jsp
+06/24 15:01:56 user start [ 172.24.91.117 7630779371088056767328 ] executer: history.menu.form
+06/24 15:01:56 user end [ 172.24.91.117 7630779371088056767328 ] executer: history.menu.form elapse: 31 executer_class: history.menu.MenuFormExecuter sts: OK jsp: /jsp/history/menu/menu.jsp
+06/24 15:01:59 user start [ 172.24.91.117 7630779371088056767328 ] executer: history.enquirylists.form
+06/24 15:01:59 user end [ 172.24.91.117 7630779371088056767328 ] executer: history.enquirylists.form elapse: 93 executer_class: history.enquirylists.EnquiryListHeadExecuter sts: NG jsp: /jsp/history/enquirylists/EnquiryListHead.jsp
+06/24 15:02:04 user start [ 172.24.91.117 7630779371088056767328 ] executer: history.enquirylists.form
+06/24 15:02:04 user end [ 172.24.91.117 7630779371088056767328 ] executer: history.enquirylists.form elapse: 125 executer_class: history.enquirylists.EnquiryListHeadExecuter sts: OK jsp: /jsp/history/enquirylists/EnquiryListHead.jsp
+06/24 15:02:07 user start [ 172.24.91.117 7630779371088056767328 ] executer: history.enquirylists.form
+06/24 15:02:07 user end [ 172.24.91.117 7630779371088056767328 ] executer: history.enquirylists.form elapse: 125 executer_class: history.enquirylists.EnquiryListHeadExecuter sts: OK jsp: /jsp/history/enquirylists/EnquiryListHead.jsp
+06/24 15:02:22 user start [ 172.24.91.117 7630779371088056767328 ] executer: history.enquirylists.form
+06/24 15:02:22 user end [ 172.24.91.117 7630779371088056767328 ] executer: history.enquirylists.form elapse: 140 executer_class: history.enquirylists.EnquiryListHeadExecuter sts: OK jsp: /jsp/history/enquirylists/EnquiryListHead.jsp
+06/24 15:03:37 user start [ 172.24.91.117 7630779371088056767328 ] executer: history.menu.form
+06/24 15:03:37 user end [ 172.24.91.117 7630779371088056767328 ] executer: history.menu.form elapse: 31 executer_class: history.menu.MenuFormExecuter sts: OK jsp: /jsp/history/menu/menu.jsp
+06/24 15:03:39 user start [ 172.24.91.117 7630779371088056767328 ] executer: history.enquirylists.form
+06/24 15:03:39 user end [ 172.24.91.117 7630779371088056767328 ] executer: history.enquirylists.form elapse: 47 executer_class: history.enquirylists.EnquiryListHeadExecuter sts: NG jsp: /jsp/history/enquirylists/EnquiryListHead.jsp
+06/24 15:03:42 user start [ 172.24.91.117 7630779371088056767328 ] executer: history.enquirylists.form
+06/24 15:03:43 user end [ 172.24.91.117 7630779371088056767328 ] executer: history.enquirylists.form elapse: 125 executer_class: history.enquirylists.EnquiryListHeadExecuter sts: OK jsp: /jsp/history/enquirylists/EnquiryListHead.jsp
+06/24 15:04:33 user start [ 172.24.91.117 7630779371088056767328 ] executer: history.menu.form
+06/24 15:04:33 user end [ 172.24.91.117 7630779371088056767328 ] executer: history.menu.form elapse: 31 executer_class: history.menu.MenuFormExecuter sts: OK jsp: /jsp/history/menu/menu.jsp
+06/24 15:04:34 user start [ 172.24.91.117 7630779371088056767328 ] executer: history.enquirylists.form
+06/24 15:04:34 user end [ 172.24.91.117 7630779371088056767328 ] executer: history.enquirylists.form elapse: 62 executer_class: history.enquirylists.EnquiryListHeadExecuter sts: NG jsp: /jsp/history/enquirylists/EnquiryListHead.jsp
+06/24 15:04:38 user start [ 172.24.91.117 7630779371088056767328 ] executer: history.enquirylists.form
+06/24 15:04:38 user end [ 172.24.91.117 7630779371088056767328 ] executer: history.enquirylists.form elapse: 125 executer_class: history.enquirylists.EnquiryListHeadExecuter sts: OK jsp: /jsp/history/enquirylists/EnquiryListHead.jsp
+06/24 15:04:41 user start [ 172.24.91.117 7630779371088056767328 ] executer: history.enquirylists.form
+06/24 15:04:42 user end [ 172.24.91.117 7630779371088056767328 ] executer: history.enquirylists.form elapse: 141 executer_class: history.enquirylists.EnquiryListHeadExecuter sts: OK jsp: /jsp/history/enquirylists/EnquiryListHead.jsp
+06/24 15:04:51 user start [ 172.24.91.117 7630779371088056767328 ] executer: history.enquirylists.form
+06/24 15:04:51 user end [ 172.24.91.117 7630779371088056767328 ] executer: history.enquirylists.form elapse: 125 executer_class: history.enquirylists.EnquiryListHeadExecuter sts: OK jsp: /jsp/history/enquirylists/EnquiryListHead.jsp
+06/24 15:04:55 user start [ 172.24.91.117 7630779371088056767328 ] executer: history.enquirylists.form
+06/24 15:04:55 user end [ 172.24.91.117 7630779371088056767328 ] executer: history.enquirylists.form elapse: 125 executer_class: history.enquirylists.EnquiryListHeadExecuter sts: OK jsp: /jsp/history/enquirylists/EnquiryListHead.jsp
+06/24 15:05:16 user start [ 172.24.91.117 7630779371088056767328 ] executer: history.enquirylists.form
+06/24 15:05:16 user end [ 172.24.91.117 7630779371088056767328 ] executer: history.enquirylists.form elapse: 125 executer_class: history.enquirylists.EnquiryListHeadExecuter sts: OK jsp: /jsp/history/enquirylists/EnquiryListHead.jsp
+06/24 15:05:27 user start [ 172.24.91.117 7630779371088056767328 ] executer: history.menu.form
+06/24 15:05:27 user end [ 172.24.91.117 7630779371088056767328 ] executer: history.menu.form elapse: 31 executer_class: history.menu.MenuFormExecuter sts: OK jsp: /jsp/history/menu/menu.jsp
+06/24 15:06:09 user start [ 172.24.91.117 7630779371088056767328 ] executer: history.logout
+06/24 15:06:09 user end [ 172.24.91.117 7630779371088056767328 ] executer: history.logout elapse: 15 executer_class: history.logout.LogoutExecuter sts: OK jsp: /jsp/history/logout/logout.jsp
+06/24 15:06:15 user start [ 172.24.91.117 N/A ] executer: history.logout.close
+06/24 15:06:15 user end [ 172.24.91.117 N/A ] executer: history.logout.close elapse: 15 executer_class: history.logout.LogoutExecuter sts: OK jsp: /jsp/history/logout/logoutClose.jsp
+06/24 15:10:08 metrics Threads(b,d,i,ttl): 0,0,1,2, Requests(hd,dl,dr): 257,0,0, Heap(fr,ttl): 25991,32640 Sessions: 0
+06/24 15:16:42 user start [ 172.24.91.117 N/A ] executer: history.login
+06/24 15:16:42 user end [ 172.24.91.117 N/A ] executer: history.login elapse: 63 executer_class: history.login.LoginExecuter sts: OK jsp: /jsp/history/menu/menu.jsp
+06/24 15:16:44 user start [ 172.24.91.117 76302876721088057802437 ] executer: history.enquirylists.form
+06/24 15:16:44 user end [ 172.24.91.117 76302876721088057802437 ] executer: history.enquirylists.form elapse: 63 executer_class: history.enquirylists.EnquiryListHeadExecuter sts: NG jsp: /jsp/history/enquirylists/EnquiryListHead.jsp
+06/24 15:16:49 user start [ 172.24.91.117 76302876721088057802437 ] executer: history.enquirylists.form
+06/24 15:16:49 user end [ 172.24.91.117 76302876721088057802437 ] executer: history.enquirylists.form elapse: 125 executer_class: history.enquirylists.EnquiryListHeadExecuter sts: OK jsp: /jsp/history/enquirylists/EnquiryListHead.jsp
+06/24 15:16:54 user start [ 172.24.91.117 76302876721088057802437 ] executer: history.enquirylists.form
+06/24 15:16:54 user end [ 172.24.91.117 76302876721088057802437 ] executer: history.enquirylists.form elapse: 110 executer_class: history.enquirylists.EnquiryListHeadExecuter sts: OK jsp: /jsp/history/enquirylists/EnquiryListHead.jsp
+06/24 15:17:06 user start [ 172.24.91.117 76302876721088057802437 ] executer: history.menu.form
+06/24 15:17:06 user end [ 172.24.91.117 76302876721088057802437 ] executer: history.menu.form elapse: 32 executer_class: history.menu.MenuFormExecuter sts: OK jsp: /jsp/history/menu/menu.jsp
+06/24 15:17:10 user start [ 172.24.91.117 76302876721088057802437 ] executer: history.logout
+06/24 15:17:10 user end [ 172.24.91.117 76302876721088057802437 ] executer: history.logout elapse: 0 executer_class: history.logout.LogoutExecuter sts: OK jsp: /jsp/history/logout/logout.jsp
+06/24 15:17:15 user start [ 172.24.91.117 N/A ] executer: history.logout.close
+06/24 15:17:15 user end [ 172.24.91.117 N/A ] executer: history.logout.close elapse: 16 executer_class: history.logout.LogoutExecuter sts: OK jsp: /jsp/history/logout/logoutClose.jsp
+06/24 15:20:08 metrics Threads(b,d,i,ttl): 0,0,1,2, Requests(hd,dl,dr): 52,0,0, Heap(fr,ttl): 25475,32640 Sessions: 0
+06/24 15:20:49 user start [ 172.24.91.117 N/A ] executer: history.login
+06/24 15:20:49 user end [ 172.24.91.117 N/A ] executer: history.login elapse: 46 executer_class: history.login.LoginExecuter sts: OK jsp: /jsp/history/menu/menu.jsp
+06/24 15:20:51 user start [ 172.24.91.117 76303067221088058049500 ] executer: history.enquirylists.form
+06/24 15:20:52 user end [ 172.24.91.117 76303067221088058049500 ] executer: history.enquirylists.form elapse: 63 executer_class: history.enquirylists.EnquiryListHeadExecuter sts: NG jsp: /jsp/history/enquirylists/EnquiryListHead.jsp
+06/24 15:20:56 user start [ 172.24.91.117 76303067221088058049500 ] executer: history.enquirylists.form
+06/24 15:20:57 user end [ 172.24.91.117 76303067221088058049500 ] executer: history.enquirylists.form elapse: 125 executer_class: history.enquirylists.EnquiryListHeadExecuter sts: OK jsp: /jsp/history/enquirylists/EnquiryListHead.jsp
+06/24 15:21:01 user start [ 172.24.91.117 76303067221088058049500 ] executer: history.enquirylists.form
+06/24 15:21:02 user end [ 172.24.91.117 76303067221088058049500 ] executer: history.enquirylists.form elapse: 140 executer_class: history.enquirylists.EnquiryListHeadExecuter sts: OK jsp: /jsp/history/enquirylists/EnquiryListHead.jsp
+06/24 15:21:10 user start [ 172.24.91.117 76303067221088058049500 ] executer: history.enquirylists.form
+06/24 15:21:10 user end [ 172.24.91.117 76303067221088058049500 ] executer: history.enquirylists.form elapse: 125 executer_class: history.enquirylists.EnquiryListHeadExecuter sts: OK jsp: /jsp/history/enquirylists/EnquiryListHead.jsp
+06/24 15:21:15 user start [ 172.24.91.117 76303067221088058049500 ] executer: history.menu.form
+06/24 15:21:15 user end [ 172.24.91.117 76303067221088058049500 ] executer: history.menu.form elapse: 32 executer_class: history.menu.MenuFormExecuter sts: OK jsp: /jsp/history/menu/menu.jsp
+06/24 15:21:18 user start [ 172.24.91.117 76303067221088058049500 ] executer: history.logout
+06/24 15:21:18 user end [ 172.24.91.117 76303067221088058049500 ] executer: history.logout elapse: 0 executer_class: history.logout.LogoutExecuter sts: OK jsp: /jsp/history/logout/logout.jsp
+06/24 15:21:23 user start [ 172.24.91.117 N/A ] executer: history.logout.close
+06/24 15:21:23 user end [ 172.24.91.117 N/A ] executer: history.logout.close elapse: 15 executer_class: history.logout.LogoutExecuter sts: OK jsp: /jsp/history/logout/logoutClose.jsp
+06/24 15:21:46 user start [ 172.24.91.117 N/A ] executer: history.login
+06/24 15:21:46 user end [ 172.24.91.117 N/A ] executer: history.login elapse: 47 executer_class: history.login.LoginExecuter sts: OK jsp: /jsp/history/menu/menu.jsp
+06/24 15:21:48 user start [ 172.24.91.117 7630666231088058106406 ] executer: history.enquirylists.form
+06/24 15:21:48 user end [ 172.24.91.117 7630666231088058106406 ] executer: history.enquirylists.form elapse: 47 executer_class: history.enquirylists.EnquiryListHeadExecuter sts: NG jsp: /jsp/history/enquirylists/EnquiryListHead.jsp
+06/24 15:21:52 user start [ 172.24.91.117 7630666231088058106406 ] executer: history.enquirylists.form
+06/24 15:21:52 user end [ 172.24.91.117 7630666231088058106406 ] executer: history.enquirylists.form elapse: 156 executer_class: history.enquirylists.EnquiryListHeadExecuter sts: OK jsp: /jsp/history/enquirylists/EnquiryListHead.jsp
+06/24 15:21:56 user start [ 172.24.91.117 7630666231088058106406 ] executer: history.enquirylists.form
+06/24 15:21:56 user end [ 172.24.91.117 7630666231088058106406 ] executer: history.enquirylists.form elapse: 125 executer_class: history.enquirylists.EnquiryListHeadExecuter sts: OK jsp: /jsp/history/enquirylists/EnquiryListHead.jsp
+06/24 15:22:01 user start [ 172.24.91.117 7630666231088058106406 ] executer: history.menu.form
+06/24 15:22:01 user end [ 172.24.91.117 7630666231088058106406 ] executer: history.menu.form elapse: 16 executer_class: history.menu.MenuFormExecuter sts: OK jsp: /jsp/history/menu/menu.jsp
+06/24 15:22:04 user start [ 172.24.91.117 7630666231088058106406 ] executer: history.enquirylists.form
+06/24 15:22:04 user end [ 172.24.91.117 7630666231088058106406 ] executer: history.enquirylists.form elapse: 63 executer_class: history.enquirylists.EnquiryListHeadExecuter sts: NG jsp: /jsp/history/enquirylists/EnquiryListHead.jsp
+06/24 15:22:09 user start [ 172.24.91.117 7630666231088058106406 ] executer: history.enquirylists.form
+06/24 15:22:09 user end [ 172.24.91.117 7630666231088058106406 ] executer: history.enquirylists.form elapse: 125 executer_class: history.enquirylists.EnquiryListHeadExecuter sts: OK jsp: /jsp/history/enquirylists/EnquiryListHead.jsp
+06/24 15:22:15 user start [ 172.24.91.117 7630666231088058106406 ] executer: history.enquirylists.form
+06/24 15:22:15 user end [ 172.24.91.117 7630666231088058106406 ] executer: history.enquirylists.form elapse: 125 executer_class: history.enquirylists.EnquiryListHeadExecuter sts: OK jsp: /jsp/history/enquirylists/EnquiryListHead.jsp
+06/24 15:22:23 user start [ 172.24.91.117 7630666231088058106406 ] executer: history.menu.form
+06/24 15:22:23 user end [ 172.24.91.117 7630666231088058106406 ] executer: history.menu.form elapse: 32 executer_class: history.menu.MenuFormExecuter sts: OK jsp: /jsp/history/menu/menu.jsp
+06/24 15:22:26 user start [ 172.24.91.117 7630666231088058106406 ] executer: history.logout
+06/24 15:22:26 user end [ 172.24.91.117 7630666231088058106406 ] executer: history.logout elapse: 15 executer_class: history.logout.LogoutExecuter sts: OK jsp: /jsp/history/logout/logout.jsp
+06/24 15:22:31 user start [ 172.24.91.117 N/A ] executer: history.logout.close
+06/24 15:22:31 user end [ 172.24.91.117 N/A ] executer: history.logout.close elapse: 16 executer_class: history.logout.LogoutExecuter sts: OK jsp: /jsp/history/logout/logoutClose.jsp
+06/24 15:22:57 user start [ 172.24.91.117 N/A ] executer: history.login
+06/24 15:22:58 user end [ 172.24.91.117 N/A ] executer: history.login elapse: 47 executer_class: history.login.LoginExecuter sts: OK jsp: /jsp/history/menu/menu.jsp
+06/24 15:23:00 user start [ 172.24.91.117 76302180901088058177968 ] executer: history.enquirylists.form
+06/24 15:23:00 user end [ 172.24.91.117 76302180901088058177968 ] executer: history.enquirylists.form elapse: 47 executer_class: history.enquirylists.EnquiryListHeadExecuter sts: NG jsp: /jsp/history/enquirylists/EnquiryListHead.jsp
+06/24 15:23:05 user start [ 172.24.91.117 76302180901088058177968 ] executer: history.enquirylists.form
+06/24 15:23:05 user end [ 172.24.91.117 76302180901088058177968 ] executer: history.enquirylists.form elapse: 125 executer_class: history.enquirylists.EnquiryListHeadExecuter sts: OK jsp: /jsp/history/enquirylists/EnquiryListHead.jsp
+06/24 15:23:09 user start [ 172.24.91.117 76302180901088058177968 ] executer: history.enquirylists.form
+06/24 15:23:09 user end [ 172.24.91.117 76302180901088058177968 ] executer: history.enquirylists.form elapse: 141 executer_class: history.enquirylists.EnquiryListHeadExecuter sts: OK jsp: /jsp/history/enquirylists/EnquiryListHead.jsp
+06/24 15:23:12 user start [ 172.24.91.117 76302180901088058177968 ] executer: history.menu.form
+06/24 15:23:12 user end [ 172.24.91.117 76302180901088058177968 ] executer: history.menu.form elapse: 31 executer_class: history.menu.MenuFormExecuter sts: OK jsp: /jsp/history/menu/menu.jsp
+06/24 15:23:17 user start [ 172.24.91.117 76302180901088058177968 ] executer: history.logout
+06/24 15:23:17 user end [ 172.24.91.117 76302180901088058177968 ] executer: history.logout elapse: 0 executer_class: history.logout.LogoutExecuter sts: OK jsp: /jsp/history/logout/logout.jsp
+06/24 15:23:23 user start [ 172.24.91.117 N/A ] executer: history.logout.close
+06/24 15:23:23 user end [ 172.24.91.117 N/A ] executer: history.logout.close elapse: 15 executer_class: history.logout.LogoutExecuter sts: OK jsp: /jsp/history/logout/logoutClose.jsp
+06/24 15:23:45 user start [ 172.24.91.117 N/A ] executer: history.login
+06/24 15:23:45 user end [ 172.24.91.117 N/A ] executer: history.login elapse: 63 executer_class: history.login.LoginExecuter sts: OK jsp: /jsp/history/menu/menu.jsp
+06/24 15:23:47 user start [ 172.24.91.117 76302710161088058225531 ] executer: history.enquirylists.form
+06/24 15:23:47 user end [ 172.24.91.117 76302710161088058225531 ] executer: history.enquirylists.form elapse: 47 executer_class: history.enquirylists.EnquiryListHeadExecuter sts: NG jsp: /jsp/history/enquirylists/EnquiryListHead.jsp
+06/24 15:23:51 user start [ 172.24.91.117 76302710161088058225531 ] executer: history.enquirylists.form
+06/24 15:23:51 user end [ 172.24.91.117 76302710161088058225531 ] executer: history.enquirylists.form elapse: 125 executer_class: history.enquirylists.EnquiryListHeadExecuter sts: OK jsp: /jsp/history/enquirylists/EnquiryListHead.jsp
+06/24 15:23:55 user start [ 172.24.91.117 76302710161088058225531 ] executer: history.menu.form
+06/24 15:23:55 user end [ 172.24.91.117 76302710161088058225531 ] executer: history.menu.form elapse: 15 executer_class: history.menu.MenuFormExecuter sts: OK jsp: /jsp/history/menu/menu.jsp
+06/24 15:25:10 user start [ 172.24.91.117 76302710161088058225531 ] executer: history.enquirylists.form
+06/24 15:25:10 user end [ 172.24.91.117 76302710161088058225531 ] executer: history.enquirylists.form elapse: 63 executer_class: history.enquirylists.EnquiryListHeadExecuter sts: NG jsp: /jsp/history/enquirylists/EnquiryListHead.jsp
+06/24 15:25:13 user start [ 172.24.91.117 76302710161088058225531 ] executer: history.menu.form
+06/24 15:25:13 user end [ 172.24.91.117 76302710161088058225531 ] executer: history.menu.form elapse: 31 executer_class: history.menu.MenuFormExecuter sts: OK jsp: /jsp/history/menu/menu.jsp
+06/24 15:26:15 user start [ 172.24.91.117 76302710161088058225531 ] executer: history.enquirylists.form
+06/24 15:26:15 user end [ 172.24.91.117 76302710161088058225531 ] executer: history.enquirylists.form elapse: 46 executer_class: history.enquirylists.EnquiryListHeadExecuter sts: NG jsp: /jsp/history/enquirylists/EnquiryListHead.jsp
+06/24 15:26:20 user start [ 172.24.91.117 76302710161088058225531 ] executer: history.enquirylists.form
+06/24 15:26:20 user end [ 172.24.91.117 76302710161088058225531 ] executer: history.enquirylists.form elapse: 140 executer_class: history.enquirylists.EnquiryListHeadExecuter sts: OK jsp: /jsp/history/enquirylists/EnquiryListHead.jsp
+06/24 15:26:25 user start [ 172.24.91.117 76302710161088058225531 ] executer: history.enquirylists.form
+06/24 15:26:25 user end [ 172.24.91.117 76302710161088058225531 ] executer: history.enquirylists.form elapse: 140 executer_class: history.enquirylists.EnquiryListHeadExecuter sts: OK jsp: /jsp/history/enquirylists/EnquiryListHead.jsp
+06/24 15:26:31 user start [ 172.24.91.117 76302710161088058225531 ] executer: history.menu.form
+06/24 15:26:31 user end [ 172.24.91.117 76302710161088058225531 ] executer: history.menu.form elapse: 16 executer_class: history.menu.MenuFormExecuter sts: OK jsp: /jsp/history/menu/menu.jsp
+06/24 15:26:58 user start [ 172.24.91.117 76302710161088058225531 ] executer: history.enquirylists.form
+06/24 15:26:58 user end [ 172.24.91.117 76302710161088058225531 ] executer: history.enquirylists.form elapse: 62 executer_class: history.enquirylists.EnquiryListHeadExecuter sts: NG jsp: /jsp/history/enquirylists/EnquiryListHead.jsp
+06/24 15:27:00 user start [ 172.24.91.117 76302710161088058225531 ] executer: history.menu.form
+06/24 15:27:00 user end [ 172.24.91.117 76302710161088058225531 ] executer: history.menu.form elapse: 31 executer_class: history.menu.MenuFormExecuter sts: OK jsp: /jsp/history/menu/menu.jsp
+06/24 15:27:01 user start [ 172.24.91.117 76302710161088058225531 ] executer: history.enquirylists.form
+06/24 15:27:01 user end [ 172.24.91.117 76302710161088058225531 ] executer: history.enquirylists.form elapse: 63 executer_class: history.enquirylists.EnquiryListHeadExecuter sts: NG jsp: /jsp/history/enquirylists/EnquiryListHead.jsp
+06/24 15:27:06 user start [ 172.24.91.117 76302710161088058225531 ] executer: history.enquirylists.form
+06/24 15:27:06 user end [ 172.24.91.117 76302710161088058225531 ] executer: history.enquirylists.form elapse: 140 executer_class: history.enquirylists.EnquiryListHeadExecuter sts: OK jsp: /jsp/history/enquirylists/EnquiryListHead.jsp
+06/24 15:27:11 user start [ 172.24.91.117 76302710161088058225531 ] executer: history.menu.form
+06/24 15:27:11 user end [ 172.24.91.117 76302710161088058225531 ] executer: history.menu.form elapse: 31 executer_class: history.menu.MenuFormExecuter sts: OK jsp: /jsp/history/menu/menu.jsp
+06/24 15:27:52 user start [ 172.24.91.117 76302710161088058225531 ] executer: history.logout
+06/24 15:27:52 user end [ 172.24.91.117 76302710161088058225531 ] executer: history.logout elapse: 15 executer_class: history.logout.LogoutExecuter sts: OK jsp: /jsp/history/logout/logout.jsp
+06/24 15:27:57 user start [ 172.24.91.117 N/A ] executer: history.logout.close
+06/24 15:27:57 user end [ 172.24.91.117 N/A ] executer: history.logout.close elapse: 16 executer_class: history.logout.LogoutExecuter sts: OK jsp: /jsp/history/logout/logoutClose.jsp
+06/24 15:30:08 metrics Threads(b,d,i,ttl): 0,0,1,2, Requests(hd,dl,dr): 353,0,0, Heap(fr,ttl): 25598,32640 Sessions: 0
+06/24 15:34:43 user start [ 172.24.91.117 N/A ] executer: history.login
+06/24 15:34:43 user Session 生成: ID=76303122051088058883906
+06/24 15:34:44 user end [ 172.24.91.117 N/A ] executer: history.login elapse: 140 executer_class: history.login.LoginExecuter sts: OK jsp: /jsp/history/menu/menu.jsp
+06/24 15:34:44 user FileServlet: init
+06/24 15:34:46 user start [ 172.24.91.117 76303122051088058883906 ] executer: history.enquiry.form
+06/24 15:34:46 user end [ 172.24.91.117 76303122051088058883906 ] executer: history.enquiry.form elapse: 125 executer_class: history.enquiry.EnquiryExecuter sts: OK jsp: /jsp/history/enquiry/EnquirySrch.jsp
+06/24 15:34:48 user start [ 172.24.91.117 76303122051088058883906 ] executer: history.detail.disp
+06/24 15:34:48 user end [ 172.24.91.117 76303122051088058883906 ] executer: history.detail.disp elapse: 47 executer_class: history.common.DetailExecuter sts: 8 jsp: /jsp/history/certify/DelayCertify.jsp
+06/24 15:34:53 user start [ 172.24.91.117 76303122051088058883906 ] executer: history.menu.form
+06/24 15:34:53 user end [ 172.24.91.117 76303122051088058883906 ] executer: history.menu.form elapse: 31 executer_class: history.menu.MenuFormExecuter sts: OK jsp: /jsp/history/menu/menu.jsp
+06/24 15:34:55 user start [ 172.24.91.117 76303122051088058883906 ] executer: history.enquiry.form
+06/24 15:34:55 user end [ 172.24.91.117 76303122051088058883906 ] executer: history.enquiry.form elapse: 78 executer_class: history.enquiry.EnquiryExecuter sts: OK jsp: /jsp/history/enquiry/EnquirySrch.jsp
+06/24 15:34:58 user start [ 172.24.91.117 76303122051088058883906 ] executer: history.detail.disp
+06/24 15:34:58 user end [ 172.24.91.117 76303122051088058883906 ] executer: history.detail.disp elapse: 47 executer_class: history.common.DetailExecuter sts: 5 jsp: /jsp/history/person/PersonDelay.jsp
+06/24 15:35:00 user start [ 172.24.91.117 76303122051088058883906 ] executer: history.menu.form
+06/24 15:35:00 user end [ 172.24.91.117 76303122051088058883906 ] executer: history.menu.form elapse: 31 executer_class: history.menu.MenuFormExecuter sts: OK jsp: /jsp/history/menu/menu.jsp
+06/24 15:35:02 user start [ 172.24.91.117 76303122051088058883906 ] executer: history.logout
+06/24 15:35:02 user end [ 172.24.91.117 76303122051088058883906 ] executer: history.logout elapse: 15 executer_class: history.logout.LogoutExecuter sts: OK jsp: /jsp/history/logout/logout.jsp
+06/24 15:35:02 user Session 破棄: ID=76303122051088058883906
+06/24 15:35:08 user start [ 172.24.91.117 N/A ] executer: history.logout.close
+06/24 15:35:08 user end [ 172.24.91.117 N/A ] executer: history.logout.close elapse: 16 executer_class: history.logout.LogoutExecuter sts: OK jsp: /jsp/history/logout/logoutClose.jsp
+06/24 15:35:08 user Session 生成: ID=76303122051088058883906
+06/24 15:35:08 user Session 破棄: ID=76303122051088058883906
+06/24 15:38:04 user start [ 172.24.91.117 N/A ] executer: history.login
+06/24 15:38:04 user end [ 172.24.91.117 N/A ] executer: history.login elapse: 47 executer_class: history.login.LoginExecuter sts: OK jsp: /jsp/history/menu/menu.jsp
+06/24 15:38:06 user start [ 172.24.91.117 76301836091088059084390 ] executer: history.enquirylists.form
+06/24 15:38:07 user end [ 172.24.91.117 76301836091088059084390 ] executer: history.enquirylists.form elapse: 62 executer_class: history.enquirylists.EnquiryListHeadExecuter sts: NG jsp: /jsp/history/enquirylists/EnquiryListHead.jsp
+06/24 15:38:11 user start [ 172.24.91.117 76301836091088059084390 ] executer: history.enquirylists.form
+06/24 15:38:11 user end [ 172.24.91.117 76301836091088059084390 ] executer: history.enquirylists.form elapse: 125 executer_class: history.enquirylists.EnquiryListHeadExecuter sts: OK jsp: /jsp/history/enquirylists/EnquiryListHead.jsp
+06/24 15:38:17 user start [ 172.24.91.117 76301836091088059084390 ] executer: history.enquirylists.form
+06/24 15:38:17 user end [ 172.24.91.117 76301836091088059084390 ] executer: history.enquirylists.form elapse: 156 executer_class: history.enquirylists.EnquiryListHeadExecuter sts: OK jsp: /jsp/history/enquirylists/EnquiryListHead.jsp

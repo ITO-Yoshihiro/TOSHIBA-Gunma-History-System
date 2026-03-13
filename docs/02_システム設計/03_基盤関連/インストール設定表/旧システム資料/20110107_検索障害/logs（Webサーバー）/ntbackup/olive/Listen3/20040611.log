@@ -1,0 +1,21 @@
+2004/06/11 11:08:37 QueueListeners3: 
+jm2.common.UnexpectedException: java.sql.SQLException: ORA-04068: パッケージの既存状態は廃棄されました。
+ORA-04065: 実行されませんでした。stored procedure "TRHIST.PACK_AQ"を変更または削除しています
+ORA-06508: PL/SQL: コールしているプログラム単位が見つかりませんでした
+ORA-06512: 行1
+
+getbyCorreId CorrID[null] OracleErrCode[4068]
+	at jm2.aqproxy.BaseAqProxy.getbyCorreId(BaseAqProxy.java:298)
+	at history.aqproxy.PDFCreateResProxy.receiveMessage(PDFCreateResProxy.java:78)
+	at history.listener.PDFCreateListener.subOperate(PDFCreateListener.java:82)
+	at history.listener.BaseListener.run(BaseListener.java:248)
+
+2004/06/11 11:08:44 スレッド PDFCREATE の停止を検出しました。処理を終了します。
+2004/06/11 11:08:44 ListenerSupervisor は正常終了しました。
+2004/06/11 11:09:24 ListenerSupervisor は正常に起動しました。
+2004/06/11 11:51:39 ListenerSupervisor は正常に起動しました。
+2004/06/11 11:52:21 ListenerSupervisor は正常に起動しました。
+2004/06/11 12:56:19 ListenerSupervisor は正常に起動しました。
+2004/06/11 18:01:49 スレッド PDFCREATE の停止を検出しました。処理を終了します。
+2004/06/11 18:01:49 ListenerSupervisor は正常終了しました。
+2004/06/11 18:38:09 ListenerSupervisor は正常に起動しました。

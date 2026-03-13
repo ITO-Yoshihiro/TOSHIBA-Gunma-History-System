@@ -1,0 +1,996 @@
+# 01/06 14:33:59 JRun Ç…ÇÊÇËçÏê¨
+01/06 14:33:59 user start [ 10.32.11.6 76302469941294290801062 ] executer: history.account.srch
+01/06 14:33:59 user end [ 10.32.11.6 76302469941294290801062 ] executer: history.account.srch elapse: 781 executer_class: history.account.AccountExecuter sts: OK jsp: /jsp/history/account/AccountSrch.jsp
+01/06 14:34:00 user start [ 10.32.11.6 76302469941294290801062 ] executer: history.common.pdf
+01/06 14:34:00 user end [ 10.32.11.6 76302469941294290801062 ] executer: history.common.pdf elapse: 47 executer_class: history.common.PdfExecuter sts: OK jsp: /jsp/history/srchresult/SrchResult.jsp
+01/06 14:34:00 user start [ 10.32.11.6 76302469941294290801062 ] executer: history.srch.pdf
+01/06 14:34:00 user end [ 10.32.11.6 76302469941294290801062 ] executer: history.srch.pdf elapse: 63 executer_class: history.srchresult.SrchPDFExecuter sts: OK jsp: /servlet/jm2.control.BinaryServlet
+01/06 14:34:00 user jm2.control.BinaryServlet: start
+01/06 14:34:00 user jm2.control.BinaryServlet: end
+01/06 14:34:26 user start [ 10.32.11.6 76302469941294290801062 ] executer: history.account.srch
+01/06 14:34:27 user end [ 10.32.11.6 76302469941294290801062 ] executer: history.account.srch elapse: 1031 executer_class: history.account.AccountExecuter sts: OK jsp: /jsp/history/account/AccountSrch.jsp
+01/06 14:34:27 user start [ 10.32.11.6 76302469941294290801062 ] executer: history.common.pdf
+01/06 14:34:27 user end [ 10.32.11.6 76302469941294290801062 ] executer: history.common.pdf elapse: 47 executer_class: history.common.PdfExecuter sts: OK jsp: /jsp/history/srchresult/SrchResult.jsp
+01/06 14:34:27 user start [ 10.32.11.6 76302469941294290801062 ] executer: history.srch.pdf
+01/06 14:34:27 user end [ 10.32.11.6 76302469941294290801062 ] executer: history.srch.pdf elapse: 47 executer_class: history.srchresult.SrchPDFExecuter sts: OK jsp: /servlet/jm2.control.BinaryServlet
+01/06 14:34:27 user jm2.control.BinaryServlet: start
+01/06 14:34:27 user jm2.control.BinaryServlet: end
+01/06 14:34:31 user start [ 10.20.11.7 N/A ] executer: history.login
+01/06 14:34:31 user Session ê∂ê¨: ID=7630734591294292071812
+01/06 14:34:31 user end [ 10.20.11.7 N/A ] executer: history.login elapse: 94 executer_class: history.login.LoginExecuter sts: OK jsp: /jsp/history/menu/menu.jsp
+01/06 14:34:33 user start [ 10.20.11.7 7630734591294292071812 ] executer: history.account.form
+01/06 14:34:33 user end [ 10.20.11.7 7630734591294292071812 ] executer: history.account.form elapse: 31 executer_class: history.account.AccountFormExecuter sts: OK jsp: /jsp/history/account/AccountSrch.jsp
+01/06 14:34:37 user start [ 10.0.42.10 N/A ] executer: history.login
+01/06 14:34:37 user Session ê∂ê¨: ID=7630289721294292077156
+01/06 14:34:37 user end [ 10.0.42.10 N/A ] executer: history.login elapse: 125 executer_class: history.login.LoginExecuter sts: OK jsp: /jsp/history/menu/menu.jsp
+01/06 14:34:40 user start [ 10.0.42.10 7630289721294292077156 ] executer: history.account.form
+01/06 14:34:40 user end [ 10.0.42.10 7630289721294292077156 ] executer: history.account.form elapse: 32 executer_class: history.account.AccountFormExecuter sts: OK jsp: /jsp/history/account/AccountSrch.jsp
+01/06 14:34:49 user start [ 10.32.11.6 76302469941294290801062 ] executer: history.account.srch
+01/06 14:34:51 user end [ 10.32.11.6 76302469941294290801062 ] executer: history.account.srch elapse: 1093 executer_class: history.account.AccountExecuter sts: OK jsp: /jsp/history/account/AccountSrch.jsp
+01/06 14:34:51 user start [ 10.32.11.6 76302469941294290801062 ] executer: history.common.pdf
+01/06 14:34:51 user end [ 10.32.11.6 76302469941294290801062 ] executer: history.common.pdf elapse: 32 executer_class: history.common.PdfExecuter sts: OK jsp: /jsp/history/srchresult/SrchResult.jsp
+01/06 14:34:51 user start [ 10.32.11.6 76302469941294290801062 ] executer: history.srch.pdf
+01/06 14:34:51 user end [ 10.32.11.6 76302469941294290801062 ] executer: history.srch.pdf elapse: 46 executer_class: history.srchresult.SrchPDFExecuter sts: OK jsp: /servlet/jm2.control.BinaryServlet
+01/06 14:34:51 user jm2.control.BinaryServlet: start
+01/06 14:34:51 user jm2.control.BinaryServlet: end
+01/06 14:34:55 user Session îjä¸: ID=7630753061294290544453
+01/06 14:34:56 user start [ 10.0.27.14 76303208171294291448078 ] executer: history.logout
+01/06 14:34:56 user end [ 10.0.27.14 76303208171294291448078 ] executer: history.logout elapse: 16 executer_class: history.logout.LogoutExecuter sts: OK jsp: /jsp/history/logout/logout.jsp
+01/06 14:34:56 user Session îjä¸: ID=76303208171294291448078
+01/06 14:35:01 user start [ 10.0.42.10 7630289721294292077156 ] executer: history.account.srch
+01/06 14:35:01 user end [ 10.0.42.10 7630289721294292077156 ] executer: history.account.srch elapse: 891 executer_class: history.account.AccountExecuter sts: OK jsp: /jsp/history/account/AccountSrch.jsp
+01/06 14:35:02 user start [ 10.0.27.14 N/A ] executer: history.logout.close
+01/06 14:35:02 user end [ 10.0.27.14 N/A ] executer: history.logout.close elapse: 31 executer_class: history.logout.LogoutExecuter sts: OK jsp: /jsp/history/logout/logoutClose.jsp
+01/06 14:35:02 user Session ê∂ê¨: ID=76303208171294291448078
+01/06 14:35:02 user Session îjä¸: ID=76303208171294291448078
+01/06 14:35:02 user start [ 10.0.42.10 7630289721294292077156 ] executer: history.common.pdf
+01/06 14:35:02 user end [ 10.0.42.10 7630289721294292077156 ] executer: history.common.pdf elapse: 31 executer_class: history.common.PdfExecuter sts: OK jsp: /jsp/history/srchresult/SrchResult.jsp
+01/06 14:35:02 user start [ 10.0.42.10 7630289721294292077156 ] executer: history.srch.pdf
+01/06 14:35:02 user end [ 10.0.42.10 7630289721294292077156 ] executer: history.srch.pdf elapse: 47 executer_class: history.srchresult.SrchPDFExecuter sts: OK jsp: /servlet/jm2.control.BinaryServlet
+01/06 14:35:02 user jm2.control.BinaryServlet: start
+01/06 14:35:02 user jm2.control.BinaryServlet: end
+01/06 14:35:07 user start [ 10.20.11.7 7630734591294292071812 ] executer: history.account.srch
+01/06 14:35:08 user end [ 10.20.11.7 7630734591294292071812 ] executer: history.account.srch elapse: 891 executer_class: history.account.AccountExecuter sts: OK jsp: /jsp/history/account/AccountSrch.jsp
+01/06 14:35:09 user start [ 10.20.11.7 7630734591294292071812 ] executer: history.common.pdf
+01/06 14:35:09 user end [ 10.20.11.7 7630734591294292071812 ] executer: history.common.pdf elapse: 47 executer_class: history.common.PdfExecuter sts: OK jsp: /jsp/history/srchresult/SrchResult.jsp
+01/06 14:35:09 user start [ 10.20.11.7 7630734591294292071812 ] executer: history.srch.pdf
+01/06 14:35:09 user end [ 10.20.11.7 7630734591294292071812 ] executer: history.srch.pdf elapse: 62 executer_class: history.srchresult.SrchPDFExecuter sts: OK jsp: /servlet/jm2.control.BinaryServlet
+01/06 14:35:09 user jm2.control.BinaryServlet: start
+01/06 14:35:09 user jm2.control.BinaryServlet: end
+01/06 14:35:11 user start [ 10.61.11.8 76301103241294291570968 ] executer: history.balance.srch
+01/06 14:35:12 user start [ 10.0.33.10 N/A ] executer: history.login
+01/06 14:35:12 user Session ê∂ê¨: ID=7630142061294283822921
+01/06 14:35:12 user end [ 10.0.33.10 N/A ] executer: history.login elapse: 94 executer_class: history.login.LoginExecuter sts: OK jsp: /jsp/history/menu/menu.jsp
+01/06 14:35:16 user start [ 10.0.33.10 7630142061294283822921 ] executer: history.person.form
+01/06 14:35:16 user end [ 10.0.33.10 7630142061294283822921 ] executer: history.person.form elapse: 31 executer_class: history.person.PersonFormExecuter sts: OK jsp: /jsp/history/person/PersonSrch.jsp
+01/06 14:35:20 user end [ 10.61.11.8 76301103241294291570968 ] executer: history.balance.srch elapse: 9312 executer_class: history.balance.BalanceExecuter sts: OK jsp: /jsp/history/balance/BalanceSrch.jsp
+01/06 14:35:21 user start [ 10.61.11.8 76301103241294291570968 ] executer: history.common.pdf
+01/06 14:35:21 user end [ 10.61.11.8 76301103241294291570968 ] executer: history.common.pdf elapse: 31 executer_class: history.common.PdfExecuter sts: OK jsp: /jsp/history/srchresult/SrchResult.jsp
+01/06 14:35:21 user start [ 10.61.11.8 76301103241294291570968 ] executer: history.srch.pdf
+01/06 14:35:21 user end [ 10.61.11.8 76301103241294291570968 ] executer: history.srch.pdf elapse: 46 executer_class: history.srchresult.SrchPDFExecuter sts: OK jsp: /servlet/jm2.control.BinaryServlet
+01/06 14:35:21 user jm2.control.BinaryServlet: start
+01/06 14:35:21 user jm2.control.BinaryServlet: end
+01/06 14:35:28 user start [ 10.83.12.193 76303487641294291657093 ] executer: history.account.srch
+01/06 14:35:39 user start [ 10.0.42.10 7630289721294292077156 ] executer: history.account.srch
+01/06 14:35:41 user start [ 10.20.11.7 7630734591294292071812 ] executer: history.menu.form
+01/06 14:35:41 user end [ 10.20.11.7 7630734591294292071812 ] executer: history.menu.form elapse: 16 executer_class: history.menu.MenuFormExecuter sts: OK jsp: /jsp/history/menu/menu.jsp
+01/06 14:35:42 user end [ 10.83.12.193 76303487641294291657093 ] executer: history.account.srch elapse: 14657 executer_class: history.account.AccountExecuter sts: DY jsp: /jsp/history/account/DelayAccount.jsp
+01/06 14:35:43 user start [ 10.20.11.7 7630734591294292071812 ] executer: history.logout
+01/06 14:35:43 user end [ 10.20.11.7 7630734591294292071812 ] executer: history.logout elapse: 15 executer_class: history.logout.LogoutExecuter sts: OK jsp: /jsp/history/logout/logout.jsp
+01/06 14:35:43 user Session îjä¸: ID=7630734591294292071812
+01/06 14:35:45 user start [ 10.83.12.193 76303487641294291657093 ] executer: history.enquiry.form
+01/06 14:35:46 user end [ 10.0.42.10 7630289721294292077156 ] executer: history.account.srch elapse: 7109 executer_class: history.account.AccountExecuter sts: OK jsp: /jsp/history/account/AccountSrch.jsp
+01/06 14:35:47 user start [ 10.0.42.10 7630289721294292077156 ] executer: history.common.pdf
+01/06 14:35:47 user end [ 10.0.42.10 7630289721294292077156 ] executer: history.common.pdf elapse: 31 executer_class: history.common.PdfExecuter sts: OK jsp: /jsp/history/srchresult/SrchResult.jsp
+01/06 14:35:47 user start [ 10.0.42.10 7630289721294292077156 ] executer: history.srch.pdf
+01/06 14:35:47 user end [ 10.0.42.10 7630289721294292077156 ] executer: history.srch.pdf elapse: 47 executer_class: history.srchresult.SrchPDFExecuter sts: OK jsp: /servlet/jm2.control.BinaryServlet
+01/06 14:35:47 user jm2.control.BinaryServlet: start
+01/06 14:35:47 user jm2.control.BinaryServlet: end
+01/06 14:35:47 user end [ 10.83.12.193 76303487641294291657093 ] executer: history.enquiry.form elapse: 2625 executer_class: history.enquiry.EnquiryExecuter sts: OK jsp: /jsp/history/enquiry/EnquirySrch.jsp
+01/06 14:35:48 user start [ 10.20.11.7 N/A ] executer: history.logout.close
+01/06 14:35:48 user end [ 10.20.11.7 N/A ] executer: history.logout.close elapse: 16 executer_class: history.logout.LogoutExecuter sts: OK jsp: /jsp/history/logout/logoutClose.jsp
+01/06 14:35:48 user Session ê∂ê¨: ID=7630734591294292071812
+01/06 14:35:48 user Session îjä¸: ID=7630734591294292071812
+01/06 14:36:15 user start [ 10.126.11.6 N/A ] executer: history.login
+01/06 14:36:15 user Session ê∂ê¨: ID=7630816891294292175218
+01/06 14:36:15 user end [ 10.126.11.6 N/A ] executer: history.login elapse: 93 executer_class: history.login.LoginExecuter sts: OK jsp: /jsp/history/menu/menu.jsp
+01/06 14:36:16 user start [ 10.126.11.6 7630816891294292175218 ] executer: history.account.form
+01/06 14:36:16 user end [ 10.126.11.6 7630816891294292175218 ] executer: history.account.form elapse: 32 executer_class: history.account.AccountFormExecuter sts: OK jsp: /jsp/history/account/AccountSrch.jsp
+01/06 14:36:21 user start [ 10.83.12.193 76303487641294291657093 ] executer: history.enquiry.prt
+01/06 14:36:22 user end [ 10.83.12.193 76303487641294291657093 ] executer: history.enquiry.prt elapse: 1031 executer_class: history.enquiry.EnquiryDataPrintExecuter sts: OK jsp: /jsp/history/enquiry/EnquirySrch.jsp
+01/06 14:36:32 user start [ 10.0.42.18 N/A ] executer: history.login
+01/06 14:36:32 user Session ê∂ê¨: ID=76301590271294292192890
+01/06 14:36:32 user end [ 10.0.42.18 N/A ] executer: history.login elapse: 78 executer_class: history.login.LoginExecuter sts: OK jsp: /jsp/history/menu/menu.jsp
+01/06 14:36:34 user start [ 10.0.42.18 76301590271294292192890 ] executer: history.account.form
+01/06 14:36:34 user end [ 10.0.42.18 76301590271294292192890 ] executer: history.account.form elapse: 16 executer_class: history.account.AccountFormExecuter sts: OK jsp: /jsp/history/account/AccountSrch.jsp
+01/06 14:36:37 user start [ 10.83.12.193 76303487641294291657093 ] executer: history.menu.form
+01/06 14:36:37 user end [ 10.83.12.193 76303487641294291657093 ] executer: history.menu.form elapse: 16 executer_class: history.menu.MenuFormExecuter sts: OK jsp: /jsp/history/menu/menu.jsp
+01/06 14:36:41 user start [ 10.83.12.193 76303487641294291657093 ] executer: history.account.form
+01/06 14:36:41 user end [ 10.83.12.193 76303487641294291657093 ] executer: history.account.form elapse: 16 executer_class: history.account.AccountFormExecuter sts: OK jsp: /jsp/history/account/AccountSrch.jsp
+01/06 14:36:47 user start [ 10.126.11.6 7630816891294292175218 ] executer: history.account.srch
+01/06 14:36:48 user start [ 10.34.12.200 N/A ] executer: history.login
+01/06 14:36:48 user Session ê∂ê¨: ID=76301843821294289744781
+01/06 14:36:49 user end [ 10.126.11.6 7630816891294292175218 ] executer: history.account.srch elapse: 1047 executer_class: history.account.AccountExecuter sts: OK jsp: /jsp/history/account/AccountSrch.jsp
+01/06 14:36:49 user end [ 10.34.12.200 N/A ] executer: history.login elapse: 156 executer_class: history.login.LoginExecuter sts: OK jsp: /jsp/history/menu/menu.jsp
+01/06 14:36:49 user start [ 10.126.11.6 7630816891294292175218 ] executer: history.common.pdf
+01/06 14:36:49 user end [ 10.126.11.6 7630816891294292175218 ] executer: history.common.pdf elapse: 47 executer_class: history.common.PdfExecuter sts: OK jsp: /jsp/history/srchresult/SrchResult.jsp
+01/06 14:36:50 user start [ 10.126.11.6 7630816891294292175218 ] executer: history.srch.pdf
+01/06 14:36:50 user end [ 10.126.11.6 7630816891294292175218 ] executer: history.srch.pdf elapse: 63 executer_class: history.srchresult.SrchPDFExecuter sts: OK jsp: /servlet/jm2.control.BinaryServlet
+01/06 14:36:50 user jm2.control.BinaryServlet: start
+01/06 14:36:50 user jm2.control.BinaryServlet: end
+01/06 14:36:52 user start [ 10.34.12.200 76301843821294289744781 ] executer: history.account.form
+01/06 14:36:52 user end [ 10.34.12.200 76301843821294289744781 ] executer: history.account.form elapse: 31 executer_class: history.account.AccountFormExecuter sts: OK jsp: /jsp/history/account/AccountSrch.jsp
+01/06 14:36:54 user start [ 10.0.42.18 76301590271294292192890 ] executer: history.account.srch
+01/06 14:36:57 user end [ 10.0.42.18 76301590271294292192890 ] executer: history.account.srch elapse: 3906 executer_class: history.account.AccountExecuter sts: OK jsp: /jsp/history/account/AccountSrch.jsp
+01/06 14:36:58 user start [ 10.0.42.18 76301590271294292192890 ] executer: history.common.pdf
+01/06 14:36:58 user end [ 10.0.42.18 76301590271294292192890 ] executer: history.common.pdf elapse: 31 executer_class: history.common.PdfExecuter sts: OK jsp: /jsp/history/srchresult/SrchResult.jsp
+01/06 14:36:58 user start [ 10.0.42.18 76301590271294292192890 ] executer: history.srch.pdf
+01/06 14:36:58 user end [ 10.0.42.18 76301590271294292192890 ] executer: history.srch.pdf elapse: 47 executer_class: history.srchresult.SrchPDFExecuter sts: OK jsp: /servlet/jm2.control.BinaryServlet
+01/06 14:36:58 user jm2.control.BinaryServlet: start
+01/06 14:36:58 user jm2.control.BinaryServlet: end
+01/06 14:37:08 user start [ 10.83.12.193 76303487641294291657093 ] executer: history.account.srch
+01/06 14:37:09 user end [ 10.83.12.193 76303487641294291657093 ] executer: history.account.srch elapse: 1453 executer_class: history.account.AccountExecuter sts: OK jsp: /jsp/history/account/AccountSrch.jsp
+01/06 14:37:10 user start [ 10.83.12.193 76303487641294291657093 ] executer: history.common.pdf
+01/06 14:37:10 user end [ 10.83.12.193 76303487641294291657093 ] executer: history.common.pdf elapse: 31 executer_class: history.common.PdfExecuter sts: OK jsp: /jsp/history/srchresult/SrchResult.jsp
+01/06 14:37:10 user start [ 10.83.12.193 76303487641294291657093 ] executer: history.srch.pdf
+01/06 14:37:10 user end [ 10.83.12.193 76303487641294291657093 ] executer: history.srch.pdf elapse: 63 executer_class: history.srchresult.SrchPDFExecuter sts: OK jsp: /servlet/jm2.control.BinaryServlet
+01/06 14:37:10 user jm2.control.BinaryServlet: start
+01/06 14:37:10 user jm2.control.BinaryServlet: end
+01/06 14:37:12 user start [ 10.32.11.6 76302469941294290801062 ] executer: history.menu.form
+01/06 14:37:12 user end [ 10.32.11.6 76302469941294290801062 ] executer: history.menu.form elapse: 31 executer_class: history.menu.MenuFormExecuter sts: OK jsp: /jsp/history/menu/menu.jsp
+01/06 14:37:14 user start [ 10.32.11.6 76302469941294290801062 ] executer: history.logout
+01/06 14:37:14 user end [ 10.32.11.6 76302469941294290801062 ] executer: history.logout elapse: 16 executer_class: history.logout.LogoutExecuter sts: OK jsp: /jsp/history/logout/logout.jsp
+01/06 14:37:14 user Session îjä¸: ID=76302469941294290801062
+01/06 14:37:15 user start [ 10.34.12.200 76301843821294289744781 ] executer: history.account.srch
+01/06 14:37:16 user end [ 10.34.12.200 76301843821294289744781 ] executer: history.account.srch elapse: 1000 executer_class: history.account.AccountExecuter sts: OK jsp: /jsp/history/account/AccountSrch.jsp
+01/06 14:37:17 user start [ 10.34.12.200 76301843821294289744781 ] executer: history.common.pdf
+01/06 14:37:17 user end [ 10.34.12.200 76301843821294289744781 ] executer: history.common.pdf elapse: 47 executer_class: history.common.PdfExecuter sts: OK jsp: /jsp/history/srchresult/SrchResult.jsp
+01/06 14:37:17 user start [ 10.34.12.200 76301843821294289744781 ] executer: history.srch.pdf
+01/06 14:37:17 user end [ 10.34.12.200 76301843821294289744781 ] executer: history.srch.pdf elapse: 47 executer_class: history.srchresult.SrchPDFExecuter sts: OK jsp: /servlet/jm2.control.BinaryServlet
+01/06 14:37:17 user jm2.control.BinaryServlet: start
+01/06 14:37:17 user jm2.control.BinaryServlet: end
+01/06 14:37:19 user start [ 10.32.11.6 N/A ] executer: history.logout.close
+01/06 14:37:19 user end [ 10.32.11.6 N/A ] executer: history.logout.close elapse: 16 executer_class: history.logout.LogoutExecuter sts: OK jsp: /jsp/history/logout/logoutClose.jsp
+01/06 14:37:19 user Session ê∂ê¨: ID=76302469941294290801062
+01/06 14:37:19 user Session îjä¸: ID=76302469941294290801062
+01/06 14:37:30 user start [ 10.0.42.10 7630289721294292077156 ] executer: history.menu.form
+01/06 14:37:30 user end [ 10.0.42.10 7630289721294292077156 ] executer: history.menu.form elapse: 31 executer_class: history.menu.MenuFormExecuter sts: OK jsp: /jsp/history/menu/menu.jsp
+01/06 14:37:31 user start [ 10.0.42.10 7630289721294292077156 ] executer: history.logout
+01/06 14:37:31 user end [ 10.0.42.10 7630289721294292077156 ] executer: history.logout elapse: 16 executer_class: history.logout.LogoutExecuter sts: OK jsp: /jsp/history/logout/logout.jsp
+01/06 14:37:31 user Session îjä¸: ID=7630289721294292077156
+01/06 14:37:37 user start [ 10.0.42.10 N/A ] executer: history.logout.close
+01/06 14:37:37 user end [ 10.0.42.10 N/A ] executer: history.logout.close elapse: 16 executer_class: history.logout.LogoutExecuter sts: OK jsp: /jsp/history/logout/logoutClose.jsp
+01/06 14:37:37 user Session ê∂ê¨: ID=7630289721294292077156
+01/06 14:37:37 user Session îjä¸: ID=7630289721294292077156
+01/06 14:37:56 user start [ 10.83.12.193 76303487641294291657093 ] executer: history.account.srch
+01/06 14:37:58 user end [ 10.83.12.193 76303487641294291657093 ] executer: history.account.srch elapse: 2515 executer_class: history.account.AccountExecuter sts: OK jsp: /jsp/history/account/AccountSrch.jsp
+01/06 14:37:59 user start [ 10.83.12.193 76303487641294291657093 ] executer: history.common.pdf
+01/06 14:37:59 user end [ 10.83.12.193 76303487641294291657093 ] executer: history.common.pdf elapse: 31 executer_class: history.common.PdfExecuter sts: OK jsp: /jsp/history/srchresult/SrchResult.jsp
+01/06 14:37:59 user start [ 10.83.12.193 76303487641294291657093 ] executer: history.srch.pdf
+01/06 14:37:59 user end [ 10.83.12.193 76303487641294291657093 ] executer: history.srch.pdf elapse: 63 executer_class: history.srchresult.SrchPDFExecuter sts: OK jsp: /servlet/jm2.control.BinaryServlet
+01/06 14:37:59 user jm2.control.BinaryServlet: start
+01/06 14:37:59 user jm2.control.BinaryServlet: end
+01/06 14:38:09 user start [ 10.34.12.200 76301843821294289744781 ] executer: history.account.srch
+01/06 14:38:10 user end [ 10.34.12.200 76301843821294289744781 ] executer: history.account.srch elapse: 954 executer_class: history.account.AccountExecuter sts: OK jsp: /jsp/history/account/AccountSrch.jsp
+01/06 14:38:11 user start [ 10.34.12.200 76301843821294289744781 ] executer: history.common.pdf
+01/06 14:38:11 user end [ 10.34.12.200 76301843821294289744781 ] executer: history.common.pdf elapse: 47 executer_class: history.common.PdfExecuter sts: OK jsp: /jsp/history/srchresult/SrchResult.jsp
+01/06 14:38:11 user start [ 10.34.12.200 76301843821294289744781 ] executer: history.srch.pdf
+01/06 14:38:11 user end [ 10.34.12.200 76301843821294289744781 ] executer: history.srch.pdf elapse: 47 executer_class: history.srchresult.SrchPDFExecuter sts: OK jsp: /servlet/jm2.control.BinaryServlet
+01/06 14:38:11 user jm2.control.BinaryServlet: start
+01/06 14:38:11 user jm2.control.BinaryServlet: end
+01/06 14:38:21 user start [ 10.46.11.197 7630533011294291966078 ] executer: history.menu.form
+01/06 14:38:21 user end [ 10.46.11.197 7630533011294291966078 ] executer: history.menu.form elapse: 31 executer_class: history.menu.MenuFormExecuter sts: OK jsp: /jsp/history/menu/menu.jsp
+01/06 14:38:24 user start [ 10.46.11.197 7630533011294291966078 ] executer: history.logout
+01/06 14:38:24 user end [ 10.46.11.197 7630533011294291966078 ] executer: history.logout elapse: 0 executer_class: history.logout.LogoutExecuter sts: OK jsp: /jsp/history/logout/logout.jsp
+01/06 14:38:24 user Session îjä¸: ID=7630533011294291966078
+01/06 14:38:26 metrics Threads(b,d,i,ttl): 0,0,3,4, Requests(hd,dl,dr): 485,0,0, Heap(fr,ttl): 26165,32640 Sessions: 7
+01/06 14:38:29 user start [ 10.46.11.197 N/A ] executer: history.logout.close
+01/06 14:38:29 user end [ 10.46.11.197 N/A ] executer: history.logout.close elapse: 15 executer_class: history.logout.LogoutExecuter sts: OK jsp: /jsp/history/logout/logoutClose.jsp
+01/06 14:38:29 user Session ê∂ê¨: ID=7630533011294291966078
+01/06 14:38:29 user Session îjä¸: ID=7630533011294291966078
+01/06 14:39:01 user start [ 10.34.12.200 76301843821294289744781 ] executer: history.account.srch
+01/06 14:39:02 user end [ 10.34.12.200 76301843821294289744781 ] executer: history.account.srch elapse: 906 executer_class: history.account.AccountExecuter sts: OK jsp: /jsp/history/account/AccountSrch.jsp
+01/06 14:39:02 user start [ 10.0.33.10 7630142061294283822921 ] executer: history.person.srch
+01/06 14:39:03 user start [ 10.34.12.200 76301843821294289744781 ] executer: history.common.pdf
+01/06 14:39:03 user end [ 10.34.12.200 76301843821294289744781 ] executer: history.common.pdf elapse: 47 executer_class: history.common.PdfExecuter sts: OK jsp: /jsp/history/srchresult/SrchResult.jsp
+01/06 14:39:03 user start [ 10.34.12.200 76301843821294289744781 ] executer: history.srch.pdf
+01/06 14:39:03 user end [ 10.34.12.200 76301843821294289744781 ] executer: history.srch.pdf elapse: 47 executer_class: history.srchresult.SrchPDFExecuter sts: OK jsp: /servlet/jm2.control.BinaryServlet
+01/06 14:39:03 user jm2.control.BinaryServlet: start
+01/06 14:39:03 user jm2.control.BinaryServlet: end
+01/06 14:39:03 user end [ 10.0.33.10 7630142061294283822921 ] executer: history.person.srch elapse: 1469 executer_class: history.person.PersonExecuter sts: OK jsp: /jsp/history/person/PersonSrch.jsp
+01/06 14:39:04 user start [ 10.0.33.10 7630142061294283822921 ] executer: history.common.pdf
+01/06 14:39:04 user end [ 10.0.33.10 7630142061294283822921 ] executer: history.common.pdf elapse: 31 executer_class: history.common.PdfExecuter sts: OK jsp: /jsp/history/srchresult/SrchResult.jsp
+01/06 14:39:04 user start [ 10.0.33.10 7630142061294283822921 ] executer: history.srch.pdf
+01/06 14:39:04 user end [ 10.0.33.10 7630142061294283822921 ] executer: history.srch.pdf elapse: 46 executer_class: history.srchresult.SrchPDFExecuter sts: OK jsp: /servlet/jm2.control.BinaryServlet
+01/06 14:39:04 user jm2.control.BinaryServlet: start
+01/06 14:39:04 user jm2.control.BinaryServlet: end
+01/06 14:39:29 user start [ 10.83.12.193 76303487641294291657093 ] executer: history.account.srch
+01/06 14:39:46 user end [ 10.83.12.193 76303487641294291657093 ] executer: history.account.srch elapse: 16422 executer_class: history.account.AccountExecuter sts: DY jsp: /jsp/history/account/DelayAccount.jsp
+01/06 14:40:15 user start [ 10.0.42.10 N/A ] executer: history.login
+01/06 14:40:15 user Session ê∂ê¨: ID=7630188351294292415078
+01/06 14:40:15 user end [ 10.0.42.10 N/A ] executer: history.login elapse: 94 executer_class: history.login.LoginExecuter sts: OK jsp: /jsp/history/menu/menu.jsp
+01/06 14:40:17 user start [ 10.0.42.10 7630188351294292415078 ] executer: history.account.form
+01/06 14:40:17 user end [ 10.0.42.10 7630188351294292415078 ] executer: history.account.form elapse: 32 executer_class: history.account.AccountFormExecuter sts: OK jsp: /jsp/history/account/AccountSrch.jsp
+01/06 14:40:18 user start [ 10.128.12.198 N/A ] executer: history.login
+01/06 14:40:18 user Session ê∂ê¨: ID=7630755261294292418406
+01/06 14:40:18 user end [ 10.128.12.198 N/A ] executer: history.login elapse: 94 executer_class: history.login.LoginExecuter sts: OK jsp: /jsp/history/menu/menu.jsp
+01/06 14:40:19 user start [ 10.128.12.198 7630755261294292418406 ] executer: history.account.form
+01/06 14:40:19 user end [ 10.128.12.198 7630755261294292418406 ] executer: history.account.form elapse: 31 executer_class: history.account.AccountFormExecuter sts: OK jsp: /jsp/history/account/AccountSrch.jsp
+01/06 14:40:22 user start [ 10.34.12.200 76301843821294289744781 ] executer: history.account.srch
+01/06 14:40:22 user end [ 10.34.12.200 76301843821294289744781 ] executer: history.account.srch elapse: 953 executer_class: history.account.AccountExecuter sts: OK jsp: /jsp/history/account/AccountSrch.jsp
+01/06 14:40:23 user start [ 10.34.12.200 76301843821294289744781 ] executer: history.common.pdf
+01/06 14:40:24 user end [ 10.34.12.200 76301843821294289744781 ] executer: history.common.pdf elapse: 47 executer_class: history.common.PdfExecuter sts: OK jsp: /jsp/history/srchresult/SrchResult.jsp
+01/06 14:40:24 user start [ 10.34.12.200 76301843821294289744781 ] executer: history.srch.pdf
+01/06 14:40:24 user end [ 10.34.12.200 76301843821294289744781 ] executer: history.srch.pdf elapse: 47 executer_class: history.srchresult.SrchPDFExecuter sts: OK jsp: /servlet/jm2.control.BinaryServlet
+01/06 14:40:24 user jm2.control.BinaryServlet: start
+01/06 14:40:24 user jm2.control.BinaryServlet: end
+01/06 14:40:28 user start [ 10.0.42.18 76301590271294292192890 ] executer: history.menu.form
+01/06 14:40:28 user end [ 10.0.42.18 76301590271294292192890 ] executer: history.menu.form elapse: 31 executer_class: history.menu.MenuFormExecuter sts: OK jsp: /jsp/history/menu/menu.jsp
+01/06 14:40:29 user start [ 10.128.12.198 7630755261294292418406 ] executer: history.menu.form
+01/06 14:40:29 user start [ 10.0.42.18 76301590271294292192890 ] executer: history.logout
+01/06 14:40:29 user end [ 10.128.12.198 7630755261294292418406 ] executer: history.menu.form elapse: 47 executer_class: history.menu.MenuFormExecuter sts: OK jsp: /jsp/history/menu/menu.jsp
+01/06 14:40:29 user end [ 10.0.42.18 76301590271294292192890 ] executer: history.logout elapse: 16 executer_class: history.logout.LogoutExecuter sts: OK jsp: /jsp/history/logout/logout.jsp
+01/06 14:40:29 user Session îjä¸: ID=76301590271294292192890
+01/06 14:40:31 user start [ 10.128.12.198 7630755261294292418406 ] executer: history.logout
+01/06 14:40:31 user end [ 10.128.12.198 7630755261294292418406 ] executer: history.logout elapse: 16 executer_class: history.logout.LogoutExecuter sts: OK jsp: /jsp/history/logout/logout.jsp
+01/06 14:40:31 user Session îjä¸: ID=7630755261294292418406
+01/06 14:40:32 user start [ 10.0.42.10 7630188351294292415078 ] executer: history.account.srch
+01/06 14:40:35 user end [ 10.0.42.10 7630188351294292415078 ] executer: history.account.srch elapse: 3234 executer_class: history.account.AccountExecuter sts: OK jsp: /jsp/history/account/AccountSrch.jsp
+01/06 14:40:36 user start [ 10.128.12.198 N/A ] executer: history.logout.close
+01/06 14:40:36 user end [ 10.128.12.198 N/A ] executer: history.logout.close elapse: 16 executer_class: history.logout.LogoutExecuter sts: OK jsp: /jsp/history/logout/logoutClose.jsp
+01/06 14:40:36 user Session ê∂ê¨: ID=7630755261294292418406
+01/06 14:40:36 user Session îjä¸: ID=7630755261294292418406
+01/06 14:40:36 user start [ 10.0.42.10 7630188351294292415078 ] executer: history.common.pdf
+01/06 14:40:36 user end [ 10.0.42.10 7630188351294292415078 ] executer: history.common.pdf elapse: 31 executer_class: history.common.PdfExecuter sts: OK jsp: /jsp/history/srchresult/SrchResult.jsp
+01/06 14:40:36 user start [ 10.0.42.10 7630188351294292415078 ] executer: history.srch.pdf
+01/06 14:40:36 user end [ 10.0.42.10 7630188351294292415078 ] executer: history.srch.pdf elapse: 47 executer_class: history.srchresult.SrchPDFExecuter sts: OK jsp: /servlet/jm2.control.BinaryServlet
+01/06 14:40:36 user jm2.control.BinaryServlet: start
+01/06 14:40:36 user jm2.control.BinaryServlet: end
+01/06 14:41:06 user start [ 10.83.12.193 76303487641294291657093 ] executer: history.enquiry.form
+01/06 14:41:07 user end [ 10.83.12.193 76303487641294291657093 ] executer: history.enquiry.form elapse: 953 executer_class: history.enquiry.EnquiryExecuter sts: OK jsp: /jsp/history/enquiry/EnquirySrch.jsp
+01/06 14:41:18 user start [ 10.34.12.200 76301843821294289744781 ] executer: history.account.srch
+01/06 14:41:18 user end [ 10.34.12.200 76301843821294289744781 ] executer: history.account.srch elapse: 656 executer_class: history.account.AccountExecuter sts: OK jsp: /jsp/history/account/AccountSrch.jsp
+01/06 14:41:19 user start [ 10.34.12.200 76301843821294289744781 ] executer: history.common.pdf
+01/06 14:41:19 user end [ 10.34.12.200 76301843821294289744781 ] executer: history.common.pdf elapse: 32 executer_class: history.common.PdfExecuter sts: OK jsp: /jsp/history/srchresult/SrchResult.jsp
+01/06 14:41:19 user start [ 10.34.12.200 76301843821294289744781 ] executer: history.srch.pdf
+01/06 14:41:19 user end [ 10.34.12.200 76301843821294289744781 ] executer: history.srch.pdf elapse: 62 executer_class: history.srchresult.SrchPDFExecuter sts: OK jsp: /servlet/jm2.control.BinaryServlet
+01/06 14:41:19 user jm2.control.BinaryServlet: start
+01/06 14:41:19 user jm2.control.BinaryServlet: end
+01/06 14:41:31 user start [ 10.83.12.193 76303487641294291657093 ] executer: history.detail.disp
+01/06 14:41:31 user end [ 10.83.12.193 76303487641294291657093 ] executer: history.detail.disp elapse: 31 executer_class: history.common.DetailExecuter sts: 2 jsp: /jsp/history/account/DelayAccount.jsp
+01/06 14:41:32 user start [ 10.61.11.8 76301103241294291570968 ] executer: history.balance.srch
+01/06 14:41:33 user start [ 10.0.42.10 7630188351294292415078 ] executer: history.menu.form
+01/06 14:41:33 user end [ 10.0.42.10 7630188351294292415078 ] executer: history.menu.form elapse: 32 executer_class: history.menu.MenuFormExecuter sts: OK jsp: /jsp/history/menu/menu.jsp
+01/06 14:41:35 user start [ 10.0.42.10 7630188351294292415078 ] executer: history.logout
+01/06 14:41:35 user end [ 10.0.42.10 7630188351294292415078 ] executer: history.logout elapse: 15 executer_class: history.logout.LogoutExecuter sts: OK jsp: /jsp/history/logout/logout.jsp
+01/06 14:41:35 user Session îjä¸: ID=7630188351294292415078
+01/06 14:41:40 user start [ 10.0.42.10 N/A ] executer: history.logout.close
+01/06 14:41:40 user end [ 10.0.42.10 N/A ] executer: history.logout.close elapse: 16 executer_class: history.logout.LogoutExecuter sts: OK jsp: /jsp/history/logout/logoutClose.jsp
+01/06 14:41:40 user Session ê∂ê¨: ID=7630188351294292415078
+01/06 14:41:40 user Session îjä¸: ID=7630188351294292415078
+01/06 14:41:41 user start [ 10.83.12.193 76303487641294291657093 ] executer: history.enquiry.prt
+01/06 14:41:42 user end [ 10.61.11.8 76301103241294291570968 ] executer: history.balance.srch elapse: 10110 executer_class: history.balance.BalanceExecuter sts: OK jsp: /jsp/history/balance/BalanceSrch.jsp
+01/06 14:41:43 user start [ 10.61.11.8 76301103241294291570968 ] executer: history.common.pdf
+01/06 14:41:43 user end [ 10.61.11.8 76301103241294291570968 ] executer: history.common.pdf elapse: 47 executer_class: history.common.PdfExecuter sts: OK jsp: /jsp/history/srchresult/SrchResult.jsp
+01/06 14:41:43 user start [ 10.61.11.8 76301103241294291570968 ] executer: history.srch.pdf
+01/06 14:41:43 user end [ 10.61.11.8 76301103241294291570968 ] executer: history.srch.pdf elapse: 63 executer_class: history.srchresult.SrchPDFExecuter sts: OK jsp: /servlet/jm2.control.BinaryServlet
+01/06 14:41:43 user jm2.control.BinaryServlet: start
+01/06 14:41:43 user jm2.control.BinaryServlet: end
+01/06 14:41:43 user end [ 10.83.12.193 76303487641294291657093 ] executer: history.enquiry.prt elapse: 2485 executer_class: history.enquiry.EnquiryDataPrintExecuter sts: OK jsp: /jsp/history/enquiry/EnquirySrch.jsp
+01/06 14:41:45 user start [ 10.34.12.199 N/A ] executer: history.login
+01/06 14:41:45 user Session ê∂ê¨: ID=7630650631294292505656
+01/06 14:41:45 user end [ 10.34.12.199 N/A ] executer: history.login elapse: 94 executer_class: history.login.LoginExecuter sts: OK jsp: /jsp/history/menu/menu.jsp
+01/06 14:41:50 user start [ 10.69.12.188 7630234721294286432187 ] executer: history.logout
+01/06 14:41:50 user end [ 10.69.12.188 7630234721294286432187 ] executer: history.logout elapse: 16 executer_class: history.logout.LogoutExecuter sts: OK jsp: /jsp/history/logout/logout.jsp
+01/06 14:41:50 user Session îjä¸: ID=7630234721294286432187
+01/06 14:41:56 user start [ 10.69.12.188 N/A ] executer: history.logout.close
+01/06 14:41:56 user end [ 10.69.12.188 N/A ] executer: history.logout.close elapse: 15 executer_class: history.logout.LogoutExecuter sts: OK jsp: /jsp/history/logout/logoutClose.jsp
+01/06 14:41:56 user Session ê∂ê¨: ID=7630234721294286432187
+01/06 14:41:56 user Session îjä¸: ID=7630234721294286432187
+01/06 14:41:56 user start [ 10.34.12.200 76301843821294289744781 ] executer: history.account.srch
+01/06 14:41:57 user end [ 10.34.12.200 76301843821294289744781 ] executer: history.account.srch elapse: 859 executer_class: history.account.AccountExecuter sts: OK jsp: /jsp/history/account/AccountSrch.jsp
+01/06 14:41:58 user start [ 10.34.12.200 76301843821294289744781 ] executer: history.common.pdf
+01/06 14:41:58 user end [ 10.34.12.200 76301843821294289744781 ] executer: history.common.pdf elapse: 47 executer_class: history.common.PdfExecuter sts: OK jsp: /jsp/history/srchresult/SrchResult.jsp
+01/06 14:41:58 user start [ 10.34.12.200 76301843821294289744781 ] executer: history.srch.pdf
+01/06 14:41:58 user end [ 10.34.12.200 76301843821294289744781 ] executer: history.srch.pdf elapse: 47 executer_class: history.srchresult.SrchPDFExecuter sts: OK jsp: /servlet/jm2.control.BinaryServlet
+01/06 14:41:58 user jm2.control.BinaryServlet: start
+01/06 14:41:58 user jm2.control.BinaryServlet: end
+01/06 14:42:01 user start [ 10.83.12.193 76303487641294291657093 ] executer: history.menu.form
+01/06 14:42:01 user end [ 10.83.12.193 76303487641294291657093 ] executer: history.menu.form elapse: 32 executer_class: history.menu.MenuFormExecuter sts: OK jsp: /jsp/history/menu/menu.jsp
+01/06 14:42:02 user start [ 10.83.12.193 76303487641294291657093 ] executer: history.account.form
+01/06 14:42:02 user end [ 10.83.12.193 76303487641294291657093 ] executer: history.account.form elapse: 32 executer_class: history.account.AccountFormExecuter sts: OK jsp: /jsp/history/account/AccountSrch.jsp
+01/06 14:42:22 user start [ 10.83.12.193 76303487641294291657093 ] executer: history.account.srch
+01/06 14:42:26 user start [ 10.29.11.193 N/A ] executer: history.login
+01/06 14:42:26 user end [ 10.83.12.193 76303487641294291657093 ] executer: history.account.srch elapse: 3969 executer_class: history.account.AccountExecuter sts: OK jsp: /jsp/history/account/AccountSrch.jsp
+01/06 14:42:26 user Session ê∂ê¨: ID=7630953821294292546203
+01/06 14:42:26 user end [ 10.29.11.193 N/A ] executer: history.login elapse: 125 executer_class: history.login.LoginExecuter sts: OK jsp: /jsp/history/menu/menu.jsp
+01/06 14:42:26 user start [ 10.83.12.193 76303487641294291657093 ] executer: history.common.pdf
+01/06 14:42:26 user end [ 10.83.12.193 76303487641294291657093 ] executer: history.common.pdf elapse: 47 executer_class: history.common.PdfExecuter sts: OK jsp: /jsp/history/srchresult/SrchResult.jsp
+01/06 14:42:27 user start [ 10.83.12.193 76303487641294291657093 ] executer: history.srch.pdf
+01/06 14:42:27 user end [ 10.83.12.193 76303487641294291657093 ] executer: history.srch.pdf elapse: 47 executer_class: history.srchresult.SrchPDFExecuter sts: OK jsp: /servlet/jm2.control.BinaryServlet
+01/06 14:42:27 user jm2.control.BinaryServlet: start
+01/06 14:42:27 user jm2.control.BinaryServlet: end
+01/06 14:42:27 user start [ 10.61.11.8 76301103241294291570968 ] executer: history.balance.srch
+01/06 14:42:30 user start [ 10.29.11.193 7630953821294292546203 ] executer: history.account.form
+01/06 14:42:30 user end [ 10.29.11.193 7630953821294292546203 ] executer: history.account.form elapse: 31 executer_class: history.account.AccountFormExecuter sts: OK jsp: /jsp/history/account/AccountSrch.jsp
+01/06 14:42:34 user start [ 10.0.27.7 N/A ] executer: history.login
+01/06 14:42:34 user Session ê∂ê¨: ID=76301273511294292554531
+01/06 14:42:34 user end [ 10.0.27.7 N/A ] executer: history.login elapse: 140 executer_class: history.login.LoginExecuter sts: OK jsp: /jsp/history/menu/menu.jsp
+01/06 14:42:36 user end [ 10.61.11.8 76301103241294291570968 ] executer: history.balance.srch elapse: 8984 executer_class: history.balance.BalanceExecuter sts: OK jsp: /jsp/history/balance/BalanceSrch.jsp
+01/06 14:42:36 user start [ 10.61.11.8 76301103241294291570968 ] executer: history.common.pdf
+01/06 14:42:36 user end [ 10.61.11.8 76301103241294291570968 ] executer: history.common.pdf elapse: 32 executer_class: history.common.PdfExecuter sts: OK jsp: /jsp/history/srchresult/SrchResult.jsp
+01/06 14:42:36 user start [ 10.61.11.8 76301103241294291570968 ] executer: history.srch.pdf
+01/06 14:42:36 user end [ 10.61.11.8 76301103241294291570968 ] executer: history.srch.pdf elapse: 47 executer_class: history.srchresult.SrchPDFExecuter sts: OK jsp: /servlet/jm2.control.BinaryServlet
+01/06 14:42:36 user jm2.control.BinaryServlet: start
+01/06 14:42:36 user jm2.control.BinaryServlet: end
+01/06 14:42:39 user start [ 10.0.27.14 N/A ] executer: history.login
+01/06 14:42:39 user Session ê∂ê¨: ID=7630426431294292559984
+01/06 14:42:40 user end [ 10.0.27.14 N/A ] executer: history.login elapse: 78 executer_class: history.login.LoginExecuter sts: OK jsp: /jsp/history/menu/menu.jsp
+01/06 14:42:43 user start [ 10.0.27.27 N/A ] executer: history.login
+01/06 14:42:43 user Session ê∂ê¨: ID=7630573021294292563390
+01/06 14:42:43 user end [ 10.0.27.27 N/A ] executer: history.login elapse: 109 executer_class: history.login.LoginExecuter sts: OK jsp: /jsp/history/menu/menu.jsp
+01/06 14:42:45 user start [ 10.0.27.27 7630573021294292563390 ] executer: history.person.form
+01/06 14:42:45 user end [ 10.0.27.27 7630573021294292563390 ] executer: history.person.form elapse: 31 executer_class: history.person.PersonFormExecuter sts: OK jsp: /jsp/history/person/PersonSrch.jsp
+01/06 14:42:48 user start [ 10.29.11.193 7630953821294292546203 ] executer: history.account.srch
+01/06 14:42:48 user end [ 10.29.11.193 7630953821294292546203 ] executer: history.account.srch elapse: 63 executer_class: history.account.AccountExecuter sts: NG jsp: /jsp/history/account/AccountSrch.jsp
+01/06 14:42:54 user start [ 10.0.27.14 7630426431294292559984 ] executer: history.account.form
+01/06 14:42:54 user end [ 10.0.27.14 7630426431294292559984 ] executer: history.account.form elapse: 31 executer_class: history.account.AccountFormExecuter sts: OK jsp: /jsp/history/account/AccountSrch.jsp
+01/06 14:42:54 user start [ 10.34.12.200 76301843821294289744781 ] executer: history.account.srch
+01/06 14:42:55 user end [ 10.34.12.200 76301843821294289744781 ] executer: history.account.srch elapse: 938 executer_class: history.account.AccountExecuter sts: OK jsp: /jsp/history/account/AccountSrch.jsp
+01/06 14:42:56 user start [ 10.34.12.200 76301843821294289744781 ] executer: history.common.pdf
+01/06 14:42:56 user end [ 10.34.12.200 76301843821294289744781 ] executer: history.common.pdf elapse: 47 executer_class: history.common.PdfExecuter sts: OK jsp: /jsp/history/srchresult/SrchResult.jsp
+01/06 14:42:56 user start [ 10.34.12.200 76301843821294289744781 ] executer: history.srch.pdf
+01/06 14:42:57 user end [ 10.34.12.200 76301843821294289744781 ] executer: history.srch.pdf elapse: 47 executer_class: history.srchresult.SrchPDFExecuter sts: OK jsp: /servlet/jm2.control.BinaryServlet
+01/06 14:42:57 user jm2.control.BinaryServlet: start
+01/06 14:42:57 user jm2.control.BinaryServlet: end
+01/06 14:42:58 user start [ 10.29.11.193 7630953821294292546203 ] executer: history.account.srch
+01/06 14:42:59 user end [ 10.29.11.193 7630953821294292546203 ] executer: history.account.srch elapse: 1265 executer_class: history.account.AccountExecuter sts: OK jsp: /jsp/history/account/AccountSrch.jsp
+01/06 14:43:00 user start [ 10.29.11.193 7630953821294292546203 ] executer: history.common.pdf
+01/06 14:43:00 user end [ 10.29.11.193 7630953821294292546203 ] executer: history.common.pdf elapse: 31 executer_class: history.common.PdfExecuter sts: OK jsp: /jsp/history/srchresult/SrchResult.jsp
+01/06 14:43:00 user start [ 10.29.11.193 7630953821294292546203 ] executer: history.srch.pdf
+01/06 14:43:00 user end [ 10.29.11.193 7630953821294292546203 ] executer: history.srch.pdf elapse: 47 executer_class: history.srchresult.SrchPDFExecuter sts: OK jsp: /servlet/jm2.control.BinaryServlet
+01/06 14:43:00 user jm2.control.BinaryServlet: start
+01/06 14:43:00 user jm2.control.BinaryServlet: end
+01/06 14:43:06 user start [ 10.0.27.14 7630426431294292559984 ] executer: history.account.srch
+01/06 14:43:07 user start [ 10.0.27.7 76301273511294292554531 ] executer: history.balance.form
+01/06 14:43:07 user end [ 10.0.27.7 76301273511294292554531 ] executer: history.balance.form elapse: 16 executer_class: history.balance.BalanceFormExecuter sts: OK jsp: /jsp/history/balance/BalanceSrch.jsp
+01/06 14:43:08 user start [ 10.0.33.10 7630142061294283822921 ] executer: history.menu.form
+01/06 14:43:08 user end [ 10.0.33.10 7630142061294283822921 ] executer: history.menu.form elapse: 31 executer_class: history.menu.MenuFormExecuter sts: OK jsp: /jsp/history/menu/menu.jsp
+01/06 14:43:09 user start [ 10.0.33.10 7630142061294283822921 ] executer: history.logout
+01/06 14:43:09 user end [ 10.0.33.10 7630142061294283822921 ] executer: history.logout elapse: 16 executer_class: history.logout.LogoutExecuter sts: OK jsp: /jsp/history/logout/logout.jsp
+01/06 14:43:09 user Session îjä¸: ID=7630142061294283822921
+01/06 14:43:11 user start [ 10.0.27.12 N/A ] executer: history.login
+01/06 14:43:11 user Session ê∂ê¨: ID=76302602981294292591328
+01/06 14:43:11 user end [ 10.0.27.12 N/A ] executer: history.login elapse: 109 executer_class: history.login.LoginExecuter sts: OK jsp: /jsp/history/menu/menu.jsp
+01/06 14:43:12 user start [ 10.0.27.12 76302602981294292591328 ] executer: history.person.form
+01/06 14:43:12 user end [ 10.0.27.12 76302602981294292591328 ] executer: history.person.form elapse: 31 executer_class: history.person.PersonFormExecuter sts: OK jsp: /jsp/history/person/PersonSrch.jsp
+01/06 14:43:12 user start [ 10.0.27.16 N/A ] executer: history.menu.form
+01/06 14:43:12 user end [ 10.0.27.16 N/A ] executer: history.menu.form elapse: 31 executer_class:  sts: Exception jsp: /jsp/common/Timeout.jsp
+01/06 14:43:13 user start [ 10.0.27.27 7630573021294292563390 ] executer: history.person.srch
+01/06 14:43:13 user start [ 10.0.27.16 N/A ] executer: history.logout
+01/06 14:43:13 user end [ 10.0.27.16 N/A ] executer: history.logout elapse: 32 executer_class: history.logout.LogoutExecuter sts: OK jsp: /jsp/history/logout/logout.jsp
+01/06 14:43:13 user Session ê∂ê¨: ID=7630753061294290544453
+01/06 14:43:13 user Session îjä¸: ID=7630753061294290544453
+01/06 14:43:14 user end [ 10.0.27.27 7630573021294292563390 ] executer: history.person.srch elapse: 844 executer_class: history.person.PersonExecuter sts: OK jsp: /jsp/history/person/PersonSrch.jsp
+01/06 14:43:14 user start [ 10.0.27.27 7630573021294292563390 ] executer: history.common.pdf
+01/06 14:43:14 user end [ 10.0.27.27 7630573021294292563390 ] executer: history.common.pdf elapse: 31 executer_class: history.common.PdfExecuter sts: OK jsp: /jsp/history/srchresult/SrchResult.jsp
+01/06 14:43:14 user start [ 10.0.27.27 7630573021294292563390 ] executer: history.srch.pdf
+01/06 14:43:14 user end [ 10.0.27.27 7630573021294292563390 ] executer: history.srch.pdf elapse: 188 executer_class: history.srchresult.SrchPDFExecuter sts: OK jsp: /servlet/jm2.control.BinaryServlet
+01/06 14:43:14 user jm2.control.BinaryServlet: start
+01/06 14:43:14 user jm2.control.BinaryServlet: end
+01/06 14:43:14 user start [ 10.0.33.10 N/A ] executer: history.logout.close
+01/06 14:43:14 user end [ 10.0.33.10 N/A ] executer: history.logout.close elapse: 16 executer_class: history.logout.LogoutExecuter sts: OK jsp: /jsp/history/logout/logoutClose.jsp
+01/06 14:43:14 user Session ê∂ê¨: ID=7630142061294283822921
+01/06 14:43:14 user Session îjä¸: ID=7630142061294283822921
+01/06 14:43:15 user end [ 10.0.27.14 7630426431294292559984 ] executer: history.account.srch elapse: 9078 executer_class: history.account.AccountExecuter sts: DY jsp: /jsp/history/account/DelayAccount.jsp
+01/06 14:43:16 user start [ 10.83.12.193 76303487641294291657093 ] executer: history.account.srch
+01/06 14:43:19 user start [ 10.0.27.16 N/A ] executer: history.logout.close
+01/06 14:43:19 user end [ 10.0.27.16 N/A ] executer: history.logout.close elapse: 16 executer_class: history.logout.LogoutExecuter sts: OK jsp: /jsp/history/logout/logoutClose.jsp
+01/06 14:43:19 user Session ê∂ê¨: ID=7630753061294290544453
+01/06 14:43:19 user Session îjä¸: ID=7630753061294290544453
+01/06 14:43:23 user start [ 10.61.11.8 76301103241294291570968 ] executer: history.balance.srch
+01/06 14:43:23 user start [ 10.34.12.199 7630650631294292505656 ] executer: history.account.form
+01/06 14:43:23 user end [ 10.34.12.199 7630650631294292505656 ] executer: history.account.form elapse: 32 executer_class: history.account.AccountFormExecuter sts: OK jsp: /jsp/history/account/AccountSrch.jsp
+01/06 14:43:29 user end [ 10.83.12.193 76303487641294291657093 ] executer: history.account.srch elapse: 13188 executer_class: history.account.AccountExecuter sts: DY jsp: /jsp/history/account/DelayAccount.jsp
+01/06 14:43:30 user start [ 10.29.11.193 7630953821294292546203 ] executer: history.menu.form
+01/06 14:43:30 user end [ 10.29.11.193 7630953821294292546203 ] executer: history.menu.form elapse: 31 executer_class: history.menu.MenuFormExecuter sts: OK jsp: /jsp/history/menu/menu.jsp
+01/06 14:43:30 user start [ 10.0.27.14 7630426431294292559984 ] executer: history.enquiry.form
+01/06 14:43:31 user start [ 10.29.11.193 7630953821294292546203 ] executer: history.logout
+01/06 14:43:31 user end [ 10.29.11.193 7630953821294292546203 ] executer: history.logout elapse: 16 executer_class: history.logout.LogoutExecuter sts: OK jsp: /jsp/history/logout/logout.jsp
+01/06 14:43:31 user Session îjä¸: ID=7630953821294292546203
+01/06 14:43:33 user end [ 10.61.11.8 76301103241294291570968 ] executer: history.balance.srch elapse: 10172 executer_class: history.balance.BalanceExecuter sts: OK jsp: /jsp/history/balance/BalanceSrch.jsp
+01/06 14:43:34 user start [ 10.61.11.8 76301103241294291570968 ] executer: history.common.pdf
+01/06 14:43:34 user end [ 10.61.11.8 76301103241294291570968 ] executer: history.common.pdf elapse: 47 executer_class: history.common.PdfExecuter sts: OK jsp: /jsp/history/srchresult/SrchResult.jsp
+01/06 14:43:34 user start [ 10.61.11.8 76301103241294291570968 ] executer: history.srch.pdf
+01/06 14:43:34 user end [ 10.61.11.8 76301103241294291570968 ] executer: history.srch.pdf elapse: 78 executer_class: history.srchresult.SrchPDFExecuter sts: OK jsp: /servlet/jm2.control.BinaryServlet
+01/06 14:43:34 user jm2.control.BinaryServlet: start
+01/06 14:43:34 user jm2.control.BinaryServlet: end
+01/06 14:43:37 user start [ 10.29.11.193 N/A ] executer: history.logout.close
+01/06 14:43:37 user end [ 10.29.11.193 N/A ] executer: history.logout.close elapse: 31 executer_class: history.logout.LogoutExecuter sts: OK jsp: /jsp/history/logout/logoutClose.jsp
+01/06 14:43:37 user Session ê∂ê¨: ID=7630953821294292546203
+01/06 14:43:37 user Session îjä¸: ID=7630953821294292546203
+01/06 14:43:39 user start [ 10.0.27.9 N/A ] executer: history.login
+01/06 14:43:39 user Session ê∂ê¨: ID=76302386831294292619140
+01/06 14:43:39 user end [ 10.0.27.9 N/A ] executer: history.login elapse: 94 executer_class: history.login.LoginExecuter sts: OK jsp: /jsp/history/menu/menu.jsp
+01/06 14:43:39 user start [ 10.0.27.12 76302602981294292591328 ] executer: history.person.srch
+01/06 14:43:40 user end [ 10.0.27.12 76302602981294292591328 ] executer: history.person.srch elapse: 750 executer_class: history.person.PersonExecuter sts: OK jsp: /jsp/history/person/PersonSrch.jsp
+01/06 14:43:41 user start [ 10.0.27.12 76302602981294292591328 ] executer: history.common.pdf
+01/06 14:43:41 user end [ 10.0.27.12 76302602981294292591328 ] executer: history.common.pdf elapse: 47 executer_class: history.common.PdfExecuter sts: OK jsp: /jsp/history/srchresult/SrchResult.jsp
+01/06 14:43:41 user start [ 10.0.27.12 76302602981294292591328 ] executer: history.srch.pdf
+01/06 14:43:41 user end [ 10.0.27.12 76302602981294292591328 ] executer: history.srch.pdf elapse: 78 executer_class: history.srchresult.SrchPDFExecuter sts: OK jsp: /servlet/jm2.control.BinaryServlet
+01/06 14:43:41 user jm2.control.BinaryServlet: start
+01/06 14:43:41 user jm2.control.BinaryServlet: end
+01/06 14:43:42 user start [ 10.0.27.9 76302386831294292619140 ] executer: history.person.form
+01/06 14:43:42 user end [ 10.0.27.9 76302386831294292619140 ] executer: history.person.form elapse: 46 executer_class: history.person.PersonFormExecuter sts: OK jsp: /jsp/history/person/PersonSrch.jsp
+01/06 14:43:45 user end [ 10.0.27.14 7630426431294292559984 ] executer: history.enquiry.form elapse: 15438 executer_class: history.enquiry.EnquiryExecuter sts: OK jsp: /jsp/history/enquiry/EnquirySrch.jsp
+01/06 14:43:49 user start [ 10.0.27.27 7630573021294292563390 ] executer: history.menu.form
+01/06 14:43:49 user end [ 10.0.27.27 7630573021294292563390 ] executer: history.menu.form elapse: 31 executer_class: history.menu.MenuFormExecuter sts: OK jsp: /jsp/history/menu/menu.jsp
+01/06 14:43:51 user start [ 10.0.27.14 7630426431294292559984 ] executer: history.enquiry.prt
+01/06 14:43:52 user start [ 10.34.12.199 7630650631294292505656 ] executer: history.account.srch
+01/06 14:43:55 user end [ 10.34.12.199 7630650631294292505656 ] executer: history.account.srch elapse: 2579 executer_class: history.account.AccountExecuter sts: OK jsp: /jsp/history/account/AccountSrch.jsp
+01/06 14:43:56 user start [ 10.34.12.199 7630650631294292505656 ] executer: history.common.pdf
+01/06 14:43:56 user end [ 10.34.12.199 7630650631294292505656 ] executer: history.common.pdf elapse: 46 executer_class: history.common.PdfExecuter sts: OK jsp: /jsp/history/srchresult/SrchResult.jsp
+01/06 14:43:56 user start [ 10.34.12.199 7630650631294292505656 ] executer: history.srch.pdf
+01/06 14:43:56 user end [ 10.34.12.199 7630650631294292505656 ] executer: history.srch.pdf elapse: 63 executer_class: history.srchresult.SrchPDFExecuter sts: OK jsp: /servlet/jm2.control.BinaryServlet
+01/06 14:43:56 user jm2.control.BinaryServlet: start
+01/06 14:43:56 user jm2.control.BinaryServlet: end
+01/06 14:43:57 user start [ 10.0.27.9 76302386831294292619140 ] executer: history.person.srch
+01/06 14:43:58 user end [ 10.0.27.9 76302386831294292619140 ] executer: history.person.srch elapse: 890 executer_class: history.person.PersonExecuter sts: OK jsp: /jsp/history/person/PersonSrch.jsp
+01/06 14:43:58 user start [ 10.0.27.9 76302386831294292619140 ] executer: history.common.pdf
+01/06 14:43:58 user end [ 10.0.27.9 76302386831294292619140 ] executer: history.common.pdf elapse: 31 executer_class: history.common.PdfExecuter sts: OK jsp: /jsp/history/srchresult/SrchResult.jsp
+01/06 14:43:58 user start [ 10.0.27.9 76302386831294292619140 ] executer: history.srch.pdf
+01/06 14:43:58 user end [ 10.0.27.9 76302386831294292619140 ] executer: history.srch.pdf elapse: 47 executer_class: history.srchresult.SrchPDFExecuter sts: OK jsp: /servlet/jm2.control.BinaryServlet
+01/06 14:43:58 user jm2.control.BinaryServlet: start
+01/06 14:43:58 user jm2.control.BinaryServlet: end
+01/06 14:44:04 user start [ 10.34.12.200 76301843821294289744781 ] executer: history.account.srch
+01/06 14:44:05 user end [ 10.34.12.200 76301843821294289744781 ] executer: history.account.srch elapse: 985 executer_class: history.account.AccountExecuter sts: OK jsp: /jsp/history/account/AccountSrch.jsp
+01/06 14:44:05 user start [ 10.0.27.16 N/A ] executer: history.login
+01/06 14:44:05 user Session ê∂ê¨: ID=76301514601294292645515
+01/06 14:44:05 user end [ 10.0.27.16 N/A ] executer: history.login elapse: 93 executer_class: history.login.LoginExecuter sts: OK jsp: /jsp/history/menu/menu.jsp
+01/06 14:44:06 user start [ 10.34.12.200 76301843821294289744781 ] executer: history.common.pdf
+01/06 14:44:06 user end [ 10.34.12.200 76301843821294289744781 ] executer: history.common.pdf elapse: 47 executer_class: history.common.PdfExecuter sts: OK jsp: /jsp/history/srchresult/SrchResult.jsp
+01/06 14:44:06 user start [ 10.34.12.200 76301843821294289744781 ] executer: history.srch.pdf
+01/06 14:44:06 user end [ 10.34.12.200 76301843821294289744781 ] executer: history.srch.pdf elapse: 47 executer_class: history.srchresult.SrchPDFExecuter sts: OK jsp: /servlet/jm2.control.BinaryServlet
+01/06 14:44:06 user jm2.control.BinaryServlet: start
+01/06 14:44:06 user jm2.control.BinaryServlet: end
+01/06 14:44:07 user start [ 10.0.27.16 76301514601294292645515 ] executer: history.account.form
+01/06 14:44:07 user end [ 10.0.27.16 76301514601294292645515 ] executer: history.account.form elapse: 31 executer_class: history.account.AccountFormExecuter sts: OK jsp: /jsp/history/account/AccountSrch.jsp
+01/06 14:44:07 user start [ 10.83.12.193 76303487641294291657093 ] executer: history.enquiry.form
+01/06 14:44:09 user end [ 10.83.12.193 76303487641294291657093 ] executer: history.enquiry.form elapse: 1125 executer_class: history.enquiry.EnquiryExecuter sts: OK jsp: /jsp/history/enquiry/EnquirySrch.jsp
+01/06 14:44:11 user end [ 10.0.27.14 7630426431294292559984 ] executer: history.enquiry.prt elapse: 20343 executer_class: history.enquiry.EnquiryDataPrintExecuter sts: OK jsp: /jsp/history/enquiry/EnquirySrch.jsp
+01/06 14:44:11 user start [ 10.17.11.3 N/A ] executer: history.login
+01/06 14:44:11 user Session ê∂ê¨: ID=76302390641294292651875
+01/06 14:44:11 user end [ 10.17.11.3 N/A ] executer: history.login elapse: 94 executer_class: history.login.LoginExecuter sts: OK jsp: /jsp/history/menu/menu.jsp
+01/06 14:44:15 user start [ 10.83.12.193 76303487641294291657093 ] executer: history.enquiry.prt
+01/06 14:44:16 user end [ 10.83.12.193 76303487641294291657093 ] executer: history.enquiry.prt elapse: 1218 executer_class: history.enquiry.EnquiryDataPrintExecuter sts: OK jsp: /jsp/history/enquiry/EnquirySrch.jsp
+01/06 14:44:17 user start [ 10.17.11.3 76302390641294292651875 ] executer: history.account.form
+01/06 14:44:17 user end [ 10.17.11.3 76302390641294292651875 ] executer: history.account.form elapse: 47 executer_class: history.account.AccountFormExecuter sts: OK jsp: /jsp/history/account/AccountSrch.jsp
+01/06 14:44:18 user start [ 10.0.27.14 7630426431294292559984 ] executer: history.menu.form
+01/06 14:44:18 user end [ 10.0.27.14 7630426431294292559984 ] executer: history.menu.form elapse: 31 executer_class: history.menu.MenuFormExecuter sts: OK jsp: /jsp/history/menu/menu.jsp
+01/06 14:44:20 user start [ 10.83.12.193 76303487641294291657093 ] executer: history.enquiry.form
+01/06 14:44:21 user end [ 10.83.12.193 76303487641294291657093 ] executer: history.enquiry.form elapse: 1078 executer_class: history.enquiry.EnquiryExecuter sts: OK jsp: /jsp/history/enquiry/EnquirySrch.jsp
+01/06 14:44:23 user start [ 10.83.12.193 76303487641294291657093 ] executer: history.menu.form
+01/06 14:44:23 user end [ 10.83.12.193 76303487641294291657093 ] executer: history.menu.form elapse: 32 executer_class: history.menu.MenuFormExecuter sts: OK jsp: /jsp/history/menu/menu.jsp
+01/06 14:44:26 user start [ 10.75.12.194 N/A ] executer: history.login
+01/06 14:44:26 user Session ê∂ê¨: ID=76303119971294292666453
+01/06 14:44:26 user end [ 10.75.12.194 N/A ] executer: history.login elapse: 78 executer_class: history.login.LoginExecuter sts: OK jsp: /jsp/history/menu/menu.jsp
+01/06 14:44:27 user start [ 10.83.12.193 76303487641294291657093 ] executer: history.account.form
+01/06 14:44:27 user end [ 10.83.12.193 76303487641294291657093 ] executer: history.account.form elapse: 31 executer_class: history.account.AccountFormExecuter sts: OK jsp: /jsp/history/account/AccountSrch.jsp
+01/06 14:44:28 user start [ 10.75.12.194 76303119971294292666453 ] executer: history.account.form
+01/06 14:44:28 user end [ 10.75.12.194 76303119971294292666453 ] executer: history.account.form elapse: 31 executer_class: history.account.AccountFormExecuter sts: OK jsp: /jsp/history/account/AccountSrch.jsp
+01/06 14:44:28 user start [ 10.61.11.8 76301103241294291570968 ] executer: history.balance.srch
+01/06 14:44:31 user start [ 10.0.27.7 76301273511294292554531 ] executer: history.balance.srch
+01/06 14:44:32 user end [ 10.0.27.7 76301273511294292554531 ] executer: history.balance.srch elapse: 1094 executer_class: history.balance.BalanceExecuter sts: OK jsp: /jsp/history/balance/BalanceSrch.jsp
+01/06 14:44:32 user start [ 10.0.27.7 76301273511294292554531 ] executer: history.common.pdf
+01/06 14:44:32 user end [ 10.0.27.7 76301273511294292554531 ] executer: history.common.pdf elapse: 31 executer_class: history.common.PdfExecuter sts: OK jsp: /jsp/history/srchresult/SrchResult.jsp
+01/06 14:44:32 user start [ 10.0.27.7 76301273511294292554531 ] executer: history.srch.pdf
+01/06 14:44:32 user end [ 10.0.27.7 76301273511294292554531 ] executer: history.srch.pdf elapse: 47 executer_class: history.srchresult.SrchPDFExecuter sts: OK jsp: /servlet/jm2.control.BinaryServlet
+01/06 14:44:32 user jm2.control.BinaryServlet: start
+01/06 14:44:32 user jm2.control.BinaryServlet: end
+01/06 14:44:37 user end [ 10.61.11.8 76301103241294291570968 ] executer: history.balance.srch elapse: 9110 executer_class: history.balance.BalanceExecuter sts: OK jsp: /jsp/history/balance/BalanceSrch.jsp
+01/06 14:44:38 user start [ 10.61.11.8 76301103241294291570968 ] executer: history.common.pdf
+01/06 14:44:38 user end [ 10.61.11.8 76301103241294291570968 ] executer: history.common.pdf elapse: 31 executer_class: history.common.PdfExecuter sts: OK jsp: /jsp/history/srchresult/SrchResult.jsp
+01/06 14:44:38 user start [ 10.61.11.8 76301103241294291570968 ] executer: history.srch.pdf
+01/06 14:44:38 user end [ 10.61.11.8 76301103241294291570968 ] executer: history.srch.pdf elapse: 47 executer_class: history.srchresult.SrchPDFExecuter sts: OK jsp: /servlet/jm2.control.BinaryServlet
+01/06 14:44:38 user jm2.control.BinaryServlet: start
+01/06 14:44:38 user jm2.control.BinaryServlet: end
+01/06 14:44:40 user start [ 10.0.27.12 76302602981294292591328 ] executer: history.person.srch
+01/06 14:44:40 user end [ 10.0.27.12 76302602981294292591328 ] executer: history.person.srch elapse: 812 executer_class: history.person.PersonExecuter sts: OK jsp: /jsp/history/person/PersonSrch.jsp
+01/06 14:44:41 user start [ 10.0.27.12 76302602981294292591328 ] executer: history.common.pdf
+01/06 14:44:41 user end [ 10.0.27.12 76302602981294292591328 ] executer: history.common.pdf elapse: 46 executer_class: history.common.PdfExecuter sts: OK jsp: /jsp/history/srchresult/SrchResult.jsp
+01/06 14:44:41 user start [ 10.0.27.12 76302602981294292591328 ] executer: history.srch.pdf
+01/06 14:44:41 user end [ 10.0.27.12 76302602981294292591328 ] executer: history.srch.pdf elapse: 63 executer_class: history.srchresult.SrchPDFExecuter sts: OK jsp: /servlet/jm2.control.BinaryServlet
+01/06 14:44:41 user jm2.control.BinaryServlet: start
+01/06 14:44:41 user jm2.control.BinaryServlet: end
+01/06 14:44:44 user start [ 10.34.12.200 76301843821294289744781 ] executer: history.account.srch
+01/06 14:44:45 user start [ 10.0.27.16 76301514601294292645515 ] executer: history.account.srch
+01/06 14:44:45 user end [ 10.34.12.200 76301843821294289744781 ] executer: history.account.srch elapse: 1328 executer_class: history.account.AccountExecuter sts: OK jsp: /jsp/history/account/AccountSrch.jsp
+01/06 14:44:46 user end [ 10.0.27.16 76301514601294292645515 ] executer: history.account.srch elapse: 1313 executer_class: history.account.AccountExecuter sts: OK jsp: /jsp/history/account/AccountSrch.jsp
+01/06 14:44:46 user start [ 10.83.12.193 76303487641294291657093 ] executer: history.account.srch
+01/06 14:44:46 user start [ 10.0.27.16 76301514601294292645515 ] executer: history.common.pdf
+01/06 14:44:46 user end [ 10.0.27.16 76301514601294292645515 ] executer: history.common.pdf elapse: 47 executer_class: history.common.PdfExecuter sts: OK jsp: /jsp/history/srchresult/SrchResult.jsp
+01/06 14:44:46 user start [ 10.0.27.16 76301514601294292645515 ] executer: history.srch.pdf
+01/06 14:44:46 user end [ 10.0.27.16 76301514601294292645515 ] executer: history.srch.pdf elapse: 62 executer_class: history.srchresult.SrchPDFExecuter sts: OK jsp: /servlet/jm2.control.BinaryServlet
+01/06 14:44:46 user jm2.control.BinaryServlet: start
+01/06 14:44:46 user jm2.control.BinaryServlet: end
+01/06 14:44:46 user start [ 10.34.12.200 76301843821294289744781 ] executer: history.common.pdf
+01/06 14:44:46 user end [ 10.34.12.200 76301843821294289744781 ] executer: history.common.pdf elapse: 31 executer_class: history.common.PdfExecuter sts: OK jsp: /jsp/history/srchresult/SrchResult.jsp
+01/06 14:44:47 user start [ 10.34.12.200 76301843821294289744781 ] executer: history.srch.pdf
+01/06 14:44:47 user end [ 10.34.12.200 76301843821294289744781 ] executer: history.srch.pdf elapse: 63 executer_class: history.srchresult.SrchPDFExecuter sts: OK jsp: /servlet/jm2.control.BinaryServlet
+01/06 14:44:47 user jm2.control.BinaryServlet: start
+01/06 14:44:47 user jm2.control.BinaryServlet: end
+01/06 14:44:47 user start [ 10.17.11.3 76302390641294292651875 ] executer: history.account.srch
+01/06 14:44:48 user end [ 10.17.11.3 76302390641294292651875 ] executer: history.account.srch elapse: 1343 executer_class: history.account.AccountExecuter sts: OK jsp: /jsp/history/account/AccountSrch.jsp
+01/06 14:44:49 user start [ 10.17.11.3 76302390641294292651875 ] executer: history.common.pdf
+01/06 14:44:49 user end [ 10.17.11.3 76302390641294292651875 ] executer: history.common.pdf elapse: 32 executer_class: history.common.PdfExecuter sts: OK jsp: /jsp/history/srchresult/SrchResult.jsp
+01/06 14:44:49 user start [ 10.17.11.3 76302390641294292651875 ] executer: history.srch.pdf
+01/06 14:44:49 user start [ 10.42.11.159 N/A ] executer: history.login
+01/06 14:44:49 user Session ê∂ê¨: ID=7630398891294292689437
+01/06 14:44:49 user end [ 10.17.11.3 76302390641294292651875 ] executer: history.srch.pdf elapse: 94 executer_class: history.srchresult.SrchPDFExecuter sts: OK jsp: /servlet/jm2.control.BinaryServlet
+01/06 14:44:49 user jm2.control.BinaryServlet: start
+01/06 14:44:49 user jm2.control.BinaryServlet: end
+01/06 14:44:49 user end [ 10.42.11.159 N/A ] executer: history.login elapse: 125 executer_class: history.login.LoginExecuter sts: OK jsp: /jsp/history/menu/menu.jsp
+01/06 14:44:50 user start [ 10.42.11.159 7630398891294292689437 ] executer: history.account.form
+01/06 14:44:50 user end [ 10.42.11.159 7630398891294292689437 ] executer: history.account.form elapse: 31 executer_class: history.account.AccountFormExecuter sts: OK jsp: /jsp/history/account/AccountSrch.jsp
+01/06 14:44:54 user end [ 10.83.12.193 76303487641294291657093 ] executer: history.account.srch elapse: 8282 executer_class: history.account.AccountExecuter sts: DY jsp: /jsp/history/account/DelayAccount.jsp
+01/06 14:45:00 user start [ 10.83.12.193 76303487641294291657093 ] executer: history.enquiry.form
+01/06 14:45:02 user end [ 10.83.12.193 76303487641294291657093 ] executer: history.enquiry.form elapse: 1797 executer_class: history.enquiry.EnquiryExecuter sts: OK jsp: /jsp/history/enquiry/EnquirySrch.jsp
+01/06 14:45:08 user start [ 10.83.12.193 76303487641294291657093 ] executer: history.enquiry.prt
+01/06 14:45:09 user end [ 10.83.12.193 76303487641294291657093 ] executer: history.enquiry.prt elapse: 1140 executer_class: history.enquiry.EnquiryDataPrintExecuter sts: OK jsp: /jsp/history/enquiry/EnquirySrch.jsp
+01/06 14:45:09 user start [ 10.75.12.194 76303119971294292666453 ] executer: history.account.srch
+01/06 14:45:10 user end [ 10.75.12.194 76303119971294292666453 ] executer: history.account.srch elapse: 953 executer_class: history.account.AccountExecuter sts: OK jsp: /jsp/history/account/AccountSrch.jsp
+01/06 14:45:11 user start [ 10.75.12.194 76303119971294292666453 ] executer: history.common.pdf
+01/06 14:45:11 user end [ 10.75.12.194 76303119971294292666453 ] executer: history.common.pdf elapse: 31 executer_class: history.common.PdfExecuter sts: OK jsp: /jsp/history/srchresult/SrchResult.jsp
+01/06 14:45:11 user start [ 10.75.12.194 76303119971294292666453 ] executer: history.srch.pdf
+01/06 14:45:11 user end [ 10.75.12.194 76303119971294292666453 ] executer: history.srch.pdf elapse: 47 executer_class: history.srchresult.SrchPDFExecuter sts: OK jsp: /servlet/jm2.control.BinaryServlet
+01/06 14:45:11 user jm2.control.BinaryServlet: start
+01/06 14:45:11 user jm2.control.BinaryServlet: end
+01/06 14:45:11 user start [ 10.53.11.190 N/A ] executer: history.login
+01/06 14:45:11 user Session ê∂ê¨: ID=76301321881294292711734
+01/06 14:45:11 user end [ 10.53.11.190 N/A ] executer: history.login elapse: 94 executer_class: history.login.LoginExecuter sts: OK jsp: /jsp/history/menu/menu.jsp
+01/06 14:45:11 user start [ 10.83.12.193 76303487641294291657093 ] executer: history.enquiry.form
+01/06 14:45:12 user end [ 10.83.12.193 76303487641294291657093 ] executer: history.enquiry.form elapse: 953 executer_class: history.enquiry.EnquiryExecuter sts: OK jsp: /jsp/history/enquiry/EnquirySrch.jsp
+01/06 14:45:13 user start [ 10.53.11.190 76301321881294292711734 ] executer: history.account.form
+01/06 14:45:13 user end [ 10.53.11.190 76301321881294292711734 ] executer: history.account.form elapse: 31 executer_class: history.account.AccountFormExecuter sts: OK jsp: /jsp/history/account/AccountSrch.jsp
+01/06 14:45:14 user start [ 10.83.12.193 76303487641294291657093 ] executer: history.menu.form
+01/06 14:45:14 user end [ 10.83.12.193 76303487641294291657093 ] executer: history.menu.form elapse: 31 executer_class: history.menu.MenuFormExecuter sts: OK jsp: /jsp/history/menu/menu.jsp
+01/06 14:45:16 user start [ 10.34.12.199 7630650631294292505656 ] executer: history.menu.form
+01/06 14:45:16 user end [ 10.34.12.199 7630650631294292505656 ] executer: history.menu.form elapse: 31 executer_class: history.menu.MenuFormExecuter sts: OK jsp: /jsp/history/menu/menu.jsp
+01/06 14:45:17 user start [ 10.34.12.199 7630650631294292505656 ] executer: history.logout
+01/06 14:45:17 user end [ 10.34.12.199 7630650631294292505656 ] executer: history.logout elapse: 15 executer_class: history.logout.LogoutExecuter sts: OK jsp: /jsp/history/logout/logout.jsp
+01/06 14:45:17 user Session îjä¸: ID=7630650631294292505656
+01/06 14:45:19 user start [ 10.17.11.3 76302390641294292651875 ] executer: history.menu.form
+01/06 14:45:19 user end [ 10.17.11.3 76302390641294292651875 ] executer: history.menu.form elapse: 16 executer_class: history.menu.MenuFormExecuter sts: OK jsp: /jsp/history/menu/menu.jsp
+01/06 14:45:20 user start [ 10.17.11.3 76302390641294292651875 ] executer: history.logout
+01/06 14:45:20 user end [ 10.17.11.3 76302390641294292651875 ] executer: history.logout elapse: 16 executer_class: history.logout.LogoutExecuter sts: OK jsp: /jsp/history/logout/logout.jsp
+01/06 14:45:20 user Session îjä¸: ID=76302390641294292651875
+01/06 14:45:22 user start [ 10.34.12.199 N/A ] executer: history.logout.close
+01/06 14:45:22 user end [ 10.34.12.199 N/A ] executer: history.logout.close elapse: 31 executer_class: history.logout.LogoutExecuter sts: OK jsp: /jsp/history/logout/logoutClose.jsp
+01/06 14:45:22 user Session ê∂ê¨: ID=7630650631294292505656
+01/06 14:45:22 user Session îjä¸: ID=7630650631294292505656
+01/06 14:45:27 user start [ 10.0.27.16 76301514601294292645515 ] executer: history.account.srch
+01/06 14:45:27 user end [ 10.0.27.16 76301514601294292645515 ] executer: history.account.srch elapse: 78 executer_class: history.account.AccountExecuter sts: NG jsp: /jsp/history/account/AccountSrch.jsp
+01/06 14:45:28 user start [ 10.61.11.8 76301103241294291570968 ] executer: history.balance.srch
+01/06 14:45:29 user start [ 10.0.71.138 N/A ] executer: history.login
+01/06 14:45:29 user Session ê∂ê¨: ID=76303235071294292729734
+01/06 14:45:29 user end [ 10.0.71.138 N/A ] executer: history.login elapse: 94 executer_class: history.login.LoginExecuter sts: OK jsp: /jsp/history/menu/menu.jsp
+01/06 14:45:31 user start [ 10.0.71.138 76303235071294292729734 ] executer: history.account.form
+01/06 14:45:31 user end [ 10.0.71.138 76303235071294292729734 ] executer: history.account.form elapse: 31 executer_class: history.account.AccountFormExecuter sts: OK jsp: /jsp/history/account/AccountSrch.jsp
+01/06 14:45:37 user end [ 10.61.11.8 76301103241294291570968 ] executer: history.balance.srch elapse: 8922 executer_class: history.balance.BalanceExecuter sts: OK jsp: /jsp/history/balance/BalanceSrch.jsp
+01/06 14:45:37 user start [ 10.61.11.8 76301103241294291570968 ] executer: history.common.pdf
+01/06 14:45:37 user end [ 10.61.11.8 76301103241294291570968 ] executer: history.common.pdf elapse: 31 executer_class: history.common.PdfExecuter sts: OK jsp: /jsp/history/srchresult/SrchResult.jsp
+01/06 14:45:38 user start [ 10.61.11.8 76301103241294291570968 ] executer: history.srch.pdf
+01/06 14:45:38 user end [ 10.61.11.8 76301103241294291570968 ] executer: history.srch.pdf elapse: 47 executer_class: history.srchresult.SrchPDFExecuter sts: OK jsp: /servlet/jm2.control.BinaryServlet
+01/06 14:45:38 user jm2.control.BinaryServlet: start
+01/06 14:45:38 user jm2.control.BinaryServlet: end
+01/06 14:45:38 user start [ 10.42.11.159 7630398891294292689437 ] executer: history.account.srch
+01/06 14:45:38 user start [ 10.83.12.193 76303487641294291657093 ] executer: history.account.form
+01/06 14:45:38 user end [ 10.83.12.193 76303487641294291657093 ] executer: history.account.form elapse: 32 executer_class: history.account.AccountFormExecuter sts: OK jsp: /jsp/history/account/AccountSrch.jsp
+01/06 14:45:39 user start [ 10.0.27.16 76301514601294292645515 ] executer: history.account.srch
+01/06 14:45:39 user end [ 10.42.11.159 7630398891294292689437 ] executer: history.account.srch elapse: 1656 executer_class: history.account.AccountExecuter sts: OK jsp: /jsp/history/account/AccountSrch.jsp
+01/06 14:45:40 user end [ 10.0.27.16 76301514601294292645515 ] executer: history.account.srch elapse: 1141 executer_class: history.account.AccountExecuter sts: OK jsp: /jsp/history/account/AccountSrch.jsp
+01/06 14:45:40 user start [ 10.42.11.159 7630398891294292689437 ] executer: history.common.pdf
+01/06 14:45:40 user end [ 10.42.11.159 7630398891294292689437 ] executer: history.common.pdf elapse: 47 executer_class: history.common.PdfExecuter sts: OK jsp: /jsp/history/srchresult/SrchResult.jsp
+01/06 14:45:40 user start [ 10.42.11.159 7630398891294292689437 ] executer: history.srch.pdf
+01/06 14:45:40 user end [ 10.42.11.159 7630398891294292689437 ] executer: history.srch.pdf elapse: 47 executer_class: history.srchresult.SrchPDFExecuter sts: OK jsp: /servlet/jm2.control.BinaryServlet
+01/06 14:45:40 user jm2.control.BinaryServlet: start
+01/06 14:45:40 user jm2.control.BinaryServlet: end
+01/06 14:45:40 user start [ 10.0.27.16 76301514601294292645515 ] executer: history.common.pdf
+01/06 14:45:41 user end [ 10.0.27.16 76301514601294292645515 ] executer: history.common.pdf elapse: 47 executer_class: history.common.PdfExecuter sts: OK jsp: /jsp/history/srchresult/SrchResult.jsp
+01/06 14:45:41 user start [ 10.0.27.16 76301514601294292645515 ] executer: history.srch.pdf
+01/06 14:45:41 user end [ 10.0.27.16 76301514601294292645515 ] executer: history.srch.pdf elapse: 63 executer_class: history.srchresult.SrchPDFExecuter sts: OK jsp: /servlet/jm2.control.BinaryServlet
+01/06 14:45:41 user jm2.control.BinaryServlet: start
+01/06 14:45:41 user jm2.control.BinaryServlet: end
+01/06 14:45:46 user start [ 10.0.27.12 76302602981294292591328 ] executer: history.person.srch
+01/06 14:45:47 user end [ 10.0.27.12 76302602981294292591328 ] executer: history.person.srch elapse: 828 executer_class: history.person.PersonExecuter sts: OK jsp: /jsp/history/person/PersonSrch.jsp
+01/06 14:45:47 user start [ 10.0.27.12 76302602981294292591328 ] executer: history.common.pdf
+01/06 14:45:47 user end [ 10.0.27.12 76302602981294292591328 ] executer: history.common.pdf elapse: 31 executer_class: history.common.PdfExecuter sts: OK jsp: /jsp/history/srchresult/SrchResult.jsp
+01/06 14:45:47 user start [ 10.0.27.12 76302602981294292591328 ] executer: history.srch.pdf
+01/06 14:45:47 user end [ 10.0.27.12 76302602981294292591328 ] executer: history.srch.pdf elapse: 47 executer_class: history.srchresult.SrchPDFExecuter sts: OK jsp: /servlet/jm2.control.BinaryServlet
+01/06 14:45:47 user jm2.control.BinaryServlet: start
+01/06 14:45:47 user jm2.control.BinaryServlet: end
+01/06 14:45:49 user start [ 10.34.12.200 76301843821294289744781 ] executer: history.account.srch
+01/06 14:45:50 user end [ 10.34.12.200 76301843821294289744781 ] executer: history.account.srch elapse: 953 executer_class: history.account.AccountExecuter sts: OK jsp: /jsp/history/account/AccountSrch.jsp
+01/06 14:45:51 user start [ 10.34.12.200 76301843821294289744781 ] executer: history.common.pdf
+01/06 14:45:51 user end [ 10.34.12.200 76301843821294289744781 ] executer: history.common.pdf elapse: 47 executer_class: history.common.PdfExecuter sts: OK jsp: /jsp/history/srchresult/SrchResult.jsp
+01/06 14:45:51 user start [ 10.34.12.200 76301843821294289744781 ] executer: history.srch.pdf
+01/06 14:45:51 user end [ 10.34.12.200 76301843821294289744781 ] executer: history.srch.pdf elapse: 47 executer_class: history.srchresult.SrchPDFExecuter sts: OK jsp: /servlet/jm2.control.BinaryServlet
+01/06 14:45:51 user jm2.control.BinaryServlet: start
+01/06 14:45:51 user jm2.control.BinaryServlet: end
+01/06 14:45:57 user start [ 10.0.71.138 76303235071294292729734 ] executer: history.account.srch
+01/06 14:45:57 user start [ 10.53.12.191 N/A ] executer: history.login
+01/06 14:45:57 user Session ê∂ê¨: ID=7630408791294292757984
+01/06 14:45:58 user end [ 10.53.12.191 N/A ] executer: history.login elapse: 110 executer_class: history.login.LoginExecuter sts: OK jsp: /jsp/history/menu/menu.jsp
+01/06 14:45:58 user end [ 10.0.71.138 76303235071294292729734 ] executer: history.account.srch elapse: 1062 executer_class: history.account.AccountExecuter sts: OK jsp: /jsp/history/account/AccountSrch.jsp
+01/06 14:45:58 user start [ 10.0.71.138 76303235071294292729734 ] executer: history.common.pdf
+01/06 14:45:58 user end [ 10.0.71.138 76303235071294292729734 ] executer: history.common.pdf elapse: 47 executer_class: history.common.PdfExecuter sts: OK jsp: /jsp/history/srchresult/SrchResult.jsp
+01/06 14:45:58 user start [ 10.0.71.138 76303235071294292729734 ] executer: history.srch.pdf
+01/06 14:45:59 user end [ 10.0.71.138 76303235071294292729734 ] executer: history.srch.pdf elapse: 62 executer_class: history.srchresult.SrchPDFExecuter sts: OK jsp: /servlet/jm2.control.BinaryServlet
+01/06 14:45:59 user jm2.control.BinaryServlet: start
+01/06 14:45:59 user jm2.control.BinaryServlet: end
+01/06 14:45:59 user start [ 10.53.12.191 7630408791294292757984 ] executer: history.account.form
+01/06 14:45:59 user end [ 10.53.12.191 7630408791294292757984 ] executer: history.account.form elapse: 31 executer_class: history.account.AccountFormExecuter sts: OK jsp: /jsp/history/account/AccountSrch.jsp
+01/06 14:46:06 user start [ 10.86.11.8 N/A ] executer: history.login
+01/06 14:46:06 user start [ 10.0.27.1 N/A ] executer: history.login
+01/06 14:46:06 user Session ê∂ê¨: ID=76303030261294292766718
+01/06 14:46:06 user Session ê∂ê¨: ID=76301420911294290471515
+01/06 14:46:06 user end [ 10.0.27.1 N/A ] executer: history.login elapse: 125 executer_class: history.login.LoginExecuter sts: OK jsp: /jsp/history/menu/menu.jsp
+01/06 14:46:06 user end [ 10.86.11.8 N/A ] executer: history.login elapse: 125 executer_class: history.login.LoginExecuter sts: OK jsp: /jsp/history/menu/menu.jsp
+01/06 14:46:08 user start [ 10.83.12.193 76303487641294291657093 ] executer: history.account.srch
+01/06 14:46:09 user start [ 10.0.27.1 76301420911294290471515 ] executer: history.batch.balance.form
+01/06 14:46:09 user end [ 10.0.27.1 76301420911294290471515 ] executer: history.batch.balance.form elapse: 16 executer_class: history.balance.BatchBalanceFormExecuter sts: OK jsp: /jsp/history/balance/BatchBalanceSrch.jsp
+01/06 14:46:09 user start [ 10.53.11.190 76301321881294292711734 ] executer: history.account.srch
+01/06 14:46:09 user start [ 10.86.11.8 76303030261294292766718 ] executer: history.account.form
+01/06 14:46:09 user end [ 10.86.11.8 76303030261294292766718 ] executer: history.account.form elapse: 31 executer_class: history.account.AccountFormExecuter sts: OK jsp: /jsp/history/account/AccountSrch.jsp
+01/06 14:46:10 user end [ 10.83.12.193 76303487641294291657093 ] executer: history.account.srch elapse: 2015 executer_class: history.account.AccountExecuter sts: OK jsp: /jsp/history/account/AccountSrch.jsp
+01/06 14:46:11 user end [ 10.53.11.190 76301321881294292711734 ] executer: history.account.srch elapse: 2062 executer_class: history.account.AccountExecuter sts: OK jsp: /jsp/history/account/AccountSrch.jsp
+01/06 14:46:11 user start [ 10.83.12.193 76303487641294291657093 ] executer: history.common.pdf
+01/06 14:46:11 user end [ 10.83.12.193 76303487641294291657093 ] executer: history.common.pdf elapse: 47 executer_class: history.common.PdfExecuter sts: OK jsp: /jsp/history/srchresult/SrchResult.jsp
+01/06 14:46:11 user start [ 10.83.12.193 76303487641294291657093 ] executer: history.srch.pdf
+01/06 14:46:11 user end [ 10.83.12.193 76303487641294291657093 ] executer: history.srch.pdf elapse: 47 executer_class: history.srchresult.SrchPDFExecuter sts: OK jsp: /servlet/jm2.control.BinaryServlet
+01/06 14:46:11 user jm2.control.BinaryServlet: start
+01/06 14:46:11 user jm2.control.BinaryServlet: end
+01/06 14:46:12 user start [ 10.53.11.190 76301321881294292711734 ] executer: history.common.pdf
+01/06 14:46:12 user end [ 10.53.11.190 76301321881294292711734 ] executer: history.common.pdf elapse: 32 executer_class: history.common.PdfExecuter sts: OK jsp: /jsp/history/srchresult/SrchResult.jsp
+01/06 14:46:12 user start [ 10.53.11.190 76301321881294292711734 ] executer: history.srch.pdf
+01/06 14:46:12 user end [ 10.53.11.190 76301321881294292711734 ] executer: history.srch.pdf elapse: 47 executer_class: history.srchresult.SrchPDFExecuter sts: OK jsp: /servlet/jm2.control.BinaryServlet
+01/06 14:46:12 user jm2.control.BinaryServlet: start
+01/06 14:46:12 user jm2.control.BinaryServlet: end
+01/06 14:46:12 user start [ 10.61.11.8 76301103241294291570968 ] executer: history.balance.srch
+01/06 14:46:14 user start [ 10.0.27.16 76301514601294292645515 ] executer: history.account.srch
+01/06 14:46:15 user end [ 10.0.27.16 76301514601294292645515 ] executer: history.account.srch elapse: 937 executer_class: history.account.AccountExecuter sts: OK jsp: /jsp/history/account/AccountSrch.jsp
+01/06 14:46:15 user start [ 10.0.27.16 76301514601294292645515 ] executer: history.common.pdf
+01/06 14:46:15 user end [ 10.0.27.16 76301514601294292645515 ] executer: history.common.pdf elapse: 32 executer_class: history.common.PdfExecuter sts: OK jsp: /jsp/history/srchresult/SrchResult.jsp
+01/06 14:46:15 user start [ 10.0.27.16 76301514601294292645515 ] executer: history.srch.pdf
+01/06 14:46:15 user end [ 10.0.27.16 76301514601294292645515 ] executer: history.srch.pdf elapse: 47 executer_class: history.srchresult.SrchPDFExecuter sts: OK jsp: /servlet/jm2.control.BinaryServlet
+01/06 14:46:15 user jm2.control.BinaryServlet: start
+01/06 14:46:15 user jm2.control.BinaryServlet: end
+01/06 14:46:19 user start [ 10.0.71.138 76303235071294292729734 ] executer: history.menu.form
+01/06 14:46:19 user end [ 10.0.71.138 76303235071294292729734 ] executer: history.menu.form elapse: 31 executer_class: history.menu.MenuFormExecuter sts: OK jsp: /jsp/history/menu/menu.jsp
+01/06 14:46:20 user start [ 10.0.71.138 76303235071294292729734 ] executer: history.logout
+01/06 14:46:20 user end [ 10.0.71.138 76303235071294292729734 ] executer: history.logout elapse: 16 executer_class: history.logout.LogoutExecuter sts: OK jsp: /jsp/history/logout/logout.jsp
+01/06 14:46:20 user Session îjä¸: ID=76303235071294292729734
+01/06 14:46:21 user end [ 10.61.11.8 76301103241294291570968 ] executer: history.balance.srch elapse: 9156 executer_class: history.balance.BalanceExecuter sts: OK jsp: /jsp/history/balance/BalanceSrch.jsp
+01/06 14:46:22 user start [ 10.61.11.8 76301103241294291570968 ] executer: history.common.pdf
+01/06 14:46:22 user end [ 10.61.11.8 76301103241294291570968 ] executer: history.common.pdf elapse: 47 executer_class: history.common.PdfExecuter sts: OK jsp: /jsp/history/srchresult/SrchResult.jsp
+01/06 14:46:22 user start [ 10.61.11.8 76301103241294291570968 ] executer: history.srch.pdf
+01/06 14:46:22 user end [ 10.61.11.8 76301103241294291570968 ] executer: history.srch.pdf elapse: 47 executer_class: history.srchresult.SrchPDFExecuter sts: OK jsp: /servlet/jm2.control.BinaryServlet
+01/06 14:46:22 user jm2.control.BinaryServlet: start
+01/06 14:46:22 user jm2.control.BinaryServlet: end
+01/06 14:46:23 user start [ 10.75.12.194 76303119971294292666453 ] executer: history.account.srch
+01/06 14:46:24 user end [ 10.75.12.194 76303119971294292666453 ] executer: history.account.srch elapse: 984 executer_class: history.account.AccountExecuter sts: OK jsp: /jsp/history/account/AccountSrch.jsp
+01/06 14:46:25 user start [ 10.75.12.194 76303119971294292666453 ] executer: history.common.pdf
+01/06 14:46:25 user end [ 10.75.12.194 76303119971294292666453 ] executer: history.common.pdf elapse: 31 executer_class: history.common.PdfExecuter sts: OK jsp: /jsp/history/srchresult/SrchResult.jsp
+01/06 14:46:25 user start [ 10.75.12.194 76303119971294292666453 ] executer: history.srch.pdf
+01/06 14:46:25 user end [ 10.75.12.194 76303119971294292666453 ] executer: history.srch.pdf elapse: 47 executer_class: history.srchresult.SrchPDFExecuter sts: OK jsp: /servlet/jm2.control.BinaryServlet
+01/06 14:46:25 user jm2.control.BinaryServlet: start
+01/06 14:46:25 user jm2.control.BinaryServlet: end
+01/06 14:46:25 user start [ 10.0.71.138 N/A ] executer: history.logout.close
+01/06 14:46:25 user end [ 10.0.71.138 N/A ] executer: history.logout.close elapse: 16 executer_class: history.logout.LogoutExecuter sts: OK jsp: /jsp/history/logout/logoutClose.jsp
+01/06 14:46:25 user Session ê∂ê¨: ID=76303235071294292729734
+01/06 14:46:25 user Session îjä¸: ID=76303235071294292729734
+01/06 14:46:27 user start [ 10.0.27.9 76302386831294292619140 ] executer: history.person.srch
+01/06 14:46:28 user end [ 10.0.27.9 76302386831294292619140 ] executer: history.person.srch elapse: 859 executer_class: history.person.PersonExecuter sts: OK jsp: /jsp/history/person/PersonSrch.jsp
+01/06 14:46:28 user start [ 10.0.27.9 76302386831294292619140 ] executer: history.common.pdf
+01/06 14:46:28 user end [ 10.0.27.9 76302386831294292619140 ] executer: history.common.pdf elapse: 47 executer_class: history.common.PdfExecuter sts: OK jsp: /jsp/history/srchresult/SrchResult.jsp
+01/06 14:46:28 user start [ 10.0.27.9 76302386831294292619140 ] executer: history.srch.pdf
+01/06 14:46:28 user end [ 10.0.27.9 76302386831294292619140 ] executer: history.srch.pdf elapse: 46 executer_class: history.srchresult.SrchPDFExecuter sts: OK jsp: /servlet/jm2.control.BinaryServlet
+01/06 14:46:28 user jm2.control.BinaryServlet: start
+01/06 14:46:28 user jm2.control.BinaryServlet: end
+01/06 14:46:29 user start [ 10.34.12.200 76301843821294289744781 ] executer: history.account.srch
+01/06 14:46:31 user end [ 10.34.12.200 76301843821294289744781 ] executer: history.account.srch elapse: 2657 executer_class: history.account.AccountExecuter sts: OK jsp: /jsp/history/account/AccountSrch.jsp
+01/06 14:46:32 user start [ 10.34.12.200 76301843821294289744781 ] executer: history.common.pdf
+01/06 14:46:32 user end [ 10.34.12.200 76301843821294289744781 ] executer: history.common.pdf elapse: 31 executer_class: history.common.PdfExecuter sts: OK jsp: /jsp/history/srchresult/SrchResult.jsp
+01/06 14:46:33 user start [ 10.34.12.200 76301843821294289744781 ] executer: history.srch.pdf
+01/06 14:46:33 user end [ 10.34.12.200 76301843821294289744781 ] executer: history.srch.pdf elapse: 31 executer_class: history.srchresult.SrchPDFExecuter sts: OK jsp: /servlet/jm2.control.BinaryServlet
+01/06 14:46:33 user jm2.control.BinaryServlet: start
+01/06 14:46:33 user jm2.control.BinaryServlet: end
+01/06 14:46:38 user start [ 10.0.27.1 76301420911294290471515 ] executer: history.batch.balance.srch
+01/06 14:46:39 user end [ 10.0.27.1 76301420911294290471515 ] executer: history.batch.balance.srch elapse: 406 executer_class: history.balance.BatchBalanceExecuter sts: OK jsp: /jsp/history/balance/DelayBalance.jsp
+01/06 14:46:40 user start [ 10.0.27.1 76301420911294290471515 ] executer: history.enquiry.form
+01/06 14:46:49 user start [ 10.126.11.6 7630816891294292175218 ] executer: history.logout
+01/06 14:46:49 user end [ 10.126.11.6 7630816891294292175218 ] executer: history.logout elapse: 0 executer_class: history.logout.LogoutExecuter sts: OK jsp: /jsp/history/logout/logout.jsp
+01/06 14:46:49 user Session îjä¸: ID=7630816891294292175218
+01/06 14:46:52 user start [ 10.0.27.9 76302386831294292619140 ] executer: history.person.srch
+01/06 14:46:52 user start [ 10.53.12.191 7630408791294292757984 ] executer: history.account.srch
+01/06 14:46:53 user end [ 10.0.27.9 76302386831294292619140 ] executer: history.person.srch elapse: 672 executer_class: history.person.PersonExecuter sts: OK jsp: /jsp/history/person/PersonSrch.jsp
+01/06 14:46:53 user start [ 10.0.27.9 76302386831294292619140 ] executer: history.common.pdf
+01/06 14:46:53 user end [ 10.0.27.9 76302386831294292619140 ] executer: history.common.pdf elapse: 47 executer_class: history.common.PdfExecuter sts: OK jsp: /jsp/history/srchresult/SrchResult.jsp
+01/06 14:46:53 user start [ 10.0.27.9 76302386831294292619140 ] executer: history.srch.pdf
+01/06 14:46:53 user end [ 10.0.27.9 76302386831294292619140 ] executer: history.srch.pdf elapse: 62 executer_class: history.srchresult.SrchPDFExecuter sts: OK jsp: /servlet/jm2.control.BinaryServlet
+01/06 14:46:53 user jm2.control.BinaryServlet: start
+01/06 14:46:53 user jm2.control.BinaryServlet: end
+01/06 14:46:53 user start [ 10.83.12.193 76303487641294291657093 ] executer: history.account.srch
+01/06 14:46:55 user start [ 10.126.11.6 N/A ] executer: history.logout.close
+01/06 14:46:55 user end [ 10.126.11.6 N/A ] executer: history.logout.close elapse: 31 executer_class: history.logout.LogoutExecuter sts: OK jsp: /jsp/history/logout/logoutClose.jsp
+01/06 14:46:55 user Session ê∂ê¨: ID=7630816891294292175218
+01/06 14:46:55 user Session îjä¸: ID=7630816891294292175218
+01/06 14:46:55 user end [ 10.83.12.193 76303487641294291657093 ] executer: history.account.srch elapse: 1781 executer_class: history.account.AccountExecuter sts: OK jsp: /jsp/history/account/AccountSrch.jsp
+01/06 14:46:56 user start [ 10.83.12.193 76303487641294291657093 ] executer: history.common.pdf
+01/06 14:46:56 user end [ 10.83.12.193 76303487641294291657093 ] executer: history.common.pdf elapse: 47 executer_class: history.common.PdfExecuter sts: OK jsp: /jsp/history/srchresult/SrchResult.jsp
+01/06 14:46:56 user start [ 10.83.12.193 76303487641294291657093 ] executer: history.srch.pdf
+01/06 14:46:56 user end [ 10.83.12.193 76303487641294291657093 ] executer: history.srch.pdf elapse: 110 executer_class: history.srchresult.SrchPDFExecuter sts: OK jsp: /servlet/jm2.control.BinaryServlet
+01/06 14:46:56 user jm2.control.BinaryServlet: start
+01/06 14:46:56 user jm2.control.BinaryServlet: end
+01/06 14:46:56 user start [ 10.61.11.8 N/A ] executer: history.login
+01/06 14:46:56 user Session ê∂ê¨: ID=7630191411294292816796
+01/06 14:46:56 user end [ 10.61.11.8 N/A ] executer: history.login elapse: 188 executer_class: history.login.LoginExecuter sts: NG jsp: /jsp/history/Invalid.jsp
+01/06 14:46:56 user InvalidÉyÅ[ÉWäJén
+01/06 14:46:57 user end [ 10.53.12.191 7630408791294292757984 ] executer: history.account.srch elapse: 5297 executer_class: history.account.AccountExecuter sts: OK jsp: /jsp/history/account/AccountSrch.jsp
+01/06 14:46:58 user start [ 10.53.12.191 7630408791294292757984 ] executer: history.common.pdf
+01/06 14:46:58 user end [ 10.53.12.191 7630408791294292757984 ] executer: history.common.pdf elapse: 93 executer_class: history.common.PdfExecuter sts: OK jsp: /jsp/history/srchresult/SrchResult.jsp
+01/06 14:46:58 user start [ 10.53.12.191 7630408791294292757984 ] executer: history.srch.pdf
+01/06 14:46:58 user end [ 10.53.12.191 7630408791294292757984 ] executer: history.srch.pdf elapse: 47 executer_class: history.srchresult.SrchPDFExecuter sts: OK jsp: /servlet/jm2.control.BinaryServlet
+01/06 14:46:58 user jm2.control.BinaryServlet: start
+01/06 14:46:58 user jm2.control.BinaryServlet: end
+01/06 14:47:00 user end [ 10.0.27.1 76301420911294290471515 ] executer: history.enquiry.form elapse: 20609 executer_class: history.enquiry.EnquiryExecuter sts: OK jsp: /jsp/history/enquiry/EnquirySrch.jsp
+01/06 14:47:02 user start [ 10.0.27.1 76301420911294290471515 ] executer: history.enquiry.form
+01/06 14:47:05 user start [ 10.61.11.8 7630191411294292816796 ] executer: history.logout
+01/06 14:47:05 user end [ 10.61.11.8 7630191411294292816796 ] executer: history.logout elapse: 16 executer_class: history.logout.LogoutExecuter sts: OK jsp: /jsp/history/logout/logout.jsp
+01/06 14:47:05 user Session îjä¸: ID=7630191411294292816796
+01/06 14:47:10 user start [ 10.61.11.8 N/A ] executer: history.logout.close
+01/06 14:47:10 user end [ 10.61.11.8 N/A ] executer: history.logout.close elapse: 16 executer_class: history.logout.LogoutExecuter sts: OK jsp: /jsp/history/logout/logoutClose.jsp
+01/06 14:47:10 user Session ê∂ê¨: ID=7630191411294292816796
+01/06 14:47:10 user Session îjä¸: ID=7630191411294292816796
+01/06 14:47:13 user start [ 10.0.27.16 76301514601294292645515 ] executer: history.account.srch
+01/06 14:47:14 user end [ 10.0.27.16 76301514601294292645515 ] executer: history.account.srch elapse: 781 executer_class: history.account.AccountExecuter sts: OK jsp: /jsp/history/account/AccountSrch.jsp
+01/06 14:47:14 user start [ 10.0.27.16 76301514601294292645515 ] executer: history.common.pdf
+01/06 14:47:14 user end [ 10.0.27.16 76301514601294292645515 ] executer: history.common.pdf elapse: 62 executer_class: history.common.PdfExecuter sts: OK jsp: /jsp/history/srchresult/SrchResult.jsp
+01/06 14:47:14 user start [ 10.0.27.16 76301514601294292645515 ] executer: history.srch.pdf
+01/06 14:47:14 user end [ 10.0.27.16 76301514601294292645515 ] executer: history.srch.pdf elapse: 63 executer_class: history.srchresult.SrchPDFExecuter sts: OK jsp: /servlet/jm2.control.BinaryServlet
+01/06 14:47:14 user jm2.control.BinaryServlet: start
+01/06 14:47:14 user jm2.control.BinaryServlet: end
+01/06 14:47:17 user start [ 10.75.12.194 76303119971294292666453 ] executer: history.account.srch
+01/06 14:47:17 user end [ 10.75.12.194 76303119971294292666453 ] executer: history.account.srch elapse: 921 executer_class: history.account.AccountExecuter sts: OK jsp: /jsp/history/account/AccountSrch.jsp
+01/06 14:47:18 user start [ 10.75.12.194 76303119971294292666453 ] executer: history.common.pdf
+01/06 14:47:18 user end [ 10.75.12.194 76303119971294292666453 ] executer: history.common.pdf elapse: 47 executer_class: history.common.PdfExecuter sts: OK jsp: /jsp/history/srchresult/SrchResult.jsp
+01/06 14:47:18 user start [ 10.75.12.194 76303119971294292666453 ] executer: history.srch.pdf
+01/06 14:47:18 user end [ 10.75.12.194 76303119971294292666453 ] executer: history.srch.pdf elapse: 78 executer_class: history.srchresult.SrchPDFExecuter sts: OK jsp: /servlet/jm2.control.BinaryServlet
+01/06 14:47:18 user jm2.control.BinaryServlet: start
+01/06 14:47:18 user jm2.control.BinaryServlet: end
+01/06 14:47:20 user start [ 10.61.11.8 N/A ] executer: history.login
+01/06 14:47:20 user Session ê∂ê¨: ID=7630753271294292840187
+01/06 14:47:20 user end [ 10.61.11.8 N/A ] executer: history.login elapse: 79 executer_class: history.login.LoginExecuter sts: NG jsp: /jsp/history/Invalid.jsp
+01/06 14:47:20 user InvalidÉyÅ[ÉWäJén
+01/06 14:47:22 user end [ 10.0.27.1 76301420911294290471515 ] executer: history.enquiry.form elapse: 20422 executer_class: history.enquiry.EnquiryExecuter sts: OK jsp: /jsp/history/enquiry/EnquirySrch.jsp
+01/06 14:47:30 user start [ 10.0.27.1 76301420911294290471515 ] executer: history.enquiry.prt
+01/06 14:47:36 user start [ 10.61.11.8 7630753271294292840187 ] executer: history.logout
+01/06 14:47:36 user end [ 10.61.11.8 7630753271294292840187 ] executer: history.logout elapse: 15 executer_class: history.logout.LogoutExecuter sts: OK jsp: /jsp/history/logout/logout.jsp
+01/06 14:47:36 user Session îjä¸: ID=7630753271294292840187
+01/06 14:47:41 user start [ 10.61.11.8 N/A ] executer: history.logout.close
+01/06 14:47:41 user end [ 10.61.11.8 N/A ] executer: history.logout.close elapse: 16 executer_class: history.logout.LogoutExecuter sts: OK jsp: /jsp/history/logout/logoutClose.jsp
+01/06 14:47:41 user Session ê∂ê¨: ID=7630753271294292840187
+01/06 14:47:41 user Session îjä¸: ID=7630753271294292840187
+01/06 14:47:47 user start [ 10.0.27.16 76301514601294292645515 ] executer: history.account.srch
+01/06 14:47:48 user end [ 10.0.27.16 76301514601294292645515 ] executer: history.account.srch elapse: 1281 executer_class: history.account.AccountExecuter sts: OK jsp: /jsp/history/account/AccountSrch.jsp
+01/06 14:47:48 user start [ 10.0.27.16 76301514601294292645515 ] executer: history.common.pdf
+01/06 14:47:48 user end [ 10.0.27.16 76301514601294292645515 ] executer: history.common.pdf elapse: 78 executer_class: history.common.PdfExecuter sts: OK jsp: /jsp/history/srchresult/SrchResult.jsp
+01/06 14:47:49 user start [ 10.0.27.16 76301514601294292645515 ] executer: history.srch.pdf
+01/06 14:47:49 user end [ 10.0.27.16 76301514601294292645515 ] executer: history.srch.pdf elapse: 46 executer_class: history.srchresult.SrchPDFExecuter sts: OK jsp: /servlet/jm2.control.BinaryServlet
+01/06 14:47:49 user jm2.control.BinaryServlet: start
+01/06 14:47:49 user jm2.control.BinaryServlet: end
+01/06 14:47:50 user end [ 10.0.27.1 76301420911294290471515 ] executer: history.enquiry.prt elapse: 19937 executer_class: history.enquiry.EnquiryDataPrintExecuter sts: OK jsp: /jsp/history/enquiry/EnquirySrch.jsp
+01/06 14:47:58 user start [ 10.34.12.200 76301843821294289744781 ] executer: history.account.srch
+01/06 14:47:59 user end [ 10.34.12.200 76301843821294289744781 ] executer: history.account.srch elapse: 1062 executer_class: history.account.AccountExecuter sts: OK jsp: /jsp/history/account/AccountSrch.jsp
+01/06 14:48:00 user start [ 10.34.12.200 76301843821294289744781 ] executer: history.common.pdf
+01/06 14:48:00 user end [ 10.34.12.200 76301843821294289744781 ] executer: history.common.pdf elapse: 31 executer_class: history.common.PdfExecuter sts: OK jsp: /jsp/history/srchresult/SrchResult.jsp
+01/06 14:48:00 user start [ 10.34.12.200 76301843821294289744781 ] executer: history.srch.pdf
+01/06 14:48:00 user end [ 10.34.12.200 76301843821294289744781 ] executer: history.srch.pdf elapse: 62 executer_class: history.srchresult.SrchPDFExecuter sts: OK jsp: /servlet/jm2.control.BinaryServlet
+01/06 14:48:00 user jm2.control.BinaryServlet: start
+01/06 14:48:00 user jm2.control.BinaryServlet: end
+01/06 14:48:18 user start [ 10.83.12.193 76303487641294291657093 ] executer: history.account.srch
+01/06 14:48:24 user start [ 10.0.27.1 76301420911294290471515 ] executer: history.menu.form
+01/06 14:48:24 user end [ 10.0.27.1 76301420911294290471515 ] executer: history.menu.form elapse: 47 executer_class: history.menu.MenuFormExecuter sts: OK jsp: /jsp/history/menu/menu.jsp
+01/06 14:48:25 user end [ 10.83.12.193 76303487641294291657093 ] executer: history.account.srch elapse: 6719 executer_class: history.account.AccountExecuter sts: DY jsp: /jsp/history/account/DelayAccount.jsp
+01/06 14:48:26 user start [ 10.0.27.1 76301420911294290471515 ] executer: history.account.form
+01/06 14:48:26 user end [ 10.0.27.1 76301420911294290471515 ] executer: history.account.form elapse: 31 executer_class: history.account.AccountFormExecuter sts: OK jsp: /jsp/history/account/AccountSrch.jsp
+01/06 14:48:26 metrics Threads(b,d,i,ttl): 0,0,4,5, Requests(hd,dl,dr): 1198,0,0, Heap(fr,ttl): 36800,106392 Sessions: 15
+01/06 14:48:33 user start [ 10.83.12.193 76303487641294291657093 ] executer: history.enquiry.form
+01/06 14:48:34 user end [ 10.83.12.193 76303487641294291657093 ] executer: history.enquiry.form elapse: 1547 executer_class: history.enquiry.EnquiryExecuter sts: OK jsp: /jsp/history/enquiry/EnquirySrch.jsp
+01/06 14:48:35 user start [ 10.0.27.12 76302602981294292591328 ] executer: history.person.srch
+01/06 14:48:36 user end [ 10.0.27.12 76302602981294292591328 ] executer: history.person.srch elapse: 750 executer_class: history.person.PersonExecuter sts: OK jsp: /jsp/history/person/PersonSrch.jsp
+01/06 14:48:36 user start [ 10.0.27.12 76302602981294292591328 ] executer: history.common.pdf
+01/06 14:48:36 user end [ 10.0.27.12 76302602981294292591328 ] executer: history.common.pdf elapse: 31 executer_class: history.common.PdfExecuter sts: OK jsp: /jsp/history/srchresult/SrchResult.jsp
+01/06 14:48:36 user start [ 10.0.27.12 76302602981294292591328 ] executer: history.srch.pdf
+01/06 14:48:36 user end [ 10.0.27.12 76302602981294292591328 ] executer: history.srch.pdf elapse: 125 executer_class: history.srchresult.SrchPDFExecuter sts: OK jsp: /servlet/jm2.control.BinaryServlet
+01/06 14:48:36 user jm2.control.BinaryServlet: start
+01/06 14:48:36 user jm2.control.BinaryServlet: end
+01/06 14:48:38 user start [ 10.83.12.193 76303487641294291657093 ] executer: history.detail.disp
+01/06 14:48:38 user end [ 10.83.12.193 76303487641294291657093 ] executer: history.detail.disp elapse: 31 executer_class: history.common.DetailExecuter sts: 2 jsp: /jsp/history/account/DelayAccount.jsp
+01/06 14:48:43 user start [ 10.86.11.8 76303030261294292766718 ] executer: history.account.srch
+01/06 14:48:44 user start [ 10.83.12.193 76303487641294291657093 ] executer: history.enquiry.prt
+01/06 14:48:44 user end [ 10.86.11.8 76303030261294292766718 ] executer: history.account.srch elapse: 1328 executer_class: history.account.AccountExecuter sts: OK jsp: /jsp/history/account/AccountSrch.jsp
+01/06 14:48:45 user start [ 10.86.11.8 76303030261294292766718 ] executer: history.common.pdf
+01/06 14:48:45 user end [ 10.86.11.8 76303030261294292766718 ] executer: history.common.pdf elapse: 47 executer_class: history.common.PdfExecuter sts: OK jsp: /jsp/history/srchresult/SrchResult.jsp
+01/06 14:48:45 user start [ 10.86.11.8 76303030261294292766718 ] executer: history.srch.pdf
+01/06 14:48:45 user end [ 10.86.11.8 76303030261294292766718 ] executer: history.srch.pdf elapse: 62 executer_class: history.srchresult.SrchPDFExecuter sts: OK jsp: /servlet/jm2.control.BinaryServlet
+01/06 14:48:45 user jm2.control.BinaryServlet: start
+01/06 14:48:45 user jm2.control.BinaryServlet: end
+01/06 14:48:46 user end [ 10.83.12.193 76303487641294291657093 ] executer: history.enquiry.prt elapse: 1797 executer_class: history.enquiry.EnquiryDataPrintExecuter sts: OK jsp: /jsp/history/enquiry/EnquirySrch.jsp
+01/06 14:48:55 user start [ 10.21.11.200 N/A ] executer: history.login
+01/06 14:48:55 user Session ê∂ê¨: ID=7630949131294292935281
+01/06 14:48:55 user end [ 10.21.11.200 N/A ] executer: history.login elapse: 109 executer_class: history.login.LoginExecuter sts: OK jsp: /jsp/history/menu/menu.jsp
+01/06 14:48:56 user start [ 10.21.11.200 7630949131294292935281 ] executer: history.account.form
+01/06 14:48:56 user end [ 10.21.11.200 7630949131294292935281 ] executer: history.account.form elapse: 16 executer_class: history.account.AccountFormExecuter sts: OK jsp: /jsp/history/account/AccountSrch.jsp
+01/06 14:48:58 user start [ 10.21.11.200 7630949131294292935281 ] executer: history.menu.form
+01/06 14:48:58 user end [ 10.21.11.200 7630949131294292935281 ] executer: history.menu.form elapse: 31 executer_class: history.menu.MenuFormExecuter sts: OK jsp: /jsp/history/menu/menu.jsp
+01/06 14:48:59 user start [ 10.83.12.193 76303487641294291657093 ] executer: history.enquiry.form
+01/06 14:48:59 user start [ 10.21.11.200 7630949131294292935281 ] executer: history.balance.form
+01/06 14:48:59 user end [ 10.21.11.200 7630949131294292935281 ] executer: history.balance.form elapse: 31 executer_class: history.balance.BalanceFormExecuter sts: OK jsp: /jsp/history/balance/BalanceSrch.jsp
+01/06 14:49:00 user end [ 10.83.12.193 76303487641294291657093 ] executer: history.enquiry.form elapse: 1422 executer_class: history.enquiry.EnquiryExecuter sts: OK jsp: /jsp/history/enquiry/EnquirySrch.jsp
+01/06 14:49:01 user start [ 10.0.27.1 76301420911294290471515 ] executer: history.account.srch
+01/06 14:49:01 user end [ 10.0.27.1 76301420911294290471515 ] executer: history.account.srch elapse: 687 executer_class: history.account.AccountExecuter sts: OK jsp: /jsp/history/account/AccountSrch.jsp
+01/06 14:49:02 user start [ 10.0.27.1 76301420911294290471515 ] executer: history.common.pdf
+01/06 14:49:02 user end [ 10.0.27.1 76301420911294290471515 ] executer: history.common.pdf elapse: 31 executer_class: history.common.PdfExecuter sts: OK jsp: /jsp/history/srchresult/SrchResult.jsp
+01/06 14:49:02 user start [ 10.0.27.1 76301420911294290471515 ] executer: history.srch.pdf
+01/06 14:49:02 user end [ 10.0.27.1 76301420911294290471515 ] executer: history.srch.pdf elapse: 47 executer_class: history.srchresult.SrchPDFExecuter sts: OK jsp: /servlet/jm2.control.BinaryServlet
+01/06 14:49:02 user jm2.control.BinaryServlet: start
+01/06 14:49:02 user jm2.control.BinaryServlet: end
+01/06 14:49:10 user start [ 10.83.12.193 76303487641294291657093 ] executer: history.menu.form
+01/06 14:49:10 user end [ 10.83.12.193 76303487641294291657093 ] executer: history.menu.form elapse: 47 executer_class: history.menu.MenuFormExecuter sts: OK jsp: /jsp/history/menu/menu.jsp
+01/06 14:49:11 user start [ 10.83.12.193 76303487641294291657093 ] executer: history.account.form
+01/06 14:49:11 user end [ 10.83.12.193 76303487641294291657093 ] executer: history.account.form elapse: 32 executer_class: history.account.AccountFormExecuter sts: OK jsp: /jsp/history/account/AccountSrch.jsp
+01/06 14:49:11 user start [ 10.21.11.200 7630949131294292935281 ] executer: history.balance.srch
+01/06 14:49:19 user start [ 10.53.11.190 76301321881294292711734 ] executer: history.menu.form
+01/06 14:49:19 user end [ 10.53.11.190 76301321881294292711734 ] executer: history.menu.form elapse: 31 executer_class: history.menu.MenuFormExecuter sts: OK jsp: /jsp/history/menu/menu.jsp
+01/06 14:49:20 user end [ 10.21.11.200 7630949131294292935281 ] executer: history.balance.srch elapse: 9203 executer_class: history.balance.BalanceExecuter sts: OK jsp: /jsp/history/balance/BalanceSrch.jsp
+01/06 14:49:21 user start [ 10.53.11.190 76301321881294292711734 ] executer: history.logout
+01/06 14:49:21 user end [ 10.53.11.190 76301321881294292711734 ] executer: history.logout elapse: 16 executer_class: history.logout.LogoutExecuter sts: OK jsp: /jsp/history/logout/logout.jsp
+01/06 14:49:21 user Session îjä¸: ID=76301321881294292711734
+01/06 14:49:22 user start [ 10.21.11.200 7630949131294292935281 ] executer: history.common.pdf
+01/06 14:49:22 user end [ 10.21.11.200 7630949131294292935281 ] executer: history.common.pdf elapse: 31 executer_class: history.common.PdfExecuter sts: OK jsp: /jsp/history/srchresult/SrchResult.jsp
+01/06 14:49:22 user start [ 10.21.11.200 7630949131294292935281 ] executer: history.srch.pdf
+01/06 14:49:22 user start [ 10.0.27.12 76302602981294292591328 ] executer: history.person.srch
+01/06 14:49:22 user end [ 10.21.11.200 7630949131294292935281 ] executer: history.srch.pdf elapse: 63 executer_class: history.srchresult.SrchPDFExecuter sts: OK jsp: /servlet/jm2.control.BinaryServlet
+01/06 14:49:22 user jm2.control.BinaryServlet: start
+01/06 14:49:22 user jm2.control.BinaryServlet: end
+01/06 14:49:23 user end [ 10.0.27.12 76302602981294292591328 ] executer: history.person.srch elapse: 937 executer_class: history.person.PersonExecuter sts: OK jsp: /jsp/history/person/PersonSrch.jsp
+01/06 14:49:23 user start [ 10.0.27.12 76302602981294292591328 ] executer: history.common.pdf
+01/06 14:49:23 user end [ 10.0.27.12 76302602981294292591328 ] executer: history.common.pdf elapse: 31 executer_class: history.common.PdfExecuter sts: OK jsp: /jsp/history/srchresult/SrchResult.jsp
+01/06 14:49:23 user start [ 10.0.27.12 76302602981294292591328 ] executer: history.srch.pdf
+01/06 14:49:23 user end [ 10.0.27.12 76302602981294292591328 ] executer: history.srch.pdf elapse: 62 executer_class: history.srchresult.SrchPDFExecuter sts: OK jsp: /servlet/jm2.control.BinaryServlet
+01/06 14:49:23 user jm2.control.BinaryServlet: start
+01/06 14:49:23 user jm2.control.BinaryServlet: end
+01/06 14:49:25 user start [ 10.34.12.200 76301843821294289744781 ] executer: history.account.srch
+01/06 14:49:26 user start [ 10.53.11.190 N/A ] executer: history.logout.close
+01/06 14:49:26 user end [ 10.53.11.190 N/A ] executer: history.logout.close elapse: 31 executer_class: history.logout.LogoutExecuter sts: OK jsp: /jsp/history/logout/logoutClose.jsp
+01/06 14:49:26 user Session ê∂ê¨: ID=76301321881294292711734
+01/06 14:49:26 user Session îjä¸: ID=76301321881294292711734
+01/06 14:49:26 user end [ 10.34.12.200 76301843821294289744781 ] executer: history.account.srch elapse: 859 executer_class: history.account.AccountExecuter sts: OK jsp: /jsp/history/account/AccountSrch.jsp
+01/06 14:49:27 user start [ 10.34.12.200 76301843821294289744781 ] executer: history.common.pdf
+01/06 14:49:27 user end [ 10.34.12.200 76301843821294289744781 ] executer: history.common.pdf elapse: 31 executer_class: history.common.PdfExecuter sts: OK jsp: /jsp/history/srchresult/SrchResult.jsp
+01/06 14:49:27 user start [ 10.34.12.200 76301843821294289744781 ] executer: history.srch.pdf
+01/06 14:49:27 user end [ 10.34.12.200 76301843821294289744781 ] executer: history.srch.pdf elapse: 47 executer_class: history.srchresult.SrchPDFExecuter sts: OK jsp: /servlet/jm2.control.BinaryServlet
+01/06 14:49:27 user jm2.control.BinaryServlet: start
+01/06 14:49:27 user jm2.control.BinaryServlet: end
+01/06 14:49:30 user start [ 10.83.12.193 76303487641294291657093 ] executer: history.account.srch
+01/06 14:49:32 user end [ 10.83.12.193 76303487641294291657093 ] executer: history.account.srch elapse: 2297 executer_class: history.account.AccountExecuter sts: OK jsp: /jsp/history/account/AccountSrch.jsp
+01/06 14:49:33 user start [ 10.83.12.193 76303487641294291657093 ] executer: history.common.pdf
+01/06 14:49:33 user end [ 10.83.12.193 76303487641294291657093 ] executer: history.common.pdf elapse: 31 executer_class: history.common.PdfExecuter sts: OK jsp: /jsp/history/srchresult/SrchResult.jsp
+01/06 14:49:33 user start [ 10.83.12.193 76303487641294291657093 ] executer: history.srch.pdf
+01/06 14:49:33 user end [ 10.83.12.193 76303487641294291657093 ] executer: history.srch.pdf elapse: 63 executer_class: history.srchresult.SrchPDFExecuter sts: OK jsp: /servlet/jm2.control.BinaryServlet
+01/06 14:49:33 user jm2.control.BinaryServlet: start
+01/06 14:49:33 user jm2.control.BinaryServlet: end
+01/06 14:49:33 user start [ 10.21.11.200 7630949131294292935281 ] executer: history.menu.form
+01/06 14:49:33 user end [ 10.21.11.200 7630949131294292935281 ] executer: history.menu.form elapse: 31 executer_class: history.menu.MenuFormExecuter sts: OK jsp: /jsp/history/menu/menu.jsp
+01/06 14:49:35 user start [ 10.21.11.200 7630949131294292935281 ] executer: history.logout
+01/06 14:49:35 user end [ 10.21.11.200 7630949131294292935281 ] executer: history.logout elapse: 31 executer_class: history.logout.LogoutExecuter sts: OK jsp: /jsp/history/logout/logout.jsp
+01/06 14:49:35 user Session îjä¸: ID=7630949131294292935281
+01/06 14:49:35 user start [ 10.53.12.191 7630408791294292757984 ] executer: history.menu.form
+01/06 14:49:35 user end [ 10.53.12.191 7630408791294292757984 ] executer: history.menu.form elapse: 32 executer_class: history.menu.MenuFormExecuter sts: OK jsp: /jsp/history/menu/menu.jsp
+01/06 14:49:40 user start [ 10.21.11.200 N/A ] executer: history.logout.close
+01/06 14:49:40 user end [ 10.21.11.200 N/A ] executer: history.logout.close elapse: 16 executer_class: history.logout.LogoutExecuter sts: OK jsp: /jsp/history/logout/logoutClose.jsp
+01/06 14:49:40 user Session ê∂ê¨: ID=7630949131294292935281
+01/06 14:49:40 user Session îjä¸: ID=7630949131294292935281
+01/06 14:49:44 user start [ 10.53.12.191 7630408791294292757984 ] executer: history.logout
+01/06 14:49:44 user end [ 10.53.12.191 7630408791294292757984 ] executer: history.logout elapse: 15 executer_class: history.logout.LogoutExecuter sts: OK jsp: /jsp/history/logout/logout.jsp
+01/06 14:49:44 user Session îjä¸: ID=7630408791294292757984
+01/06 14:49:48 user start [ 10.21.11.200 N/A ] executer: history.login
+01/06 14:49:48 user Session ê∂ê¨: ID=7630949131294292935281
+01/06 14:49:48 user end [ 10.21.11.200 N/A ] executer: history.login elapse: 79 executer_class: history.login.LoginExecuter sts: OK jsp: /jsp/history/menu/menu.jsp
+01/06 14:49:49 user start [ 10.53.12.191 N/A ] executer: history.logout.close
+01/06 14:49:49 user end [ 10.53.12.191 N/A ] executer: history.logout.close elapse: 16 executer_class: history.logout.LogoutExecuter sts: OK jsp: /jsp/history/logout/logoutClose.jsp
+01/06 14:49:49 user Session ê∂ê¨: ID=7630408791294292757984
+01/06 14:49:49 user Session îjä¸: ID=7630408791294292757984
+01/06 14:49:49 user start [ 10.21.11.200 7630949131294292935281 ] executer: history.balance.form
+01/06 14:49:49 user end [ 10.21.11.200 7630949131294292935281 ] executer: history.balance.form elapse: 31 executer_class: history.balance.BalanceFormExecuter sts: OK jsp: /jsp/history/balance/BalanceSrch.jsp
+01/06 14:49:59 user start [ 10.0.33.11 N/A ] executer: history.login
+01/06 14:49:59 user Session ê∂ê¨: ID=7630576701294272183828
+01/06 14:49:59 user end [ 10.0.33.11 N/A ] executer: history.login elapse: 110 executer_class: history.login.LoginExecuter sts: OK jsp: /jsp/history/menu/menu.jsp
+01/06 14:50:03 user start [ 10.0.33.11 7630576701294272183828 ] executer: history.account.form
+01/06 14:50:03 user end [ 10.0.33.11 7630576701294272183828 ] executer: history.account.form elapse: 16 executer_class: history.account.AccountFormExecuter sts: OK jsp: /jsp/history/account/AccountSrch.jsp
+01/06 14:50:07 user start [ 10.75.12.194 76303119971294292666453 ] executer: history.menu.form
+01/06 14:50:07 user end [ 10.75.12.194 76303119971294292666453 ] executer: history.menu.form elapse: 16 executer_class: history.menu.MenuFormExecuter sts: OK jsp: /jsp/history/menu/menu.jsp
+01/06 14:50:07 user start [ 10.21.11.200 7630949131294292935281 ] executer: history.balance.srch
+01/06 14:50:08 user end [ 10.21.11.200 7630949131294292935281 ] executer: history.balance.srch elapse: 734 executer_class: history.balance.BalanceExecuter sts: OK jsp: /jsp/history/balance/BalanceSrch.jsp
+01/06 14:50:08 user start [ 10.75.12.194 76303119971294292666453 ] executer: history.logout
+01/06 14:50:08 user end [ 10.75.12.194 76303119971294292666453 ] executer: history.logout elapse: 16 executer_class: history.logout.LogoutExecuter sts: OK jsp: /jsp/history/logout/logout.jsp
+01/06 14:50:08 user Session îjä¸: ID=76303119971294292666453
+01/06 14:50:09 user start [ 10.21.11.200 7630949131294292935281 ] executer: history.common.pdf
+01/06 14:50:09 user end [ 10.21.11.200 7630949131294292935281 ] executer: history.common.pdf elapse: 31 executer_class: history.common.PdfExecuter sts: OK jsp: /jsp/history/srchresult/SrchResult.jsp
+01/06 14:50:09 user start [ 10.21.11.200 7630949131294292935281 ] executer: history.srch.pdf
+01/06 14:50:09 user end [ 10.21.11.200 7630949131294292935281 ] executer: history.srch.pdf elapse: 47 executer_class: history.srchresult.SrchPDFExecuter sts: OK jsp: /servlet/jm2.control.BinaryServlet
+01/06 14:50:09 user jm2.control.BinaryServlet: start
+01/06 14:50:09 user jm2.control.BinaryServlet: end
+01/06 14:50:13 user start [ 10.75.12.194 N/A ] executer: history.logout.close
+01/06 14:50:13 user end [ 10.75.12.194 N/A ] executer: history.logout.close elapse: 31 executer_class: history.logout.LogoutExecuter sts: OK jsp: /jsp/history/logout/logoutClose.jsp
+01/06 14:50:13 user Session ê∂ê¨: ID=76303119971294292666453
+01/06 14:50:13 user Session îjä¸: ID=76303119971294292666453
+01/06 14:50:17 user start [ 10.34.12.200 76301843821294289744781 ] executer: history.account.srch
+01/06 14:50:18 user end [ 10.34.12.200 76301843821294289744781 ] executer: history.account.srch elapse: 953 executer_class: history.account.AccountExecuter sts: OK jsp: /jsp/history/account/AccountSrch.jsp
+01/06 14:50:18 user start [ 10.0.27.11 N/A ] executer: history.login
+01/06 14:50:18 user Session ê∂ê¨: ID=76303278421294293018796
+01/06 14:50:18 user end [ 10.0.27.11 N/A ] executer: history.login elapse: 78 executer_class: history.login.LoginExecuter sts: OK jsp: /jsp/history/menu/menu.jsp
+01/06 14:50:19 user start [ 10.34.12.200 76301843821294289744781 ] executer: history.common.pdf
+01/06 14:50:19 user end [ 10.34.12.200 76301843821294289744781 ] executer: history.common.pdf elapse: 31 executer_class: history.common.PdfExecuter sts: OK jsp: /jsp/history/srchresult/SrchResult.jsp
+01/06 14:50:19 user start [ 10.34.12.200 76301843821294289744781 ] executer: history.srch.pdf
+01/06 14:50:19 user end [ 10.34.12.200 76301843821294289744781 ] executer: history.srch.pdf elapse: 46 executer_class: history.srchresult.SrchPDFExecuter sts: OK jsp: /servlet/jm2.control.BinaryServlet
+01/06 14:50:19 user jm2.control.BinaryServlet: start
+01/06 14:50:19 user jm2.control.BinaryServlet: end
+01/06 14:50:20 user start [ 10.0.27.11 76303278421294293018796 ] executer: history.person.form
+01/06 14:50:20 user end [ 10.0.27.11 76303278421294293018796 ] executer: history.person.form elapse: 16 executer_class: history.person.PersonFormExecuter sts: OK jsp: /jsp/history/person/PersonSrch.jsp
+01/06 14:50:23 user start [ 10.0.27.7 76301273511294292554531 ] executer: history.login
+01/06 14:50:23 user Session îjä¸: ID=76301273511294292554531
+01/06 14:50:23 user Session ê∂ê¨: ID=76301273511294292554531
+01/06 14:50:23 user end [ 10.0.27.7 76301273511294292554531 ] executer: history.login elapse: 93 executer_class: history.login.LoginExecuter sts: OK jsp: /jsp/history/menu/menu.jsp
+01/06 14:50:25 user start [ 10.0.33.11 7630576701294272183828 ] executer: history.account.srch
+01/06 14:50:25 user end [ 10.0.33.11 7630576701294272183828 ] executer: history.account.srch elapse: 62 executer_class: history.account.AccountExecuter sts: NG jsp: /jsp/history/account/AccountSrch.jsp
+01/06 14:50:30 user start [ 10.0.27.11 76303278421294293018796 ] executer: history.person.srch
+01/06 14:50:31 user end [ 10.0.27.11 76303278421294293018796 ] executer: history.person.srch elapse: 781 executer_class: history.person.PersonExecuter sts: OK jsp: /jsp/history/person/PersonSrch.jsp
+01/06 14:50:31 user start [ 10.0.27.11 76303278421294293018796 ] executer: history.common.pdf
+01/06 14:50:31 user end [ 10.0.27.11 76303278421294293018796 ] executer: history.common.pdf elapse: 47 executer_class: history.common.PdfExecuter sts: OK jsp: /jsp/history/srchresult/SrchResult.jsp
+01/06 14:50:31 user start [ 10.0.27.11 76303278421294293018796 ] executer: history.srch.pdf
+01/06 14:50:31 user end [ 10.0.27.11 76303278421294293018796 ] executer: history.srch.pdf elapse: 62 executer_class: history.srchresult.SrchPDFExecuter sts: OK jsp: /servlet/jm2.control.BinaryServlet
+01/06 14:50:31 user jm2.control.BinaryServlet: start
+01/06 14:50:31 user jm2.control.BinaryServlet: end
+01/06 14:50:33 user start [ 10.0.33.11 7630576701294272183828 ] executer: history.account.srch
+01/06 14:50:34 user end [ 10.0.33.11 7630576701294272183828 ] executer: history.account.srch elapse: 1000 executer_class: history.account.AccountExecuter sts: OK jsp: /jsp/history/account/AccountSrch.jsp
+01/06 14:50:35 user start [ 10.0.33.11 7630576701294272183828 ] executer: history.common.pdf
+01/06 14:50:35 user end [ 10.0.33.11 7630576701294272183828 ] executer: history.common.pdf elapse: 31 executer_class: history.common.PdfExecuter sts: OK jsp: /jsp/history/srchresult/SrchResult.jsp
+01/06 14:50:35 user start [ 10.0.33.11 7630576701294272183828 ] executer: history.srch.pdf
+01/06 14:50:35 user end [ 10.0.33.11 7630576701294272183828 ] executer: history.srch.pdf elapse: 47 executer_class: history.srchresult.SrchPDFExecuter sts: OK jsp: /servlet/jm2.control.BinaryServlet
+01/06 14:50:35 user jm2.control.BinaryServlet: start
+01/06 14:50:35 user jm2.control.BinaryServlet: end
+01/06 14:50:41 user start [ 10.42.11.159 7630398891294292689437 ] executer: history.menu.form
+01/06 14:50:41 user end [ 10.42.11.159 7630398891294292689437 ] executer: history.menu.form elapse: 16 executer_class: history.menu.MenuFormExecuter sts: OK jsp: /jsp/history/menu/menu.jsp
+01/06 14:50:42 user start [ 10.42.11.159 7630398891294292689437 ] executer: history.logout
+01/06 14:50:42 user end [ 10.42.11.159 7630398891294292689437 ] executer: history.logout elapse: 16 executer_class: history.logout.LogoutExecuter sts: OK jsp: /jsp/history/logout/logout.jsp
+01/06 14:50:42 user Session îjä¸: ID=7630398891294292689437
+01/06 14:50:45 user start [ 10.83.12.193 76303487641294291657093 ] executer: history.account.srch
+01/06 14:50:47 user end [ 10.83.12.193 76303487641294291657093 ] executer: history.account.srch elapse: 1953 executer_class: history.account.AccountExecuter sts: OK jsp: /jsp/history/account/AccountSrch.jsp
+01/06 14:50:47 user start [ 10.42.11.159 N/A ] executer: history.logout.close
+01/06 14:50:47 user end [ 10.42.11.159 N/A ] executer: history.logout.close elapse: 15 executer_class: history.logout.LogoutExecuter sts: OK jsp: /jsp/history/logout/logoutClose.jsp
+01/06 14:50:47 user Session ê∂ê¨: ID=7630398891294292689437
+01/06 14:50:47 user Session îjä¸: ID=7630398891294292689437
+01/06 14:50:48 user start [ 10.83.12.193 76303487641294291657093 ] executer: history.common.pdf
+01/06 14:50:48 user end [ 10.83.12.193 76303487641294291657093 ] executer: history.common.pdf elapse: 47 executer_class: history.common.PdfExecuter sts: OK jsp: /jsp/history/srchresult/SrchResult.jsp
+01/06 14:50:48 user start [ 10.83.12.193 76303487641294291657093 ] executer: history.srch.pdf
+01/06 14:50:48 user end [ 10.83.12.193 76303487641294291657093 ] executer: history.srch.pdf elapse: 47 executer_class: history.srchresult.SrchPDFExecuter sts: OK jsp: /servlet/jm2.control.BinaryServlet
+01/06 14:50:48 user jm2.control.BinaryServlet: start
+01/06 14:50:48 user jm2.control.BinaryServlet: end
+01/06 14:50:49 user start [ 10.152.11.181 N/A ] executer: history.login
+01/06 14:50:49 user Session ê∂ê¨: ID=76302772491294293049968
+01/06 14:50:50 user end [ 10.152.11.181 N/A ] executer: history.login elapse: 109 executer_class: history.login.LoginExecuter sts: OK jsp: /jsp/history/menu/menu.jsp
+01/06 14:50:53 user start [ 10.152.11.181 76302772491294293049968 ] executer: history.account.form
+01/06 14:50:53 user end [ 10.152.11.181 76302772491294293049968 ] executer: history.account.form elapse: 31 executer_class: history.account.AccountFormExecuter sts: OK jsp: /jsp/history/account/AccountSrch.jsp
+01/06 14:51:02 user start [ 10.34.12.200 76301843821294289744781 ] executer: history.account.srch

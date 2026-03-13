@@ -1,0 +1,152 @@
+5/26/2004	11:18:08	4	0	6009	EventLog	N/A	GUNMAWEBSV	Microsoft (R) Windows 2000 (R) 5.0 2195  Multiprocessor Free.  
+5/26/2004	11:18:08	4	0	6005	EventLog	N/A	GUNMAWEBSV	イベント ログ サービスが開始されました。  
+5/26/2004	11:18:14	4	0	1001	SNMP	N/A	GUNMAWEBSV	SNMP サービスは正常に開始されました。  
+5/26/2004	11:19:22	4	0	6006	EventLog	N/A	GUNMAWEBSV	イベント ログ サービスが停止されました。  
+5/26/2004	11:20:56	4	0	6009	EventLog	N/A	GUNMAWEBSV	Microsoft (R) Windows 2000 (R) 5.0 2195  Multiprocessor Free.  
+5/26/2004	11:20:56	4	0	6005	EventLog	N/A	GUNMAWEBSV	イベント ログ サービスが開始されました。  
+5/26/2004	11:21:03	4	0	1001	SNMP	N/A	GUNMAWEBSV	SNMP サービスは正常に開始されました。  
+5/26/2004	11:26:42	4	0	1003	SNMP	N/A	GUNMAWEBSV	SNMP サービスは正常に停止されました。  
+5/26/2004	11:27:33	4	0	1001	SNMP	N/A	GUNMAWEBSV	SNMP サービスは正常に開始されました。  
+5/26/2004	11:32:28	4	0	1004	SNMP	N/A	GUNMAWEBSV	SNMP サービスの設定は正常に更新されました。  
+5/26/2004	11:37:50	4	0	6006	EventLog	N/A	GUNMAWEBSV	イベント ログ サービスが停止されました。  
+5/26/2004	11:41:32	4	0	6009	EventLog	N/A	GUNMAWEBSV	Microsoft (R) Windows 2000 (R) 5.0 2195  Multiprocessor Free.  
+5/26/2004	11:41:32	4	0	6005	EventLog	N/A	GUNMAWEBSV	イベント ログ サービスが開始されました。  
+5/26/2004	11:41:39	4	0	1001	SNMP	N/A	GUNMAWEBSV	SNMP サービスは正常に開始されました。  
+5/26/2004	11:45:23	4	0	4381	NtServicePack	TPC4512\Administrator		GUNMAWEBSV	Windows 2000 Service Pack 4 がインストールされました。  
+5/26/2004	11:47:01	4	0	6006	EventLog	N/A	GUNMAWEBSV	イベント ログ サービスが停止されました。  
+5/26/2004	11:50:44	4	0	6009	EventLog	N/A	GUNMAWEBSV	Microsoft (R) Windows 2000 (R) 5.0 2195 Service Pack 4 Multiprocessor Free.  
+5/26/2004	11:50:44	4	0	6005	EventLog	N/A	GUNMAWEBSV	イベント ログ サービスが開始されました。  
+5/26/2004	11:50:51	4	0	1001	SNMP	N/A	GUNMAWEBSV	SNMP サービスは正常に開始されました。  
+5/26/2004	11:52:38	4	0	1003	SNMP	N/A	GUNMAWEBSV	SNMP サービスは正常に停止されました。  
+5/26/2004	11:52:42	4	0	1001	SNMP	N/A	GUNMAWEBSV	SNMP サービスは正常に開始されました。  
+5/26/2004	11:52:47	4	0	6006	EventLog	N/A	GUNMAWEBSV	イベント ログ サービスが停止されました。  
+5/26/2004	11:54:47	4	0	6009	EventLog	N/A	GUNMAWEBSV	Microsoft (R) Windows 2000 (R) 5.0 2195 Service Pack 4 Multiprocessor Free.  
+5/26/2004	11:54:47	4	0	6005	EventLog	N/A	GUNMAWEBSV	イベント ログ サービスが開始されました。  
+5/26/2004	11:54:55	4	0	1001	SNMP	N/A	GUNMAWEBSV	SNMP サービスは正常に開始されました。  
+5/26/2004	11:56:43	4	0	1003	SNMP	N/A	GUNMAWEBSV	SNMP サービスは正常に停止されました。  
+5/26/2004	11:57:06	4	0	6006	EventLog	N/A	GUNMAWEBSV	イベント ログ サービスが停止されました。  
+5/26/2004	12:00:48	4	0	6009	EventLog	N/A	GUNMAWEBSV	Microsoft (R) Windows 2000 (R) 5.0 2195 Service Pack 4 Multiprocessor Free.  
+5/26/2004	12:00:48	4	0	6005	EventLog	N/A	GUNMAWEBSV	イベント ログ サービスが開始されました。  
+5/26/2004	12:00:56	4	0	1001	SNMP	N/A	GUNMAWEBSV	SNMP サービスは正常に開始されました。  
+5/26/2004	13:07:55	4	0	134	Removable Storage Service	N/A	GUNMAWEBSV	次のデバイスのデバイス インターフェイス ARRIVAL 通知を受信しました:      \\?\SCSI#Sequential&Ven_SONY&Prod_SDT-11000&Rev_02t0#6&25159d07&0&050#{53f5630b-b6bf-11d0-94f2-00a0c91efb8b}  
+5/26/2004	13:26:37	4	0	134	Removable Storage Service	N/A	GUNMAWEBSV	次のデバイスのデバイス インターフェイス ARRIVAL 通知を受信しました:      \\?\USBSTOR#Disk&Ven_BUFFALO&Prod_ClipDrive&Rev_2.00#1B5816D94061616D&0#{53f56307-b6bf-11d0-94f2-00a0c91efb8b}  
+5/26/2004	13:26:38	4	0	135	Removable Storage Service	N/A	GUNMAWEBSV	次のデバイスのデバイス インターフェイス REMOVAL 通知を受信しました:      \\?\USBSTOR#Disk&Ven_BUFFALO&Prod_ClipDrive&Rev_2.00#1B5816D94061616D&0#{53f56307-b6bf-11d0-94f2-00a0c91efb8b}  
+5/26/2004	13:26:38	4	0	134	Removable Storage Service	N/A	GUNMAWEBSV	次のデバイスのデバイス インターフェイス ARRIVAL 通知を受信しました:      \\?\USBSTOR#Disk&Ven_BUFFALO&Prod_ClipDrive&Rev_2.00#1B5816D94061616D&0#{53f56307-b6bf-11d0-94f2-00a0c91efb8b}  
+5/26/2004	13:27:35	2	0	10047	RSVP	N/A	GUNMAWEBSV	QoS RSVP はトラフィック制御が有効になっているインターフェイスを検出できません。ネットワークとダイヤルアップ接続を使って QoS トラフィック制御サービスをインストールしてください。  
+5/26/2004	13:30:40	4	0	160	Removable Storage Service	N/A	GUNMAWEBSV	ハンドル クエリの削除通知を受信しました。    RSM はクエリの削除の要求を許可しました。  
+5/26/2004	13:30:41	4	0	135	Removable Storage Service	N/A	GUNMAWEBSV	次のデバイスのデバイス インターフェイス REMOVAL 通知を受信しました:      \\?\USBSTOR#Disk&Ven_BUFFALO&Prod_ClipDrive&Rev_2.00#1B5816D94061616D&0#{53f56307-b6bf-11d0-94f2-00a0c91efb8b}  
+5/26/2004	13:32:20	4	0	6006	EventLog	N/A	GUNMAWEBSV	イベント ログ サービスが停止されました。  
+5/26/2004	14:13:32	4	0	6009	EventLog	N/A	GUNMAWEBSV	Microsoft (R) Windows 2000 (R) 5.0 2195 Service Pack 4 Multiprocessor Free.  
+5/26/2004	14:13:32	4	0	6005	EventLog	N/A	GUNMAWEBSV	イベント ログ サービスが開始されました。  
+5/26/2004	14:13:34	4	0	27	E1000	N/A	GUNMAWEBSV	 Intel(R) 82545EM Based Network Connection 
+5/26/2004	14:13:39	1	0	105	SMTPSVC	N/A	GUNMAWEBSV	サーバーは、管理ツールの発見情報を登録できませんでした。管理ツールからこのサーバーが見えない可能性があります。このデータはエラー コードです。    このメッセージに関する追加情報については、次の Microsoft オンライン サポート サイトで確認してください。http://www.microsoft.com/contentredirect.asp  
+5/26/2004	14:13:39	1	0	105	MSFTPSVC	N/A	GUNMAWEBSV	サーバーは、管理ツールのディスカバリ情報を登録できませんでした。管理ツールからこのサーバーが見えない可能性があります。このデータはエラー コードです。    このメッセージに関する追加情報については、以下のマイクロソフト オンライン サポートのサイトを参照してください: http://www.microsoft.com/contentredirect.asp  
+5/26/2004	14:13:39	1	0	105	W3SVC	N/A	GUNMAWEBSV	サーバーは、管理ツールのディスカバリ情報を登録できませんでした。管理ツールからこのサーバーが見えない可能性があります。このデータはエラー コードです。    このメッセージに関する追加情報については、以下のマイクロソフト オンライン サポートのサイトを参照してください: http://www.microsoft.com/contentredirect.asp  
+5/26/2004	14:13:41	4	0	1001	SNMP	N/A	GUNMAWEBSV	SNMP サービスは正常に開始されました。  
+5/26/2004	14:13:43	4	0	4202	Tcpip	N/A	GUNMAWEBSV	ネットワーク アダプタ Intel(R) 82545EM Based Network Connection がネットワークから切断されて、ネットワークの構成が解放されたことを、  システムが検出しました。  ネットワーク アダプタが切断されていない場合、正しく機能していないことを示していることがあります。  更新されたドライバを取得するにはベンダに問い合わせてください。  
+5/26/2004	14:14:58	1	0	4198	Tcpip	N/A	GUNMAWEBSV	IP アドレス 192.168.0.1 とシステムのネットワーク ハードウェア アドレス 00:0D:61:63:AE:CA が  重複しているのを、検出しました。ローカル インターフェイスは無効になりました。  
+5/26/2004	14:14:58	4	0	26	Application Popup	N/A	GUNMAWEBSV	アプリケーション ポップアップ: Windows - システム エラー : ネットワーク上の別のシステムと競合する IP アドレスを検出しました。ローカル インターフェイスは無効です。 詳細については、システム イベント ログを参照してください。 この問題を解決するには、ネットワーク管理者に相談してください。   
+5/26/2004	14:17:44	4	0	6006	EventLog	N/A	GUNMAWEBSV	イベント ログ サービスが停止されました。  
+6/1/2004	16:32:10	4	0	6009	EventLog	N/A	GUNMAWEBSV	Microsoft (R) Windows 2000 (R) 5.0 2195 Service Pack 4 Multiprocessor Free.  
+6/1/2004	16:32:10	4	0	6005	EventLog	N/A	GUNMAWEBSV	イベント ログ サービスが開始されました。  
+6/1/2004	16:32:19	1	0	105	MSFTPSVC	N/A	GUNMAWEBSV	サーバーは、管理ツールのディスカバリ情報を登録できませんでした。管理ツールからこのサーバーが見えない可能性があります。このデータはエラー コードです。    このメッセージに関する追加情報については、以下のマイクロソフト オンライン サポートのサイトを参照してください: http://www.microsoft.com/contentredirect.asp  
+6/1/2004	16:32:19	1	0	105	SMTPSVC	N/A	GUNMAWEBSV	サーバーは、管理ツールの発見情報を登録できませんでした。管理ツールからこのサーバーが見えない可能性があります。このデータはエラー コードです。    このメッセージに関する追加情報については、次の Microsoft オンライン サポート サイトで確認してください。http://www.microsoft.com/contentredirect.asp  
+6/1/2004	16:32:19	1	0	105	W3SVC	N/A	GUNMAWEBSV	サーバーは、管理ツールのディスカバリ情報を登録できませんでした。管理ツールからこのサーバーが見えない可能性があります。このデータはエラー コードです。    このメッセージに関する追加情報については、以下のマイクロソフト オンライン サポートのサイトを参照してください: http://www.microsoft.com/contentredirect.asp  
+6/1/2004	16:32:20	4	0	1001	SNMP	N/A	GUNMAWEBSV	SNMP サービスは正常に開始されました。  
+6/1/2004	19:02:07	4	0	6006	EventLog	N/A	GUNMAWEBSV	イベント ログ サービスが停止されました。  
+6/1/2004	19:05:48	4	0	6009	EventLog	N/A	TPC4512	Microsoft (R) Windows 2000 (R) 5.0 2195 Service Pack 4 Multiprocessor Free.  
+6/1/2004	19:05:48	4	0	6005	EventLog	N/A	TPC4512	イベント ログ サービスが開始されました。  
+6/1/2004	19:05:56	2	0	1100	SNMP	N/A	TPC4512	マネージャ gunmawebsv の名前を処理できないので、SNMP サービスはそれを無視しています。  
+6/1/2004	19:06:02	4	0	1001	SNMP	N/A	TPC4512	SNMP サービスは正常に開始されました。  
+6/1/2004	20:30:00	2	0	8021	BROWSER	N/A	TPC4512	ブラウザはブラウザ マスタ \\SO-KSZT03 (ネットワーク \Device\NetBT_Tcpip_{3B16A83E-5288-42FA-ABD9-65AFEF146479}) からサーバー一覧を取得できませんでした。  データはエラー コードです。  
+6/1/2004	21:46:05	4	0	8033	BROWSER	N/A	TPC4512	マスタ ブラウザが停止されているため、ブラウザはネットワーク \Device\NetBT_Tcpip_{3B16A83E-5288-42FA-ABD9-65AFEF146479} で強制的にブラウザを選択しました。  
+6/2/2004	22:47:42	2	0	8021	BROWSER	N/A	TPC4512	ブラウザはブラウザ マスタ \\TPC0326 (ネットワーク \Device\NetBT_Tcpip_{3B16A83E-5288-42FA-ABD9-65AFEF146479}) からサーバー一覧を取得できませんでした。  データはエラー コードです。  
+6/3/2004	10:21:31	4	0	27	E1000	N/A	TPC4512	 Intel(R) 82545EM Based Network Connection 
+6/3/2004	10:21:39	4	0	4202	Tcpip	N/A	TPC4512	ネットワーク アダプタ Intel(R) 82545EM Based Network Connection がネットワークから切断されて、ネットワークの構成が解放されたことを、  システムが検出しました。  ネットワーク アダプタが切断されていない場合、正しく機能していないことを示していることがあります。  更新されたドライバを取得するにはベンダに問い合わせてください。  
+6/3/2004	10:21:39	4	0	8033	BROWSER	N/A	TPC4512	マスタ ブラウザが停止されているため、ブラウザはネットワーク \Device\NetBT_Tcpip_{3B16A83E-5288-42FA-ABD9-65AFEF146479} で強制的にブラウザを選択しました。  
+6/4/2004	14:21:55	1	0	8	Removable Storage Service	N/A	TPC4512	ライブラリ Sony DDS-4 Tape Drive は、メディアが書き込み保護になっていたため、メディア 2   の空きメディア ラベルに書き込めませんでした。  
+6/4/2004	14:21:55	4	0	26	Application Popup	N/A	TPC4512	アプリケーション ポップアップ: メッセンジャ サービス  : TPC4512 から TPC4512 へのメッセージ (2004/06/04 14:21:55)    発信元  :  TPC4512 上の Backup  ユーザー:   Administrator  タイトル:   **管理者警告**    ライブラリ "Sony DDS-4 Tape Drive" は、メディア 2 に書き込めませんでした。メディアを取り出し、問題を修復して (イベント ログ参照)、操作を再試行してください。  
+6/8/2004	15:29:06	4	0	26	E1000	N/A	TPC4512	 Intel(R) 82545EM Based Network Connection 
+6/8/2004	15:29:09	4	0	4201	Tcpip	N/A	TPC4512	ネットワーク アダプタ Intel(R) 82545EM Based Network Connection がネットワークに接続されており、ネットワーク アダプタ上での通常の運用が開始されたことを、  システムが検出しました。  
+6/8/2004	15:33:15	4	0	6006	EventLog	N/A	TPC4512	イベント ログ サービスが停止されました。  
+6/8/2004	15:36:56	4	0	6009	EventLog	N/A	TPC4512	Microsoft (R) Windows 2000 (R) 5.0 2195 Service Pack 4 Multiprocessor Free.  
+6/8/2004	15:36:56	4	0	6005	EventLog	N/A	TPC4512	イベント ログ サービスが開始されました。  
+6/8/2004	15:37:03	2	0	1100	SNMP	N/A	TPC4512	マネージャ gunmawebsv の名前を処理できないので、SNMP サービスはそれを無視しています。  
+6/8/2004	15:37:09	4	0	1001	SNMP	N/A	TPC4512	SNMP サービスは正常に開始されました。  
+6/8/2004	15:41:50	4	0	4377	NtServicePack	TPC4512\Administrator		TPC4512	“Windows Media Player” ホットフィックス Q828026 がインストールされました。  
+6/8/2004	15:42:08	4	0	4377	NtServicePack	TPC4512\Administrator		TPC4512	Windows 2000 ホットフィックス KB837001 がインストールされました。  
+6/8/2004	15:45:44	4	0	4377	NtServicePack	TPC4512\Administrator		TPC4512	Windows 2000 ホットフィックス KB828741 がインストールされました。  
+6/8/2004	15:47:49	4	0	4377	NtServicePack	TPC4512\Administrator		TPC4512	Windows 2000 ホットフィックス KB835732 がインストールされました。  
+6/8/2004	15:48:01	4	0	4377	NtServicePack	TPC4512\Administrator		TPC4512	Windows 2000 ホットフィックス KB828749 がインストールされました。  
+6/8/2004	15:48:06	4	0	4377	NtServicePack	TPC4512\Administrator		TPC4512	Windows 2000 ホットフィックス KB828035 がインストールされました。  
+6/8/2004	15:48:11	4	0	4377	NtServicePack	TPC4512\Administrator		TPC4512	Windows 2000 ホットフィックス KB825119 がインストールされました。  
+6/8/2004	15:48:16	4	0	4377	NtServicePack	TPC4512\Administrator		TPC4512	Windows 2000 ホットフィックス KB826232 がインストールされました。  
+6/8/2004	15:48:27	4	0	4377	NtServicePack	TPC4512\Administrator		TPC4512	Windows 2000 ホットフィックス KB824105 がインストールされました。  
+6/8/2004	15:48:32	4	0	4377	NtServicePack	TPC4512\Administrator		TPC4512	Windows 2000 ホットフィックス KB823182 がインストールされました。  
+6/8/2004	15:48:37	4	0	4377	NtServicePack	TPC4512\Administrator		TPC4512	Windows 2000 ホットフィックス KB823559 がインストールされました。  
+6/8/2004	15:49:54	4	0	6006	EventLog	N/A	TPC4512	イベント ログ サービスが停止されました。  
+6/8/2004	15:53:38	4	0	6009	EventLog	N/A	TPC4512	Microsoft (R) Windows 2000 (R) 5.0 2195 Service Pack 4 Multiprocessor Free.  
+6/8/2004	15:53:38	4	0	6005	EventLog	N/A	TPC4512	イベント ログ サービスが開始されました。  
+6/8/2004	15:53:45	2	0	1100	SNMP	N/A	TPC4512	マネージャ gunmawebsv の名前を処理できないので、SNMP サービスはそれを無視しています。  
+6/8/2004	15:53:52	4	0	1001	SNMP	N/A	TPC4512	SNMP サービスは正常に開始されました。  
+6/8/2004	15:54:41	4	0	6006	EventLog	N/A	TPC4512	イベント ログ サービスが停止されました。  
+6/8/2004	15:58:23	4	0	6009	EventLog	N/A	TPC4512	Microsoft (R) Windows 2000 (R) 5.0 2195 Service Pack 4 Multiprocessor Free.  
+6/8/2004	15:58:23	4	0	6005	EventLog	N/A	TPC4512	イベント ログ サービスが開始されました。  
+6/8/2004	15:58:30	2	0	1100	SNMP	N/A	TPC4512	マネージャ gunmawebsv の名前を処理できないので、SNMP サービスはそれを無視しています。  
+6/8/2004	15:58:37	4	0	1001	SNMP	N/A	TPC4512	SNMP サービスは正常に開始されました。  
+6/8/2004	16:12:40	4	0	134	Removable Storage Service	N/A	TPC4512	次のデバイスのデバイス インターフェイス ARRIVAL 通知を受信しました:      \\?\USBSTOR#Disk&Ven_&Prod_USB_Flash_Memory&Rev_1.15#07390D50142A&0#{53f56307-b6bf-11d0-94f2-00a0c91efb8b}  
+6/8/2004	16:12:40	4	0	135	Removable Storage Service	N/A	TPC4512	次のデバイスのデバイス インターフェイス REMOVAL 通知を受信しました:      \\?\USBSTOR#Disk&Ven_&Prod_USB_Flash_Memory&Rev_1.15#07390D50142A&0#{53f56307-b6bf-11d0-94f2-00a0c91efb8b}  
+6/8/2004	16:12:40	4	0	134	Removable Storage Service	N/A	TPC4512	次のデバイスのデバイス インターフェイス ARRIVAL 通知を受信しました:      \\?\USBSTOR#Disk&Ven_&Prod_USB_Flash_Memory&Rev_1.15#07390D50142A&0#{53f56307-b6bf-11d0-94f2-00a0c91efb8b}  
+6/8/2004	16:15:03	4	0	160	Removable Storage Service	N/A	TPC4512	ハンドル クエリの削除通知を受信しました。    RSM はクエリの削除の要求を許可しました。  
+6/8/2004	16:15:03	4	0	135	Removable Storage Service	N/A	TPC4512	次のデバイスのデバイス インターフェイス REMOVAL 通知を受信しました:      \\?\USBSTOR#Disk&Ven_&Prod_USB_Flash_Memory&Rev_1.15#07390D50142A&0#{53f56307-b6bf-11d0-94f2-00a0c91efb8b}  
+6/8/2004	16:23:27	4	0	6006	EventLog	N/A	TPC4512	イベント ログ サービスが停止されました。  
+6/8/2004	16:26:52	4	0	6009	EventLog	N/A	TPC4512	Microsoft (R) Windows 2000 (R) 5.0 2195 Service Pack 4 Multiprocessor Free.  
+6/8/2004	16:26:52	4	0	6005	EventLog	N/A	TPC4512	イベント ログ サービスが開始されました。  
+6/8/2004	16:26:59	2	0	1100	SNMP	N/A	TPC4512	マネージャ gunmawebsv の名前を処理できないので、SNMP サービスはそれを無視しています。  
+6/8/2004	16:27:08	4	0	1001	SNMP	N/A	TPC4512	SNMP サービスは正常に開始されました。  
+6/8/2004	17:11:33	4	0	6006	EventLog	N/A	TPC4512	イベント ログ サービスが停止されました。  
+6/8/2004	17:15:16	4	0	6009	EventLog	N/A	TPC4512	Microsoft (R) Windows 2000 (R) 5.0 2195 Service Pack 4 Multiprocessor Free.  
+6/8/2004	17:15:16	4	0	6005	EventLog	N/A	TPC4512	イベント ログ サービスが開始されました。  
+6/8/2004	17:15:24	2	0	1100	SNMP	N/A	TPC4512	マネージャ gunmawebsv の名前を処理できないので、SNMP サービスはそれを無視しています。  
+6/8/2004	17:15:32	4	0	1001	SNMP	N/A	TPC4512	SNMP サービスは正常に開始されました。  
+6/8/2004	17:37:00	4	0	6006	EventLog	N/A	TPC4512	イベント ログ サービスが停止されました。  
+6/8/2004	17:40:42	4	0	6009	EventLog	N/A	TPC4512	Microsoft (R) Windows 2000 (R) 5.0 2195 Service Pack 4 Multiprocessor Free.  
+6/8/2004	17:40:42	4	0	6005	EventLog	N/A	TPC4512	イベント ログ サービスが開始されました。  
+6/8/2004	17:40:50	2	0	1100	SNMP	N/A	TPC4512	マネージャ gunmawebsv の名前を処理できないので、SNMP サービスはそれを無視しています。  
+6/8/2004	17:40:58	4	0	1001	SNMP	N/A	TPC4512	SNMP サービスは正常に開始されました。  
+6/8/2004	18:36:45	4	0	6006	EventLog	N/A	TPC4512	イベント ログ サービスが停止されました。  
+6/8/2004	18:40:27	4	0	6009	EventLog	N/A	TPC4512	Microsoft (R) Windows 2000 (R) 5.0 2195 Service Pack 4 Multiprocessor Free.  
+6/8/2004	18:40:27	4	0	6005	EventLog	N/A	TPC4512	イベント ログ サービスが開始されました。  
+6/8/2004	18:40:34	2	0	1100	SNMP	N/A	TPC4512	マネージャ gunmawebsv の名前を処理できないので、SNMP サービスはそれを無視しています。  
+6/8/2004	18:40:41	4	0	1001	SNMP	N/A	TPC4512	SNMP サービスは正常に開始されました。  
+6/9/2004	09:59:05	4	0	27	E1000	N/A	TPC4512	 Intel(R) 82545EM Based Network Connection 
+6/9/2004	09:59:12	4	0	4202	Tcpip	N/A	TPC4512	ネットワーク アダプタ Intel(R) 82545EM Based Network Connection がネットワークから切断されて、ネットワークの構成が解放されたことを、  システムが検出しました。  ネットワーク アダプタが切断されていない場合、正しく機能していないことを示していることがあります。  更新されたドライバを取得するにはベンダに問い合わせてください。  
+6/9/2004	15:34:48	4	0	26	E1000	N/A	TPC4512	 Intel(R) 82545EM Based Network Connection 
+6/9/2004	15:34:52	4	0	4201	Tcpip	N/A	TPC4512	ネットワーク アダプタ Intel(R) 82545EM Based Network Connection がネットワークに接続されており、ネットワーク アダプタ上での通常の運用が開始されたことを、  システムが検出しました。  
+6/9/2004	17:02:13	4	0	134	Removable Storage Service	N/A	TPC4512	次のデバイスのデバイス インターフェイス ARRIVAL 通知を受信しました:      \\?\USBSTOR#Disk&Ven_&Prod_USB_Flash_Memory&Rev_1.15#07390D50142A&0#{53f56307-b6bf-11d0-94f2-00a0c91efb8b}  
+6/9/2004	17:03:14	4	0	160	Removable Storage Service	N/A	TPC4512	ハンドル クエリの削除通知を受信しました。    RSM はクエリの削除の要求を許可しました。  
+6/9/2004	17:03:25	4	0	135	Removable Storage Service	N/A	TPC4512	次のデバイスのデバイス インターフェイス REMOVAL 通知を受信しました:      \\?\USBSTOR#Disk&Ven_&Prod_USB_Flash_Memory&Rev_1.15#07390D50142A&0#{53f56307-b6bf-11d0-94f2-00a0c91efb8b}  
+6/9/2004	17:04:36	4	0	134	Removable Storage Service	N/A	TPC4512	次のデバイスのデバイス インターフェイス ARRIVAL 通知を受信しました:      \\?\USBSTOR#Disk&Ven_&Prod_USB_Flash_Memory&Rev_1.15#07390D50142A&0#{53f56307-b6bf-11d0-94f2-00a0c91efb8b}  
+6/9/2004	17:05:27	4	0	160	Removable Storage Service	N/A	TPC4512	ハンドル クエリの削除通知を受信しました。    RSM はクエリの削除の要求を許可しました。  
+6/9/2004	17:05:34	4	0	135	Removable Storage Service	N/A	TPC4512	次のデバイスのデバイス インターフェイス REMOVAL 通知を受信しました:      \\?\USBSTOR#Disk&Ven_&Prod_USB_Flash_Memory&Rev_1.15#07390D50142A&0#{53f56307-b6bf-11d0-94f2-00a0c91efb8b}  
+6/11/2004	18:01:53	4	0	6006	EventLog	N/A	TPC4512	イベント ログ サービスが停止されました。  
+6/11/2004	18:33:45	4	0	6009	EventLog	N/A	TPC4512	Microsoft (R) Windows 2000 (R) 5.0 2195 Service Pack 4 Multiprocessor Free.  
+6/11/2004	18:33:45	4	0	6005	EventLog	N/A	TPC4512	イベント ログ サービスが開始されました。  
+6/11/2004	18:33:52	2	0	1100	SNMP	N/A	TPC4512	マネージャ gunmawebsv の名前を処理できないので、SNMP サービスはそれを無視しています。  
+6/11/2004	18:34:00	4	0	1001	SNMP	N/A	TPC4512	SNMP サービスは正常に開始されました。  
+6/14/2004	02:01:14	4	0	6006	EventLog	N/A	TPC4512	イベント ログ サービスが停止されました。  
+6/14/2004	02:04:56	4	0	6009	EventLog	N/A	TPC4512	Microsoft (R) Windows 2000 (R) 5.0 2195 Service Pack 4 Multiprocessor Free.  
+6/14/2004	02:04:56	4	0	6005	EventLog	N/A	TPC4512	イベント ログ サービスが開始されました。  
+6/14/2004	02:05:03	2	0	1100	SNMP	N/A	TPC4512	マネージャ gunmawebsv の名前を処理できないので、SNMP サービスはそれを無視しています。  
+6/14/2004	02:05:11	4	0	1001	SNMP	N/A	TPC4512	SNMP サービスは正常に開始されました。  
+6/21/2004	02:01:16	4	0	6006	EventLog	N/A	TPC4512	イベント ログ サービスが停止されました。  
+6/21/2004	02:04:58	4	0	6009	EventLog	N/A	TPC4512	Microsoft (R) Windows 2000 (R) 5.0 2195 Service Pack 4 Multiprocessor Free.  
+6/21/2004	02:04:58	4	0	6005	EventLog	N/A	TPC4512	イベント ログ サービスが開始されました。  
+6/21/2004	02:05:07	2	0	1100	SNMP	N/A	TPC4512	マネージャ gunmawebsv の名前を処理できないので、SNMP サービスはそれを無視しています。  
+6/21/2004	02:05:14	4	0	1001	SNMP	N/A	TPC4512	SNMP サービスは正常に開始されました。  
+6/23/2004	16:44:08	4	0	4377	NtServicePack	TPC4512\history		TPC4512	Windows 2000 ホットフィックス KB839643 がインストールされました。  
+6/23/2004	20:35:52	4	0	6006	EventLog	N/A	TPC4512	イベント ログ サービスが停止されました。  
+6/23/2004	20:42:10	4	0	6009	EventLog	N/A	TPC4512	Microsoft (R) Windows 2000 (R) 5.0 2195 Service Pack 4 Multiprocessor Free.  
+6/23/2004	20:42:10	4	0	6005	EventLog	N/A	TPC4512	イベント ログ サービスが開始されました。  
+6/23/2004	20:42:17	2	0	1100	SNMP	N/A	TPC4512	マネージャ gunmawebsv の名前を処理できないので、SNMP サービスはそれを無視しています。  
+6/23/2004	20:42:25	4	0	1001	SNMP	N/A	TPC4512	SNMP サービスは正常に開始されました。  

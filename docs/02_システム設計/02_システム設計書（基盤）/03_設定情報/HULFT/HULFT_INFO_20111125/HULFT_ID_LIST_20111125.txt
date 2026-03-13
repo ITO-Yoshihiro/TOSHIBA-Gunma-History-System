@@ -1,0 +1,141 @@
+<<HULFT管理情報関連表示>>
+
+保存日:20111125
+
+
+◎配信管理情報
+<Sending Management Information Summary>
+[SendID]   [TgrpID]   [JobID]    [ErrJobID] [PreJobID] [FMTID]    [MFMTID]
+TRFYD01    denso01    hulmsg0    hulmsg9                                  
+TRFYT01    denso01    hulmsg0    hulmsg9                                  
+
+<Sending Management Information Summary>
+[SendID]
+TRFYD01  Zandaka Syoumei Kensaku Kekka File (batch)
+TRFYT01  Torihiki Meisai Kensaku Kekka File (batch)
+
+
+◎集信管理情報
+<Receiving Management Information Summary>
+[RcvID]    [TgrpID]   [JobID]    [ErrJobID]
+DTTRADG    neoss01    callreg              
+DTTRADM    neoss01    callreg              
+DTTRAFG    neoss01    callreg              
+DTTRAFM    neoss01    callreg              
+DTTRMJ2    neoss01    callreg              
+DTTRMJF    neoss01    callreg              
+XSFKD46    denso01    callreg              
+XSFKM97    denso01    callreg              
+XSFMD12    denso01    callreg              
+XSFYD38    denso01    callreg              
+XSFYD39    denso01    callreg              
+XSFYH05    denso01    callreg              
+XSFYH06    denso01    callreg              
+XSFYM78    denso01    callreg              
+XSFYT11    denso01    callreg              
+
+<Receiving Management Information Summary>
+[RcvID]
+DTTRADG  Gaiji Font DB (gothic)
+DTTRADM  Gaiji Font DB (mincho)
+DTTRAFG  Gaiji Font (gothic)
+DTTRAFM  Gaiji Font (mincho)
+DTTRMJ2  Kokyaku Jyouhou Today
+DTTRMJF  Kokyaku Jyouhou Yesterday (From Gaiji Server)
+XSFKD46  Yuushi Torihiki
+XSFKM97  Yuushi Zandaka
+XSFMD12  Kokyaku Jyouhou Today (Yobi) (From HOST)
+XSFYD38  Yokin Torihiki
+XSFYD39  Ikan CIF
+XSFYH05  Yokin Zandaka 1
+XSFYH06  Yokin Zandaka 2
+XSFYM78  Calendar Jyouhou (Kyujitsu File)
+XSFYT11  Yokin Torihiki Ikou (Monthly)
+
+
+◎ジョブ起動情報
+<Job Startup Information Summary>
+callreg    [RcvID]    DTTRADG     Gaiji Font DB (gothic)                                      
+                      DTTRADM     Gaiji Font DB (mincho)                                      
+                      DTTRAFG     Gaiji Font (gothic)                                         
+                      DTTRAFM     Gaiji Font (mincho)                                         
+                      DTTRMJ2     Kokyaku Jyouhou Today                                       
+                      DTTRMJF     Kokyaku Jyouhou Yesterday (From Gaiji Server)               
+                      XSFKD46     Yuushi Torihiki                                             
+                      XSFKM97     Yuushi Zandaka                                              
+                      XSFMD12     Kokyaku Jyouhou Today (Yobi) (From HOST)                    
+                      XSFYD38     Yokin Torihiki                                              
+                      XSFYD39     Ikan CIF                                                    
+                      XSFYH05     Yokin Zandaka 1                                             
+                      XSFYH06     Yokin Zandaka 2                                             
+                      XSFYM78     Calendar Jyouhou (Kyujitsu File)                            
+                      XSFYT11     Yokin Torihiki Ikou (Monthly)                               
+hulmsg0    [SendID]   TRFYD01     Zandaka Syoumei Kensaku Kekka File (batch)                  
+                      TRFYT01     Torihiki Meisai Kensaku Kekka File (batch)                  
+hulmsg9    [SendID]   TRFYD01     Zandaka Syoumei Kensaku Kekka File (batch)                  
+                      TRFYT01     Torihiki Meisai Kensaku Kekka File (batch)                  
+
+<Job Startup Information Summary>
+[JobID]
+callreg  Touroku Syori Yobidashi Syori
+hulmsg0  Normal End
+hulmsg9  Abnormal End
+
+
+◎詳細ホスト情報
+<Detailed Host Information Summary>
+HisthDB1
+NEOSHAP1
+           [TgrpID]   neoss01     denshi chyouhyou server (gaiji henkan)                      
+trnsv1
+           [TgrpID]   denso01     Kanjyou Kei (data densou server) honban                     
+trnsv2
+           [TgrpID]   denso02     Kanjyou Kei (data densou server) kaihatsu                   
+
+<Detailed Host Information Summary>
+[HostName]
+HisthDB1
+NEOSHAP1
+trnsv1  
+trnsv2  
+
+
+◎転送グループ情報
+<Transfer Group Information Summary>
+denso01    [SendID]   TRFYD01     Zandaka Syoumei Kensaku Kekka File (batch)                  
+                      TRFYT01     Torihiki Meisai Kensaku Kekka File (batch)                  
+           [RcvID]    XSFKD46     Yuushi Torihiki                                             
+                      XSFKM97     Yuushi Zandaka                                              
+                      XSFMD12     Kokyaku Jyouhou Today (Yobi) (From HOST)                    
+                      XSFYD38     Yokin Torihiki                                              
+                      XSFYD39     Ikan CIF                                                    
+                      XSFYH05     Yokin Zandaka 1                                             
+                      XSFYH06     Yokin Zandaka 2                                             
+                      XSFYM78     Calendar Jyouhou (Kyujitsu File)                            
+                      XSFYT11     Yokin Torihiki Ikou (Monthly)                               
+           [HostName] trnsv1                                                                  
+denso02    [HostName] trnsv2                                                                  
+neoss01    [RcvID]    DTTRADG     Gaiji Font DB (gothic)                                      
+                      DTTRADM     Gaiji Font DB (mincho)                                      
+                      DTTRAFG     Gaiji Font (gothic)                                         
+                      DTTRAFM     Gaiji Font (mincho)                                         
+                      DTTRMJ2     Kokyaku Jyouhou Today                                       
+                      DTTRMJF     Kokyaku Jyouhou Yesterday (From Gaiji Server)               
+           [HostName] NEOSHAP1                                                                
+
+<Transfer Group Information Summary>
+[TgrpID]
+denso01  Kanjyou Kei (data densou server) honban
+denso02  Kanjyou Kei (data densou server) kaihatsu
+neoss01  denshi chyouhyou server (gaiji henkan)
+
+
+◎フォーマット情報
+
+
+
+◎マルチフォーマット情報
+
+
+
+[EOF]

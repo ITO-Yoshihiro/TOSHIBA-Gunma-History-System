@@ -1,0 +1,13 @@
+2004/06/17 13:50:00 QueueListeners3: 
+jm2.common.UnexpectedException: java.sql.SQLException: ORA-20001: ORA-01089: 即時シャットダウン処理中 - 操作はできません
+ORA-06512: "TRHIST.PACK_AQ", 行535
+ORA-06512: 行1
+
+getbyCorreId CorrID[null] OracleErrCode[20001]
+	at jm2.aqproxy.BaseAqProxy.getbyCorreId(BaseAqProxy.java:298)
+	at history.aqproxy.PDFCreateResProxy.receiveMessage(PDFCreateResProxy.java:78)
+	at history.listener.PDFCreateListener.subOperate(PDFCreateListener.java:82)
+	at history.listener.BaseListener.run(BaseListener.java:248)
+
+2004/06/17 13:50:08 スレッド PDFCREATE の停止を検出しました。処理を終了します。
+2004/06/17 13:50:08 ListenerSupervisor は正常終了しました。

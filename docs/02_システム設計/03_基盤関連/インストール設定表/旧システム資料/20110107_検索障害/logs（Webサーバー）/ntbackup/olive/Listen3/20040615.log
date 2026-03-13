@@ -1,0 +1,14 @@
+2004/06/15 11:30:35 ListenerSupervisor は正常に起動しました。
+2004/06/15 15:16:25 QueueListeners3: 
+jm2.common.UnexpectedException: java.sql.SQLException: ORA-01090: shutdown in progress - connection is not permitted
+
+直接接続に切替え時にエラー[GiveUp]
+	at jm2.dbproxy.BaseDbProxy.getDirectConnection(BaseDbProxy.java:225)
+	at jm2.dbproxy.BaseDbProxy.getConnection(BaseDbProxy.java:201)
+	at jm2.dbproxy.DbTransaction.<init>(DbTransaction.java:56)
+	at history.listener.PDFCreateListener.subOperate(PDFCreateListener.java:77)
+	at history.listener.BaseListener.run(BaseListener.java:248)
+
+2004/06/15 15:16:25 スレッド PDFCREATE の停止を検出しました。処理を終了します。
+2004/06/15 15:16:25 ListenerSupervisor は正常終了しました。
+2004/06/15 19:01:42 ListenerSupervisor は正常に起動しました。

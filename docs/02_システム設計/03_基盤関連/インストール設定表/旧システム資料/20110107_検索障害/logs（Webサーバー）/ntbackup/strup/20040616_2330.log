@@ -1,0 +1,6 @@
+[2004/06/16][23:30:00][sys_WebDailyProc][日次処理開始] 
+[2004/06/16][23:30:00][sys_WebDailyProc][sys_Sweep_Daily.cmd(ログ・ＰＤＦ削除)開始] 
+[2004/06/16][23:30:04][sys_WebDailyProc][sys_Sweep_Daily.cmd(ログ・ＰＤＦ削除)終了] 
+[2004/06/16][23:30:04][sys_WebDailyProc][sys_SaveFiles.cmd(バックアップ)開始] 
+[2004/06/16][23:31:33][sys_WebDailyProc][sys_SaveFiles.cmd(バックアップ)終了] 
+[2004/06/16][23:31:33][sys_WebDailyProc][日次処理終了] 

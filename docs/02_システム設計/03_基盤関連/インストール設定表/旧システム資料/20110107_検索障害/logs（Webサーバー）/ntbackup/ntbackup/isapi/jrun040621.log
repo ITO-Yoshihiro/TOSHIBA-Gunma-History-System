@@ -1,0 +1,10 @@
+2004-06-21 02:01:16 jrISAPI[init:1032] JRun ISAPI Extension DLL Detaching (FreeLibrary)
+2004-06-21 02:05:12 jrISAPI[init:1044] JRun 4.0 (Build 61650) JRun ISAPI Extension - May 29 2003 09:37:45
+2004-06-21 02:05:13 jrISAPI[init:1044] could not initialize Server_1:127.0.0.1:51000
+2004-06-21 02:05:13 jrISAPI[init:1044] Couldn't initialize from remote server, JRun server(s) probably down.
+2004-06-21 02:05:13 jrISAPI[init:1044] JRun ISAPI Extension DLL Attaching
+2004-06-21 02:05:13 jrISAPI[init:1044] JRun 4.0 (Build 61650) JRun ISAPI Filter - May 29 2003 09:37:47
+2004-06-21 13:55:18 jrISAPI[init:1044] JRun ISAPI Extension DLL Detaching (FreeLibrary)
+2004-06-21 13:55:22 jrISAPI[init:1044] JRun 4.0 (Build 61650) JRun ISAPI Extension - May 29 2003 09:37:45
+2004-06-21 13:55:22 jrISAPI[init:1044] JRun ISAPI Extension DLL Attaching
+2004-06-21 13:55:22 jrISAPI[init:1044] JRun 4.0 (Build 61650) JRun ISAPI Filter - May 29 2003 09:37:47

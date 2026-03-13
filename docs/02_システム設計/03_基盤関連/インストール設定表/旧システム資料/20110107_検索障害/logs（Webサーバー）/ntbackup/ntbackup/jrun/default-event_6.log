@@ -1,0 +1,1026 @@
+# 06/18 14:30:59 JRun により作成
+06/18 14:30:59 user start [ 172.24.64.35 N/A ] executer: history.logout.close
+06/18 14:30:59 user end [ 172.24.64.35 N/A ] executer: history.logout.close elapse: 16 executer_class: history.logout.LogoutExecuter sts: OK jsp: /jsp/history/logout/logoutClose.jsp
+06/18 14:30:59 user Session 生成: ID=763024371087536010890
+06/18 14:30:59 user Session 破棄: ID=763024371087536010890
+06/18 14:31:04 user start [ 172.24.64.35 N/A ] executer: history.login
+06/18 14:31:04 user Session 生成: ID=76301175541087536664703
+06/18 14:31:04 user end [ 172.24.64.35 N/A ] executer: history.login elapse: 141 executer_class: history.login.LoginExecuter sts: OK jsp: /jsp/history/menu/menu.jsp
+06/18 14:31:06 user start [ 172.24.64.35 76301175541087536664703 ] executer: history.enquiry.form
+06/18 14:31:06 user end [ 172.24.64.35 76301175541087536664703 ] executer: history.enquiry.form elapse: 109 executer_class: history.enquiry.EnquiryExecuter sts: OK jsp: /jsp/history/enquiry/EnquirySrch.jsp
+06/18 14:31:11 user start [ 172.24.64.35 76301175541087536664703 ] executer: history.menu.form
+06/18 14:31:11 user end [ 172.24.64.35 76301175541087536664703 ] executer: history.menu.form elapse: 31 executer_class: history.menu.MenuFormExecuter sts: OK jsp: /jsp/history/menu/menu.jsp
+06/18 14:32:18 metrics Threads(b,d,i,ttl): 0,0,4,5, Requests(hd,dl,dr): 154,0,0, Heap(fr,ttl): 26923,32640 Sessions: 1
+06/18 14:33:11 user start [ 172.24.64.35 76301175541087536664703 ] executer: history.enquiry.form
+06/18 14:33:11 user end [ 172.24.64.35 76301175541087536664703 ] executer: history.enquiry.form elapse: 109 executer_class: history.enquiry.EnquiryExecuter sts: OK jsp: /jsp/history/enquiry/EnquirySrch.jsp
+06/18 14:33:13 user start [ 172.24.64.35 76301175541087536664703 ] executer: history.menu.form
+06/18 14:33:13 user end [ 172.24.64.35 76301175541087536664703 ] executer: history.menu.form elapse: 16 executer_class: history.menu.MenuFormExecuter sts: OK jsp: /jsp/history/menu/menu.jsp
+06/18 14:34:12 user start [ 172.24.64.34 76301175541087536664703 ] executer: history.enquiry.form
+06/18 14:34:13 user end [ 172.24.64.34 76301175541087536664703 ] executer: history.enquiry.form elapse: 110 executer_class: history.enquiry.EnquiryExecuter sts: OK jsp: /jsp/history/enquiry/EnquirySrch.jsp
+06/18 14:34:35 user start [ 172.24.64.35 76301175541087536664703 ] executer: history.enquiry.prt
+06/18 14:34:35 user end [ 172.24.64.35 76301175541087536664703 ] executer: history.enquiry.prt elapse: 157 executer_class: history.enquiry.EnquiryDataPrintExecuter sts: OK jsp: /jsp/history/enquiry/EnquirySrch.jsp
+06/18 14:37:23 user start [ 172.24.91.117 N/A ] executer: history.login
+06/18 14:37:23 user Session 生成: ID=76301390331087537043140
+06/18 14:37:23 user end [ 172.24.91.117 N/A ] executer: history.login elapse: 78 executer_class: history.login.LoginExecuter sts: OK jsp: /jsp/history/menu/menu.jsp
+06/18 14:37:25 user start [ 172.24.91.117 76301390331087537043140 ] executer: history.enquirylist.form
+06/18 14:37:25 user end [ 172.24.91.117 76301390331087537043140 ] executer: history.enquirylist.form elapse: 187 executer_class: history.enquirylist.EnquirylistExecuter sts: OK jsp: /jsp/history/enquirylist/EnquiryList.jsp
+06/18 14:37:25 user start [ 172.24.91.117 76301390331087537043140 ] executer: history.enquirylist.head
+06/18 14:37:25 user end [ 172.24.91.117 76301390331087537043140 ] executer: history.enquirylist.head elapse: 47 executer_class: history.enquirylist.EnquiryListHeadExecuter sts: OK jsp: /jsp/history/enquirylist/EnquiryListHead.jsp
+06/18 14:37:39 user start [ 172.24.91.117 76301390331087537043140 ] executer: history.menu.form
+06/18 14:37:39 user end [ 172.24.91.117 76301390331087537043140 ] executer: history.menu.form elapse: 32 executer_class: history.menu.MenuFormExecuter sts: OK jsp: /jsp/history/menu/menu.jsp
+06/18 14:42:18 metrics Threads(b,d,i,ttl): 0,0,1,2, Requests(hd,dl,dr): 59,0,0, Heap(fr,ttl): 27768,32640 Sessions: 2
+06/18 14:44:35 user start [ 172.24.64.34 76301175541087536664703 ] executer: history.logout
+06/18 14:44:35 user end [ 172.24.64.34 76301175541087536664703 ] executer: history.logout elapse: 0 executer_class: history.logout.LogoutExecuter sts: OK jsp: /jsp/history/logout/logout.jsp
+06/18 14:44:35 user Session 破棄: ID=76301175541087536664703
+06/18 14:44:41 user start [ 172.24.64.34 N/A ] executer: history.logout.close
+06/18 14:44:41 user end [ 172.24.64.34 N/A ] executer: history.logout.close elapse: 0 executer_class: history.logout.LogoutExecuter sts: OK jsp: /jsp/history/logout/logoutClose.jsp
+06/18 14:44:41 user Session 生成: ID=76301175541087536664703
+06/18 14:44:41 user Session 破棄: ID=76301175541087536664703
+06/18 14:47:39 user start [ 172.24.91.117 76301390331087537043140 ] executer: history.logout
+06/18 14:47:39 user end [ 172.24.91.117 76301390331087537043140 ] executer: history.logout elapse: 0 executer_class: history.logout.LogoutExecuter sts: OK jsp: /jsp/history/logout/logout.jsp
+06/18 14:47:39 user Session 破棄: ID=76301390331087537043140
+06/18 14:47:45 user start [ 172.24.91.117 N/A ] executer: history.logout.close
+06/18 14:47:45 user end [ 172.24.91.117 N/A ] executer: history.logout.close elapse: 16 executer_class: history.logout.LogoutExecuter sts: OK jsp: /jsp/history/logout/logoutClose.jsp
+06/18 14:47:45 user Session 生成: ID=76301390331087537043140
+06/18 14:47:45 user Session 破棄: ID=76301390331087537043140
+06/18 14:49:42 user start [ 172.24.91.117 N/A ] executer: history.login
+06/18 14:49:42 user Session 生成: ID=76302897901087537782734
+06/18 14:49:42 user end [ 172.24.91.117 N/A ] executer: history.login elapse: 94 executer_class: history.login.LoginExecuter sts: OK jsp: /jsp/history/menu/menu.jsp
+06/18 14:49:44 user start [ 172.24.91.117 76302897901087537782734 ] executer: history.enquirylist.form
+06/18 14:49:44 user end [ 172.24.91.117 76302897901087537782734 ] executer: history.enquirylist.form elapse: 188 executer_class: history.enquirylist.EnquirylistExecuter sts: OK jsp: /jsp/history/enquirylist/EnquiryList.jsp
+06/18 14:49:44 user start [ 172.24.91.117 76302897901087537782734 ] executer: history.enquirylist.head
+06/18 14:49:44 user end [ 172.24.91.117 76302897901087537782734 ] executer: history.enquirylist.head elapse: 47 executer_class: history.enquirylist.EnquiryListHeadExecuter sts: OK jsp: /jsp/history/enquirylist/EnquiryListHead.jsp
+06/18 14:51:18 user start [ 172.24.91.117 76302897901087537782734 ] executer: history.menu.form
+06/18 14:51:19 user end [ 172.24.91.117 76302897901087537782734 ] executer: history.menu.form elapse: 32 executer_class: history.menu.MenuFormExecuter sts: OK jsp: /jsp/history/menu/menu.jsp
+06/18 14:52:18 metrics Threads(b,d,i,ttl): 0,0,1,2, Requests(hd,dl,dr): 38,0,0, Heap(fr,ttl): 27318,32640 Sessions: 1
+06/18 15:01:19 user start [ 172.24.91.117 76302897901087537782734 ] executer: history.logout
+06/18 15:01:19 user end [ 172.24.91.117 76302897901087537782734 ] executer: history.logout elapse: 0 executer_class: history.logout.LogoutExecuter sts: OK jsp: /jsp/history/logout/logout.jsp
+06/18 15:01:19 user Session 破棄: ID=76302897901087537782734
+06/18 15:01:24 user start [ 172.24.91.117 N/A ] executer: history.logout.close
+06/18 15:01:24 user end [ 172.24.91.117 N/A ] executer: history.logout.close elapse: 15 executer_class: history.logout.LogoutExecuter sts: OK jsp: /jsp/history/logout/logoutClose.jsp
+06/18 15:01:24 user Session 生成: ID=76302897901087537782734
+06/18 15:01:24 user Session 破棄: ID=76302897901087537782734
+06/18 15:02:18 metrics Threads(b,d,i,ttl): 0,0,1,2, Requests(hd,dl,dr): 5,0,0, Heap(fr,ttl): 27700,32640 Sessions: 0
+06/18 15:12:18 metrics Threads(b,d,i,ttl): 0,0,0,1, Requests(hd,dl,dr): 0,0,0, Heap(fr,ttl): 27764,32640 Sessions: 0
+06/18 15:22:18 metrics Threads(b,d,i,ttl): 0,0,0,1, Requests(hd,dl,dr): 0,0,0, Heap(fr,ttl): 27768,32640 Sessions: 0
+06/18 15:32:18 metrics Threads(b,d,i,ttl): 0,0,0,1, Requests(hd,dl,dr): 0,0,0, Heap(fr,ttl): 27762,32640 Sessions: 0
+06/18 15:42:18 metrics Threads(b,d,i,ttl): 0,0,0,1, Requests(hd,dl,dr): 0,0,0, Heap(fr,ttl): 27768,32640 Sessions: 0
+06/18 15:52:18 metrics Threads(b,d,i,ttl): 0,0,0,1, Requests(hd,dl,dr): 1,0,0, Heap(fr,ttl): 27730,32640 Sessions: 0
+06/18 16:02:18 metrics Threads(b,d,i,ttl): 0,0,0,1, Requests(hd,dl,dr): 0,0,0, Heap(fr,ttl): 27769,32640 Sessions: 0
+06/18 16:04:53 user FileServlet: destroy
+06/18 16:04:53 user HistoryServlet: destroy
+06/18 16:04:53 user Context 破棄
+06/18 16:05:01 info JRunDataSource は HISTORA という名で JNDI にバインドされました
+06/18 16:05:01 info JRun DataSourceService: HISTORA という名前の JDBC XA 接続プールを作成しました
+06/18 16:05:01 info "DefaultDataSource" からデフォルトデータソース "HISTORA" への LinkRef  をバインドしました
+06/18 16:05:01 info JRun プロキシサーバー は *:51000 上でリスン中
+06/18 16:05:01 info Web アプリケーション "GUNMA" を file:/C:/JRun4/servers/default/gunma.war からデプロイ中
+06/18 16:05:01 user JSPServlet: init
+06/18 16:05:02 user HistoryServlet: init
+06/18 16:05:02 user Context 初期化: Version=2.3
+06/18 16:05:02 user Context 初期化 ログインユーザテーブル初期化完了
+06/18 16:05:04 user start [ 172.24.91.117 N/A ] executer: history.login
+06/18 16:05:04 user Session 生成: ID=76301502041087542304718
+06/18 16:05:04 user end [ 172.24.91.117 N/A ] executer: history.login elapse: 218 executer_class: history.login.LoginExecuter sts: OK jsp: /jsp/history/menu/menu.jsp
+06/18 16:05:05 user FileServlet: init
+06/18 16:05:07 user start [ 172.24.91.117 76301502041087542304718 ] executer: history.enquirylist.form
+06/18 16:05:08 user end [ 172.24.91.117 76301502041087542304718 ] executer: history.enquirylist.form elapse: 437 executer_class: history.enquirylist.EnquirylistExecuter sts: OK jsp: /jsp/history/enquirylist/EnquiryList.jsp
+06/18 16:05:08 user start [ 172.24.91.117 76301502041087542304718 ] executer: history.enquirylist.head
+06/18 16:05:08 user end [ 172.24.91.117 76301502041087542304718 ] executer: history.enquirylist.head elapse: 47 executer_class: history.enquirylist.EnquiryListHeadExecuter sts: OK jsp: /jsp/history/enquirylist/EnquiryListHead.jsp
+06/18 16:05:32 user start [ 172.24.91.117 76301502041087542304718 ] executer: history.menu.form
+06/18 16:05:32 user end [ 172.24.91.117 76301502041087542304718 ] executer: history.menu.form elapse: 31 executer_class: history.menu.MenuFormExecuter sts: OK jsp: /jsp/history/menu/menu.jsp
+06/18 16:05:34 user start [ 172.24.91.117 76301502041087542304718 ] executer: history.enquirylist.form
+06/18 16:05:34 user end [ 172.24.91.117 76301502041087542304718 ] executer: history.enquirylist.form elapse: 203 executer_class: history.enquirylist.EnquirylistExecuter sts: OK jsp: /jsp/history/enquirylist/EnquiryList.jsp
+06/18 16:05:34 user start [ 172.24.91.117 76301502041087542304718 ] executer: history.enquirylist.head
+06/18 16:05:34 user end [ 172.24.91.117 76301502041087542304718 ] executer: history.enquirylist.head elapse: 47 executer_class: history.enquirylist.EnquiryListHeadExecuter sts: OK jsp: /jsp/history/enquirylist/EnquiryListHead.jsp
+06/18 16:05:45 user start [ 172.24.91.117 76301502041087542304718 ] executer: history.menu.form
+06/18 16:05:45 user end [ 172.24.91.117 76301502041087542304718 ] executer: history.menu.form elapse: 31 executer_class: history.menu.MenuFormExecuter sts: OK jsp: /jsp/history/menu/menu.jsp
+06/18 16:14:59 metrics Threads(b,d,i,ttl): 0,0,0,1, Requests(hd,dl,dr): 40,0,0, Heap(fr,ttl): 28513,32640 Sessions: 1
+06/18 16:15:45 user start [ 172.24.91.117 76301502041087542304718 ] executer: history.logout
+06/18 16:15:45 user end [ 172.24.91.117 76301502041087542304718 ] executer: history.logout elapse: 0 executer_class: history.logout.LogoutExecuter sts: OK jsp: /jsp/history/logout/logout.jsp
+06/18 16:15:45 user Session 破棄: ID=76301502041087542304718
+06/18 16:15:51 user start [ 172.24.91.117 N/A ] executer: history.logout.close
+06/18 16:15:51 user end [ 172.24.91.117 N/A ] executer: history.logout.close elapse: 15 executer_class: history.logout.LogoutExecuter sts: OK jsp: /jsp/history/logout/logoutClose.jsp
+06/18 16:15:51 user Session 生成: ID=76301502041087542304718
+06/18 16:15:51 user Session 破棄: ID=76301502041087542304718
+06/18 16:23:00 user start [ 172.24.64.35 N/A ] executer: history.login
+06/18 16:23:00 user Session 生成: ID=76303464971087543380906
+06/18 16:23:01 user end [ 172.24.64.35 N/A ] executer: history.login elapse: 109 executer_class: history.login.LoginExecuter sts: OK jsp: /jsp/history/menu/menu.jsp
+06/18 16:23:13 user start [ 172.24.64.35 76303464971087543380906 ] executer: history.enquiry.form
+06/18 16:23:13 user end [ 172.24.64.35 76303464971087543380906 ] executer: history.enquiry.form elapse: 188 executer_class: history.enquiry.EnquiryExecuter sts: OK jsp: /jsp/history/enquiry/EnquirySrch.jsp
+06/18 16:23:22 user start [ 172.24.64.35 76303464971087543380906 ] executer: history.enquiry.prt
+06/18 16:23:22 user end [ 172.24.64.35 76303464971087543380906 ] executer: history.enquiry.prt elapse: 281 executer_class: history.enquiry.EnquiryDataPrintExecuter sts: OK jsp: /jsp/history/enquiry/EnquirySrch.jsp
+06/18 16:23:31 user start [ 172.24.64.34 76303464971087543380906 ] executer: history.enquiry.form
+06/18 16:23:31 user end [ 172.24.64.34 76303464971087543380906 ] executer: history.enquiry.form elapse: 109 executer_class: history.enquiry.EnquiryExecuter sts: OK jsp: /jsp/history/enquiry/EnquirySrch.jsp
+06/18 16:24:23 user start [ 172.24.64.35 76303464971087543380906 ] executer: history.menu.form
+06/18 16:24:23 user end [ 172.24.64.35 76303464971087543380906 ] executer: history.menu.form elapse: 32 executer_class: history.menu.MenuFormExecuter sts: OK jsp: /jsp/history/menu/menu.jsp
+06/18 16:24:59 metrics Threads(b,d,i,ttl): 0,0,1,2, Requests(hd,dl,dr): 46,0,0, Heap(fr,ttl): 27336,32640 Sessions: 1
+06/18 16:34:24 user start [ 172.24.64.35 76303464971087543380906 ] executer: history.logout
+06/18 16:34:24 user end [ 172.24.64.35 76303464971087543380906 ] executer: history.logout elapse: 0 executer_class: history.logout.LogoutExecuter sts: OK jsp: /jsp/history/logout/logout.jsp
+06/18 16:34:24 user Session 破棄: ID=76303464971087543380906
+06/18 16:34:29 user start [ 172.24.64.35 N/A ] executer: history.logout.close
+06/18 16:34:29 user end [ 172.24.64.35 N/A ] executer: history.logout.close elapse: 16 executer_class: history.logout.LogoutExecuter sts: OK jsp: /jsp/history/logout/logoutClose.jsp
+06/18 16:34:29 user Session 生成: ID=76303464971087543380906
+06/18 16:34:29 user Session 破棄: ID=76303464971087543380906
+06/18 16:34:59 metrics Threads(b,d,i,ttl): 0,0,1,2, Requests(hd,dl,dr): 4,0,0, Heap(fr,ttl): 27490,32640 Sessions: 0
+06/18 16:44:59 metrics Threads(b,d,i,ttl): 0,0,0,1, Requests(hd,dl,dr): 0,0,0, Heap(fr,ttl): 28347,32640 Sessions: 0
+06/18 16:51:36 user FileServlet: destroy
+06/18 16:51:36 user HistoryServlet: destroy
+06/18 16:51:36 user Context 破棄
+06/18 16:51:42 info JRunDataSource は HISTORA という名で JNDI にバインドされました
+06/18 16:51:42 info JRun DataSourceService: HISTORA という名前の JDBC XA 接続プールを作成しました
+06/18 16:51:42 info "DefaultDataSource" からデフォルトデータソース "HISTORA" への LinkRef  をバインドしました
+06/18 16:51:42 info JRun プロキシサーバー は *:51000 上でリスン中
+06/18 16:51:43 info Web アプリケーション "GUNMA" を file:/C:/JRun4/servers/default/gunma.war からデプロイ中
+06/18 16:51:43 user JSPServlet: init
+06/18 16:51:43 user HistoryServlet: init
+06/18 16:51:43 user Context 初期化: Version=2.3
+06/18 16:51:43 user Context 初期化 ログインユーザテーブル初期化完了
+06/18 16:51:51 user start [ 172.24.91.117 N/A ] executer: history.login
+06/18 16:51:51 user Session 生成: ID=76302789091087545111656
+06/18 16:51:51 user end [ 172.24.91.117 N/A ] executer: history.login elapse: 250 executer_class: history.login.LoginExecuter sts: OK jsp: /jsp/history/menu/menu.jsp
+06/18 16:51:52 user FileServlet: init
+06/18 16:51:54 user start [ 172.24.91.117 76302789091087545111656 ] executer: history.enquirylist.form
+06/18 16:51:55 user end [ 172.24.91.117 76302789091087545111656 ] executer: history.enquirylist.form elapse: 469 executer_class: history.enquirylist.EnquirylistExecuter sts: OK jsp: /jsp/history/enquirylist/EnquiryList.jsp
+06/18 16:51:55 user start [ 172.24.91.117 76302789091087545111656 ] executer: history.enquirylist.head
+06/18 16:51:55 user end [ 172.24.91.117 76302789091087545111656 ] executer: history.enquirylist.head elapse: 62 executer_class: history.enquirylist.EnquiryListHeadExecuter sts: OK jsp: /jsp/history/enquirylist/EnquiryListHead.jsp
+06/18 17:01:41 metrics Threads(b,d,i,ttl): 0,0,0,1, Requests(hd,dl,dr): 17,0,0, Heap(fr,ttl): 28507,32640 Sessions: 1
+06/18 17:01:55 user start [ 172.24.91.117 76302789091087545111656 ] executer: history.logout
+06/18 17:01:55 user end [ 172.24.91.117 76302789091087545111656 ] executer: history.logout elapse: 0 executer_class: history.logout.LogoutExecuter sts: OK jsp: /jsp/history/logout/logout.jsp
+06/18 17:01:55 user Session 破棄: ID=76302789091087545111656
+06/18 17:02:01 user start [ 172.24.91.117 N/A ] executer: history.logout.close
+06/18 17:02:01 user end [ 172.24.91.117 N/A ] executer: history.logout.close elapse: 0 executer_class: history.logout.LogoutExecuter sts: OK jsp: /jsp/history/logout/logoutClose.jsp
+06/18 17:02:01 user Session 生成: ID=76302789091087545111656
+06/18 17:02:01 user Session 破棄: ID=76302789091087545111656
+06/18 17:11:41 metrics Threads(b,d,i,ttl): 0,0,0,1, Requests(hd,dl,dr): 4,0,0, Heap(fr,ttl): 28457,32640 Sessions: 0
+06/18 17:21:41 metrics Threads(b,d,i,ttl): 0,0,0,1, Requests(hd,dl,dr): 0,0,0, Heap(fr,ttl): 28457,32640 Sessions: 0
+06/18 17:28:51 user start [ 172.24.64.34 N/A ] executer: history.login
+06/18 17:28:51 user Session 生成: ID=76301519371087547331078
+06/18 17:28:51 user end [ 172.24.64.34 N/A ] executer: history.login elapse: 94 executer_class: history.login.LoginExecuter sts: OK jsp: /jsp/history/menu/menu.jsp
+06/18 17:28:52 user start [ 172.24.64.34 76301519371087547331078 ] executer: history.audit.form
+06/18 17:28:53 user end [ 172.24.64.34 76301519371087547331078 ] executer: history.audit.form elapse: 94 executer_class: history.audit.AuditExecuter sts: NG jsp: /jsp/history/audit/Audit.jsp
+06/18 17:28:56 user start [ 172.24.64.34 76301519371087547331078 ] executer: history.menu.form
+06/18 17:28:56 user end [ 172.24.64.34 76301519371087547331078 ] executer: history.menu.form elapse: 46 executer_class: history.menu.MenuFormExecuter sts: OK jsp: /jsp/history/menu/menu.jsp
+06/18 17:28:58 user start [ 172.24.64.34 76301519371087547331078 ] executer: history.enquiry.form
+06/18 17:28:58 user end [ 172.24.64.34 76301519371087547331078 ] executer: history.enquiry.form elapse: 157 executer_class: history.enquiry.EnquiryExecuter sts: OK jsp: /jsp/history/enquiry/EnquirySrch.jsp
+06/18 17:29:55 user start [ 172.24.64.34 76301519371087547331078 ] executer: history.enquiry.form
+06/18 17:29:55 user end [ 172.24.64.34 76301519371087547331078 ] executer: history.enquiry.form elapse: 110 executer_class: history.enquiry.EnquiryExecuter sts: OK jsp: /jsp/history/enquiry/EnquirySrch.jsp
+06/18 17:31:41 metrics Threads(b,d,i,ttl): 0,0,1,2, Requests(hd,dl,dr): 41,0,0, Heap(fr,ttl): 28077,32640 Sessions: 1
+06/18 17:39:56 user start [ 172.24.64.35 76301519371087547331078 ] executer: history.logout
+06/18 17:39:56 user end [ 172.24.64.35 76301519371087547331078 ] executer: history.logout elapse: 0 executer_class: history.logout.LogoutExecuter sts: OK jsp: /jsp/history/logout/logout.jsp
+06/18 17:39:56 user Session 破棄: ID=76301519371087547331078
+06/18 17:40:01 user start [ 172.24.64.35 N/A ] executer: history.logout.close
+06/18 17:40:01 user end [ 172.24.64.35 N/A ] executer: history.logout.close elapse: 16 executer_class: history.logout.LogoutExecuter sts: OK jsp: /jsp/history/logout/logoutClose.jsp
+06/18 17:40:01 user Session 生成: ID=76301519371087547331078
+06/18 17:40:01 user Session 破棄: ID=76301519371087547331078
+06/18 17:41:05 user start [ 172.24.64.35 N/A ] executer: history.login
+06/18 17:41:05 user Session 生成: ID=76302398441087548065046
+06/18 17:41:05 user end [ 172.24.64.35 N/A ] executer: history.login elapse: 94 executer_class: history.login.LoginExecuter sts: OK jsp: /jsp/history/menu/menu.jsp
+06/18 17:41:06 user start [ 172.24.64.35 76302398441087548065046 ] executer: history.enquiry.form
+06/18 17:41:06 user end [ 172.24.64.35 76302398441087548065046 ] executer: history.enquiry.form elapse: 140 executer_class: history.enquiry.EnquiryExecuter sts: OK jsp: /jsp/history/enquiry/EnquirySrch.jsp
+06/18 17:41:41 metrics Threads(b,d,i,ttl): 0,0,1,2, Requests(hd,dl,dr): 21,0,0, Heap(fr,ttl): 27153,32640 Sessions: 1
+06/18 17:43:25 user start [ 172.24.64.35 76302398441087548065046 ] executer: history.enquiry.form
+06/18 17:43:25 user end [ 172.24.64.35 76302398441087548065046 ] executer: history.enquiry.form elapse: 125 executer_class: history.enquiry.EnquiryExecuter sts: OK jsp: /jsp/history/enquiry/EnquirySrch.jsp
+06/18 17:44:14 user start [ 172.24.64.34 76302398441087548065046 ] executer: history.enquiry.form
+06/18 17:44:14 user end [ 172.24.64.34 76302398441087548065046 ] executer: history.enquiry.form elapse: 109 executer_class: history.enquiry.EnquiryExecuter sts: OK jsp: /jsp/history/enquiry/EnquirySrch.jsp
+06/18 17:44:20 user start [ 172.24.64.34 76302398441087548065046 ] executer: history.detail.disp
+06/18 17:44:20 user end [ 172.24.64.34 76302398441087548065046 ] executer: history.detail.disp elapse: 47 executer_class: history.common.DetailExecuter sts: 6 jsp: /jsp/history/account/DelayAccount.jsp
+06/18 17:51:41 metrics Threads(b,d,i,ttl): 0,0,0,1, Requests(hd,dl,dr): 27,0,0, Heap(fr,ttl): 28134,32640 Sessions: 1
+06/18 17:52:33 user start [ 172.24.64.34 76302398441087548065046 ] executer: history.enquiry.form
+06/18 17:52:33 user end [ 172.24.64.34 76302398441087548065046 ] executer: history.enquiry.form elapse: 125 executer_class: history.enquiry.EnquiryExecuter sts: OK jsp: /jsp/history/enquiry/EnquirySrch.jsp
+06/18 17:52:56 user start [ 172.24.64.34 76302398441087548065046 ] executer: history.detail.disp
+06/18 17:52:56 user end [ 172.24.64.34 76302398441087548065046 ] executer: history.detail.disp elapse: 31 executer_class: history.common.DetailExecuter sts: 6 jsp: /jsp/history/account/DelayAccount.jsp
+06/18 17:53:03 user start [ 172.24.64.34 76302398441087548065046 ] executer: history.detail.disp
+06/18 17:53:03 user end [ 172.24.64.34 76302398441087548065046 ] executer: history.detail.disp elapse: 47 executer_class: history.common.DetailExecuter sts: 7 jsp: /jsp/history/balance/DelayBalance.jsp
+06/18 17:53:06 user start [ 172.24.64.34 76302398441087548065046 ] executer: history.detail.disp
+06/18 17:53:06 user end [ 172.24.64.34 76302398441087548065046 ] executer: history.detail.disp elapse: 31 executer_class: history.common.DetailExecuter sts: 6 jsp: /jsp/history/account/DelayAccount.jsp
+06/18 17:53:12 user start [ 172.24.64.34 76302398441087548065046 ] executer: history.detail.disp
+06/18 17:53:12 user end [ 172.24.64.34 76302398441087548065046 ] executer: history.detail.disp elapse: 31 executer_class: history.common.DetailExecuter sts: 6 jsp: /jsp/history/account/DelayAccount.jsp
+06/18 17:54:37 user start [ 172.24.64.34 76302398441087548065046 ] executer: history.detail.disp
+06/18 17:54:37 user end [ 172.24.64.34 76302398441087548065046 ] executer: history.detail.disp elapse: 31 executer_class: history.common.DetailExecuter sts: 7 jsp: /jsp/history/balance/DelayBalance.jsp
+06/18 18:01:41 metrics Threads(b,d,i,ttl): 0,0,0,1, Requests(hd,dl,dr): 45,0,0, Heap(fr,ttl): 28001,32640 Sessions: 1
+06/18 18:02:34 user start [ 172.24.64.35 76302398441087548065046 ] executer: history.logout
+06/18 18:02:34 user end [ 172.24.64.35 76302398441087548065046 ] executer: history.logout elapse: 0 executer_class: history.logout.LogoutExecuter sts: OK jsp: /jsp/history/logout/logout.jsp
+06/18 18:02:34 user Session 破棄: ID=76302398441087548065046
+06/18 18:03:19 user start [ 172.24.64.34 N/A ] executer: history.logout.close
+06/18 18:03:19 user end [ 172.24.64.34 N/A ] executer: history.logout.close elapse: 16 executer_class: history.logout.LogoutExecuter sts: OK jsp: /jsp/history/logout/logoutClose.jsp
+06/18 18:03:19 user Session 生成: ID=76302398441087548065046
+06/18 18:03:19 user Session 破棄: ID=76302398441087548065046
+06/18 18:11:41 metrics Threads(b,d,i,ttl): 0,0,0,1, Requests(hd,dl,dr): 4,0,0, Heap(fr,ttl): 28081,32640 Sessions: 0
+06/18 18:21:41 metrics Threads(b,d,i,ttl): 0,0,0,1, Requests(hd,dl,dr): 0,0,0, Heap(fr,ttl): 28076,32640 Sessions: 0
+06/18 18:31:41 metrics Threads(b,d,i,ttl): 0,0,0,1, Requests(hd,dl,dr): 0,0,0, Heap(fr,ttl): 28082,32640 Sessions: 0
+06/18 18:41:41 metrics Threads(b,d,i,ttl): 0,0,0,1, Requests(hd,dl,dr): 0,0,0, Heap(fr,ttl): 28081,32640 Sessions: 0
+06/18 18:42:04 user start [ 172.24.91.117 N/A ] executer: history.login
+06/18 18:42:04 user Session 生成: ID=76301764921087551724953
+06/18 18:42:05 user end [ 172.24.91.117 N/A ] executer: history.login elapse: 78 executer_class: history.login.LoginExecuter sts: OK jsp: /jsp/history/menu/menu.jsp
+06/18 18:42:07 user start [ 172.24.91.117 76301764921087551724953 ] executer: history.enquirylist.form
+06/18 18:42:07 user end [ 172.24.91.117 76301764921087551724953 ] executer: history.enquirylist.form elapse: 219 executer_class: history.enquirylist.EnquirylistExecuter sts: OK jsp: /jsp/history/enquirylist/EnquiryList.jsp
+06/18 18:42:07 user start [ 172.24.91.117 76301764921087551724953 ] executer: history.enquirylist.head
+06/18 18:42:07 user end [ 172.24.91.117 76301764921087551724953 ] executer: history.enquirylist.head elapse: 63 executer_class: history.enquirylist.EnquiryListHeadExecuter sts: OK jsp: /jsp/history/enquirylist/EnquiryListHead.jsp
+06/18 18:42:15 user start [ 172.24.91.117 76301764921087551724953 ] executer: history.menu.form
+06/18 18:42:15 user end [ 172.24.91.117 76301764921087551724953 ] executer: history.menu.form elapse: 31 executer_class: history.menu.MenuFormExecuter sts: OK jsp: /jsp/history/menu/menu.jsp
+06/18 18:42:45 user start [ 172.24.91.117 76301764921087551724953 ] executer: history.enquirylist.form
+06/18 18:42:45 user end [ 172.24.91.117 76301764921087551724953 ] executer: history.enquirylist.form elapse: 218 executer_class: history.enquirylist.EnquirylistExecuter sts: OK jsp: /jsp/history/enquirylist/EnquiryList.jsp
+06/18 18:42:45 user start [ 172.24.91.117 76301764921087551724953 ] executer: history.enquirylist.head
+06/18 18:42:45 user end [ 172.24.91.117 76301764921087551724953 ] executer: history.enquirylist.head elapse: 63 executer_class: history.enquirylist.EnquiryListHeadExecuter sts: OK jsp: /jsp/history/enquirylist/EnquiryListHead.jsp
+06/18 18:43:14 user start [ 172.24.91.117 76301764921087551724953 ] executer: history.menu.form
+06/18 18:43:14 user end [ 172.24.91.117 76301764921087551724953 ] executer: history.menu.form elapse: 32 executer_class: history.menu.MenuFormExecuter sts: OK jsp: /jsp/history/menu/menu.jsp
+06/18 18:44:08 user start [ 172.24.91.117 76301764921087551724953 ] executer: history.enquirylist.form
+06/18 18:44:08 user end [ 172.24.91.117 76301764921087551724953 ] executer: history.enquirylist.form elapse: 219 executer_class: history.enquirylist.EnquirylistExecuter sts: OK jsp: /jsp/history/enquirylist/EnquiryList.jsp
+06/18 18:44:08 user start [ 172.24.91.117 76301764921087551724953 ] executer: history.enquirylist.head
+06/18 18:44:08 user end [ 172.24.91.117 76301764921087551724953 ] executer: history.enquirylist.head elapse: 47 executer_class: history.enquirylist.EnquiryListHeadExecuter sts: OK jsp: /jsp/history/enquirylist/EnquiryListHead.jsp
+06/18 18:46:24 user start [ 172.24.91.117 76301764921087551724953 ] executer: history.menu.form
+06/18 18:46:24 user end [ 172.24.91.117 76301764921087551724953 ] executer: history.menu.form elapse: 32 executer_class: history.menu.MenuFormExecuter sts: OK jsp: /jsp/history/menu/menu.jsp
+06/18 18:46:26 user start [ 172.24.91.117 76301764921087551724953 ] executer: history.logout
+06/18 18:46:26 user end [ 172.24.91.117 76301764921087551724953 ] executer: history.logout elapse: 15 executer_class: history.logout.LogoutExecuter sts: OK jsp: /jsp/history/logout/logout.jsp
+06/18 18:46:26 user Session 破棄: ID=76301764921087551724953
+06/18 18:46:31 user start [ 172.24.91.117 N/A ] executer: history.logout.close
+06/18 18:46:31 user end [ 172.24.91.117 N/A ] executer: history.logout.close elapse: 15 executer_class: history.logout.LogoutExecuter sts: OK jsp: /jsp/history/logout/logoutClose.jsp
+06/18 18:46:31 user Session 生成: ID=76301764921087551724953
+06/18 18:46:31 user Session 破棄: ID=76301764921087551724953
+06/18 18:51:41 metrics Threads(b,d,i,ttl): 0,0,0,1, Requests(hd,dl,dr): 61,0,0, Heap(fr,ttl): 28142,32640 Sessions: 0
+06/18 19:01:41 metrics Threads(b,d,i,ttl): 0,0,0,1, Requests(hd,dl,dr): 0,0,0, Heap(fr,ttl): 28151,32640 Sessions: 0
+06/18 19:11:41 metrics Threads(b,d,i,ttl): 0,0,0,1, Requests(hd,dl,dr): 0,0,0, Heap(fr,ttl): 28157,32640 Sessions: 0
+06/18 19:21:41 metrics Threads(b,d,i,ttl): 0,0,0,1, Requests(hd,dl,dr): 0,0,0, Heap(fr,ttl): 28157,32640 Sessions: 0
+06/18 19:27:44 user start [ 172.24.81.55 N/A ] executer: history.login
+06/18 19:27:44 user Session 生成: ID=7630463131087554464718
+06/18 19:27:44 user end [ 172.24.81.55 N/A ] executer: history.login elapse: 250 executer_class: history.login.LoginExecuter sts: OK jsp: /jsp/history/menu/menu.jsp
+06/18 19:27:53 user start [ 172.24.81.55 7630463131087554464718 ] executer: history.enquirylist.form
+06/18 19:27:53 user end [ 172.24.81.55 7630463131087554464718 ] executer: history.enquirylist.form elapse: 188 executer_class: history.enquirylist.EnquirylistExecuter sts: OK jsp: /jsp/history/enquirylist/EnquiryList.jsp
+06/18 19:27:53 user start [ 172.24.81.55 7630463131087554464718 ] executer: history.enquirylist.head
+06/18 19:27:53 user end [ 172.24.81.55 7630463131087554464718 ] executer: history.enquirylist.head elapse: 16 executer_class: history.enquirylist.EnquiryListHeadExecuter sts: OK jsp: /jsp/history/enquirylist/EnquiryListHead.jsp
+06/18 19:31:12 user start [ 172.24.81.55 7630463131087554464718 ] executer: history.login
+06/18 19:31:12 user Session 破棄: ID=7630463131087554464718
+06/18 19:31:12 user Session 生成: ID=7630463131087554464718
+06/18 19:31:13 user end [ 172.24.81.55 7630463131087554464718 ] executer: history.login elapse: 250 executer_class: history.login.LoginExecuter sts: OK jsp: /jsp/history/menu/menu.jsp
+06/18 19:31:21 user start [ 172.24.81.55 7630463131087554464718 ] executer: history.enquirylist.form
+06/18 19:31:21 user end [ 172.24.81.55 7630463131087554464718 ] executer: history.enquirylist.form elapse: 203 executer_class: history.enquirylist.EnquirylistExecuter sts: OK jsp: /jsp/history/enquirylist/EnquiryList.jsp
+06/18 19:31:22 user start [ 172.24.81.55 7630463131087554464718 ] executer: history.enquirylist.head
+06/18 19:31:22 user end [ 172.24.81.55 7630463131087554464718 ] executer: history.enquirylist.head elapse: 31 executer_class: history.enquirylist.EnquiryListHeadExecuter sts: OK jsp: /jsp/history/enquirylist/EnquiryListHead.jsp
+06/18 19:31:37 user start [ 172.24.81.55 7630463131087554464718 ] executer: history.enquirylist.form
+06/18 19:31:37 user end [ 172.24.81.55 7630463131087554464718 ] executer: history.enquirylist.form elapse: 204 executer_class: history.enquirylist.EnquirylistExecuter sts: OK jsp: /jsp/history/enquirylist/EnquiryList.jsp
+06/18 19:31:37 user start [ 172.24.81.55 7630463131087554464718 ] executer: history.enquirylist.head
+06/18 19:31:37 user end [ 172.24.81.55 7630463131087554464718 ] executer: history.enquirylist.head elapse: 47 executer_class: history.enquirylist.EnquiryListHeadExecuter sts: OK jsp: /jsp/history/enquirylist/EnquiryListHead.jsp
+06/18 19:31:41 metrics Threads(b,d,i,ttl): 0,0,1,2, Requests(hd,dl,dr): 40,0,0, Heap(fr,ttl): 26342,32640 Sessions: 1
+06/18 19:41:39 user start [ 172.24.81.55 7630463131087554464718 ] executer: history.logout
+06/18 19:41:39 user end [ 172.24.81.55 7630463131087554464718 ] executer: history.logout elapse: 0 executer_class: history.logout.LogoutExecuter sts: OK jsp: /jsp/history/logout/logout.jsp
+06/18 19:41:39 user Session 破棄: ID=7630463131087554464718
+06/18 19:41:41 metrics Threads(b,d,i,ttl): 0,0,1,2, Requests(hd,dl,dr): 2,0,0, Heap(fr,ttl): 27633,32640 Sessions: 0
+06/18 19:41:44 user start [ 172.24.81.55 N/A ] executer: history.logout.close
+06/18 19:41:45 user end [ 172.24.81.55 N/A ] executer: history.logout.close elapse: 16 executer_class: history.logout.LogoutExecuter sts: OK jsp: /jsp/history/logout/logoutClose.jsp
+06/18 19:41:45 user Session 生成: ID=7630463131087554464718
+06/18 19:41:45 user Session 破棄: ID=7630463131087554464718
+06/18 19:51:41 metrics Threads(b,d,i,ttl): 0,0,0,1, Requests(hd,dl,dr): 2,0,0, Heap(fr,ttl): 28116,32640 Sessions: 0
+06/18 20:01:41 metrics Threads(b,d,i,ttl): 0,0,0,1, Requests(hd,dl,dr): 0,0,0, Heap(fr,ttl): 28116,32640 Sessions: 0
+06/18 20:11:41 metrics Threads(b,d,i,ttl): 0,0,0,1, Requests(hd,dl,dr): 0,0,0, Heap(fr,ttl): 28117,32640 Sessions: 0
+06/18 20:21:41 metrics Threads(b,d,i,ttl): 0,0,0,1, Requests(hd,dl,dr): 0,0,0, Heap(fr,ttl): 28111,32640 Sessions: 0
+06/18 20:31:41 metrics Threads(b,d,i,ttl): 0,0,0,1, Requests(hd,dl,dr): 0,0,0, Heap(fr,ttl): 28117,32640 Sessions: 0
+06/18 20:41:41 metrics Threads(b,d,i,ttl): 0,0,0,1, Requests(hd,dl,dr): 0,0,0, Heap(fr,ttl): 28117,32640 Sessions: 0
+06/18 20:51:41 metrics Threads(b,d,i,ttl): 0,0,0,1, Requests(hd,dl,dr): 0,0,0, Heap(fr,ttl): 28117,32640 Sessions: 0
+06/18 21:01:41 metrics Threads(b,d,i,ttl): 0,0,0,1, Requests(hd,dl,dr): 0,0,0, Heap(fr,ttl): 28111,32640 Sessions: 0
+06/18 21:11:41 metrics Threads(b,d,i,ttl): 0,0,0,1, Requests(hd,dl,dr): 0,0,0, Heap(fr,ttl): 28117,32640 Sessions: 0
+06/18 21:21:41 metrics Threads(b,d,i,ttl): 0,0,0,1, Requests(hd,dl,dr): 0,0,0, Heap(fr,ttl): 28117,32640 Sessions: 0
+06/18 21:31:41 metrics Threads(b,d,i,ttl): 0,0,0,1, Requests(hd,dl,dr): 0,0,0, Heap(fr,ttl): 28117,32640 Sessions: 0
+06/18 21:41:41 metrics Threads(b,d,i,ttl): 0,0,0,1, Requests(hd,dl,dr): 0,0,0, Heap(fr,ttl): 28111,32640 Sessions: 0
+06/18 21:51:41 metrics Threads(b,d,i,ttl): 0,0,0,1, Requests(hd,dl,dr): 0,0,0, Heap(fr,ttl): 28117,32640 Sessions: 0
+06/18 22:01:41 metrics Threads(b,d,i,ttl): 0,0,0,1, Requests(hd,dl,dr): 0,0,0, Heap(fr,ttl): 28117,32640 Sessions: 0
+06/18 22:11:41 metrics Threads(b,d,i,ttl): 0,0,0,1, Requests(hd,dl,dr): 0,0,0, Heap(fr,ttl): 28117,32640 Sessions: 0
+06/18 22:21:41 metrics Threads(b,d,i,ttl): 0,0,0,1, Requests(hd,dl,dr): 0,0,0, Heap(fr,ttl): 28111,32640 Sessions: 0
+06/18 22:31:41 metrics Threads(b,d,i,ttl): 0,0,0,1, Requests(hd,dl,dr): 0,0,0, Heap(fr,ttl): 28117,32640 Sessions: 0
+06/18 22:41:41 metrics Threads(b,d,i,ttl): 0,0,0,1, Requests(hd,dl,dr): 0,0,0, Heap(fr,ttl): 28117,32640 Sessions: 0
+06/18 22:51:41 metrics Threads(b,d,i,ttl): 0,0,0,1, Requests(hd,dl,dr): 0,0,0, Heap(fr,ttl): 28117,32640 Sessions: 0
+06/18 23:01:41 metrics Threads(b,d,i,ttl): 0,0,0,1, Requests(hd,dl,dr): 0,0,0, Heap(fr,ttl): 28111,32640 Sessions: 0
+06/18 23:11:41 metrics Threads(b,d,i,ttl): 0,0,0,1, Requests(hd,dl,dr): 0,0,0, Heap(fr,ttl): 28117,32640 Sessions: 0
+06/18 23:21:41 metrics Threads(b,d,i,ttl): 0,0,0,1, Requests(hd,dl,dr): 0,0,0, Heap(fr,ttl): 28117,32640 Sessions: 0
+06/18 23:31:41 metrics Threads(b,d,i,ttl): 0,0,0,1, Requests(hd,dl,dr): 0,0,0, Heap(fr,ttl): 28117,32640 Sessions: 0
+06/18 23:41:41 metrics Threads(b,d,i,ttl): 0,0,0,1, Requests(hd,dl,dr): 0,0,0, Heap(fr,ttl): 28111,32640 Sessions: 0
+06/18 23:51:41 metrics Threads(b,d,i,ttl): 0,0,0,1, Requests(hd,dl,dr): 0,0,0, Heap(fr,ttl): 28117,32640 Sessions: 0
+06/19 00:01:41 metrics Threads(b,d,i,ttl): 0,0,0,1, Requests(hd,dl,dr): 0,0,0, Heap(fr,ttl): 28117,32640 Sessions: 0
+06/19 00:11:41 metrics Threads(b,d,i,ttl): 0,0,0,1, Requests(hd,dl,dr): 0,0,0, Heap(fr,ttl): 28117,32640 Sessions: 0
+06/19 00:21:41 metrics Threads(b,d,i,ttl): 0,0,0,1, Requests(hd,dl,dr): 0,0,0, Heap(fr,ttl): 28111,32640 Sessions: 0
+06/19 00:31:41 metrics Threads(b,d,i,ttl): 0,0,0,1, Requests(hd,dl,dr): 0,0,0, Heap(fr,ttl): 28117,32640 Sessions: 0
+06/19 00:41:41 metrics Threads(b,d,i,ttl): 0,0,0,1, Requests(hd,dl,dr): 0,0,0, Heap(fr,ttl): 28117,32640 Sessions: 0
+06/19 00:51:41 metrics Threads(b,d,i,ttl): 0,0,0,1, Requests(hd,dl,dr): 0,0,0, Heap(fr,ttl): 28117,32640 Sessions: 0
+06/19 01:01:41 metrics Threads(b,d,i,ttl): 0,0,0,1, Requests(hd,dl,dr): 0,0,0, Heap(fr,ttl): 28111,32640 Sessions: 0
+06/19 01:11:41 metrics Threads(b,d,i,ttl): 0,0,1,2, Requests(hd,dl,dr): 1,0,0, Heap(fr,ttl): 28076,32640 Sessions: 0
+06/19 01:21:41 metrics Threads(b,d,i,ttl): 0,0,0,1, Requests(hd,dl,dr): 0,0,0, Heap(fr,ttl): 28117,32640 Sessions: 0
+06/19 01:31:41 metrics Threads(b,d,i,ttl): 0,0,0,1, Requests(hd,dl,dr): 0,0,0, Heap(fr,ttl): 28117,32640 Sessions: 0
+06/19 01:41:41 metrics Threads(b,d,i,ttl): 0,0,0,1, Requests(hd,dl,dr): 0,0,0, Heap(fr,ttl): 28111,32640 Sessions: 0
+06/19 01:51:41 metrics Threads(b,d,i,ttl): 0,0,0,1, Requests(hd,dl,dr): 0,0,0, Heap(fr,ttl): 28117,32640 Sessions: 0
+06/19 02:01:41 metrics Threads(b,d,i,ttl): 0,0,0,1, Requests(hd,dl,dr): 0,0,0, Heap(fr,ttl): 28117,32640 Sessions: 0
+06/19 02:11:41 metrics Threads(b,d,i,ttl): 0,0,0,1, Requests(hd,dl,dr): 0,0,0, Heap(fr,ttl): 28117,32640 Sessions: 0
+06/19 02:21:41 metrics Threads(b,d,i,ttl): 0,0,0,1, Requests(hd,dl,dr): 0,0,0, Heap(fr,ttl): 28111,32640 Sessions: 0
+06/19 02:31:41 metrics Threads(b,d,i,ttl): 0,0,0,1, Requests(hd,dl,dr): 0,0,0, Heap(fr,ttl): 28117,32640 Sessions: 0
+06/19 02:41:41 metrics Threads(b,d,i,ttl): 0,0,0,1, Requests(hd,dl,dr): 0,0,0, Heap(fr,ttl): 28117,32640 Sessions: 0
+06/19 02:51:41 metrics Threads(b,d,i,ttl): 0,0,0,1, Requests(hd,dl,dr): 0,0,0, Heap(fr,ttl): 28117,32640 Sessions: 0
+06/19 03:01:41 metrics Threads(b,d,i,ttl): 0,0,0,1, Requests(hd,dl,dr): 0,0,0, Heap(fr,ttl): 28111,32640 Sessions: 0
+06/19 03:11:41 metrics Threads(b,d,i,ttl): 0,0,0,1, Requests(hd,dl,dr): 0,0,0, Heap(fr,ttl): 28117,32640 Sessions: 0
+06/19 03:21:41 metrics Threads(b,d,i,ttl): 0,0,0,1, Requests(hd,dl,dr): 0,0,0, Heap(fr,ttl): 28117,32640 Sessions: 0
+06/19 03:31:41 metrics Threads(b,d,i,ttl): 0,0,0,1, Requests(hd,dl,dr): 0,0,0, Heap(fr,ttl): 28117,32640 Sessions: 0
+06/19 03:41:41 metrics Threads(b,d,i,ttl): 0,0,0,1, Requests(hd,dl,dr): 0,0,0, Heap(fr,ttl): 28111,32640 Sessions: 0
+06/19 03:51:41 metrics Threads(b,d,i,ttl): 0,0,0,1, Requests(hd,dl,dr): 0,0,0, Heap(fr,ttl): 28117,32640 Sessions: 0
+06/19 04:01:41 metrics Threads(b,d,i,ttl): 0,0,0,1, Requests(hd,dl,dr): 0,0,0, Heap(fr,ttl): 28117,32640 Sessions: 0
+06/19 04:11:41 metrics Threads(b,d,i,ttl): 0,0,0,1, Requests(hd,dl,dr): 0,0,0, Heap(fr,ttl): 28117,32640 Sessions: 0
+06/19 04:21:41 metrics Threads(b,d,i,ttl): 0,0,0,1, Requests(hd,dl,dr): 0,0,0, Heap(fr,ttl): 28111,32640 Sessions: 0
+06/19 04:31:41 metrics Threads(b,d,i,ttl): 0,0,0,1, Requests(hd,dl,dr): 0,0,0, Heap(fr,ttl): 28117,32640 Sessions: 0
+06/19 04:41:41 metrics Threads(b,d,i,ttl): 0,0,0,1, Requests(hd,dl,dr): 0,0,0, Heap(fr,ttl): 28117,32640 Sessions: 0
+06/19 04:51:41 metrics Threads(b,d,i,ttl): 0,0,0,1, Requests(hd,dl,dr): 0,0,0, Heap(fr,ttl): 28117,32640 Sessions: 0
+06/19 05:01:41 metrics Threads(b,d,i,ttl): 0,0,0,1, Requests(hd,dl,dr): 0,0,0, Heap(fr,ttl): 28111,32640 Sessions: 0
+06/19 05:11:41 metrics Threads(b,d,i,ttl): 0,0,0,1, Requests(hd,dl,dr): 0,0,0, Heap(fr,ttl): 28117,32640 Sessions: 0
+06/19 05:21:41 metrics Threads(b,d,i,ttl): 0,0,0,1, Requests(hd,dl,dr): 0,0,0, Heap(fr,ttl): 28117,32640 Sessions: 0
+06/19 05:31:41 metrics Threads(b,d,i,ttl): 0,0,0,1, Requests(hd,dl,dr): 0,0,0, Heap(fr,ttl): 28117,32640 Sessions: 0
+06/19 05:41:41 metrics Threads(b,d,i,ttl): 0,0,0,1, Requests(hd,dl,dr): 0,0,0, Heap(fr,ttl): 28111,32640 Sessions: 0
+06/19 05:51:41 metrics Threads(b,d,i,ttl): 0,0,0,1, Requests(hd,dl,dr): 0,0,0, Heap(fr,ttl): 28117,32640 Sessions: 0
+06/19 06:01:41 metrics Threads(b,d,i,ttl): 0,0,0,1, Requests(hd,dl,dr): 0,0,0, Heap(fr,ttl): 28117,32640 Sessions: 0
+06/19 06:11:41 metrics Threads(b,d,i,ttl): 0,0,0,1, Requests(hd,dl,dr): 0,0,0, Heap(fr,ttl): 28117,32640 Sessions: 0
+06/19 06:21:41 metrics Threads(b,d,i,ttl): 0,0,0,1, Requests(hd,dl,dr): 0,0,0, Heap(fr,ttl): 28111,32640 Sessions: 0
+06/19 06:31:41 metrics Threads(b,d,i,ttl): 0,0,0,1, Requests(hd,dl,dr): 0,0,0, Heap(fr,ttl): 28117,32640 Sessions: 0
+06/19 06:41:41 metrics Threads(b,d,i,ttl): 0,0,0,1, Requests(hd,dl,dr): 0,0,0, Heap(fr,ttl): 28117,32640 Sessions: 0
+06/19 06:51:41 metrics Threads(b,d,i,ttl): 0,0,0,1, Requests(hd,dl,dr): 0,0,0, Heap(fr,ttl): 28117,32640 Sessions: 0
+06/19 07:01:41 metrics Threads(b,d,i,ttl): 0,0,0,1, Requests(hd,dl,dr): 0,0,0, Heap(fr,ttl): 28111,32640 Sessions: 0
+06/19 07:11:41 metrics Threads(b,d,i,ttl): 0,0,0,1, Requests(hd,dl,dr): 0,0,0, Heap(fr,ttl): 28117,32640 Sessions: 0
+06/19 07:21:41 metrics Threads(b,d,i,ttl): 0,0,0,1, Requests(hd,dl,dr): 0,0,0, Heap(fr,ttl): 28117,32640 Sessions: 0
+06/19 07:31:41 metrics Threads(b,d,i,ttl): 0,0,0,1, Requests(hd,dl,dr): 0,0,0, Heap(fr,ttl): 28117,32640 Sessions: 0
+06/19 07:41:41 metrics Threads(b,d,i,ttl): 0,0,0,1, Requests(hd,dl,dr): 0,0,0, Heap(fr,ttl): 28111,32640 Sessions: 0
+06/19 07:51:41 metrics Threads(b,d,i,ttl): 0,0,0,1, Requests(hd,dl,dr): 0,0,0, Heap(fr,ttl): 28117,32640 Sessions: 0
+06/19 08:01:41 metrics Threads(b,d,i,ttl): 0,0,0,1, Requests(hd,dl,dr): 0,0,0, Heap(fr,ttl): 28117,32640 Sessions: 0
+06/19 08:11:41 metrics Threads(b,d,i,ttl): 0,0,0,1, Requests(hd,dl,dr): 0,0,0, Heap(fr,ttl): 28117,32640 Sessions: 0
+06/19 08:21:41 metrics Threads(b,d,i,ttl): 0,0,0,1, Requests(hd,dl,dr): 0,0,0, Heap(fr,ttl): 28111,32640 Sessions: 0
+06/19 08:31:41 metrics Threads(b,d,i,ttl): 0,0,0,1, Requests(hd,dl,dr): 0,0,0, Heap(fr,ttl): 28117,32640 Sessions: 0
+06/19 08:41:41 metrics Threads(b,d,i,ttl): 0,0,0,1, Requests(hd,dl,dr): 0,0,0, Heap(fr,ttl): 28117,32640 Sessions: 0
+06/19 08:51:41 metrics Threads(b,d,i,ttl): 0,0,0,1, Requests(hd,dl,dr): 0,0,0, Heap(fr,ttl): 28117,32640 Sessions: 0
+06/19 09:01:41 metrics Threads(b,d,i,ttl): 0,0,0,1, Requests(hd,dl,dr): 0,0,0, Heap(fr,ttl): 28111,32640 Sessions: 0
+06/19 09:11:41 metrics Threads(b,d,i,ttl): 0,0,0,1, Requests(hd,dl,dr): 0,0,0, Heap(fr,ttl): 28117,32640 Sessions: 0
+06/19 09:21:41 metrics Threads(b,d,i,ttl): 0,0,0,1, Requests(hd,dl,dr): 0,0,0, Heap(fr,ttl): 28117,32640 Sessions: 0
+06/19 09:31:41 metrics Threads(b,d,i,ttl): 0,0,0,1, Requests(hd,dl,dr): 0,0,0, Heap(fr,ttl): 28117,32640 Sessions: 0
+06/19 09:41:41 metrics Threads(b,d,i,ttl): 0,0,0,1, Requests(hd,dl,dr): 0,0,0, Heap(fr,ttl): 28111,32640 Sessions: 0
+06/19 09:51:41 metrics Threads(b,d,i,ttl): 0,0,0,1, Requests(hd,dl,dr): 0,0,0, Heap(fr,ttl): 28117,32640 Sessions: 0
+06/19 10:01:41 metrics Threads(b,d,i,ttl): 0,0,0,1, Requests(hd,dl,dr): 0,0,0, Heap(fr,ttl): 28117,32640 Sessions: 0
+06/19 10:11:41 metrics Threads(b,d,i,ttl): 0,0,0,1, Requests(hd,dl,dr): 0,0,0, Heap(fr,ttl): 28117,32640 Sessions: 0
+06/19 10:21:41 metrics Threads(b,d,i,ttl): 0,0,0,1, Requests(hd,dl,dr): 0,0,0, Heap(fr,ttl): 28111,32640 Sessions: 0
+06/19 10:31:41 metrics Threads(b,d,i,ttl): 0,0,0,1, Requests(hd,dl,dr): 0,0,0, Heap(fr,ttl): 28117,32640 Sessions: 0
+06/19 10:41:41 metrics Threads(b,d,i,ttl): 0,0,0,1, Requests(hd,dl,dr): 0,0,0, Heap(fr,ttl): 28117,32640 Sessions: 0
+06/19 10:51:41 metrics Threads(b,d,i,ttl): 0,0,0,1, Requests(hd,dl,dr): 0,0,0, Heap(fr,ttl): 28117,32640 Sessions: 0
+06/19 11:01:41 metrics Threads(b,d,i,ttl): 0,0,0,1, Requests(hd,dl,dr): 0,0,0, Heap(fr,ttl): 28111,32640 Sessions: 0
+06/19 11:11:41 metrics Threads(b,d,i,ttl): 0,0,0,1, Requests(hd,dl,dr): 0,0,0, Heap(fr,ttl): 28117,32640 Sessions: 0
+06/19 11:21:41 metrics Threads(b,d,i,ttl): 0,0,0,1, Requests(hd,dl,dr): 0,0,0, Heap(fr,ttl): 28117,32640 Sessions: 0
+06/19 11:31:41 metrics Threads(b,d,i,ttl): 0,0,0,1, Requests(hd,dl,dr): 0,0,0, Heap(fr,ttl): 28117,32640 Sessions: 0
+06/19 11:41:41 metrics Threads(b,d,i,ttl): 0,0,0,1, Requests(hd,dl,dr): 0,0,0, Heap(fr,ttl): 28111,32640 Sessions: 0
+06/19 11:51:41 metrics Threads(b,d,i,ttl): 0,0,0,1, Requests(hd,dl,dr): 0,0,0, Heap(fr,ttl): 28117,32640 Sessions: 0
+06/19 12:01:41 metrics Threads(b,d,i,ttl): 0,0,0,1, Requests(hd,dl,dr): 0,0,0, Heap(fr,ttl): 28117,32640 Sessions: 0
+06/19 12:11:41 metrics Threads(b,d,i,ttl): 0,0,0,1, Requests(hd,dl,dr): 0,0,0, Heap(fr,ttl): 28117,32640 Sessions: 0
+06/19 12:21:41 metrics Threads(b,d,i,ttl): 0,0,0,1, Requests(hd,dl,dr): 0,0,0, Heap(fr,ttl): 28111,32640 Sessions: 0
+06/19 12:31:41 metrics Threads(b,d,i,ttl): 0,0,0,1, Requests(hd,dl,dr): 0,0,0, Heap(fr,ttl): 28117,32640 Sessions: 0
+06/19 12:41:41 metrics Threads(b,d,i,ttl): 0,0,0,1, Requests(hd,dl,dr): 0,0,0, Heap(fr,ttl): 28117,32640 Sessions: 0
+06/19 12:51:41 metrics Threads(b,d,i,ttl): 0,0,0,1, Requests(hd,dl,dr): 0,0,0, Heap(fr,ttl): 28117,32640 Sessions: 0
+06/19 13:01:41 metrics Threads(b,d,i,ttl): 0,0,0,1, Requests(hd,dl,dr): 0,0,0, Heap(fr,ttl): 28111,32640 Sessions: 0
+06/19 13:11:41 metrics Threads(b,d,i,ttl): 0,0,0,1, Requests(hd,dl,dr): 0,0,0, Heap(fr,ttl): 28117,32640 Sessions: 0
+06/19 13:21:41 metrics Threads(b,d,i,ttl): 0,0,0,1, Requests(hd,dl,dr): 0,0,0, Heap(fr,ttl): 28117,32640 Sessions: 0
+06/19 13:31:41 metrics Threads(b,d,i,ttl): 0,0,0,1, Requests(hd,dl,dr): 0,0,0, Heap(fr,ttl): 28117,32640 Sessions: 0
+06/19 13:41:41 metrics Threads(b,d,i,ttl): 0,0,0,1, Requests(hd,dl,dr): 0,0,0, Heap(fr,ttl): 28111,32640 Sessions: 0
+06/19 13:51:41 metrics Threads(b,d,i,ttl): 0,0,0,1, Requests(hd,dl,dr): 0,0,0, Heap(fr,ttl): 28117,32640 Sessions: 0
+06/19 14:01:41 metrics Threads(b,d,i,ttl): 0,0,0,1, Requests(hd,dl,dr): 0,0,0, Heap(fr,ttl): 28117,32640 Sessions: 0
+06/19 14:11:41 metrics Threads(b,d,i,ttl): 0,0,0,1, Requests(hd,dl,dr): 0,0,0, Heap(fr,ttl): 28117,32640 Sessions: 0
+06/19 14:21:41 metrics Threads(b,d,i,ttl): 0,0,0,1, Requests(hd,dl,dr): 0,0,0, Heap(fr,ttl): 28112,32640 Sessions: 0
+06/19 14:31:41 metrics Threads(b,d,i,ttl): 0,0,0,1, Requests(hd,dl,dr): 0,0,0, Heap(fr,ttl): 28112,32640 Sessions: 0
+06/19 14:41:41 metrics Threads(b,d,i,ttl): 0,0,0,1, Requests(hd,dl,dr): 0,0,0, Heap(fr,ttl): 28117,32640 Sessions: 0
+06/19 14:51:41 metrics Threads(b,d,i,ttl): 0,0,0,1, Requests(hd,dl,dr): 0,0,0, Heap(fr,ttl): 28117,32640 Sessions: 0
+06/19 15:01:41 metrics Threads(b,d,i,ttl): 0,0,0,1, Requests(hd,dl,dr): 0,0,0, Heap(fr,ttl): 28112,32640 Sessions: 0
+06/19 15:11:41 metrics Threads(b,d,i,ttl): 0,0,0,1, Requests(hd,dl,dr): 0,0,0, Heap(fr,ttl): 28112,32640 Sessions: 0
+06/19 15:21:41 metrics Threads(b,d,i,ttl): 0,0,0,1, Requests(hd,dl,dr): 0,0,0, Heap(fr,ttl): 28117,32640 Sessions: 0
+06/19 15:31:41 metrics Threads(b,d,i,ttl): 0,0,0,1, Requests(hd,dl,dr): 0,0,0, Heap(fr,ttl): 28117,32640 Sessions: 0
+06/19 15:41:41 metrics Threads(b,d,i,ttl): 0,0,0,1, Requests(hd,dl,dr): 0,0,0, Heap(fr,ttl): 28112,32640 Sessions: 0
+06/19 15:51:41 metrics Threads(b,d,i,ttl): 0,0,0,1, Requests(hd,dl,dr): 0,0,0, Heap(fr,ttl): 28112,32640 Sessions: 0
+06/19 16:01:41 metrics Threads(b,d,i,ttl): 0,0,0,1, Requests(hd,dl,dr): 0,0,0, Heap(fr,ttl): 28117,32640 Sessions: 0
+06/19 16:11:41 metrics Threads(b,d,i,ttl): 0,0,0,1, Requests(hd,dl,dr): 0,0,0, Heap(fr,ttl): 28117,32640 Sessions: 0
+06/19 16:21:41 metrics Threads(b,d,i,ttl): 0,0,1,2, Requests(hd,dl,dr): 1,0,0, Heap(fr,ttl): 28014,32640 Sessions: 0
+06/19 16:31:41 metrics Threads(b,d,i,ttl): 0,0,0,1, Requests(hd,dl,dr): 0,0,0, Heap(fr,ttl): 28112,32640 Sessions: 0
+06/19 16:41:41 metrics Threads(b,d,i,ttl): 0,0,0,1, Requests(hd,dl,dr): 0,0,0, Heap(fr,ttl): 28117,32640 Sessions: 0
+06/19 16:51:41 metrics Threads(b,d,i,ttl): 0,0,0,1, Requests(hd,dl,dr): 0,0,0, Heap(fr,ttl): 28117,32640 Sessions: 0
+06/19 17:01:41 metrics Threads(b,d,i,ttl): 0,0,0,1, Requests(hd,dl,dr): 0,0,0, Heap(fr,ttl): 28112,32640 Sessions: 0
+06/19 17:11:41 metrics Threads(b,d,i,ttl): 0,0,0,1, Requests(hd,dl,dr): 0,0,0, Heap(fr,ttl): 28112,32640 Sessions: 0
+06/19 17:21:41 metrics Threads(b,d,i,ttl): 0,0,0,1, Requests(hd,dl,dr): 0,0,0, Heap(fr,ttl): 28117,32640 Sessions: 0
+06/19 17:31:41 metrics Threads(b,d,i,ttl): 0,0,0,1, Requests(hd,dl,dr): 0,0,0, Heap(fr,ttl): 28117,32640 Sessions: 0
+06/19 17:41:41 metrics Threads(b,d,i,ttl): 0,0,0,1, Requests(hd,dl,dr): 0,0,0, Heap(fr,ttl): 28112,32640 Sessions: 0
+06/19 17:51:41 metrics Threads(b,d,i,ttl): 0,0,0,1, Requests(hd,dl,dr): 0,0,0, Heap(fr,ttl): 28112,32640 Sessions: 0
+06/19 18:01:41 metrics Threads(b,d,i,ttl): 0,0,0,1, Requests(hd,dl,dr): 0,0,0, Heap(fr,ttl): 28117,32640 Sessions: 0
+06/19 18:11:41 metrics Threads(b,d,i,ttl): 0,0,0,1, Requests(hd,dl,dr): 0,0,0, Heap(fr,ttl): 28117,32640 Sessions: 0
+06/19 18:21:41 metrics Threads(b,d,i,ttl): 0,0,0,1, Requests(hd,dl,dr): 0,0,0, Heap(fr,ttl): 28112,32640 Sessions: 0
+06/19 18:31:41 metrics Threads(b,d,i,ttl): 0,0,0,1, Requests(hd,dl,dr): 0,0,0, Heap(fr,ttl): 28112,32640 Sessions: 0
+06/19 18:41:41 metrics Threads(b,d,i,ttl): 0,0,0,1, Requests(hd,dl,dr): 0,0,0, Heap(fr,ttl): 28117,32640 Sessions: 0
+06/19 18:51:41 metrics Threads(b,d,i,ttl): 0,0,0,1, Requests(hd,dl,dr): 0,0,0, Heap(fr,ttl): 28117,32640 Sessions: 0
+06/19 19:01:41 metrics Threads(b,d,i,ttl): 0,0,0,1, Requests(hd,dl,dr): 0,0,0, Heap(fr,ttl): 28112,32640 Sessions: 0
+06/19 19:11:41 metrics Threads(b,d,i,ttl): 0,0,0,1, Requests(hd,dl,dr): 0,0,0, Heap(fr,ttl): 28112,32640 Sessions: 0
+06/19 19:21:41 metrics Threads(b,d,i,ttl): 0,0,0,1, Requests(hd,dl,dr): 0,0,0, Heap(fr,ttl): 28117,32640 Sessions: 0
+06/19 19:31:41 metrics Threads(b,d,i,ttl): 0,0,0,1, Requests(hd,dl,dr): 0,0,0, Heap(fr,ttl): 28117,32640 Sessions: 0
+06/19 19:41:41 metrics Threads(b,d,i,ttl): 0,0,0,1, Requests(hd,dl,dr): 0,0,0, Heap(fr,ttl): 28112,32640 Sessions: 0
+06/19 19:51:41 metrics Threads(b,d,i,ttl): 0,0,0,1, Requests(hd,dl,dr): 0,0,0, Heap(fr,ttl): 28112,32640 Sessions: 0
+06/19 20:01:41 metrics Threads(b,d,i,ttl): 0,0,0,1, Requests(hd,dl,dr): 0,0,0, Heap(fr,ttl): 28117,32640 Sessions: 0
+06/19 20:11:41 metrics Threads(b,d,i,ttl): 0,0,0,1, Requests(hd,dl,dr): 0,0,0, Heap(fr,ttl): 28117,32640 Sessions: 0
+06/19 20:21:41 metrics Threads(b,d,i,ttl): 0,0,0,1, Requests(hd,dl,dr): 0,0,0, Heap(fr,ttl): 28112,32640 Sessions: 0
+06/19 20:31:41 metrics Threads(b,d,i,ttl): 0,0,0,1, Requests(hd,dl,dr): 0,0,0, Heap(fr,ttl): 28112,32640 Sessions: 0
+06/19 20:41:41 metrics Threads(b,d,i,ttl): 0,0,0,1, Requests(hd,dl,dr): 0,0,0, Heap(fr,ttl): 28117,32640 Sessions: 0
+06/19 20:51:41 metrics Threads(b,d,i,ttl): 0,0,0,1, Requests(hd,dl,dr): 0,0,0, Heap(fr,ttl): 28117,32640 Sessions: 0
+06/19 21:01:41 metrics Threads(b,d,i,ttl): 0,0,0,1, Requests(hd,dl,dr): 0,0,0, Heap(fr,ttl): 28112,32640 Sessions: 0
+06/19 21:11:41 metrics Threads(b,d,i,ttl): 0,0,0,1, Requests(hd,dl,dr): 0,0,0, Heap(fr,ttl): 28112,32640 Sessions: 0
+06/19 21:21:41 metrics Threads(b,d,i,ttl): 0,0,0,1, Requests(hd,dl,dr): 0,0,0, Heap(fr,ttl): 28117,32640 Sessions: 0
+06/19 21:31:41 metrics Threads(b,d,i,ttl): 0,0,0,1, Requests(hd,dl,dr): 0,0,0, Heap(fr,ttl): 28117,32640 Sessions: 0
+06/19 21:41:41 metrics Threads(b,d,i,ttl): 0,0,0,1, Requests(hd,dl,dr): 0,0,0, Heap(fr,ttl): 28112,32640 Sessions: 0
+06/19 21:51:41 metrics Threads(b,d,i,ttl): 0,0,0,1, Requests(hd,dl,dr): 0,0,0, Heap(fr,ttl): 28112,32640 Sessions: 0
+06/19 22:01:41 metrics Threads(b,d,i,ttl): 0,0,0,1, Requests(hd,dl,dr): 0,0,0, Heap(fr,ttl): 28117,32640 Sessions: 0
+06/19 22:11:41 metrics Threads(b,d,i,ttl): 0,0,0,1, Requests(hd,dl,dr): 0,0,0, Heap(fr,ttl): 28117,32640 Sessions: 0
+06/19 22:21:41 metrics Threads(b,d,i,ttl): 0,0,0,1, Requests(hd,dl,dr): 0,0,0, Heap(fr,ttl): 28112,32640 Sessions: 0
+06/19 22:31:41 metrics Threads(b,d,i,ttl): 0,0,0,1, Requests(hd,dl,dr): 0,0,0, Heap(fr,ttl): 28112,32640 Sessions: 0
+06/19 22:41:41 metrics Threads(b,d,i,ttl): 0,0,0,1, Requests(hd,dl,dr): 0,0,0, Heap(fr,ttl): 28117,32640 Sessions: 0
+06/19 22:51:41 metrics Threads(b,d,i,ttl): 0,0,0,1, Requests(hd,dl,dr): 0,0,0, Heap(fr,ttl): 28117,32640 Sessions: 0
+06/19 23:01:41 metrics Threads(b,d,i,ttl): 0,0,0,1, Requests(hd,dl,dr): 0,0,0, Heap(fr,ttl): 28112,32640 Sessions: 0
+06/19 23:11:41 metrics Threads(b,d,i,ttl): 0,0,0,1, Requests(hd,dl,dr): 0,0,0, Heap(fr,ttl): 28112,32640 Sessions: 0
+06/19 23:21:41 metrics Threads(b,d,i,ttl): 0,0,0,1, Requests(hd,dl,dr): 0,0,0, Heap(fr,ttl): 28117,32640 Sessions: 0
+06/19 23:31:41 metrics Threads(b,d,i,ttl): 0,0,0,1, Requests(hd,dl,dr): 0,0,0, Heap(fr,ttl): 28117,32640 Sessions: 0
+06/19 23:41:41 metrics Threads(b,d,i,ttl): 0,0,0,1, Requests(hd,dl,dr): 0,0,0, Heap(fr,ttl): 28112,32640 Sessions: 0
+06/19 23:51:41 metrics Threads(b,d,i,ttl): 0,0,0,1, Requests(hd,dl,dr): 0,0,0, Heap(fr,ttl): 28112,32640 Sessions: 0
+06/20 00:01:41 metrics Threads(b,d,i,ttl): 0,0,0,1, Requests(hd,dl,dr): 0,0,0, Heap(fr,ttl): 28117,32640 Sessions: 0
+06/20 00:11:41 metrics Threads(b,d,i,ttl): 0,0,0,1, Requests(hd,dl,dr): 0,0,0, Heap(fr,ttl): 28117,32640 Sessions: 0
+06/20 00:21:41 metrics Threads(b,d,i,ttl): 0,0,0,1, Requests(hd,dl,dr): 0,0,0, Heap(fr,ttl): 28112,32640 Sessions: 0
+06/20 00:31:41 metrics Threads(b,d,i,ttl): 0,0,0,1, Requests(hd,dl,dr): 0,0,0, Heap(fr,ttl): 28112,32640 Sessions: 0
+06/20 00:41:41 metrics Threads(b,d,i,ttl): 0,0,0,1, Requests(hd,dl,dr): 0,0,0, Heap(fr,ttl): 28117,32640 Sessions: 0
+06/20 00:51:41 metrics Threads(b,d,i,ttl): 0,0,0,1, Requests(hd,dl,dr): 0,0,0, Heap(fr,ttl): 28117,32640 Sessions: 0
+06/20 01:01:41 metrics Threads(b,d,i,ttl): 0,0,0,1, Requests(hd,dl,dr): 0,0,0, Heap(fr,ttl): 28117,32640 Sessions: 0
+06/20 01:11:41 metrics Threads(b,d,i,ttl): 0,0,0,1, Requests(hd,dl,dr): 0,0,0, Heap(fr,ttl): 28117,32640 Sessions: 0
+06/20 01:21:41 metrics Threads(b,d,i,ttl): 0,0,0,1, Requests(hd,dl,dr): 0,0,0, Heap(fr,ttl): 28117,32640 Sessions: 0
+06/20 01:31:41 metrics Threads(b,d,i,ttl): 0,0,0,1, Requests(hd,dl,dr): 0,0,0, Heap(fr,ttl): 28117,32640 Sessions: 0
+06/20 01:41:41 metrics Threads(b,d,i,ttl): 0,0,0,1, Requests(hd,dl,dr): 0,0,0, Heap(fr,ttl): 28117,32640 Sessions: 0
+06/20 01:51:41 metrics Threads(b,d,i,ttl): 0,0,0,1, Requests(hd,dl,dr): 0,0,0, Heap(fr,ttl): 28117,32640 Sessions: 0
+06/20 02:01:41 metrics Threads(b,d,i,ttl): 0,0,0,1, Requests(hd,dl,dr): 0,0,0, Heap(fr,ttl): 28117,32640 Sessions: 0
+06/20 02:11:41 metrics Threads(b,d,i,ttl): 0,0,0,1, Requests(hd,dl,dr): 0,0,0, Heap(fr,ttl): 28117,32640 Sessions: 0
+06/20 02:21:41 metrics Threads(b,d,i,ttl): 0,0,0,1, Requests(hd,dl,dr): 0,0,0, Heap(fr,ttl): 28117,32640 Sessions: 0
+06/20 02:31:41 metrics Threads(b,d,i,ttl): 0,0,0,1, Requests(hd,dl,dr): 0,0,0, Heap(fr,ttl): 28117,32640 Sessions: 0
+06/20 02:41:41 metrics Threads(b,d,i,ttl): 0,0,0,1, Requests(hd,dl,dr): 0,0,0, Heap(fr,ttl): 28117,32640 Sessions: 0
+06/20 02:51:41 metrics Threads(b,d,i,ttl): 0,0,0,1, Requests(hd,dl,dr): 0,0,0, Heap(fr,ttl): 28117,32640 Sessions: 0
+06/20 03:01:41 metrics Threads(b,d,i,ttl): 0,0,0,1, Requests(hd,dl,dr): 0,0,0, Heap(fr,ttl): 28117,32640 Sessions: 0
+06/20 03:11:41 metrics Threads(b,d,i,ttl): 0,0,0,1, Requests(hd,dl,dr): 0,0,0, Heap(fr,ttl): 28117,32640 Sessions: 0
+06/20 03:21:41 metrics Threads(b,d,i,ttl): 0,0,0,1, Requests(hd,dl,dr): 0,0,0, Heap(fr,ttl): 28117,32640 Sessions: 0
+06/20 03:31:41 metrics Threads(b,d,i,ttl): 0,0,0,1, Requests(hd,dl,dr): 0,0,0, Heap(fr,ttl): 28117,32640 Sessions: 0
+06/20 03:41:41 metrics Threads(b,d,i,ttl): 0,0,0,1, Requests(hd,dl,dr): 0,0,0, Heap(fr,ttl): 28117,32640 Sessions: 0
+06/20 03:51:41 metrics Threads(b,d,i,ttl): 0,0,0,1, Requests(hd,dl,dr): 0,0,0, Heap(fr,ttl): 28117,32640 Sessions: 0
+06/20 04:01:41 metrics Threads(b,d,i,ttl): 0,0,0,1, Requests(hd,dl,dr): 0,0,0, Heap(fr,ttl): 28117,32640 Sessions: 0
+06/20 04:11:41 metrics Threads(b,d,i,ttl): 0,0,0,1, Requests(hd,dl,dr): 0,0,0, Heap(fr,ttl): 28117,32640 Sessions: 0
+06/20 04:21:41 metrics Threads(b,d,i,ttl): 0,0,0,1, Requests(hd,dl,dr): 0,0,0, Heap(fr,ttl): 28117,32640 Sessions: 0
+06/20 04:31:41 metrics Threads(b,d,i,ttl): 0,0,0,1, Requests(hd,dl,dr): 0,0,0, Heap(fr,ttl): 28117,32640 Sessions: 0
+06/20 04:41:41 metrics Threads(b,d,i,ttl): 0,0,0,1, Requests(hd,dl,dr): 0,0,0, Heap(fr,ttl): 28117,32640 Sessions: 0
+06/20 04:51:41 metrics Threads(b,d,i,ttl): 0,0,0,1, Requests(hd,dl,dr): 0,0,0, Heap(fr,ttl): 28117,32640 Sessions: 0
+06/20 05:01:41 metrics Threads(b,d,i,ttl): 0,0,0,1, Requests(hd,dl,dr): 0,0,0, Heap(fr,ttl): 28117,32640 Sessions: 0
+06/20 05:11:41 metrics Threads(b,d,i,ttl): 0,0,0,1, Requests(hd,dl,dr): 0,0,0, Heap(fr,ttl): 28117,32640 Sessions: 0
+06/20 05:21:41 metrics Threads(b,d,i,ttl): 0,0,0,1, Requests(hd,dl,dr): 0,0,0, Heap(fr,ttl): 28117,32640 Sessions: 0
+06/20 05:31:41 metrics Threads(b,d,i,ttl): 0,0,0,1, Requests(hd,dl,dr): 0,0,0, Heap(fr,ttl): 28117,32640 Sessions: 0
+06/20 05:41:41 metrics Threads(b,d,i,ttl): 0,0,0,1, Requests(hd,dl,dr): 0,0,0, Heap(fr,ttl): 28117,32640 Sessions: 0
+06/20 05:51:41 metrics Threads(b,d,i,ttl): 0,0,0,1, Requests(hd,dl,dr): 0,0,0, Heap(fr,ttl): 28117,32640 Sessions: 0
+06/20 06:01:41 metrics Threads(b,d,i,ttl): 0,0,0,1, Requests(hd,dl,dr): 0,0,0, Heap(fr,ttl): 28117,32640 Sessions: 0
+06/20 06:11:41 metrics Threads(b,d,i,ttl): 0,0,0,1, Requests(hd,dl,dr): 0,0,0, Heap(fr,ttl): 28117,32640 Sessions: 0
+06/20 06:21:41 metrics Threads(b,d,i,ttl): 0,0,0,1, Requests(hd,dl,dr): 0,0,0, Heap(fr,ttl): 28117,32640 Sessions: 0
+06/20 06:31:41 metrics Threads(b,d,i,ttl): 0,0,0,1, Requests(hd,dl,dr): 0,0,0, Heap(fr,ttl): 28117,32640 Sessions: 0
+06/20 06:41:41 metrics Threads(b,d,i,ttl): 0,0,0,1, Requests(hd,dl,dr): 0,0,0, Heap(fr,ttl): 28117,32640 Sessions: 0
+06/20 06:51:41 metrics Threads(b,d,i,ttl): 0,0,0,1, Requests(hd,dl,dr): 0,0,0, Heap(fr,ttl): 28117,32640 Sessions: 0
+06/20 07:01:41 metrics Threads(b,d,i,ttl): 0,0,0,1, Requests(hd,dl,dr): 0,0,0, Heap(fr,ttl): 28117,32640 Sessions: 0
+06/20 07:11:41 metrics Threads(b,d,i,ttl): 0,0,0,1, Requests(hd,dl,dr): 0,0,0, Heap(fr,ttl): 28117,32640 Sessions: 0
+06/20 07:21:41 metrics Threads(b,d,i,ttl): 0,0,0,1, Requests(hd,dl,dr): 0,0,0, Heap(fr,ttl): 28117,32640 Sessions: 0
+06/20 07:31:41 metrics Threads(b,d,i,ttl): 0,0,0,1, Requests(hd,dl,dr): 0,0,0, Heap(fr,ttl): 28117,32640 Sessions: 0
+06/20 07:41:41 metrics Threads(b,d,i,ttl): 0,0,0,1, Requests(hd,dl,dr): 0,0,0, Heap(fr,ttl): 28117,32640 Sessions: 0
+06/20 07:51:41 metrics Threads(b,d,i,ttl): 0,0,0,1, Requests(hd,dl,dr): 0,0,0, Heap(fr,ttl): 28117,32640 Sessions: 0
+06/20 08:01:41 metrics Threads(b,d,i,ttl): 0,0,0,1, Requests(hd,dl,dr): 0,0,0, Heap(fr,ttl): 28117,32640 Sessions: 0
+06/20 08:11:41 metrics Threads(b,d,i,ttl): 0,0,0,1, Requests(hd,dl,dr): 0,0,0, Heap(fr,ttl): 28117,32640 Sessions: 0
+06/20 08:21:41 metrics Threads(b,d,i,ttl): 0,0,0,1, Requests(hd,dl,dr): 0,0,0, Heap(fr,ttl): 28117,32640 Sessions: 0
+06/20 08:31:41 metrics Threads(b,d,i,ttl): 0,0,0,1, Requests(hd,dl,dr): 0,0,0, Heap(fr,ttl): 28117,32640 Sessions: 0
+06/20 08:41:41 metrics Threads(b,d,i,ttl): 0,0,0,1, Requests(hd,dl,dr): 0,0,0, Heap(fr,ttl): 28117,32640 Sessions: 0
+06/20 08:51:41 metrics Threads(b,d,i,ttl): 0,0,0,1, Requests(hd,dl,dr): 0,0,0, Heap(fr,ttl): 28117,32640 Sessions: 0
+06/20 09:01:41 metrics Threads(b,d,i,ttl): 0,0,0,1, Requests(hd,dl,dr): 0,0,0, Heap(fr,ttl): 28117,32640 Sessions: 0
+06/20 09:11:41 metrics Threads(b,d,i,ttl): 0,0,0,1, Requests(hd,dl,dr): 0,0,0, Heap(fr,ttl): 28117,32640 Sessions: 0
+06/20 09:21:41 metrics Threads(b,d,i,ttl): 0,0,0,1, Requests(hd,dl,dr): 0,0,0, Heap(fr,ttl): 28117,32640 Sessions: 0
+06/20 09:31:41 metrics Threads(b,d,i,ttl): 0,0,0,1, Requests(hd,dl,dr): 0,0,0, Heap(fr,ttl): 28117,32640 Sessions: 0
+06/20 09:41:41 metrics Threads(b,d,i,ttl): 0,0,0,1, Requests(hd,dl,dr): 0,0,0, Heap(fr,ttl): 28117,32640 Sessions: 0
+06/20 09:51:41 metrics Threads(b,d,i,ttl): 0,0,0,1, Requests(hd,dl,dr): 0,0,0, Heap(fr,ttl): 28117,32640 Sessions: 0
+06/20 10:01:41 metrics Threads(b,d,i,ttl): 0,0,0,1, Requests(hd,dl,dr): 0,0,0, Heap(fr,ttl): 28117,32640 Sessions: 0
+06/20 10:11:41 metrics Threads(b,d,i,ttl): 0,0,0,1, Requests(hd,dl,dr): 0,0,0, Heap(fr,ttl): 28117,32640 Sessions: 0
+06/20 10:21:41 metrics Threads(b,d,i,ttl): 0,0,0,1, Requests(hd,dl,dr): 0,0,0, Heap(fr,ttl): 28117,32640 Sessions: 0
+06/20 10:31:41 metrics Threads(b,d,i,ttl): 0,0,0,1, Requests(hd,dl,dr): 0,0,0, Heap(fr,ttl): 28117,32640 Sessions: 0
+06/20 10:41:41 metrics Threads(b,d,i,ttl): 0,0,0,1, Requests(hd,dl,dr): 0,0,0, Heap(fr,ttl): 28117,32640 Sessions: 0
+06/20 10:51:41 metrics Threads(b,d,i,ttl): 0,0,0,1, Requests(hd,dl,dr): 0,0,0, Heap(fr,ttl): 28117,32640 Sessions: 0
+06/20 11:01:41 metrics Threads(b,d,i,ttl): 0,0,0,1, Requests(hd,dl,dr): 0,0,0, Heap(fr,ttl): 28117,32640 Sessions: 0
+06/20 11:11:41 metrics Threads(b,d,i,ttl): 0,0,0,1, Requests(hd,dl,dr): 0,0,0, Heap(fr,ttl): 28117,32640 Sessions: 0
+06/20 11:21:41 metrics Threads(b,d,i,ttl): 0,0,0,1, Requests(hd,dl,dr): 0,0,0, Heap(fr,ttl): 28117,32640 Sessions: 0
+06/20 11:31:41 metrics Threads(b,d,i,ttl): 0,0,0,1, Requests(hd,dl,dr): 0,0,0, Heap(fr,ttl): 28117,32640 Sessions: 0
+06/20 11:41:41 metrics Threads(b,d,i,ttl): 0,0,0,1, Requests(hd,dl,dr): 0,0,0, Heap(fr,ttl): 28111,32640 Sessions: 0
+06/20 11:51:41 metrics Threads(b,d,i,ttl): 0,0,0,1, Requests(hd,dl,dr): 0,0,0, Heap(fr,ttl): 28117,32640 Sessions: 0
+06/20 12:01:41 metrics Threads(b,d,i,ttl): 0,0,0,1, Requests(hd,dl,dr): 0,0,0, Heap(fr,ttl): 28117,32640 Sessions: 0
+06/20 12:11:41 metrics Threads(b,d,i,ttl): 0,0,0,1, Requests(hd,dl,dr): 0,0,0, Heap(fr,ttl): 28117,32640 Sessions: 0
+06/20 12:21:41 metrics Threads(b,d,i,ttl): 0,0,0,1, Requests(hd,dl,dr): 0,0,0, Heap(fr,ttl): 28111,32640 Sessions: 0
+06/20 12:31:41 metrics Threads(b,d,i,ttl): 0,0,0,1, Requests(hd,dl,dr): 0,0,0, Heap(fr,ttl): 28117,32640 Sessions: 0
+06/20 12:41:41 metrics Threads(b,d,i,ttl): 0,0,0,1, Requests(hd,dl,dr): 0,0,0, Heap(fr,ttl): 28117,32640 Sessions: 0
+06/20 12:51:41 metrics Threads(b,d,i,ttl): 0,0,0,1, Requests(hd,dl,dr): 0,0,0, Heap(fr,ttl): 28117,32640 Sessions: 0
+06/20 13:01:41 metrics Threads(b,d,i,ttl): 0,0,0,1, Requests(hd,dl,dr): 0,0,0, Heap(fr,ttl): 28111,32640 Sessions: 0
+06/20 13:11:41 metrics Threads(b,d,i,ttl): 0,0,0,1, Requests(hd,dl,dr): 0,0,0, Heap(fr,ttl): 28117,32640 Sessions: 0
+06/20 13:21:41 metrics Threads(b,d,i,ttl): 0,0,0,1, Requests(hd,dl,dr): 0,0,0, Heap(fr,ttl): 28117,32640 Sessions: 0
+06/20 13:31:41 metrics Threads(b,d,i,ttl): 0,0,0,1, Requests(hd,dl,dr): 0,0,0, Heap(fr,ttl): 28117,32640 Sessions: 0
+06/20 13:41:41 metrics Threads(b,d,i,ttl): 0,0,0,1, Requests(hd,dl,dr): 0,0,0, Heap(fr,ttl): 28111,32640 Sessions: 0
+06/20 13:51:41 metrics Threads(b,d,i,ttl): 0,0,0,1, Requests(hd,dl,dr): 0,0,0, Heap(fr,ttl): 28117,32640 Sessions: 0
+06/20 14:01:41 metrics Threads(b,d,i,ttl): 0,0,0,1, Requests(hd,dl,dr): 0,0,0, Heap(fr,ttl): 28117,32640 Sessions: 0
+06/20 14:11:41 metrics Threads(b,d,i,ttl): 0,0,0,1, Requests(hd,dl,dr): 0,0,0, Heap(fr,ttl): 28117,32640 Sessions: 0
+06/20 14:21:41 metrics Threads(b,d,i,ttl): 0,0,0,1, Requests(hd,dl,dr): 0,0,0, Heap(fr,ttl): 28111,32640 Sessions: 0
+06/20 14:31:41 metrics Threads(b,d,i,ttl): 0,0,0,1, Requests(hd,dl,dr): 0,0,0, Heap(fr,ttl): 28117,32640 Sessions: 0
+06/20 14:41:41 metrics Threads(b,d,i,ttl): 0,0,0,1, Requests(hd,dl,dr): 0,0,0, Heap(fr,ttl): 28117,32640 Sessions: 0
+06/20 14:51:41 metrics Threads(b,d,i,ttl): 0,0,0,1, Requests(hd,dl,dr): 0,0,0, Heap(fr,ttl): 28117,32640 Sessions: 0
+06/20 15:01:41 metrics Threads(b,d,i,ttl): 0,0,0,1, Requests(hd,dl,dr): 0,0,0, Heap(fr,ttl): 28111,32640 Sessions: 0
+06/20 15:11:41 metrics Threads(b,d,i,ttl): 0,0,0,1, Requests(hd,dl,dr): 0,0,0, Heap(fr,ttl): 28117,32640 Sessions: 0
+06/20 15:21:41 metrics Threads(b,d,i,ttl): 0,0,0,1, Requests(hd,dl,dr): 0,0,0, Heap(fr,ttl): 28117,32640 Sessions: 0
+06/20 15:31:41 metrics Threads(b,d,i,ttl): 0,0,0,1, Requests(hd,dl,dr): 0,0,0, Heap(fr,ttl): 28117,32640 Sessions: 0
+06/20 15:41:41 metrics Threads(b,d,i,ttl): 0,0,0,1, Requests(hd,dl,dr): 0,0,0, Heap(fr,ttl): 28111,32640 Sessions: 0
+06/20 15:51:41 metrics Threads(b,d,i,ttl): 0,0,0,1, Requests(hd,dl,dr): 0,0,0, Heap(fr,ttl): 28117,32640 Sessions: 0
+06/20 16:01:41 metrics Threads(b,d,i,ttl): 0,0,0,1, Requests(hd,dl,dr): 0,0,0, Heap(fr,ttl): 28117,32640 Sessions: 0
+06/20 16:11:41 metrics Threads(b,d,i,ttl): 0,0,0,1, Requests(hd,dl,dr): 0,0,0, Heap(fr,ttl): 28117,32640 Sessions: 0
+06/20 16:21:41 metrics Threads(b,d,i,ttl): 0,0,0,1, Requests(hd,dl,dr): 0,0,0, Heap(fr,ttl): 28111,32640 Sessions: 0
+06/20 16:31:41 metrics Threads(b,d,i,ttl): 0,0,0,1, Requests(hd,dl,dr): 0,0,0, Heap(fr,ttl): 28117,32640 Sessions: 0
+06/20 16:41:41 metrics Threads(b,d,i,ttl): 0,0,0,1, Requests(hd,dl,dr): 0,0,0, Heap(fr,ttl): 28117,32640 Sessions: 0
+06/20 16:51:41 metrics Threads(b,d,i,ttl): 0,0,0,1, Requests(hd,dl,dr): 0,0,0, Heap(fr,ttl): 28117,32640 Sessions: 0
+06/20 17:01:41 metrics Threads(b,d,i,ttl): 0,0,0,1, Requests(hd,dl,dr): 0,0,0, Heap(fr,ttl): 28111,32640 Sessions: 0
+06/20 17:11:41 metrics Threads(b,d,i,ttl): 0,0,0,1, Requests(hd,dl,dr): 0,0,0, Heap(fr,ttl): 28117,32640 Sessions: 0
+06/20 17:21:41 metrics Threads(b,d,i,ttl): 0,0,0,1, Requests(hd,dl,dr): 0,0,0, Heap(fr,ttl): 28117,32640 Sessions: 0
+06/20 17:31:41 metrics Threads(b,d,i,ttl): 0,0,0,1, Requests(hd,dl,dr): 0,0,0, Heap(fr,ttl): 28117,32640 Sessions: 0
+06/20 17:41:41 metrics Threads(b,d,i,ttl): 0,0,0,1, Requests(hd,dl,dr): 0,0,0, Heap(fr,ttl): 28111,32640 Sessions: 0
+06/20 17:51:41 metrics Threads(b,d,i,ttl): 0,0,0,1, Requests(hd,dl,dr): 0,0,0, Heap(fr,ttl): 28117,32640 Sessions: 0
+06/20 18:01:41 metrics Threads(b,d,i,ttl): 0,0,0,1, Requests(hd,dl,dr): 0,0,0, Heap(fr,ttl): 28117,32640 Sessions: 0
+06/20 18:11:41 metrics Threads(b,d,i,ttl): 0,0,0,1, Requests(hd,dl,dr): 0,0,0, Heap(fr,ttl): 28117,32640 Sessions: 0
+06/20 18:21:41 metrics Threads(b,d,i,ttl): 0,0,0,1, Requests(hd,dl,dr): 0,0,0, Heap(fr,ttl): 28111,32640 Sessions: 0
+06/20 18:31:41 metrics Threads(b,d,i,ttl): 0,0,0,1, Requests(hd,dl,dr): 0,0,0, Heap(fr,ttl): 28117,32640 Sessions: 0
+06/20 18:41:41 metrics Threads(b,d,i,ttl): 0,0,0,1, Requests(hd,dl,dr): 0,0,0, Heap(fr,ttl): 28117,32640 Sessions: 0
+06/20 18:51:41 metrics Threads(b,d,i,ttl): 0,0,0,1, Requests(hd,dl,dr): 0,0,0, Heap(fr,ttl): 28117,32640 Sessions: 0
+06/20 19:01:41 metrics Threads(b,d,i,ttl): 0,0,0,1, Requests(hd,dl,dr): 0,0,0, Heap(fr,ttl): 28111,32640 Sessions: 0
+06/20 19:11:41 metrics Threads(b,d,i,ttl): 0,0,0,1, Requests(hd,dl,dr): 0,0,0, Heap(fr,ttl): 28117,32640 Sessions: 0
+06/20 19:21:41 metrics Threads(b,d,i,ttl): 0,0,0,1, Requests(hd,dl,dr): 0,0,0, Heap(fr,ttl): 28117,32640 Sessions: 0
+06/20 19:31:41 metrics Threads(b,d,i,ttl): 0,0,0,1, Requests(hd,dl,dr): 0,0,0, Heap(fr,ttl): 28117,32640 Sessions: 0
+06/20 19:41:41 metrics Threads(b,d,i,ttl): 0,0,0,1, Requests(hd,dl,dr): 0,0,0, Heap(fr,ttl): 28111,32640 Sessions: 0
+06/20 19:51:41 metrics Threads(b,d,i,ttl): 0,0,0,1, Requests(hd,dl,dr): 0,0,0, Heap(fr,ttl): 28117,32640 Sessions: 0
+06/20 20:01:41 metrics Threads(b,d,i,ttl): 0,0,0,1, Requests(hd,dl,dr): 0,0,0, Heap(fr,ttl): 28117,32640 Sessions: 0
+06/20 20:11:41 metrics Threads(b,d,i,ttl): 0,0,0,1, Requests(hd,dl,dr): 0,0,0, Heap(fr,ttl): 28117,32640 Sessions: 0
+06/20 20:21:41 metrics Threads(b,d,i,ttl): 0,0,0,1, Requests(hd,dl,dr): 0,0,0, Heap(fr,ttl): 28111,32640 Sessions: 0
+06/20 20:31:41 metrics Threads(b,d,i,ttl): 0,0,0,1, Requests(hd,dl,dr): 0,0,0, Heap(fr,ttl): 28117,32640 Sessions: 0
+06/20 20:41:41 metrics Threads(b,d,i,ttl): 0,0,0,1, Requests(hd,dl,dr): 0,0,0, Heap(fr,ttl): 28117,32640 Sessions: 0
+06/20 20:51:41 metrics Threads(b,d,i,ttl): 0,0,0,1, Requests(hd,dl,dr): 0,0,0, Heap(fr,ttl): 28117,32640 Sessions: 0
+06/20 21:01:41 metrics Threads(b,d,i,ttl): 0,0,0,1, Requests(hd,dl,dr): 0,0,0, Heap(fr,ttl): 28111,32640 Sessions: 0
+06/20 21:11:41 metrics Threads(b,d,i,ttl): 0,0,0,1, Requests(hd,dl,dr): 0,0,0, Heap(fr,ttl): 28117,32640 Sessions: 0
+06/20 21:21:41 metrics Threads(b,d,i,ttl): 0,0,0,1, Requests(hd,dl,dr): 0,0,0, Heap(fr,ttl): 28117,32640 Sessions: 0
+06/20 21:31:41 metrics Threads(b,d,i,ttl): 0,0,0,1, Requests(hd,dl,dr): 0,0,0, Heap(fr,ttl): 28117,32640 Sessions: 0
+06/20 21:41:41 metrics Threads(b,d,i,ttl): 0,0,0,1, Requests(hd,dl,dr): 0,0,0, Heap(fr,ttl): 28111,32640 Sessions: 0
+06/20 21:51:41 metrics Threads(b,d,i,ttl): 0,0,0,1, Requests(hd,dl,dr): 0,0,0, Heap(fr,ttl): 28117,32640 Sessions: 0
+06/20 22:01:41 metrics Threads(b,d,i,ttl): 0,0,0,1, Requests(hd,dl,dr): 0,0,0, Heap(fr,ttl): 28117,32640 Sessions: 0
+06/20 22:11:41 metrics Threads(b,d,i,ttl): 0,0,0,1, Requests(hd,dl,dr): 0,0,0, Heap(fr,ttl): 28117,32640 Sessions: 0
+06/20 22:21:41 metrics Threads(b,d,i,ttl): 0,0,0,1, Requests(hd,dl,dr): 0,0,0, Heap(fr,ttl): 28111,32640 Sessions: 0
+06/20 22:31:41 metrics Threads(b,d,i,ttl): 0,0,1,2, Requests(hd,dl,dr): 1,0,0, Heap(fr,ttl): 28070,32640 Sessions: 0
+06/20 22:41:41 metrics Threads(b,d,i,ttl): 0,0,0,1, Requests(hd,dl,dr): 0,0,0, Heap(fr,ttl): 28117,32640 Sessions: 0
+06/20 22:51:41 metrics Threads(b,d,i,ttl): 0,0,0,1, Requests(hd,dl,dr): 0,0,0, Heap(fr,ttl): 28117,32640 Sessions: 0
+06/20 23:01:41 metrics Threads(b,d,i,ttl): 0,0,0,1, Requests(hd,dl,dr): 0,0,0, Heap(fr,ttl): 28111,32640 Sessions: 0
+06/20 23:11:41 metrics Threads(b,d,i,ttl): 0,0,0,1, Requests(hd,dl,dr): 0,0,0, Heap(fr,ttl): 28117,32640 Sessions: 0
+06/20 23:21:41 metrics Threads(b,d,i,ttl): 0,0,0,1, Requests(hd,dl,dr): 0,0,0, Heap(fr,ttl): 28117,32640 Sessions: 0
+06/20 23:31:41 metrics Threads(b,d,i,ttl): 0,0,0,1, Requests(hd,dl,dr): 0,0,0, Heap(fr,ttl): 28117,32640 Sessions: 0
+06/20 23:41:41 metrics Threads(b,d,i,ttl): 0,0,0,1, Requests(hd,dl,dr): 0,0,0, Heap(fr,ttl): 28111,32640 Sessions: 0
+06/20 23:51:41 metrics Threads(b,d,i,ttl): 0,0,0,1, Requests(hd,dl,dr): 0,0,0, Heap(fr,ttl): 28117,32640 Sessions: 0
+06/21 00:01:41 metrics Threads(b,d,i,ttl): 0,0,0,1, Requests(hd,dl,dr): 0,0,0, Heap(fr,ttl): 28117,32640 Sessions: 0
+06/21 00:11:41 metrics Threads(b,d,i,ttl): 0,0,0,1, Requests(hd,dl,dr): 0,0,0, Heap(fr,ttl): 28117,32640 Sessions: 0
+06/21 00:21:41 metrics Threads(b,d,i,ttl): 0,0,0,1, Requests(hd,dl,dr): 0,0,0, Heap(fr,ttl): 28111,32640 Sessions: 0
+06/21 00:31:41 metrics Threads(b,d,i,ttl): 0,0,0,1, Requests(hd,dl,dr): 0,0,0, Heap(fr,ttl): 28117,32640 Sessions: 0
+06/21 00:41:41 metrics Threads(b,d,i,ttl): 0,0,0,1, Requests(hd,dl,dr): 0,0,0, Heap(fr,ttl): 28117,32640 Sessions: 0
+06/21 00:51:41 metrics Threads(b,d,i,ttl): 0,0,0,1, Requests(hd,dl,dr): 0,0,0, Heap(fr,ttl): 28117,32640 Sessions: 0
+06/21 01:01:41 metrics Threads(b,d,i,ttl): 0,0,0,1, Requests(hd,dl,dr): 0,0,0, Heap(fr,ttl): 28111,32640 Sessions: 0
+06/21 01:11:41 metrics Threads(b,d,i,ttl): 0,0,0,1, Requests(hd,dl,dr): 0,0,0, Heap(fr,ttl): 28117,32640 Sessions: 0
+06/21 01:21:41 metrics Threads(b,d,i,ttl): 0,0,0,1, Requests(hd,dl,dr): 0,0,0, Heap(fr,ttl): 28117,32640 Sessions: 0
+06/21 01:31:41 metrics Threads(b,d,i,ttl): 0,0,0,1, Requests(hd,dl,dr): 0,0,0, Heap(fr,ttl): 28117,32640 Sessions: 0
+06/21 01:41:41 metrics Threads(b,d,i,ttl): 0,0,0,1, Requests(hd,dl,dr): 0,0,0, Heap(fr,ttl): 28111,32640 Sessions: 0
+06/21 01:51:41 metrics Threads(b,d,i,ttl): 0,0,0,1, Requests(hd,dl,dr): 0,0,0, Heap(fr,ttl): 28117,32640 Sessions: 0
+06/21 02:00:30 user start [ 127.0.0.1 N/A ] executer: maintenance.prop_chg
+06/21 02:00:30 user end [ 127.0.0.1 N/A ] executer: maintenance.prop_chg elapse: 31 executer_class: jm2.maintenance.PropChgExecuter sts: OK jsp: /jsp/common/PropChg.jsp
+06/21 02:06:05 info JRunDataSource は HISTORA という名で JNDI にバインドされました
+06/21 02:06:05 info JRun DataSourceService: HISTORA という名前の JDBC XA 接続プールを作成しました
+06/21 02:06:05 info "DefaultDataSource" からデフォルトデータソース "HISTORA" への LinkRef  をバインドしました
+06/21 02:06:05 info JRun プロキシサーバー は *:51000 上でリスン中
+06/21 02:06:05 info Web アプリケーション "GUNMA" を file:/C:/JRun4/servers/default/gunma.war からデプロイ中
+06/21 02:06:05 user JSPServlet: init
+06/21 02:06:06 user HistoryServlet: init
+06/21 02:06:06 user Context 初期化: Version=2.3
+06/21 02:06:06 user Context 初期化 ログインユーザテーブル初期化完了
+06/21 02:09:12 user start [ 127.0.0.1 N/A ] executer: maintenance.prop_chg
+06/21 02:09:12 user end [ 127.0.0.1 N/A ] executer: maintenance.prop_chg elapse: 63 executer_class: jm2.maintenance.PropChgExecuter sts: OK jsp: /jsp/common/PropChg.jsp
+06/21 02:09:42 user start [ 127.0.0.1 N/A ] executer: maintenance.prop_chg
+06/21 02:09:42 user end [ 127.0.0.1 N/A ] executer: maintenance.prop_chg elapse: 15 executer_class: jm2.maintenance.PropChgExecuter sts: OK jsp: /jsp/common/PropChg.jsp
+06/21 02:16:03 metrics Threads(b,d,i,ttl): 0,0,0,1, Requests(hd,dl,dr): 2,0,0, Heap(fr,ttl): 29055,32640 Sessions: 0
+06/21 02:26:03 metrics Threads(b,d,i,ttl): 0,0,0,1, Requests(hd,dl,dr): 0,0,0, Heap(fr,ttl): 29063,32640 Sessions: 0
+06/21 02:36:03 metrics Threads(b,d,i,ttl): 0,0,0,1, Requests(hd,dl,dr): 0,0,0, Heap(fr,ttl): 29062,32640 Sessions: 0
+06/21 02:46:03 metrics Threads(b,d,i,ttl): 0,0,0,1, Requests(hd,dl,dr): 0,0,0, Heap(fr,ttl): 29062,32640 Sessions: 0
+06/21 02:56:03 metrics Threads(b,d,i,ttl): 0,0,0,1, Requests(hd,dl,dr): 0,0,0, Heap(fr,ttl): 29055,32640 Sessions: 0
+06/21 03:06:03 metrics Threads(b,d,i,ttl): 0,0,0,1, Requests(hd,dl,dr): 0,0,0, Heap(fr,ttl): 29061,32640 Sessions: 0
+06/21 03:16:03 metrics Threads(b,d,i,ttl): 0,0,0,1, Requests(hd,dl,dr): 0,0,0, Heap(fr,ttl): 29061,32640 Sessions: 0
+06/21 03:26:03 metrics Threads(b,d,i,ttl): 0,0,0,1, Requests(hd,dl,dr): 0,0,0, Heap(fr,ttl): 29060,32640 Sessions: 0
+06/21 03:36:03 metrics Threads(b,d,i,ttl): 0,0,0,1, Requests(hd,dl,dr): 0,0,0, Heap(fr,ttl): 29054,32640 Sessions: 0
+06/21 03:46:03 metrics Threads(b,d,i,ttl): 0,0,0,1, Requests(hd,dl,dr): 0,0,0, Heap(fr,ttl): 29059,32640 Sessions: 0
+06/21 03:56:03 metrics Threads(b,d,i,ttl): 0,0,0,1, Requests(hd,dl,dr): 0,0,0, Heap(fr,ttl): 29059,32640 Sessions: 0
+06/21 04:06:03 metrics Threads(b,d,i,ttl): 0,0,0,1, Requests(hd,dl,dr): 0,0,0, Heap(fr,ttl): 29059,32640 Sessions: 0
+06/21 04:16:03 metrics Threads(b,d,i,ttl): 0,0,0,1, Requests(hd,dl,dr): 0,0,0, Heap(fr,ttl): 29053,32640 Sessions: 0
+06/21 04:26:03 metrics Threads(b,d,i,ttl): 0,0,0,1, Requests(hd,dl,dr): 0,0,0, Heap(fr,ttl): 29059,32640 Sessions: 0
+06/21 04:36:03 metrics Threads(b,d,i,ttl): 0,0,0,1, Requests(hd,dl,dr): 0,0,0, Heap(fr,ttl): 29059,32640 Sessions: 0
+06/21 04:46:03 metrics Threads(b,d,i,ttl): 0,0,0,1, Requests(hd,dl,dr): 0,0,0, Heap(fr,ttl): 29059,32640 Sessions: 0
+06/21 04:56:03 metrics Threads(b,d,i,ttl): 0,0,0,1, Requests(hd,dl,dr): 0,0,0, Heap(fr,ttl): 29053,32640 Sessions: 0
+06/21 05:06:03 metrics Threads(b,d,i,ttl): 0,0,0,1, Requests(hd,dl,dr): 0,0,0, Heap(fr,ttl): 29059,32640 Sessions: 0
+06/21 05:16:03 metrics Threads(b,d,i,ttl): 0,0,0,1, Requests(hd,dl,dr): 0,0,0, Heap(fr,ttl): 29059,32640 Sessions: 0
+06/21 05:26:03 metrics Threads(b,d,i,ttl): 0,0,0,1, Requests(hd,dl,dr): 0,0,0, Heap(fr,ttl): 29059,32640 Sessions: 0
+06/21 05:36:03 metrics Threads(b,d,i,ttl): 0,0,0,1, Requests(hd,dl,dr): 0,0,0, Heap(fr,ttl): 29053,32640 Sessions: 0
+06/21 05:46:03 metrics Threads(b,d,i,ttl): 0,0,0,1, Requests(hd,dl,dr): 0,0,0, Heap(fr,ttl): 29059,32640 Sessions: 0
+06/21 05:56:03 metrics Threads(b,d,i,ttl): 0,0,0,1, Requests(hd,dl,dr): 0,0,0, Heap(fr,ttl): 29059,32640 Sessions: 0
+06/21 06:06:03 metrics Threads(b,d,i,ttl): 0,0,0,1, Requests(hd,dl,dr): 0,0,0, Heap(fr,ttl): 29059,32640 Sessions: 0
+06/21 06:16:03 metrics Threads(b,d,i,ttl): 0,0,0,1, Requests(hd,dl,dr): 0,0,0, Heap(fr,ttl): 29053,32640 Sessions: 0
+06/21 06:26:03 metrics Threads(b,d,i,ttl): 0,0,0,1, Requests(hd,dl,dr): 0,0,0, Heap(fr,ttl): 29059,32640 Sessions: 0
+06/21 06:36:03 metrics Threads(b,d,i,ttl): 0,0,0,1, Requests(hd,dl,dr): 0,0,0, Heap(fr,ttl): 29059,32640 Sessions: 0
+06/21 06:46:03 metrics Threads(b,d,i,ttl): 0,0,0,1, Requests(hd,dl,dr): 0,0,0, Heap(fr,ttl): 29059,32640 Sessions: 0
+06/21 06:56:03 metrics Threads(b,d,i,ttl): 0,0,0,1, Requests(hd,dl,dr): 0,0,0, Heap(fr,ttl): 29053,32640 Sessions: 0
+06/21 07:06:03 metrics Threads(b,d,i,ttl): 0,0,0,1, Requests(hd,dl,dr): 0,0,0, Heap(fr,ttl): 29059,32640 Sessions: 0
+06/21 07:16:03 metrics Threads(b,d,i,ttl): 0,0,0,1, Requests(hd,dl,dr): 0,0,0, Heap(fr,ttl): 29059,32640 Sessions: 0
+06/21 07:26:03 metrics Threads(b,d,i,ttl): 0,0,0,1, Requests(hd,dl,dr): 0,0,0, Heap(fr,ttl): 29059,32640 Sessions: 0
+06/21 07:36:03 metrics Threads(b,d,i,ttl): 0,0,0,1, Requests(hd,dl,dr): 0,0,0, Heap(fr,ttl): 29053,32640 Sessions: 0
+06/21 07:46:03 metrics Threads(b,d,i,ttl): 0,0,0,1, Requests(hd,dl,dr): 0,0,0, Heap(fr,ttl): 29059,32640 Sessions: 0
+06/21 07:56:03 metrics Threads(b,d,i,ttl): 0,0,0,1, Requests(hd,dl,dr): 0,0,0, Heap(fr,ttl): 29059,32640 Sessions: 0
+06/21 08:06:03 metrics Threads(b,d,i,ttl): 0,0,0,1, Requests(hd,dl,dr): 0,0,0, Heap(fr,ttl): 29059,32640 Sessions: 0
+06/21 08:16:03 metrics Threads(b,d,i,ttl): 0,0,0,1, Requests(hd,dl,dr): 0,0,0, Heap(fr,ttl): 29053,32640 Sessions: 0
+06/21 08:26:03 metrics Threads(b,d,i,ttl): 0,0,0,1, Requests(hd,dl,dr): 0,0,0, Heap(fr,ttl): 29059,32640 Sessions: 0
+06/21 08:36:03 metrics Threads(b,d,i,ttl): 0,0,0,1, Requests(hd,dl,dr): 0,0,0, Heap(fr,ttl): 29059,32640 Sessions: 0
+06/21 08:46:03 metrics Threads(b,d,i,ttl): 0,0,0,1, Requests(hd,dl,dr): 0,0,0, Heap(fr,ttl): 29059,32640 Sessions: 0
+06/21 08:56:03 metrics Threads(b,d,i,ttl): 0,0,0,1, Requests(hd,dl,dr): 0,0,0, Heap(fr,ttl): 29053,32640 Sessions: 0
+06/21 09:06:03 metrics Threads(b,d,i,ttl): 0,0,0,1, Requests(hd,dl,dr): 0,0,0, Heap(fr,ttl): 29059,32640 Sessions: 0
+06/21 09:16:03 metrics Threads(b,d,i,ttl): 0,0,0,1, Requests(hd,dl,dr): 0,0,0, Heap(fr,ttl): 29059,32640 Sessions: 0
+06/21 09:26:03 metrics Threads(b,d,i,ttl): 0,0,0,1, Requests(hd,dl,dr): 0,0,0, Heap(fr,ttl): 29059,32640 Sessions: 0
+06/21 09:36:03 metrics Threads(b,d,i,ttl): 0,0,0,1, Requests(hd,dl,dr): 0,0,0, Heap(fr,ttl): 29053,32640 Sessions: 0
+06/21 09:46:03 metrics Threads(b,d,i,ttl): 0,0,0,1, Requests(hd,dl,dr): 0,0,0, Heap(fr,ttl): 29059,32640 Sessions: 0
+06/21 09:56:03 metrics Threads(b,d,i,ttl): 0,0,0,1, Requests(hd,dl,dr): 0,0,0, Heap(fr,ttl): 29059,32640 Sessions: 0
+06/21 10:06:03 metrics Threads(b,d,i,ttl): 0,0,0,1, Requests(hd,dl,dr): 0,0,0, Heap(fr,ttl): 29059,32640 Sessions: 0
+06/21 10:16:03 metrics Threads(b,d,i,ttl): 0,0,0,1, Requests(hd,dl,dr): 0,0,0, Heap(fr,ttl): 29053,32640 Sessions: 0
+06/21 10:26:03 metrics Threads(b,d,i,ttl): 0,0,0,1, Requests(hd,dl,dr): 0,0,0, Heap(fr,ttl): 29059,32640 Sessions: 0
+06/21 10:36:03 metrics Threads(b,d,i,ttl): 0,0,0,1, Requests(hd,dl,dr): 0,0,0, Heap(fr,ttl): 29059,32640 Sessions: 0
+06/21 10:44:43 user start [ 172.24.64.35 N/A ] executer: history.login
+06/21 10:44:43 user Session 生成: ID=7630537651087782283031
+06/21 10:44:43 user end [ 172.24.64.35 N/A ] executer: history.login elapse: 406 executer_class: history.login.LoginExecuter sts: OK jsp: /jsp/history/menu/menu.jsp
+06/21 10:44:43 user FileServlet: init
+06/21 10:44:45 user start [ 172.24.64.35 7630537651087782283031 ] executer: history.audit.form
+06/21 10:44:45 user end [ 172.24.64.35 7630537651087782283031 ] executer: history.audit.form elapse: 157 executer_class: history.audit.AuditExecuter sts: NG jsp: /jsp/history/audit/Audit.jsp
+06/21 10:45:00 user start [ 172.24.64.35 7630537651087782283031 ] executer: history.audit.form
+06/21 10:45:00 user end [ 172.24.64.35 7630537651087782283031 ] executer: history.audit.form elapse: 63 executer_class: history.audit.AuditExecuter sts: NG jsp: /jsp/history/audit/Audit.jsp
+06/21 10:45:10 user start [ 172.24.64.34 7630537651087782283031 ] executer: history.audit.form
+06/21 10:45:10 user end [ 172.24.64.34 7630537651087782283031 ] executer: history.audit.form elapse: 78 executer_class: history.audit.AuditExecuter sts: NG jsp: /jsp/history/audit/Audit.jsp
+06/21 10:45:24 user start [ 172.24.64.34 7630537651087782283031 ] executer: history.audit.form
+06/21 10:45:24 user end [ 172.24.64.34 7630537651087782283031 ] executer: history.audit.form elapse: 63 executer_class: history.audit.AuditExecuter sts: NG jsp: /jsp/history/audit/Audit.jsp
+06/21 10:45:33 user start [ 172.24.64.35 7630537651087782283031 ] executer: history.audit.form
+06/21 10:45:33 user end [ 172.24.64.35 7630537651087782283031 ] executer: history.audit.form elapse: 63 executer_class: history.audit.AuditExecuter sts: NG jsp: /jsp/history/audit/Audit.jsp
+06/21 10:45:37 user start [ 172.24.64.35 7630537651087782283031 ] executer: history.audit.form
+06/21 10:45:37 user end [ 172.24.64.35 7630537651087782283031 ] executer: history.audit.form elapse: 62 executer_class: history.audit.AuditExecuter sts: NG jsp: /jsp/history/audit/Audit.jsp
+06/21 10:46:03 metrics Threads(b,d,i,ttl): 0,0,1,2, Requests(hd,dl,dr): 60,0,0, Heap(fr,ttl): 28727,32640 Sessions: 1
+06/21 10:55:38 user start [ 172.24.64.35 7630537651087782283031 ] executer: history.logout
+06/21 10:55:38 user end [ 172.24.64.35 7630537651087782283031 ] executer: history.logout elapse: 32 executer_class: history.logout.LogoutExecuter sts: OK jsp: /jsp/history/logout/logout.jsp
+06/21 10:55:38 user Session 破棄: ID=7630537651087782283031
+06/21 10:55:43 user start [ 172.24.64.35 N/A ] executer: history.logout.close
+06/21 10:55:43 user end [ 172.24.64.35 N/A ] executer: history.logout.close elapse: 15 executer_class: history.logout.LogoutExecuter sts: OK jsp: /jsp/history/logout/logoutClose.jsp
+06/21 10:55:43 user Session 生成: ID=7630537651087782283031
+06/21 10:55:43 user Session 破棄: ID=7630537651087782283031
+06/21 10:56:03 metrics Threads(b,d,i,ttl): 0,0,1,2, Requests(hd,dl,dr): 4,0,0, Heap(fr,ttl): 28678,32640 Sessions: 0
+06/21 11:06:03 metrics Threads(b,d,i,ttl): 0,0,0,1, Requests(hd,dl,dr): 0,0,0, Heap(fr,ttl): 28784,32640 Sessions: 0
+06/21 11:16:03 metrics Threads(b,d,i,ttl): 0,0,0,1, Requests(hd,dl,dr): 0,0,0, Heap(fr,ttl): 28784,32640 Sessions: 0
+06/21 11:26:03 metrics Threads(b,d,i,ttl): 0,0,0,1, Requests(hd,dl,dr): 0,0,0, Heap(fr,ttl): 28784,32640 Sessions: 0
+06/21 11:36:03 metrics Threads(b,d,i,ttl): 0,0,0,1, Requests(hd,dl,dr): 0,0,0, Heap(fr,ttl): 28778,32640 Sessions: 0
+06/21 11:46:03 metrics Threads(b,d,i,ttl): 0,0,0,1, Requests(hd,dl,dr): 0,0,0, Heap(fr,ttl): 28784,32640 Sessions: 0
+06/21 11:56:03 metrics Threads(b,d,i,ttl): 0,0,0,1, Requests(hd,dl,dr): 0,0,0, Heap(fr,ttl): 28784,32640 Sessions: 0
+06/21 12:06:03 metrics Threads(b,d,i,ttl): 0,0,0,1, Requests(hd,dl,dr): 0,0,0, Heap(fr,ttl): 28784,32640 Sessions: 0
+06/21 12:16:03 metrics Threads(b,d,i,ttl): 0,0,0,1, Requests(hd,dl,dr): 0,0,0, Heap(fr,ttl): 28778,32640 Sessions: 0
+06/21 12:26:03 metrics Threads(b,d,i,ttl): 0,0,0,1, Requests(hd,dl,dr): 0,0,0, Heap(fr,ttl): 28784,32640 Sessions: 0
+06/21 12:36:03 metrics Threads(b,d,i,ttl): 0,0,0,1, Requests(hd,dl,dr): 0,0,0, Heap(fr,ttl): 28784,32640 Sessions: 0
+06/21 12:46:03 metrics Threads(b,d,i,ttl): 0,0,0,1, Requests(hd,dl,dr): 0,0,0, Heap(fr,ttl): 28784,32640 Sessions: 0
+06/21 12:56:03 metrics Threads(b,d,i,ttl): 0,0,0,1, Requests(hd,dl,dr): 0,0,0, Heap(fr,ttl): 28778,32640 Sessions: 0
+06/21 13:06:03 metrics Threads(b,d,i,ttl): 0,0,0,1, Requests(hd,dl,dr): 0,0,0, Heap(fr,ttl): 28784,32640 Sessions: 0
+06/21 13:10:02 user start [ 172.24.91.117 N/A ] executer: history.login
+06/21 13:10:02 user Session 生成: ID=7630775381087791002640
+06/21 13:10:02 user end [ 172.24.91.117 N/A ] executer: history.login elapse: 140 executer_class: history.login.LoginExecuter sts: OK jsp: /jsp/history/menu/menu.jsp
+06/21 13:10:06 user start [ 172.24.91.117 7630775381087791002640 ] executer: history.enquirylist.form
+06/21 13:10:06 user end [ 172.24.91.117 7630775381087791002640 ] executer: history.enquirylist.form elapse: 453 executer_class: history.enquirylist.EnquirylistExecuter sts: OK jsp: /jsp/history/enquirylist/EnquiryList.jsp
+06/21 13:10:06 user start [ 172.24.91.117 7630775381087791002640 ] executer: history.enquirylist.head
+06/21 13:10:06 user end [ 172.24.91.117 7630775381087791002640 ] executer: history.enquirylist.head elapse: 62 executer_class: history.enquirylist.EnquiryListHeadExecuter sts: OK jsp: /jsp/history/enquirylist/EnquiryListHead.jsp
+06/21 13:10:25 user start [ 172.24.91.117 7630775381087791002640 ] executer: history.menu.form
+06/21 13:10:25 user end [ 172.24.91.117 7630775381087791002640 ] executer: history.menu.form elapse: 32 executer_class: history.menu.MenuFormExecuter sts: OK jsp: /jsp/history/menu/menu.jsp
+06/21 13:10:27 user start [ 172.24.91.117 7630775381087791002640 ] executer: history.logout
+06/21 13:10:27 user end [ 172.24.91.117 7630775381087791002640 ] executer: history.logout elapse: 15 executer_class: history.logout.LogoutExecuter sts: OK jsp: /jsp/history/logout/logout.jsp
+06/21 13:10:27 user Session 破棄: ID=7630775381087791002640
+06/21 13:10:33 user start [ 172.24.91.117 N/A ] executer: history.logout.close
+06/21 13:10:33 user end [ 172.24.91.117 N/A ] executer: history.logout.close elapse: 15 executer_class: history.logout.LogoutExecuter sts: OK jsp: /jsp/history/logout/logoutClose.jsp
+06/21 13:10:33 user Session 生成: ID=7630775381087791002640
+06/21 13:10:33 user Session 破棄: ID=7630775381087791002640
+06/21 13:15:14 user start [ 172.24.64.35 N/A ] executer: history.login
+06/21 13:15:14 user Session 生成: ID=76302149881087791314984
+06/21 13:15:15 user end [ 172.24.64.35 N/A ] executer: history.login elapse: 94 executer_class: history.login.LoginExecuter sts: OK jsp: /jsp/history/menu/menu.jsp
+06/21 13:15:17 user start [ 172.24.64.35 76302149881087791314984 ] executer: history.batch.certify.form
+06/21 13:15:17 user end [ 172.24.64.35 76302149881087791314984 ] executer: history.batch.certify.form elapse: 78 executer_class: history.certify.BatchCertifyFormExecuter sts: OK jsp: /jsp/history/certify/BatchCertifySrch.jsp
+06/21 13:15:21 user start [ 172.24.64.35 76302149881087791314984 ] executer: history.menu.form
+06/21 13:15:21 user end [ 172.24.64.35 76302149881087791314984 ] executer: history.menu.form elapse: 31 executer_class: history.menu.MenuFormExecuter sts: OK jsp: /jsp/history/menu/menu.jsp
+06/21 13:15:25 user start [ 172.24.64.34 76302149881087791314984 ] executer: history.batch.person.form
+06/21 13:15:25 user end [ 172.24.64.34 76302149881087791314984 ] executer: history.batch.person.form elapse: 47 executer_class: history.person.BatchPersonFormExecuter sts: OK jsp: /jsp/history/person/BatchPersonSrch.jsp
+06/21 13:15:31 user start [ 172.24.64.34 76302149881087791314984 ] executer: history.menu.form
+06/21 13:15:31 user end [ 172.24.64.34 76302149881087791314984 ] executer: history.menu.form elapse: 31 executer_class: history.menu.MenuFormExecuter sts: OK jsp: /jsp/history/menu/menu.jsp
+06/21 13:15:32 user start [ 172.24.64.34 76302149881087791314984 ] executer: history.batch.balance.form
+06/21 13:15:32 user end [ 172.24.64.34 76302149881087791314984 ] executer: history.batch.balance.form elapse: 46 executer_class: history.balance.BatchBalanceFormExecuter sts: OK jsp: /jsp/history/balance/BatchBalanceSrch.jsp
+06/21 13:15:34 user start [ 172.24.64.34 76302149881087791314984 ] executer: history.menu.form
+06/21 13:15:34 user end [ 172.24.64.34 76302149881087791314984 ] executer: history.menu.form elapse: 63 executer_class: history.menu.MenuFormExecuter sts: OK jsp: /jsp/history/menu/menu.jsp
+06/21 13:15:36 user start [ 172.24.64.34 76302149881087791314984 ] executer: history.batch.certify.form
+06/21 13:15:36 user end [ 172.24.64.34 76302149881087791314984 ] executer: history.batch.certify.form elapse: 16 executer_class: history.certify.BatchCertifyFormExecuter sts: OK jsp: /jsp/history/certify/BatchCertifySrch.jsp
+06/21 13:15:48 user start [ 172.24.64.35 76302149881087791314984 ] executer: history.batch.certify.srch
+06/21 13:15:48 user end [ 172.24.64.35 76302149881087791314984 ] executer: history.batch.certify.srch elapse: 203 executer_class: history.certify.BatchCertifyExecuter sts: NG jsp: /jsp/history/certify/BatchCertifySrch.jsp
+06/21 13:16:03 metrics Threads(b,d,i,ttl): 0,0,1,2, Requests(hd,dl,dr): 96,0,0, Heap(fr,ttl): 28031,32640 Sessions: 1
+06/21 13:16:03 user start [ 172.24.64.35 76302149881087791314984 ] executer: history.batch.certify.srch
+06/21 13:16:03 user end [ 172.24.64.35 76302149881087791314984 ] executer: history.batch.certify.srch elapse: 63 executer_class: history.certify.BatchCertifyExecuter sts: NG jsp: /jsp/history/certify/BatchCertifySrch.jsp
+06/21 13:16:22 user start [ 172.24.64.35 76302149881087791314984 ] executer: history.batch.certify.srch
+06/21 13:16:22 user end [ 172.24.64.35 76302149881087791314984 ] executer: history.batch.certify.srch elapse: 516 executer_class: history.certify.BatchCertifyExecuter sts: OK jsp: /jsp/history/certify/DelayCertify.jsp
+06/21 13:16:27 user start [ 172.24.64.35 76302149881087791314984 ] executer: history.enquiry.form
+06/21 13:16:28 user end [ 172.24.64.35 76302149881087791314984 ] executer: history.enquiry.form elapse: 109 executer_class: history.enquiry.EnquiryExecuter sts: OK jsp: /jsp/history/enquiry/EnquirySrch.jsp
+06/21 13:16:32 user start [ 172.24.64.35 76302149881087791314984 ] executer: history.detail.disp
+06/21 13:16:32 user end [ 172.24.64.35 76302149881087791314984 ] executer: history.detail.disp elapse: 63 executer_class: history.common.DetailExecuter sts: 8 jsp: /jsp/history/certify/DelayCertify.jsp
+06/21 13:16:51 user start [ 172.24.64.35 76302149881087791314984 ] executer: history.enquiry.form
+06/21 13:16:51 user end [ 172.24.64.35 76302149881087791314984 ] executer: history.enquiry.form elapse: 94 executer_class: history.enquiry.EnquiryExecuter sts: OK jsp: /jsp/history/enquiry/EnquirySrch.jsp
+06/21 13:16:54 user start [ 172.24.64.35 76302149881087791314984 ] executer: history.menu.form
+06/21 13:16:54 user end [ 172.24.64.35 76302149881087791314984 ] executer: history.menu.form elapse: 31 executer_class: history.menu.MenuFormExecuter sts: OK jsp: /jsp/history/menu/menu.jsp
+06/21 13:16:56 user start [ 172.24.64.35 76302149881087791314984 ] executer: history.audit.form
+06/21 13:16:56 user end [ 172.24.64.35 76302149881087791314984 ] executer: history.audit.form elapse: 63 executer_class: history.audit.AuditExecuter sts: OK jsp: /jsp/history/audit/Audit.jsp
+06/21 13:17:11 user start [ 172.24.64.35 76302149881087791314984 ] executer: history.audit.form
+06/21 13:17:11 user end [ 172.24.64.35 76302149881087791314984 ] executer: history.audit.form elapse: 78 executer_class: history.audit.AuditExecuter sts: NG jsp: /jsp/history/audit/Audit.jsp
+06/21 13:17:31 user start [ 172.24.64.35 76302149881087791314984 ] executer: history.audit.form
+06/21 13:17:31 user end [ 172.24.64.35 76302149881087791314984 ] executer: history.audit.form elapse: 188 executer_class: history.audit.AuditExecuter sts: OK jsp: /jsp/history/audit/Audit.jsp
+06/21 13:17:35 user start [ 172.24.64.35 76302149881087791314984 ] executer: history.audit.form
+06/21 13:17:35 user end [ 172.24.64.35 76302149881087791314984 ] executer: history.audit.form elapse: 63 executer_class: history.audit.AuditExecuter sts: OK jsp: /jsp/history/audit/Audit.jsp
+06/21 13:17:36 user start [ 172.24.64.35 76302149881087791314984 ] executer: history.audit.form
+06/21 13:17:36 user end [ 172.24.64.35 76302149881087791314984 ] executer: history.audit.form elapse: 78 executer_class: history.audit.AuditExecuter sts: OK jsp: /jsp/history/audit/Audit.jsp
+06/21 13:17:37 user start [ 172.24.64.35 76302149881087791314984 ] executer: history.audit.form
+06/21 13:17:37 user end [ 172.24.64.35 76302149881087791314984 ] executer: history.audit.form elapse: 78 executer_class: history.audit.AuditExecuter sts: OK jsp: /jsp/history/audit/Audit.jsp
+06/21 13:17:43 user start [ 172.24.64.35 76302149881087791314984 ] executer: history.menu.form
+06/21 13:17:43 user end [ 172.24.64.35 76302149881087791314984 ] executer: history.menu.form elapse: 62 executer_class: history.menu.MenuFormExecuter sts: OK jsp: /jsp/history/menu/menu.jsp
+06/21 13:17:44 user start [ 172.24.64.35 76302149881087791314984 ] executer: history.enquiry.form
+06/21 13:17:44 user end [ 172.24.64.35 76302149881087791314984 ] executer: history.enquiry.form elapse: 78 executer_class: history.enquiry.EnquiryExecuter sts: OK jsp: /jsp/history/enquiry/EnquirySrch.jsp
+06/21 13:17:53 user start [ 172.24.64.34 76302149881087791314984 ] executer: history.detail.disp
+06/21 13:17:53 user end [ 172.24.64.34 76302149881087791314984 ] executer: history.detail.disp elapse: 31 executer_class: history.common.DetailExecuter sts: 8 jsp: /jsp/history/certify/DelayCertify.jsp
+06/21 13:18:43 user start [ 172.24.91.117 N/A ] executer: history.login
+06/21 13:18:43 user Session 生成: ID=7630784641087791523171
+06/21 13:18:43 user end [ 172.24.91.117 N/A ] executer: history.login elapse: 94 executer_class: history.login.LoginExecuter sts: OK jsp: /jsp/history/menu/menu.jsp
+06/21 13:18:45 user start [ 172.24.91.117 7630784641087791523171 ] executer: history.enquirylist.form
+06/21 13:18:45 user end [ 172.24.91.117 7630784641087791523171 ] executer: history.enquirylist.form elapse: 203 executer_class: history.enquirylist.EnquirylistExecuter sts: OK jsp: /jsp/history/enquirylist/EnquiryList.jsp
+06/21 13:18:45 user start [ 172.24.91.117 7630784641087791523171 ] executer: history.enquirylist.head
+06/21 13:18:45 user end [ 172.24.91.117 7630784641087791523171 ] executer: history.enquirylist.head elapse: 62 executer_class: history.enquirylist.EnquiryListHeadExecuter sts: OK jsp: /jsp/history/enquirylist/EnquiryListHead.jsp
+06/21 13:18:46 user Errorページ開始
+06/21 13:20:28 user start [ 172.24.91.117 N/A ] executer: history.login
+06/21 13:20:28 user Session 生成: ID=76302371511087791628531
+06/21 13:20:28 user end [ 172.24.91.117 N/A ] executer: history.login elapse: 78 executer_class: history.login.LoginExecuter sts: NG jsp: /jsp/history/Invalid.jsp
+06/21 13:20:28 user Invalidページ開始
+06/21 13:20:33 user start [ 172.24.91.117 76302371511087791628531 ] executer: history.logout
+06/21 13:20:33 user end [ 172.24.91.117 76302371511087791628531 ] executer: history.logout elapse: 15 executer_class: history.logout.LogoutExecuter sts: OK jsp: /jsp/history/logout/logout.jsp
+06/21 13:20:33 user Session 破棄: ID=76302371511087791628531
+06/21 13:20:38 user start [ 172.24.91.117 N/A ] executer: history.logout.close
+06/21 13:20:38 user end [ 172.24.91.117 N/A ] executer: history.logout.close elapse: 15 executer_class: history.logout.LogoutExecuter sts: OK jsp: /jsp/history/logout/logoutClose.jsp
+06/21 13:20:38 user Session 生成: ID=76302371511087791628531
+06/21 13:20:38 user Session 破棄: ID=76302371511087791628531
+06/21 13:21:33 user start [ 172.24.91.117 N/A ] executer: history.login
+06/21 13:21:33 user Session 生成: ID=76301673781087791693109
+06/21 13:21:33 user end [ 172.24.91.117 N/A ] executer: history.login elapse: 110 executer_class: history.login.LoginExecuter sts: OK jsp: /jsp/history/menu/menu.jsp
+06/21 13:21:35 user start [ 172.24.91.117 76301673781087791693109 ] executer: history.audit.form
+06/21 13:21:35 user end [ 172.24.91.117 76301673781087791693109 ] executer: history.audit.form elapse: 78 executer_class: history.audit.AuditExecuter sts: NG jsp: /jsp/history/audit/Audit.jsp
+06/21 13:21:35 user Errorページ開始
+06/21 13:21:45 user start [ 172.24.91.117 76301673781087791693109 ] executer: history.logout
+06/21 13:21:45 user end [ 172.24.91.117 76301673781087791693109 ] executer: history.logout elapse: 16 executer_class: history.logout.LogoutExecuter sts: OK jsp: /jsp/history/logout/logout.jsp
+06/21 13:21:45 user Session 破棄: ID=76301673781087791693109
+06/21 13:21:51 user start [ 172.24.91.117 N/A ] executer: history.logout.close
+06/21 13:21:51 user end [ 172.24.91.117 N/A ] executer: history.logout.close elapse: 15 executer_class: history.logout.LogoutExecuter sts: OK jsp: /jsp/history/logout/logoutClose.jsp
+06/21 13:21:51 user Session 生成: ID=76301673781087791693109
+06/21 13:21:51 user Session 破棄: ID=76301673781087791693109
+06/21 13:22:24 user start [ 172.24.91.117 N/A ] executer: history.login
+06/21 13:22:24 user Session 生成: ID=76302585821087791744812
+06/21 13:22:24 user end [ 172.24.91.117 N/A ] executer: history.login elapse: 78 executer_class: history.login.LoginExecuter sts: OK jsp: /jsp/history/menu/menu.jsp
+06/21 13:22:27 user start [ 172.24.91.117 76302585821087791744812 ] executer: history.audit.form
+06/21 13:22:27 user end [ 172.24.91.117 76302585821087791744812 ] executer: history.audit.form elapse: 62 executer_class: history.audit.AuditExecuter sts: NG jsp: /jsp/history/audit/Audit.jsp
+06/21 13:22:29 user start [ 172.24.91.117 76302585821087791744812 ] executer: history.menu.form
+06/21 13:22:29 user end [ 172.24.91.117 76302585821087791744812 ] executer: history.menu.form elapse: 31 executer_class: history.menu.MenuFormExecuter sts: OK jsp: /jsp/history/menu/menu.jsp
+06/21 13:22:36 user start [ 172.24.91.117 76302585821087791744812 ] executer: history.enquirylist.form
+06/21 13:22:36 user end [ 172.24.91.117 76302585821087791744812 ] executer: history.enquirylist.form elapse: 219 executer_class: history.enquirylist.EnquirylistExecuter sts: OK jsp: /jsp/history/enquirylist/EnquiryList.jsp
+06/21 13:22:36 user start [ 172.24.91.117 76302585821087791744812 ] executer: history.enquirylist.head
+06/21 13:22:36 user end [ 172.24.91.117 76302585821087791744812 ] executer: history.enquirylist.head elapse: 62 executer_class: history.enquirylist.EnquiryListHeadExecuter sts: OK jsp: /jsp/history/enquirylist/EnquiryListHead.jsp
+06/21 13:22:37 user Errorページ開始
+06/21 13:25:20 user start [ 172.24.64.34 76302149881087791314984 ] executer: history.batch.person.form
+06/21 13:25:20 user end [ 172.24.64.34 76302149881087791314984 ] executer: history.batch.person.form elapse: 31 executer_class: history.person.BatchPersonFormExecuter sts: OK jsp: /jsp/history/person/BatchPersonSrch.jsp
+06/21 13:25:39 user start [ 172.24.64.34 76302149881087791314984 ] executer: history.menu.form
+06/21 13:25:39 user end [ 172.24.64.34 76302149881087791314984 ] executer: history.menu.form elapse: 31 executer_class: history.menu.MenuFormExecuter sts: OK jsp: /jsp/history/menu/menu.jsp
+06/21 13:25:40 user start [ 172.24.64.34 76302149881087791314984 ] executer: history.enquiry.form
+06/21 13:25:41 user end [ 172.24.64.34 76302149881087791314984 ] executer: history.enquiry.form elapse: 78 executer_class: history.enquiry.EnquiryExecuter sts: OK jsp: /jsp/history/enquiry/EnquirySrch.jsp
+06/21 13:25:45 user start [ 172.24.64.34 76302149881087791314984 ] executer: history.menu.form
+06/21 13:25:45 user end [ 172.24.64.34 76302149881087791314984 ] executer: history.menu.form elapse: 31 executer_class: history.menu.MenuFormExecuter sts: OK jsp: /jsp/history/menu/menu.jsp
+06/21 13:25:49 user start [ 172.24.64.34 76302149881087791314984 ] executer: history.batch.account.form
+06/21 13:25:49 user end [ 172.24.64.34 76302149881087791314984 ] executer: history.batch.account.form elapse: 63 executer_class: history.account.BatchAccountFormExecuter sts: OK jsp: /jsp/history/account/BatchAccountSrch.jsp
+06/21 13:25:52 user start [ 172.24.64.34 76302149881087791314984 ] executer: history.menu.form
+06/21 13:25:52 user end [ 172.24.64.34 76302149881087791314984 ] executer: history.menu.form elapse: 31 executer_class: history.menu.MenuFormExecuter sts: OK jsp: /jsp/history/menu/menu.jsp
+06/21 13:25:54 user start [ 172.24.64.34 76302149881087791314984 ] executer: history.audit.form
+06/21 13:25:54 user end [ 172.24.64.34 76302149881087791314984 ] executer: history.audit.form elapse: 62 executer_class: history.audit.AuditExecuter sts: OK jsp: /jsp/history/audit/Audit.jsp
+06/21 13:26:03 metrics Threads(b,d,i,ttl): 0,0,1,2, Requests(hd,dl,dr): 244,0,0, Heap(fr,ttl): 27639,32640 Sessions: 3
+06/21 13:26:08 user start [ 172.24.64.35 76302149881087791314984 ] executer: history.audit.form
+06/21 13:26:08 user end [ 172.24.64.35 76302149881087791314984 ] executer: history.audit.form elapse: 109 executer_class: history.audit.AuditExecuter sts: OK jsp: /jsp/history/audit/Audit.jsp
+06/21 13:26:19 user start [ 172.24.64.35 76302149881087791314984 ] executer: history.audit.form
+06/21 13:26:19 user end [ 172.24.64.35 76302149881087791314984 ] executer: history.audit.form elapse: 78 executer_class: history.audit.AuditExecuter sts: OK jsp: /jsp/history/audit/Audit.jsp
+06/21 13:26:36 user start [ 172.24.64.34 76302149881087791314984 ] executer: history.audit.form
+06/21 13:26:36 user end [ 172.24.64.34 76302149881087791314984 ] executer: history.audit.form elapse: 140 executer_class: history.audit.AuditExecuter sts: OK jsp: /jsp/history/audit/Audit.jsp
+06/21 13:26:42 user start [ 172.24.64.34 76302149881087791314984 ] executer: history.audit.form
+06/21 13:26:42 user end [ 172.24.64.34 76302149881087791314984 ] executer: history.audit.form elapse: 62 executer_class: history.audit.AuditExecuter sts: OK jsp: /jsp/history/audit/Audit.jsp
+06/21 13:26:46 user start [ 172.24.64.35 76302149881087791314984 ] executer: history.audit.form
+06/21 13:26:46 user end [ 172.24.64.35 76302149881087791314984 ] executer: history.audit.form elapse: 63 executer_class: history.audit.AuditExecuter sts: OK jsp: /jsp/history/audit/Audit.jsp
+06/21 13:26:47 user start [ 172.24.64.35 76302149881087791314984 ] executer: history.audit.form
+06/21 13:26:47 user end [ 172.24.64.35 76302149881087791314984 ] executer: history.audit.form elapse: 63 executer_class: history.audit.AuditExecuter sts: OK jsp: /jsp/history/audit/Audit.jsp
+06/21 13:26:58 user start [ 172.24.64.35 76302149881087791314984 ] executer: history.audit.form
+06/21 13:26:58 user end [ 172.24.64.35 76302149881087791314984 ] executer: history.audit.form elapse: 63 executer_class: history.audit.AuditExecuter sts: OK jsp: /jsp/history/audit/Audit.jsp
+06/21 13:27:00 user start [ 172.24.64.35 76302149881087791314984 ] executer: history.audit.form
+06/21 13:27:00 user end [ 172.24.64.35 76302149881087791314984 ] executer: history.audit.form elapse: 62 executer_class: history.audit.AuditExecuter sts: OK jsp: /jsp/history/audit/Audit.jsp
+06/21 13:27:04 user start [ 172.24.64.35 76302149881087791314984 ] executer: history.audit.form
+06/21 13:27:04 user end [ 172.24.64.35 76302149881087791314984 ] executer: history.audit.form elapse: 125 executer_class: history.audit.AuditExecuter sts: OK jsp: /jsp/history/audit/Audit.jsp
+06/21 13:36:03 metrics Threads(b,d,i,ttl): 0,0,0,1, Requests(hd,dl,dr): 81,0,0, Heap(fr,ttl): 27355,32640 Sessions: 3
+06/21 13:37:05 user start [ 172.24.64.35 76302149881087791314984 ] executer: history.logout
+06/21 13:37:05 user end [ 172.24.64.35 76302149881087791314984 ] executer: history.logout elapse: 0 executer_class: history.logout.LogoutExecuter sts: OK jsp: /jsp/history/logout/logout.jsp
+06/21 13:37:05 user Session 破棄: ID=76302149881087791314984
+06/21 13:37:10 user start [ 172.24.64.35 N/A ] executer: history.logout.close
+06/21 13:37:10 user end [ 172.24.64.35 N/A ] executer: history.logout.close elapse: 15 executer_class: history.logout.LogoutExecuter sts: OK jsp: /jsp/history/logout/logoutClose.jsp
+06/21 13:37:10 user Session 生成: ID=76302149881087791314984
+06/21 13:37:10 user Session 破棄: ID=76302149881087791314984
+06/21 13:46:03 metrics Threads(b,d,i,ttl): 0,0,0,1, Requests(hd,dl,dr): 4,0,0, Heap(fr,ttl): 27825,32640 Sessions: 2
+06/21 13:48:45 user Session 破棄: ID=7630784641087791523171
+06/21 13:52:36 user Session 破棄: ID=76302585821087791744812
+06/21 13:55:13 user FileServlet: destroy
+06/21 13:55:13 user HistoryServlet: destroy
+06/21 13:55:13 user Context 破棄
+06/21 13:55:19 info JRunDataSource は HISTORA という名で JNDI にバインドされました
+06/21 13:55:19 info JRun DataSourceService: HISTORA という名前の JDBC XA 接続プールを作成しました
+06/21 13:55:19 info "DefaultDataSource" からデフォルトデータソース "HISTORA" への LinkRef  をバインドしました
+06/21 13:55:19 info JRun プロキシサーバー は *:51000 上でリスン中
+06/21 13:55:19 info Web アプリケーション "GUNMA" を file:/C:/JRun4/servers/default/gunma.war からデプロイ中
+06/21 13:55:19 user JSPServlet: init
+06/21 13:55:20 user HistoryServlet: init
+06/21 13:55:20 user Context 初期化: Version=2.3
+06/21 13:55:20 user Context 初期化 ログインユーザテーブル初期化完了
+06/21 13:55:24 user start [ 172.24.91.117 N/A ] executer: history.login
+06/21 13:55:24 user Session 生成: ID=76302219681087793724843
+06/21 13:55:25 user end [ 172.24.91.117 N/A ] executer: history.login elapse: 218 executer_class: history.login.LoginExecuter sts: OK jsp: /jsp/history/menu/menu.jsp
+06/21 13:55:25 user FileServlet: init
+06/21 13:55:26 user start [ 172.24.91.117 76302219681087793724843 ] executer: history.enquirylist.form
+06/21 13:55:27 user end [ 172.24.91.117 76302219681087793724843 ] executer: history.enquirylist.form elapse: 235 executer_class: history.enquirylist.EnquirylistExecuter sts: OK jsp: /jsp/history/enquirylist/EnquiryList.jsp
+06/21 13:55:27 user start [ 172.24.91.117 76302219681087793724843 ] executer: history.enquirylist.head
+06/21 13:55:27 user end [ 172.24.91.117 76302219681087793724843 ] executer: history.enquirylist.head elapse: 47 executer_class: history.enquirylist.EnquiryListHeadExecuter sts: OK jsp: /jsp/history/enquirylist/EnquiryListHead.jsp
+06/21 13:55:27 user Errorページ開始
+06/21 13:59:37 user FileServlet: destroy
+06/21 13:59:37 user HistoryServlet: destroy
+06/21 13:59:37 user Context 破棄
+06/21 13:59:43 info JRunDataSource は HISTORA という名で JNDI にバインドされました
+06/21 13:59:43 info JRun DataSourceService: HISTORA という名前の JDBC XA 接続プールを作成しました
+06/21 13:59:43 info "DefaultDataSource" からデフォルトデータソース "HISTORA" への LinkRef  をバインドしました
+06/21 13:59:43 info JRun プロキシサーバー は *:51000 上でリスン中
+06/21 13:59:43 info Web アプリケーション "GUNMA" を file:/C:/JRun4/servers/default/gunma.war からデプロイ中
+06/21 13:59:44 user JSPServlet: init
+06/21 13:59:44 user HistoryServlet: init
+06/21 13:59:44 user Context 初期化: Version=2.3
+06/21 13:59:44 user Context 初期化 ログインユーザテーブル初期化完了
+06/21 13:59:46 user start [ 172.24.91.117 N/A ] executer: history.login
+06/21 13:59:46 user Session 生成: ID=76303447011087793986562
+06/21 13:59:46 user end [ 172.24.91.117 N/A ] executer: history.login elapse: 203 executer_class: history.login.LoginExecuter sts: OK jsp: /jsp/history/menu/menu.jsp
+06/21 13:59:47 user FileServlet: init
+06/21 13:59:49 user start [ 172.24.91.117 76303447011087793986562 ] executer: history.enquirylist.form
+06/21 13:59:49 user end [ 172.24.91.117 76303447011087793986562 ] executer: history.enquirylist.form elapse: 234 executer_class: history.enquirylist.EnquirylistExecuter sts: OK jsp: /jsp/history/enquirylist/EnquiryList.jsp
+06/21 13:59:49 user start [ 172.24.91.117 76303447011087793986562 ] executer: history.enquirylist.head
+06/21 13:59:49 user end [ 172.24.91.117 76303447011087793986562 ] executer: history.enquirylist.head elapse: 47 executer_class: history.enquirylist.EnquiryListHeadExecuter sts: OK jsp: /jsp/history/enquirylist/EnquiryListHead.jsp
+06/21 13:59:49 user Errorページ開始
+06/21 14:00:34 user start [ 172.24.91.117 N/A ] executer: history.login
+06/21 14:00:34 user Session 生成: ID=76302996291087794034937
+06/21 14:00:35 user end [ 172.24.91.117 N/A ] executer: history.login elapse: 94 executer_class: history.login.LoginExecuter sts: OK jsp: /jsp/history/menu/menu.jsp
+06/21 14:00:37 user start [ 172.24.91.117 76302996291087794034937 ] executer: history.enquirylist.form
+06/21 14:00:37 user end [ 172.24.91.117 76302996291087794034937 ] executer: history.enquirylist.form elapse: 141 executer_class: history.enquirylist.EnquirylistExecuter sts: OK jsp: /jsp/history/enquirylist/EnquiryList.jsp
+06/21 14:00:37 user start [ 172.24.91.117 76302996291087794034937 ] executer: history.enquirylist.head
+06/21 14:00:37 user end [ 172.24.91.117 76302996291087794034937 ] executer: history.enquirylist.head elapse: 46 executer_class: history.enquirylist.EnquiryListHeadExecuter sts: OK jsp: /jsp/history/enquirylist/EnquiryListHead.jsp
+06/21 14:00:37 user Errorページ開始
+06/21 14:01:16 user start [ 172.24.91.117 76302996291087794034937 ] executer: history.logout
+06/21 14:01:16 user end [ 172.24.91.117 76302996291087794034937 ] executer: history.logout elapse: 15 executer_class: history.logout.LogoutExecuter sts: OK jsp: /jsp/history/logout/logout.jsp
+06/21 14:01:16 user Session 破棄: ID=76302996291087794034937
+06/21 14:01:21 user start [ 172.24.91.117 N/A ] executer: history.logout.close
+06/21 14:01:21 user end [ 172.24.91.117 N/A ] executer: history.logout.close elapse: 16 executer_class: history.logout.LogoutExecuter sts: OK jsp: /jsp/history/logout/logoutClose.jsp
+06/21 14:01:21 user Session 生成: ID=76302996291087794034937
+06/21 14:01:21 user Session 破棄: ID=76302996291087794034937
+06/21 14:09:42 metrics Threads(b,d,i,ttl): 0,0,0,1, Requests(hd,dl,dr): 26,0,0, Heap(fr,ttl): 28679,32640 Sessions: 1
+06/21 14:15:05 user FileServlet: destroy
+06/21 14:15:05 user HistoryServlet: destroy
+06/21 14:15:05 user Context 破棄
+06/21 14:15:12 info JRunDataSource は HISTORA という名で JNDI にバインドされました
+06/21 14:15:12 info JRun DataSourceService: HISTORA という名前の JDBC XA 接続プールを作成しました
+06/21 14:15:12 info "DefaultDataSource" からデフォルトデータソース "HISTORA" への LinkRef  をバインドしました
+06/21 14:15:12 info JRun プロキシサーバー は *:51000 上でリスン中
+06/21 14:15:12 info Web アプリケーション "GUNMA" を file:/C:/JRun4/servers/default/gunma.war からデプロイ中
+06/21 14:15:12 user JSPServlet: init
+06/21 14:15:12 user HistoryServlet: init
+06/21 14:15:12 user Context 初期化: Version=2.3
+06/21 14:15:12 user Context 初期化 ログインユーザテーブル初期化完了
+06/21 14:15:19 user start [ 172.24.91.117 N/A ] executer: history.login
+06/21 14:15:19 user Session 生成: ID=76301746671087794919078
+06/21 14:15:19 user end [ 172.24.91.117 N/A ] executer: history.login elapse: 234 executer_class: history.login.LoginExecuter sts: OK jsp: /jsp/history/menu/menu.jsp
+06/21 14:15:19 user FileServlet: init
+06/21 14:15:21 user start [ 172.24.91.117 76301746671087794919078 ] executer: history.enquirylist.form
+06/21 14:15:21 user end [ 172.24.91.117 76301746671087794919078 ] executer: history.enquirylist.form elapse: 234 executer_class: history.enquirylist.EnquirylistExecuter sts: OK jsp: /jsp/history/enquirylist/EnquiryList.jsp
+06/21 14:15:22 user start [ 172.24.91.117 76301746671087794919078 ] executer: history.enquirylist.head
+06/21 14:15:22 user end [ 172.24.91.117 76301746671087794919078 ] executer: history.enquirylist.head elapse: 62 executer_class: history.enquirylist.EnquiryListHeadExecuter sts: OK jsp: /jsp/history/enquirylist/EnquiryListHead.jsp
+06/21 14:15:32 user start [ 172.24.91.117 76301746671087794919078 ] executer: history.menu.form
+06/21 14:15:32 user end [ 172.24.91.117 76301746671087794919078 ] executer: history.menu.form elapse: 31 executer_class: history.menu.MenuFormExecuter sts: OK jsp: /jsp/history/menu/menu.jsp
+06/21 14:15:41 user start [ 172.24.91.117 76301746671087794919078 ] executer: history.logout
+06/21 14:15:41 user end [ 172.24.91.117 76301746671087794919078 ] executer: history.logout elapse: 15 executer_class: history.logout.LogoutExecuter sts: OK jsp: /jsp/history/logout/logout.jsp
+06/21 14:15:41 user Session 破棄: ID=76301746671087794919078
+06/21 14:15:47 user start [ 172.24.91.117 N/A ] executer: history.logout.close
+06/21 14:15:47 user end [ 172.24.91.117 N/A ] executer: history.logout.close elapse: 15 executer_class: history.logout.LogoutExecuter sts: OK jsp: /jsp/history/logout/logoutClose.jsp
+06/21 14:15:47 user Session 生成: ID=76301746671087794919078
+06/21 14:15:47 user Session 破棄: ID=76301746671087794919078
+06/21 14:18:31 user start [ 172.24.91.117 N/A ] executer: history.login
+06/21 14:18:31 user Session 生成: ID=76302317871087795111875
+06/21 14:18:31 user end [ 172.24.91.117 N/A ] executer: history.login elapse: 93 executer_class: history.login.LoginExecuter sts: OK jsp: /jsp/history/menu/menu.jsp
+06/21 14:18:34 user start [ 172.24.91.117 76302317871087795111875 ] executer: history.enquirylist.form
+06/21 14:18:34 user end [ 172.24.91.117 76302317871087795111875 ] executer: history.enquirylist.form elapse: 125 executer_class: history.enquirylist.EnquirylistExecuter sts: OK jsp: /jsp/history/enquirylist/EnquiryList.jsp
+06/21 14:18:34 user start [ 172.24.91.117 76302317871087795111875 ] executer: history.enquirylist.head
+06/21 14:18:34 user end [ 172.24.91.117 76302317871087795111875 ] executer: history.enquirylist.head elapse: 62 executer_class: history.enquirylist.EnquiryListHeadExecuter sts: OK jsp: /jsp/history/enquirylist/EnquiryListHead.jsp
+06/21 14:19:45 user start [ 172.24.91.117 76302317871087795111875 ] executer: history.menu.form
+06/21 14:19:45 user end [ 172.24.91.117 76302317871087795111875 ] executer: history.menu.form elapse: 31 executer_class: history.menu.MenuFormExecuter sts: OK jsp: /jsp/history/menu/menu.jsp
+06/21 14:19:47 user start [ 172.24.91.117 76302317871087795111875 ] executer: history.logout
+06/21 14:19:47 user end [ 172.24.91.117 76302317871087795111875 ] executer: history.logout elapse: 0 executer_class: history.logout.LogoutExecuter sts: OK jsp: /jsp/history/logout/logout.jsp
+06/21 14:19:47 user Session 破棄: ID=76302317871087795111875
+06/21 14:19:53 user start [ 172.24.91.117 N/A ] executer: history.logout.close
+06/21 14:19:53 user end [ 172.24.91.117 N/A ] executer: history.logout.close elapse: 31 executer_class: history.logout.LogoutExecuter sts: OK jsp: /jsp/history/logout/logoutClose.jsp
+06/21 14:19:53 user Session 生成: ID=76302317871087795111875
+06/21 14:19:53 user Session 破棄: ID=76302317871087795111875
+06/21 14:21:49 user FileServlet: destroy
+06/21 14:21:49 user HistoryServlet: destroy
+06/21 14:21:49 user Context 破棄
+06/21 14:21:55 info JRunDataSource は HISTORA という名で JNDI にバインドされました
+06/21 14:21:55 info JRun DataSourceService: HISTORA という名前の JDBC XA 接続プールを作成しました
+06/21 14:21:55 info "DefaultDataSource" からデフォルトデータソース "HISTORA" への LinkRef  をバインドしました
+06/21 14:21:55 info JRun プロキシサーバー は *:51000 上でリスン中
+06/21 14:21:55 info Web アプリケーション "GUNMA" を file:/C:/JRun4/servers/default/gunma.war からデプロイ中
+06/21 14:21:55 user JSPServlet: init
+06/21 14:21:55 user HistoryServlet: init
+06/21 14:21:56 user Context 初期化: Version=2.3
+06/21 14:21:56 user Context 初期化 ログインユーザテーブル初期化完了
+06/21 14:22:36 user start [ 172.24.91.117 N/A ] executer: history.login
+06/21 14:22:36 user Session 生成: ID=7630366831087795356593
+06/21 14:22:36 user end [ 172.24.91.117 N/A ] executer: history.login elapse: 234 executer_class: history.login.LoginExecuter sts: OK jsp: /jsp/history/menu/menu.jsp
+06/21 14:22:37 user FileServlet: init
+06/21 14:22:38 user start [ 172.24.91.117 7630366831087795356593 ] executer: history.enquirylist.form
+06/21 14:22:39 user end [ 172.24.91.117 7630366831087795356593 ] executer: history.enquirylist.form elapse: 218 executer_class: history.enquirylist.EnquirylistExecuter sts: OK jsp: /jsp/history/enquirylist/EnquiryList.jsp
+06/21 14:22:39 user start [ 172.24.91.117 7630366831087795356593 ] executer: history.enquirylist.head
+06/21 14:22:39 user end [ 172.24.91.117 7630366831087795356593 ] executer: history.enquirylist.head elapse: 94 executer_class: history.enquirylist.EnquiryListHeadExecuter sts: OK jsp: /jsp/history/enquirylist/EnquiryListHead.jsp
+06/21 14:23:49 user start [ 172.24.91.117 7630366831087795356593 ] executer: history.menu.form
+06/21 14:23:49 user end [ 172.24.91.117 7630366831087795356593 ] executer: history.menu.form elapse: 31 executer_class: history.menu.MenuFormExecuter sts: OK jsp: /jsp/history/menu/menu.jsp
+06/21 14:23:55 user start [ 172.24.91.117 7630366831087795356593 ] executer: history.logout
+06/21 14:23:55 user end [ 172.24.91.117 7630366831087795356593 ] executer: history.logout elapse: 0 executer_class: history.logout.LogoutExecuter sts: OK jsp: /jsp/history/logout/logout.jsp
+06/21 14:23:55 user Session 破棄: ID=7630366831087795356593
+06/21 14:24:01 user start [ 172.24.91.117 N/A ] executer: history.logout.close
+06/21 14:24:01 user end [ 172.24.91.117 N/A ] executer: history.logout.close elapse: 15 executer_class: history.logout.LogoutExecuter sts: OK jsp: /jsp/history/logout/logoutClose.jsp
+06/21 14:24:01 user Session 生成: ID=7630366831087795356593
+06/21 14:24:01 user Session 破棄: ID=7630366831087795356593
+06/21 14:27:48 user start [ 172.24.91.117 N/A ] executer: history.login
+06/21 14:27:48 user Session 生成: ID=7630657081087795668187
+06/21 14:27:48 user end [ 172.24.91.117 N/A ] executer: history.login elapse: 109 executer_class: history.login.LoginExecuter sts: OK jsp: /jsp/history/menu/menu.jsp
+06/21 14:27:50 user start [ 172.24.91.117 7630657081087795668187 ] executer: history.enquirylist.form
+06/21 14:27:50 user end [ 172.24.91.117 7630657081087795668187 ] executer: history.enquirylist.form elapse: 125 executer_class: history.enquirylist.EnquirylistExecuter sts: OK jsp: /jsp/history/enquirylist/EnquiryList.jsp
+06/21 14:27:50 user start [ 172.24.91.117 7630657081087795668187 ] executer: history.enquirylist.head
+06/21 14:27:50 user end [ 172.24.91.117 7630657081087795668187 ] executer: history.enquirylist.head elapse: 62 executer_class: history.enquirylist.EnquiryListHeadExecuter sts: OK jsp: /jsp/history/enquirylist/EnquiryListHead.jsp
+06/21 14:27:58 user start [ 172.24.91.117 7630657081087795668187 ] executer: history.enquirylist.form
+06/21 14:27:58 user end [ 172.24.91.117 7630657081087795668187 ] executer: history.enquirylist.form elapse: 78 executer_class: history.enquirylist.EnquirylistExecuter sts: OK jsp: /jsp/history/enquirylist/EnquiryList.jsp
+06/21 14:27:58 user start [ 172.24.91.117 7630657081087795668187 ] executer: history.enquirylist.head
+06/21 14:27:58 user end [ 172.24.91.117 7630657081087795668187 ] executer: history.enquirylist.head elapse: 46 executer_class: history.enquirylist.EnquiryListHeadExecuter sts: OK jsp: /jsp/history/enquirylist/EnquiryListHead.jsp
+06/21 14:28:09 user start [ 172.24.91.117 7630657081087795668187 ] executer: history.enquirylist.form
+06/21 14:28:09 user end [ 172.24.91.117 7630657081087795668187 ] executer: history.enquirylist.form elapse: 125 executer_class: history.enquirylist.EnquirylistExecuter sts: OK jsp: /jsp/history/enquirylist/EnquiryList.jsp
+06/21 14:28:09 user start [ 172.24.91.117 7630657081087795668187 ] executer: history.enquirylist.head
+06/21 14:28:09 user end [ 172.24.91.117 7630657081087795668187 ] executer: history.enquirylist.head elapse: 63 executer_class: history.enquirylist.EnquiryListHeadExecuter sts: OK jsp: /jsp/history/enquirylist/EnquiryListHead.jsp
+06/21 14:28:17 user start [ 172.24.91.117 7630657081087795668187 ] executer: history.enquirylist.form
+06/21 14:28:17 user end [ 172.24.91.117 7630657081087795668187 ] executer: history.enquirylist.form elapse: 109 executer_class: history.enquirylist.EnquirylistExecuter sts: OK jsp: /jsp/history/enquirylist/EnquiryList.jsp
+06/21 14:28:17 user start [ 172.24.91.117 7630657081087795668187 ] executer: history.enquirylist.head
+06/21 14:28:17 user end [ 172.24.91.117 7630657081087795668187 ] executer: history.enquirylist.head elapse: 62 executer_class: history.enquirylist.EnquiryListHeadExecuter sts: OK jsp: /jsp/history/enquirylist/EnquiryListHead.jsp
+06/21 14:28:25 user start [ 172.24.91.117 7630657081087795668187 ] executer: history.enquirylist.form
+06/21 14:28:26 user end [ 172.24.91.117 7630657081087795668187 ] executer: history.enquirylist.form elapse: 109 executer_class: history.enquirylist.EnquirylistExecuter sts: OK jsp: /jsp/history/enquirylist/EnquiryList.jsp
+06/21 14:28:26 user start [ 172.24.91.117 7630657081087795668187 ] executer: history.enquirylist.head
+06/21 14:28:26 user end [ 172.24.91.117 7630657081087795668187 ] executer: history.enquirylist.head elapse: 62 executer_class: history.enquirylist.EnquiryListHeadExecuter sts: OK jsp: /jsp/history/enquirylist/EnquiryListHead.jsp
+06/21 14:28:34 user start [ 172.24.91.117 7630657081087795668187 ] executer: history.enquirylist.form
+06/21 14:28:34 user end [ 172.24.91.117 7630657081087795668187 ] executer: history.enquirylist.form elapse: 78 executer_class: history.enquirylist.EnquirylistExecuter sts: OK jsp: /jsp/history/enquirylist/EnquiryList.jsp
+06/21 14:28:34 user start [ 172.24.91.117 7630657081087795668187 ] executer: history.enquirylist.head
+06/21 14:28:34 user end [ 172.24.91.117 7630657081087795668187 ] executer: history.enquirylist.head elapse: 47 executer_class: history.enquirylist.EnquiryListHeadExecuter sts: OK jsp: /jsp/history/enquirylist/EnquiryListHead.jsp
+06/21 14:28:42 user start [ 172.24.91.117 7630657081087795668187 ] executer: history.enquirylist.form
+06/21 14:28:42 user end [ 172.24.91.117 7630657081087795668187 ] executer: history.enquirylist.form elapse: 109 executer_class: history.enquirylist.EnquirylistExecuter sts: OK jsp: /jsp/history/enquirylist/EnquiryList.jsp
+06/21 14:28:42 user start [ 172.24.91.117 7630657081087795668187 ] executer: history.enquirylist.head
+06/21 14:28:42 user end [ 172.24.91.117 7630657081087795668187 ] executer: history.enquirylist.head elapse: 62 executer_class: history.enquirylist.EnquiryListHeadExecuter sts: OK jsp: /jsp/history/enquirylist/EnquiryListHead.jsp
+06/21 14:28:53 user start [ 172.24.91.117 7630657081087795668187 ] executer: history.enquirylist.form
+06/21 14:28:53 user end [ 172.24.91.117 7630657081087795668187 ] executer: history.enquirylist.form elapse: 109 executer_class: history.enquirylist.EnquirylistExecuter sts: OK jsp: /jsp/history/enquirylist/EnquiryList.jsp
+06/21 14:28:53 user start [ 172.24.91.117 7630657081087795668187 ] executer: history.enquirylist.head
+06/21 14:28:53 user end [ 172.24.91.117 7630657081087795668187 ] executer: history.enquirylist.head elapse: 62 executer_class: history.enquirylist.EnquiryListHeadExecuter sts: OK jsp: /jsp/history/enquirylist/EnquiryListHead.jsp
+06/21 14:29:00 user start [ 172.24.91.117 7630657081087795668187 ] executer: history.enquirylist.form
+06/21 14:29:00 user end [ 172.24.91.117 7630657081087795668187 ] executer: history.enquirylist.form elapse: 125 executer_class: history.enquirylist.EnquirylistExecuter sts: OK jsp: /jsp/history/enquirylist/EnquiryList.jsp
+06/21 14:29:00 user start [ 172.24.91.117 7630657081087795668187 ] executer: history.enquirylist.head
+06/21 14:29:00 user end [ 172.24.91.117 7630657081087795668187 ] executer: history.enquirylist.head elapse: 46 executer_class: history.enquirylist.EnquiryListHeadExecuter sts: OK jsp: /jsp/history/enquirylist/EnquiryListHead.jsp

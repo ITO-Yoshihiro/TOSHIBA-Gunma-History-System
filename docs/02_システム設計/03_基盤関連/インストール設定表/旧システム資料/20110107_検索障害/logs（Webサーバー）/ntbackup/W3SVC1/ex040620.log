@@ -1,0 +1,5 @@
+#Software: Microsoft Internet Information Services 5.0
+#Version: 1.0
+#Date: 2004-06-20 13:27:41
+#Fields: date time c-ip cs-method cs-uri-stem cs-uri-query sc-status sc-win32-status 
+2004-06-20 13:27:41 172.24.64.34 GET /gunma/script/history/common/funckey.js - 304 0

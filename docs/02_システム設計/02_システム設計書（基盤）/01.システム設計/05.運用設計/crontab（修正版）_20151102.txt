@@ -1,0 +1,154 @@
+#ident	"@(#)root	1.21	04/03/23 SMI"
+#
+# The root crontab should be used to perform accounting data collection.
+#
+#
+10 3 * * * /usr/sbin/logadm
+15 3 * * 0 /usr/lib/fs/nfs/nfsfind
+30 3 * * * [ -x /usr/lib/gss/gsscred_clean ] && /usr/lib/gss/gsscred_clean
+#10 3 * * * /usr/lib/krb5/kprop_script ___slave_kdcs___
+
+#----------------------------------------------------------------------------#
+# 取引履歴検索システム
+#----------------------------------------------------------------------------#
+# 残高証明予約検索  2014/12/29 更新
+# 0 19 * * * su - hist -c "/export/home/hist/dbserver/COM/OutputTarget_Auto.sh" > /dev/null 2>&1
+0 19 * 2-12 * su - hist -c "/export/home/hist/dbserver/COM/OutputTarget_Auto.sh" > /dev/null 2>&1
+0 19 4-31 1 * su - hist -c "/export/home/hist/dbserver/COM/OutputTarget_Auto.sh" > /dev/null 2>&1
+
+0 19 1 1 * [ `date +\%y` -ne 15 ] && su - hist -c "/export/home/hist/dbserver/COM/OutputTarget_Auto.sh" > /dev/null 2>&1
+# 0 15 1 1 * su - hist -c "/export/home/hist/dbserver/COM/OutputTarget_Auto.sh" > /dev/null 2>&1
+
+0 19 2 1 * [ `date +\%y` -ne 15 ] && su - hist -c "/export/home/hist/dbserver/COM/OutputTarget_Auto.sh" > /dev/null 2>&1
+# 0 15 2 1 * su - hist -c "/export/home/hist/dbserver/COM/OutputTarget_Auto.sh" > /dev/null 2>&1
+
+0 19 3 1 * [ `date +\%y` -ne 15 ] && su - hist -c "/export/home/hist/dbserver/COM/OutputTarget_Auto.sh" > /dev/null 2>&1
+# 0 15 3 1 * su - hist -c "/export/home/hist/dbserver/COM/OutputTarget_Auto.sh" > /dev/null 2>&1
+
+# 残高証明結果転送  2014/12/29 更新
+# 0 21 * * * su - hist -c "/export/home/hist/dbserver/COM/MTOUT_Send.sh" > /dev/null 2>&1
+# 0 21 * * * su - hist -c "/export/home/hist/dbserver/COM/MTOUT_Send_Test.sh" > /dev/null 2>&1
+
+0 21 * 2-12 * su - hist -c "/export/home/hist/dbserver/COM/MTOUT_Send.sh" > /dev/null 2>&1
+0 21 4-31 1 * su - hist -c "/export/home/hist/dbserver/COM/MTOUT_Send.sh" > /dev/null 2>&1
+
+0 21 1 1 * [ `date +\%y` -ne 15 ] && su - hist -c "/export/home/hist/dbserver/COM/MTOUT_Send.sh" > /dev/null 2>&1
+# 0 18 1 1 * su - hist -c "/export/home/hist/dbserver/COM/MTOUT_Send.sh" > /dev/null 2>&1
+
+0 21 2 1 * [ `date +\%y` -ne 15 ] && su - hist -c "/export/home/hist/dbserver/COM/MTOUT_Send.sh" > /dev/null 2>&1
+# 0 18 2 1 * su - hist -c "/export/home/hist/dbserver/COM/MTOUT_Send.sh" > /dev/null 2>&1
+
+0 21 3 1 * [ `date +\%y` -ne 15 ] && su - hist -c "/export/home/hist/dbserver/COM/MTOUT_Send.sh" > /dev/null 2>&1
+# 0 18 3 1 * su - hist -c "/export/home/hist/dbserver/COM/MTOUT_Send.sh" > /dev/null 2>&1
+
+# 日次処理
+30 20 * * * su - hist -c "/export/home/hist/dbserver/EXE/src_DbDailyProc" > /dev/null 2>&1
+# 30 20 * 2-12 * su - hist -c "/export/home/hist/dbserver/EXE/src_DbDailyProc" > /dev/null 2>&1
+# 30 20 4-31 1 * su - hist -c "/export/home/hist/dbserver/EXE/src_DbDailyProc" > /dev/null 2>&1
+# 30 16 1 1 * su - hist -c "/export/home/hist/dbserver/EXE/src_DbDailyProc" > /dev/null 2>&1
+# 30 16 2 1 * su - hist -c "/export/home/hist/dbserver/EXE/src_DbDailyProc" > /dev/null 2>&1
+# 30 16 3 1 * su - hist -c "/export/home/hist/dbserver/EXE/src_DbDailyProc" > /dev/null 2>&1
+
+# 日次バックアップ(LTO)処理  2014/12/29 更新
+# 0 5 * * 1-6 /export/home/hist/dbserver/SYS/DailyTapeWrite.sh > /dev/null 2>&1
+# 0 5 * * 1-6 /export/home/hist/dbserver/SYS/DailyTapeWrite.sh
+0 8 * * 1-6 /export/home/hist/dbserver/SYS/DailyTapeWrite.sh
+
+# 0 8 * * 0 /export/home/hist/dbserver/SYS/DailyTapeWrite.sh > /dev/null 2>&1
+# 0 8 * * 0 /export/home/hist/dbserver/SYS/DailyTapeWrite.sh
+0 11 * * 0 /export/home/hist/dbserver/SYS/DailyTapeWrite.sh
+
+
+# 0 3 * * 1-6 /export/home/hist/dbserver/SYS/DailyTapeWrite.sh
+
+# 月次バックアップ(LTO)処理  2015/11/05 更新
+# 0 1 * * 0 /export/home/hist/dbserver/SYS/MonthlyBkUp.sh > /dev/null 2>&1
+# 0 1 * * 0 /export/home/hist/dbserver/SYS/MonthlyBkUp.sh
+0 3 * * 0 /export/home/hist/dbserver/SYS/MonthlyBkUp.sh
+
+# バックアップ終了チェック処理  2015/11/05 更新
+# 30 6 * * 0 /export/home/hist/dbserver/SYS/BackupEndCheck.ksh
+30 8 * * 0 /export/home/hist/dbserver/SYS/BackupEndCheck.ksh
+
+# ログ収集転送  2014/12/29 更新
+45 1 * * 1-6 su - hist -c "/export/home/hist/dbserver/SYS/utl_logsend.sh" > /dev/null 2>&1
+# 45 7 * * 0 su - hist -c "/export/home/hist/dbserver/SYS/utl_logsend.sh" > /dev/null 2>&1
+45 10 * * 0 su - hist -c "/export/home/hist/dbserver/SYS/utl_logsend.sh" > /dev/null 2>&1
+
+# 指定ファイル圧縮またはトレースファイル削除処理(毎月１日実行)
+0 0 1 * * su - hist -c "/export/home/hist/dbserver/COM/filecomp.sh BDUMP"
+46 1 1 * * [ `date +\%w` -ne 0 ] && su - hist -c "/export/home/hist/dbserver/COM/filecomp.sh ALERT"
+46 7 1 * * [ `date +\%w` -eq 0 ] && su - hist -c "/export/home/hist/dbserver/COM/filecomp.sh ALERT"
+0 0 1 * * su - hist -c "/export/home/hist/dbserver/COM/filecomp.sh AUDIT"
+0 0 1 * * /export/home/hist/dbserver/COM/filecomp.sh TMP
+0 0 1 * * su - hist -c "/export/home/hist/dbserver/COM/RmRecvFile.sh RCV"
+
+# ＤＩＳＫチェック
+1 * * * * /export/home/hist/dbserver/SYS/DiskStat.ksh
+
+# 監査レコードタイムスタンプ設定処理  2014/12/29 更新
+# 30 7 * * 0 su - hist -c "/export/home/hist/dbserver/SYS/Set_Arc_Timestamp.sh" > /dev/null 2>&1
+30 10 * * 0 su - hist -c "/export/home/hist/dbserver/SYS/Set_Arc_Timestamp.sh" > /dev/null 2>&1
+
+# 監査レコード削除処理
+# 0 8 * * 0 su - hist -c "/export/home/hist/dbserver/SYS/Clean_Audit_Trail.sh" > /dev/null 2>&1
+0 11 * * 0 su - hist -c "/export/home/hist/dbserver/SYS/Clean_Audit_Trail.sh" > /dev/null 2>&1
+
+
+# 統計情報の取得処理
+
+# 預金取引明細  2014/12/29 更新
+# 0 5 22-28 * * [ `date +\%w` -eq 6 ] && su - hist -c "/export/home/hist/dbserver/SYS/gather_table_stats_YK_MEISAI.sh" > /dev/null 2>&1
+0 7 1-7 * * [ `date +\%w` -eq 6 ] && su - hist -c "/export/home/hist/dbserver/SYS/gather_table_stats_YK_MEISAI.sh" > /dev/null 2>&1
+
+# 0 1 22-28 * * [ `date +\%w` -eq 1 ] && su - hist -c "/export/home/hist/dbserver/SYS/gather_index_stats_YK_MEISAI_IDX01.sh" > /dev/null 2>&1
+0 4 1-7 * * [ `date +\%w` -eq 1 ] && su - hist -c "/export/home/hist/dbserver/SYS/gather_index_stats_YK_MEISAI_IDX01.sh" > /dev/null 2>&1
+
+# 0 7 15-21 * * [ `date +\%w` -eq 0 ] && su - hist -c "/export/home/hist/dbserver/SYS/gather_index_stats_YK_MEISAI_IDX02.sh" > /dev/null 2>&1
+0 11 15-21 * * [ `date +\%w` -eq 0 ] && su - hist -c "/export/home/hist/dbserver/SYS/gather_index_stats_YK_MEISAI_IDX02.sh" > /dev/null 2>&1
+
+# 0 1 15-21 * * [ `date +\%w` -eq 1 ] && su - hist -c "/export/home/hist/dbserver/SYS/gather_index_stats_YK_MEISAI_IDX03.sh" > /dev/null 2>&1
+0 4 15-21 * * [ `date +\%w` -eq 1 ] && su - hist -c "/export/home/hist/dbserver/SYS/gather_index_stats_YK_MEISAI_IDX03.sh" > /dev/null 2>&1
+
+# 0 7 22-28 * * [ `date +\%w` -eq 0 ] && su - hist -c "/export/home/hist/dbserver/SYS/gather_index_stats_YK_MEISAI_IDX04.sh" > /dev/null 2>&1
+0 11 1-7 * * [ `date +\%w` -eq 0 ] && su - hist -c "/export/home/hist/dbserver/SYS/gather_index_stats_YK_MEISAI_IDX04.sh" > /dev/null 2>&1
+
+
+# 融資取引明細  2014/12/29 更新
+# 0 5 15-21 * * [ `date +\%w` -eq 6 ] && su - hist -c "/export/home/hist/dbserver/SYS/gather_stats_US_MEISAI.sh" > /dev/null 2>&1
+0 7 15-21 * * [ `date +\%w` -eq 6 ] && su - hist -c "/export/home/hist/dbserver/SYS/gather_stats_US_MEISAI.sh" > /dev/null 2>&1
+
+# 起算日取引明細  2014/12/29 更新
+# 0 1 15-21 * * [ `date +\%w` -eq 1 ] && su - hist -c "/export/home/hist/dbserver/SYS/gather_stats_YK_KISAN.sh" > /dev/null 2>&1
+0 4 15-21 * * [ `date +\%w` -eq 1 ] && su - hist -c "/export/home/hist/dbserver/SYS/gather_stats_YK_KISAN.sh" > /dev/null 2>&1
+
+# 顧客変更履歴情報  2014/12/29 更新
+# 0 1 22-28 * * [ `date +\%w` -eq 1 ] && su - hist -c "/export/home/hist/dbserver/SYS/gather_stats_KK_RIREKI.sh" > /dev/null 2>&1
+0 4 1-7 * * [ `date +\%w` -eq 1 ] && su - hist -c "/export/home/hist/dbserver/SYS/gather_stats_KK_RIREKI.sh" > /dev/null 2>&1
+
+# 顧客情報  2014/12/29 更新
+# 0 1 15-21 * * [ `date +\%w` -eq 1 ] && su - hist -c "/export/home/hist/dbserver/SYS/gather_stats_KK_JOHO.sh" > /dev/null 2>&1
+0 4 15-21 * * [ `date +\%w` -eq 1 ] && su - hist -c "/export/home/hist/dbserver/SYS/gather_stats_KK_JOHO.sh" > /dev/null 2>&1
+
+# 移管顧客情報  2014/12/29 更新
+# 0 3 15-21 * * [ `date +\%w` -eq 1 ] && su - hist -c "/export/home/hist/dbserver/SYS/gather_stats_IKAN_KK_JOHO.sh" > /dev/null 2>&1
+0 6 15-21 * * [ `date +\%w` -eq 1 ] && su - hist -c "/export/home/hist/dbserver/SYS/gather_stats_IKAN_KK_JOHO.sh" > /dev/null 2>&1
+
+# 預金残高明細  2014/12/29 更新
+# 0 5 15-21 4,10 * [ `date +\%w` -eq 6 ] && su - hist -c "/export/home/hist/dbserver/SYS/gather_stats_YK_ZAN.sh" > /dev/null 2>&1
+0 7 15-21 4,10 * [ `date +\%w` -eq 6 ] && su - hist -c "/export/home/hist/dbserver/SYS/gather_stats_YK_ZAN.sh" > /dev/null 2>&1
+
+# 融資残高明細  2014/12/29 更新
+# 0 5 22-28 4,10 * [ `date +\%w` -eq 6 ] && su - hist -c "/export/home/hist/dbserver/SYS/gather_stats_US_ZAN.sh" > /dev/null 2>&1
+0 7 22-28 4,10 * [ `date +\%w` -eq 6 ] && su - hist -c "/export/home/hist/dbserver/SYS/gather_stats_US_ZAN.sh" > /dev/null 2>&1
+
+# 預金取引明細（臨時）
+# 0 5 12 5 * su - hist -c "/export/home/hist/work/suv/20120511/gather_index_stats_YK_MEISAI_IDX04.sh" > /dev/null 2>&1
+
+
+# 移行実施
+# 0 5 9 4 * su - oracle -c "/data01/oracle/admin/scripts/work/YK_MEISAI_IKO/Insert_YK_MEISAI_TRHIST00_201204.sh" > /dev/null 2>&1
+# 0 5 3 3 * su - oracle -c "/export/home/hist/work/suv/YK_MEISAI_IDX03.sh" > /dev/null 2>&1
+
+# リストア後のマウント処理
+# 0 4 3 3 * /export/home/hist/ADMIN/HistStart_For_Restore_option_f.sh
